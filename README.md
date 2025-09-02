@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=hello, i am amit dutta;welcome to my github profile" alt="Typing SVG" />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/notamitgamer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notamitgamer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notamitgamer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notamitgamer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitdutta4255@gmail.com) 
