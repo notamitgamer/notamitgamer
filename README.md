@@ -1,7 +1,9 @@
-![programmer error gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RjYWs3NTVmZThnNGRqYjR4cG9nNXRpZWlzZzRrcm11c3ZzdjBqNCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/kFgzX7sWvWdM4Xq06W/giphy.gif)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hello%2C+I+am+Amit+Dutta;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="giphy-unscreen.gif" alt="Coding Animation" width="300" />
+  <img src="giphy-unscreen2.gif" alt="Second Animation" width="300" />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/notamitgamer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notamitgamer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notamitgamer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notamitgamer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitdutta4255@gmail.com) 
