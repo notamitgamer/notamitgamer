@@ -1,3 +1,5 @@
+![programmer error gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RjYWs3NTVmZThnNGRqYjR4cG9nNXRpZWlzZzRrcm11c3ZzdjBqNCZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/kFgzX7sWvWdM4Xq06W/giphy.gif)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hello%2C+I+am+Amit+Dutta;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 
