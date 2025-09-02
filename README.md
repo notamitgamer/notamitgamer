@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hello%2C+I+am+Amit+Dutta;Welcome+to+my+GitHub+Profile;Do+not+copy+my+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hello%2C+I+am+Amit+Dutta;Welcome+to+my+GitHub+Profile](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
