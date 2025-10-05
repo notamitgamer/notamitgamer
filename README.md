@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="giphy-unscreen.gif" alt="Coding Animation" width="300" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hello%2C+I+am+Amit+Dutta;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+<image align="center" src="banner.png">
 
 
 ## 🌐 Socials:
@@ -26,6 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notamitgamer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
+  <img src="giphy-unscreen.gif" alt="first Animation" width="300" />
   <img src="giphy-unscreen2.gif" alt="Second Animation" width="300" />
 </p>
 
