@@ -17,7 +17,6 @@
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=notamitgamer&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=notamitgamer&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notamitgamer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
