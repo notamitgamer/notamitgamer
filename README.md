@@ -1,6 +1,6 @@
 <image align="center" src="bannerm.png">
 
-
+---
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=Google-chrome&logoColor=white)](https://aranag.site) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/notamitgamer) [![Google Play](https://img.shields.io/badge/Google%20Play-4885E4?style=flat&logo=google-play&logoColor=white)](https://my.play/notamitgamer) [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/notamitgamer) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/notamitgamer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notamitgamer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notamitgamer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notamitgamer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitdutta4255@gmail.com)
 
