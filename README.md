@@ -1,4 +1,4 @@
-<image align="center" src="bannerm.png">
+<image align="center" src="bannergithub.png">
 
 ---
 ## 🌐 Socials:
