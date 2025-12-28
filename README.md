@@ -1,6 +1,14 @@
 <image align="center" src="banner-m.png">
+  
+---
+
+<p align="center">
+  <a href="https://aranag.site"><img src="https://img.shields.io/badge/Website-aranag.site-blue?style=for-the-badge"></a>
+  <a href="https://github.com/notamitgamer"><img src="https://img.shields.io/badge/GitHub-notamitgamer-black?style=for-the-badge"></a>
+</p>
 
 ---
+
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=Google-chrome&logoColor=white)](https://aranag.site) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/notamitgamer) [![Google Play](https://img.shields.io/badge/Google%20Play-4885E4?style=flat&logo=google-play&logoColor=white)](https://my.play/notamitgamer) 
@@ -29,8 +37,9 @@
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=notamitgamer&theme=radical&hide_border=false)<br/>
+
+## 🔥 GitHub Streak :
+![](https://nirzak-streak-stats.vercel.app/?user=notamitgamer&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notamitgamer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
