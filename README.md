@@ -46,6 +46,3 @@
   <img src="giphy-unscreen.gif" alt="first Animation" width="300" />
   <img src="giphy-unscreen2.gif" alt="Second Animation" width="300" />
 </p>
-
----
-[![](https://visitcount.itsvg.in/api?id=notamitgamer&icon=0&color=0)](https://visitcount.itsvg.in)
