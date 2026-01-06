@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://aranag.site"><img src="https://img.shields.io/badge/Website-aranag.site-blue?style=for-the-badge"></a>
   <a href="https://github.com/notamitgamer"><img src="https://img.shields.io/badge/GitHub-notamitgamer-black?style=for-the-badge"></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=notamitgamer&style=for-the-badge&color=blue" alt="Profile Views">
 </p>
 
 ---
