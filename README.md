@@ -8,6 +8,11 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=notamitgamer&style=for-the-badge&color=blue" alt="Profile Views">
 </p>
+<div align="center">
+  <a href="https://amit.is-a.dev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=BEF264&center=true&vCenter=true&width=435&lines=%2F%2F+SYSTEM+ONLINE+.+.+.;%2F%2F+INITIALIZING+CORE+MODULES+.+.+.;%2F%2F+WELCOME+USER" alt="System Online" />
+  </a>
+</div>
 
 ---
 ### Latest Project: 
@@ -43,6 +48,64 @@
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=BEF264&center=true&vCenter=true&width=600&lines=02+%2F%2F+SELECTED+WORKS+.+.+.;PROJECT+PROTOCOL+INITIATED" alt="Selected Works" />
+  <br>
+</div>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🔢 Interactive Calculator</h3>
+      <p>Responsive number system converter handling Binary, Decimal, Octal, and Hex.</p>
+      <a href="https://amit.is-a.dev/codenct">
+        <img src="https://img.shields.io/badge/INITIATE-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Initiate">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3>📦 ADPKG Library</h3>
+      <p>Python toolkit for complex math: compound interest, matrices, and stats.</p>
+      <a href="https://pypi.org/project/adpkg/">
+          <img src="https://img.shields.io/badge/PIP_INSTALL-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Pip Install">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3>⚡ Compiler</h3>
+      <p>Online compiler powered by Render Backend. Supports C, C++, and Python.</p>
+      <a href="https://compiler.amit.is-a.dev">
+          <img src="https://img.shields.io/badge/COMPILE-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Compile">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <h3>📚 WBSU Repository</h3>
+      <p>Complete collection of B.Sc. Hons Computer Science practical codes.</p>
+      <a href="https://amit.is-a.dev/bsc">
+        <img src="https://img.shields.io/badge/LIVE_SITE-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Live Site">
+      </a> 
+      <a href="https://github.com/notamitgamer/bsc">
+        <img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logoColor=black&labelColor=101010" alt="GitHub">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3>🧠 Project ADA</h3>
+      <p>Custom trained deep learning model optimized for high accuracy performance.</p>
+      <a href="https://ada.amit.is-a.dev">
+        <img src="https://img.shields.io/badge/DEMO-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Demo">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3>⚖️ ESAL-1.0 License</h3>
+      <p>Educational Source-Available License with strict Anti-Plagiarism Clause.</p>
+      <a href="https://esal.amit.is-a.dev">
+        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🔥 GitHub Streak :
 ![](https://nirzak-streak-stats.vercel.app/?user=notamitgamer&theme=tokyonight&hide_border=false)<br/>
