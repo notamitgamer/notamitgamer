@@ -18,7 +18,8 @@
 ### Latest Project: 
 
 <a href="https://compiler.amit.is-a.dev"><img width="683" height="675" alt="compiler.amit.is-a.dev" src="https://github.com/user-attachments/assets/75fdb21f-d5fb-4c51-9b56-ed3c159c58fc" /></a>
-
+<a href="https://ada.amit.is-a.dev"><img width="683" height="675" alt="screencapture-file-C-Users-PC-Downloads-poster-html-2026-01-19-22_05_09" src="https://github.com/user-attachments/assets/a21e844c-c498-4f37-a4c5-5173c7ac23aa" />
+</a>
 ---
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=Google-chrome&logoColor=white)](https://amit.is-a.dev) 
