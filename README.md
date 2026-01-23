@@ -110,9 +110,10 @@
 
 ## 📊 My GitHub Stats
 
-| GitHub Streak Stats | Top Languages |
-| :---: | :---: |
-| [![GitHub Streak](https://github-readme-streak-stats-y6oe.onrender.com/?user=notamitgamer&theme=tokyonight&hide_border=false)](https://github.com/DenverCoder1/github-readme-streak-stats) | [![Top Langs](https://github-readme-stats-rho-two-71.vercel.app/api/top-langs/?username=notamitgamer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+<p align="center">
+  <img src="https://github-readme-streak-stats-y6oe.onrender.com/?user=notamitgamer&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-rho-two-71.vercel.app/api/top-langs/?username=notamitgamer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="giphy-unscreen.gif" alt="first Animation" width="300" />
