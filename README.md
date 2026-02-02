@@ -111,7 +111,7 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=notamitgamer&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=notamitgamer" alt="GitHub Streak" />
   <img src="https://github-readme-stats-rho-two-71.vercel.app/api/top-langs/?username=notamitgamer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
