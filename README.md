@@ -16,14 +16,14 @@
 
 ---
 
-## 🌐 Socials:
+## Socials:
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=Google-chrome&logoColor=white)](https://amit.is-a.dev) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/notamitgamer) [![Google Play](https://img.shields.io/badge/Google%20Play-4885E4?style=flat&logo=google-play&logoColor=white)](https://my.play/notamitgamer) 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/notamitgamer) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/notamitgamer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notamitgamer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notamitgamer) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notamitgamer) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitdutta4255@gmail.com)
 
-# 💻 Tech Stack:
+# Tech Stack:
 #### Primary Development Languages : 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -123,10 +123,9 @@
 
 > ### * Project is still in progress.
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=notamitgamer&hide_border=true&background=45%2CFF16CB%2C849AFF)
-
+<p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app?user=notamitgamer&theme=ayu-mirage&hide_border=true&border_radius=50&background=00000000" alt="GitHub Streak"></p>
 
 <p align="center">
   <img src="giphy-unscreen.gif" alt="first Animation" width="300" />
