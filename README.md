@@ -54,21 +54,21 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🔢 Interactive Calculator</h3>
+      <h3>Interactive Calculator</h3>
       <p>Responsive number system converter handling Binary, Decimal, Octal, and Hex.</p>
       <a href="https://amit.is-a.dev/codenct">
-        <img src="https://img.shields.io/badge/INITIATE-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Initiate">
+        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="read docs">
       </a>
     </td>
     <td width="33%" align="center">
-      <h3>📦 ADPKG Library</h3>
+      <h3>ADPKG Library</h3>
       <p>Python toolkit for complex math: compound interest, matrices, and stats.</p>
       <a href="https://pypi.org/project/adpkg/">
-          <img src="https://img.shields.io/badge/PIP_INSTALL-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Pip Install">
+          <img src="https://img.shields.io/badge/PYPI-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="pypi">
       </a>
     </td>
     <td width="33%" align="center">
-      <h3>⚡ Compiler</h3>
+      <h3>Compiler*</h3>
       <p>Online compiler powered by Render Backend. Supports C, C++, and Python.</p>
       <a href="https://compiler.amit.is-a.dev">
           <img src="https://img.shields.io/badge/COMPILE-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Compile">
@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td width="33%" align="center">
-      <h3>📚 WBSU Repository</h3>
+      <h3>WBSU Repository*</h3>
       <p>Complete collection of B.Sc. Hons Computer Science practical codes.</p>
       <a href="https://amit.is-a.dev/bsc">
         <img src="https://img.shields.io/badge/LIVE_SITE-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Live Site">
@@ -87,14 +87,14 @@
       </a>
     </td>
     <td width="33%" align="center">
-      <h3>🧠 Project ADA</h3>
+      <h3>Project ADA</h3>
       <p>Custom trained deep learning model optimized for high accuracy performance.</p>
       <a href="https://ada.amit.is-a.dev">
         <img src="https://img.shields.io/badge/DEMO-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Demo">
       </a>
     </td>
     <td width="33%" align="center">
-      <h3>⚖️ ESAL-1.0 License</h3>
+      <h3>ESAL-1.0 License</h3>
       <p>Educational Source-Available License with strict Anti-Plagiarism Clause.</p>
       <a href="https://esal.amit.is-a.dev">
         <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
@@ -102,6 +102,26 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Mojic*</h3>
+      <p>A versatile NPM package for seamless text and emoji processing integration in JavaScript projects.</p>
+      <a href="https://amit.is-a.dev/mojicDocs">
+        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>Githrun*</h3>
+      <p>Python CLI to run, install, and explore GitHub scripts instantly without cloning.</p>
+      <a href="https://amit.is-a.dev/githrun">
+        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
+      </a>
+    </td>
+  </tr>
+</table>
+
+> ### * Project is still in progress.
 
 ## 📊 My GitHub Stats
 
