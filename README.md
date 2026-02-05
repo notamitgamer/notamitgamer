@@ -110,10 +110,7 @@
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=notamitgamer" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-rho-two-71.vercel.app/api/top-langs/?username=notamitgamer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=notamitgamer&hide_border=true&background=45%2CFF16CB%2C849AFF)
 
 
 <p align="center">
