@@ -54,7 +54,7 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>Interactive Calculator</h3>
+      <h3>Interactive Calculator First Edition</h3>
       <p>Responsive number system converter handling Binary, Decimal, Octal, and Hex.</p>
       <a href="https://amit.is-a.dev/codenct">
         <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="read docs">
@@ -101,21 +101,26 @@
       </a>
     </td>
   </tr>
-</table>
-<table>
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>Mojic*</h3>
       <p>A versatile NPM package for seamless text and emoji processing integration in JavaScript projects.</p>
       <a href="https://amit.is-a.dev/mojicDocs">
         <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>Githrun*</h3>
       <p>Python CLI to run, install, and explore GitHub scripts instantly without cloning.</p>
       <a href="https://amit.is-a.dev/githrun">
         <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3>Interactive Calculator legacy Edition*</h3>
+      <p>Responsive number system converter handling Binary, Decimal, Octal, and Hex.</p>
+      <a href="https://amit.is-a.dev/nct-legacy">
+        <img src="https://img.shields.io/badge/DEMO-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Demo">
       </a>
     </td>
   </tr>
