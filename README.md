@@ -10,7 +10,7 @@
 </p>
 <div align="center">
   <a href="https://amit.is-a.dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=BEF264&center=true&vCenter=true&width=435&lines=%2F%2F+SYSTEM+ONLINE+.+.+.;%2F%2F+INITIALIZING+CORE+MODULES+.+.+.;%2F%2F+WELCOME+USER" alt="System Online" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=BEF264&center=true&vCenter=true&width=435&lines=%2F%2F+SYSTEM+ONLINE+.+.+.;%2F%2F+INITIALIZING+CORE+MODULES+.+.+.;%2F%2F+WELCOME+VISITOR" alt="System Online" />
   </a>
 </div>
 
