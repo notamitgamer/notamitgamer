@@ -87,7 +87,7 @@
       </a>
     </td>
     <td width="33%" align="center">
-      <h3>Project ADA</h3>
+      <h3>Project ADA*</h3>
       <p>Custom trained deep learning model optimized for high accuracy performance.</p>
       <a href="https://ada.amit.is-a.dev">
         <img src="https://img.shields.io/badge/DEMO-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Demo">
@@ -110,17 +110,29 @@
       </a>
     </td>
     <td width="33%" align="center">
-      <h3>Githrun*</h3>
+      <h3>Githrun</h3>
       <p>Python CLI to run, install, and explore GitHub scripts instantly without cloning.</p>
       <a href="https://amit.is-a.dev/githrun">
         <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
       </a>
     </td>
     <td width="33%" align="center">
-      <h3>Interactive Calculator legacy Edition*</h3>
+      <h3>Interactive Calculator legacy Edition</h3>
       <p>Responsive number system converter handling Binary, Decimal, Octal, and Hex.</p>
       <a href="https://amit.is-a.dev/nct-legacy">
         <img src="https://img.shields.io/badge/DEMO-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Demo">
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="100%" align="center">
+      <h3>WhatsApp Logger (Self-Hosted)*</h3>
+      <p>A privacy-first, self-hosted archive for WhatsApp conversations.</p>
+      <p>WhatsApp Logger is a "Companion Device" that runs in the cloud. It connects to your WhatsApp account just like WhatsApp Web, but instead of just displaying messages, it <strong>saves them permanently</strong> to your private database.</p>
+      <a href="https://amit.is-a.dev/logger">
+        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
       </a>
     </td>
   </tr>
