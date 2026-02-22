@@ -53,16 +53,19 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
       subject: subject
     };
 
-    if (emailData.html) {
+    const hasHtml = emailData.html && emailData.html.trim().length > 0;
+    const hasText = emailData.text && emailData.text.trim().length > 0;
+
+    if (hasHtml) {
       payload.html = emailData.html;
     }
     
-    if (emailData.text) {
+    if (hasText) {
       payload.text = emailData.text;
     }
 
-    if (!emailData.html && !emailData.text) {
-      payload.text = 'No content found in the original email.';
+    if (!hasHtml && !hasText) {
+      payload.text = "DIAGNOSTIC MODE: No body found. Here is exactly what Resend saw:\n\n" + JSON.stringify(emailData, null, 2);
     }
 
     const { data, error } = await resend.emails.send(payload);
