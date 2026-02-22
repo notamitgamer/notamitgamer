@@ -15,10 +15,13 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-Live_Status-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord Status" />
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/1274721760088166495">
-    <img src="https://lanyard.cnrad.dev/api/1274721760088166495" alt="Discord Status" />
+    <img src="https://lanyard.cnrad.dev/api/1274721760088166495?idleMessage=Just%20Chillin'%20%F0%9F%A7%8A" />
   </a>
 </p>
 
