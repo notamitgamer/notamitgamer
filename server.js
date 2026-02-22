@@ -43,6 +43,26 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
       return res.status(200).json({ success: true, message: 'Alias ignored' });
     }
 
+    // --- NEW FALLBACK LOGIC ---
+    // If Resend's webhook drops the body, we actively fetch it from their API
+    let htmlBody = emailData.html;
+    let textBody = emailData.text;
+
+    if (!htmlBody && !textBody && emailData.email_id) {
+      try {
+        console.log(`Body missing in webhook. Fetching email ${emailData.email_id} via API...`);
+        const fetchedResponse = await resend.emails.get(emailData.email_id);
+        
+        if (fetchedResponse && fetchedResponse.data) {
+          htmlBody = fetchedResponse.data.html;
+          textBody = fetchedResponse.data.text;
+        }
+      } catch (fetchError) {
+        console.error("Could not fetch email explicitly:", fetchError.message);
+      }
+    }
+    // ---------------------------
+
     const personalGmail = process.env.PERSONAL_GMAIL; 
     const forwardingAddress = process.env.FORWARDING_BOT_ADDRESS; 
 
@@ -53,19 +73,21 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
       subject: subject
     };
 
-    const hasHtml = emailData.html && emailData.html.trim().length > 0;
-    const hasText = emailData.text && emailData.text.trim().length > 0;
+    const hasHtml = htmlBody && htmlBody.trim().length > 0;
+    const hasText = textBody && textBody.trim().length > 0;
 
     if (hasHtml) {
-      payload.html = emailData.html;
+      payload.html = htmlBody;
     }
     
     if (hasText) {
-      payload.text = emailData.text;
+      payload.text = textBody;
     }
 
     if (!hasHtml && !hasText) {
-      payload.text = "DIAGNOSTIC MODE: No body found. Here is exactly what Resend saw:\n\n" + JSON.stringify(emailData, null, 2);
+      payload.text = "DIAGNOSTIC MODE: Resend's Webhook AND API failed to return any text or HTML for this email.\n\n" +
+                     "If this continues happening with standard Gmail messages, Resend's inbound parser may be dropping your text.\n\n" +
+                     "Raw Webhook Data:\n" + JSON.stringify(emailData, null, 2);
     }
 
     const { data, error } = await resend.emails.send(payload);
