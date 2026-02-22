@@ -51,7 +51,9 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
     if (!htmlBody && !textBody && emailData.email_id) {
       try {
         console.log(`Body missing in webhook. Fetching email ${emailData.email_id} via API...`);
-        const fetchedResponse = await resend.emails.get(emailData.email_id);
+        
+        // FIX: Use 'receiving.get' instead of 'get' for fetching inbound emails
+        const fetchedResponse = await resend.emails.receiving.get(emailData.email_id); 
         
         if (fetchedResponse && fetchedResponse.data) {
           htmlBody = fetchedResponse.data.html;
@@ -69,7 +71,7 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
     const payload = {
       from: `Forwarder <${forwardingAddress}>`,
       to: [personalGmail],
-      replyTo: originalSender, 
+      reply_to: originalSender, // FIX: Strictly match Resend API property name
       subject: subject
     };
 
