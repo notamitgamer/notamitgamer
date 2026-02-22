@@ -44,23 +44,30 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
     }
 
     // --- NEW FALLBACK LOGIC ---
-    // If Resend's webhook drops the body, we actively fetch it from their API
     let htmlBody = emailData.html;
     let textBody = emailData.text;
 
     if (!htmlBody && !textBody && emailData.email_id) {
       try {
-        console.log(`Body missing in webhook. Fetching email ${emailData.email_id} via API...`);
+        console.log(`Body missing in webhook. Waiting 2 seconds for Resend DB sync...`);
         
-        // FIX: Use 'receiving.get' instead of 'get' for fetching inbound emails
-        const fetchedResponse = await resend.emails.receiving.get(emailData.email_id); 
+        // Fix: Add a 2-second delay to overcome Resend's eventual consistency (race condition)
+        await new Promise(resolve => setTimeout(resolve, 2000));
         
-        if (fetchedResponse && fetchedResponse.data) {
-          htmlBody = fetchedResponse.data.html;
-          textBody = fetchedResponse.data.text;
+        console.log(`Fetching email ${emailData.email_id} via API...`);
+        
+        // Fix: Correct SDK method and proper destructuring
+        const { data: fetchedEmail, error: fetchError } = await resend.emails.get(emailData.email_id); 
+        
+        if (fetchError) {
+          console.error("API Error explicitly fetching email:", fetchError);
+        } else if (fetchedEmail) {
+          htmlBody = fetchedEmail.html;
+          textBody = fetchedEmail.text;
+          console.log("Successfully recovered email body from API.");
         }
-      } catch (fetchError) {
-        console.error("Could not fetch email explicitly:", fetchError.message);
+      } catch (fetchException) {
+        console.error("Exception fetching email explicitly:", fetchException.message);
       }
     }
     // ---------------------------
@@ -71,7 +78,7 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
     const payload = {
       from: `Forwarder <${forwardingAddress}>`,
       to: [personalGmail],
-      reply_to: originalSender, // FIX: Strictly match Resend API property name
+      reply_to: originalSender, 
       subject: subject
     };
 
@@ -86,10 +93,12 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
       payload.text = textBody;
     }
 
+    // Cleaner fallback if it still can't find the body
     if (!hasHtml && !hasText) {
-      payload.text = "DIAGNOSTIC MODE: Resend's Webhook AND API failed to return any text or HTML for this email.\n\n" +
-                     "If this continues happening with standard Gmail messages, Resend's inbound parser may be dropping your text.\n\n" +
-                     "Raw Webhook Data:\n" + JSON.stringify(emailData, null, 2);
+      payload.text = `Email body was missing from the webhook and could not be fetched from the Resend API.\n\n` +
+                     `Sender: ${originalSender}\n` +
+                     `You can view this email directly in your Resend Dashboard:\n` +
+                     `https://resend.com/emails/${emailData.email_id}`;
     }
 
     const { data, error } = await resend.emails.send(payload);
