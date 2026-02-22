@@ -43,63 +43,149 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
       return res.status(200).json({ success: true, message: 'Alias ignored' });
     }
 
-    // --- NEW FALLBACK LOGIC ---
-    let htmlBody = emailData.html;
-    let textBody = emailData.text;
-
-    if (!htmlBody && !textBody && emailData.email_id) {
-      try {
-        console.log(`Body missing in webhook. Waiting 2 seconds for Resend DB sync...`);
-        
-        // Fix: Add a 2-second delay to overcome Resend's eventual consistency (race condition)
-        await new Promise(resolve => setTimeout(resolve, 2000));
-        
-        console.log(`Fetching email ${emailData.email_id} via API...`);
-        
-        // Fix: Correct SDK method and proper destructuring
-        const { data: fetchedEmail, error: fetchError } = await resend.emails.get(emailData.email_id); 
-        
-        if (fetchError) {
-          console.error("API Error explicitly fetching email:", fetchError);
-        } else if (fetchedEmail) {
-          htmlBody = fetchedEmail.html;
-          textBody = fetchedEmail.text;
-          console.log("Successfully recovered email body from API.");
-        }
-      } catch (fetchException) {
-        console.error("Exception fetching email explicitly:", fetchException.message);
-      }
-    }
-    // ---------------------------
-
     const personalGmail = process.env.PERSONAL_GMAIL; 
     const forwardingAddress = process.env.FORWARDING_BOT_ADDRESS; 
+
+    // HTML Template injected with real data
+    const notificationHtml = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>New Email Notification</title>
+  <!-- Fallback styles for older email clients -->
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500&family=Roboto:wght@400;500&display=swap');
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #131314;
+      font-family: 'Google Sans', Roboto, Helvetica, Arial, sans-serif;
+      color: #E3E3E3;
+      -webkit-font-smoothing: antialiased;
+    }
+  </style>
+</head>
+<body style="margin: 0; padding: 0; background-color: #131314; font-family: 'Google Sans', Roboto, Helvetica, Arial, sans-serif; color: #E3E3E3;">
+
+  <!-- Outer Wrapper to ensure dark background in all clients -->
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #131314; width: 100%; height: 100%;">
+    <tr>
+      <td align="center" style="padding: 40px 20px;">
+        
+        <!-- M3 Surface Container (The Card) -->
+        <table border="0" cellspacing="0" cellpadding="0" style="background-color: #1E1F20; border-radius: 28px; max-width: 600px; width: 100%; overflow: hidden; border: 1px solid #444746;">
+          
+          <!-- Header Area -->
+          <tr>
+            <td style="padding: 32px 32px 16px 32px;">
+              <h2 style="margin: 0; font-size: 22px; font-weight: 500; color: #E3E3E3;">Incoming Message</h2>
+              <p style="margin: 8px 0 0 0; font-size: 14px; color: #C4C7C5;">A new email has been routed to your developer inbox.</p>
+            </td>
+          </tr>
+
+          <!-- Divider -->
+          <tr>
+            <td style="padding: 0 32px;">
+              <div style="height: 1px; background-color: #444746; width: 100%; margin: 16px 0;"></div>
+            </td>
+          </tr>
+
+          <!-- Data Fields -->
+          <tr>
+            <td style="padding: 16px 32px;">
+              <!-- Field: Sender -->
+              <div style="margin-bottom: 24px;">
+                <span style="display: block; font-size: 12px; font-weight: 500; color: #A8C7FA; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px;">Sender Email ID</span>
+                <span style="display: block; font-size: 16px; color: #E3E3E3; word-break: break-all;">${originalSender}</span>
+              </div>
+
+              <!-- Field: Subject -->
+              <div style="margin-bottom: 32px;">
+                <span style="display: block; font-size: 12px; font-weight: 500; color: #A8C7FA; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px;">Subject</span>
+                <span style="display: block; font-size: 18px; color: #E3E3E3; font-weight: 500; line-height: 1.4;">${subject}</span>
+              </div>
+            </td>
+          </tr>
+
+          <!-- Action Button Area -->
+          <tr>
+            <td style="padding: 0 32px 40px 32px;">
+              <table border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td align="center" style="border-radius: 100px; background-color: #A8C7FA;">
+                    <!-- M3 Filled Button -->
+                    <a href="https://resend.com/emails/${emailData.email_id}" target="_blank" style="display: inline-block; padding: 12px 28px; font-family: 'Google Sans', Roboto, Arial, sans-serif; font-size: 14px; font-weight: 500; color: #062E6F; text-decoration: none; border-radius: 100px;">
+                      Open Resend Dashboard
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+        </table>
+
+        <!-- Footer -->
+        <table border="0" cellspacing="0" cellpadding="0" style="max-width: 600px; width: 100%; margin-top: 24px;">
+          <!-- Warning Text -->
+          <tr>
+            <td align="center" style="padding-bottom: 20px;">
+              <p style="margin: 0; font-size: 12px; color: #8E918F; line-height: 1.5;">Automated alert by Notifier Bot.<br>Please do not reply to this unmonitored email.</p>
+            </td>
+          </tr>
+          
+          <!-- Social Icons -->
+          <tr>
+            <td align="center" style="padding-bottom: 16px;">
+              <table border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td style="padding: 0 12px;">
+                    <a href="https://amit.is-a.dev" target="_blank" style="text-decoration: none;" title="Website">
+                      <img src="https://img.icons8.com/ios-filled/24/8E918F/domain.png" alt="Website" width="20" height="20" style="display: block; border: 0;">
+                    </a>
+                  </td>
+                  <td style="padding: 0 12px;">
+                    <a href="https://github.com/notamitgamer" target="_blank" style="text-decoration: none;" title="GitHub">
+                      <img src="https://img.icons8.com/ios-filled/24/8E918F/github.png" alt="GitHub" width="20" height="20" style="display: block; border: 0;">
+                    </a>
+                  </td>
+                  <td style="padding: 0 12px;">
+                    <a href="mailto:amitdutta4255@gmail.com" style="text-decoration: none;" title="Email">
+                      <img src="https://img.icons8.com/ios-filled/24/8E918F/mail.png" alt="Email" width="20" height="20" style="display: block; border: 0;">
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Copyright Text -->
+          <tr>
+            <td align="center">
+              <p style="margin: 0; font-size: 12px; color: #8E918F;">
+                &copy; 2025-2026 Amit Dutta &bull; <a href="https://amit.is-a.dev" style="color: #8E918F; text-decoration: none;">amit.is-a.dev</a>
+              </p>
+            </td>
+          </tr>
+        </table>
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
+    `;
 
     const payload = {
       from: `Forwarder <${forwardingAddress}>`,
       to: [personalGmail],
       reply_to: originalSender, 
-      subject: subject
+      subject: subject,
+      html: notificationHtml
     };
-
-    const hasHtml = htmlBody && htmlBody.trim().length > 0;
-    const hasText = textBody && textBody.trim().length > 0;
-
-    if (hasHtml) {
-      payload.html = htmlBody;
-    }
-    
-    if (hasText) {
-      payload.text = textBody;
-    }
-
-    // Cleaner fallback if it still can't find the body
-    if (!hasHtml && !hasText) {
-      payload.text = `Email body was missing from the webhook and could not be fetched from the Resend API.\n\n` +
-                     `Sender: ${originalSender}\n` +
-                     `You can view this email directly in your Resend Dashboard:\n` +
-                     `https://resend.com/emails/${emailData.email_id}`;
-    }
 
     const { data, error } = await resend.emails.send(payload);
 
