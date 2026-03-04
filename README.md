@@ -118,7 +118,7 @@
       </a>
     </td>
     <td width="33%" align="center">
-      <h3>Githrun</h3>
+      <h3>Githrun*</h3>
       <p>Python CLI to run, install, and explore GitHub scripts instantly without cloning.</p>
       <a href="https://amit.is-a.dev/githrun">
         <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
@@ -135,11 +135,22 @@
 </table>
 <table>
   <tr>
-    <td width="100%" align="center">
+    <td width="50%" align="center">
       <h3>WhatsApp Logger (Self-Hosted)*</h3>
       <p>A privacy-first, self-hosted archive for WhatsApp conversations.</p>
       <p>WhatsApp Logger is a "Companion Device" that runs in the cloud. It connects to your WhatsApp account just like WhatsApp Web, but instead of just displaying messages, it <strong>saves them permanently</strong> to your private database.</p>
       <a href="https://amit.is-a.dev/logger">
+        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>Veyrix IDE*</h3>
+      <p>Veyrix IDE is a lightweight, privacy-first PWA code editor that runs fully in your browser.</p>
+      <p>Veyrix IDE uses IndexedDB for local storage, works offline, supports real-time syntax highlighting, and offers dual sharing: compressed local URLs or secure Firebase cloud links. Built for developers who need a fast, zero-setup scratchpad anywhere.</p>
+      <a href="https://veyrix.amit.is-a.dev">
+        <img src="https://img.shields.io/badge/LIVE_SITE-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Live Site">
+      </a> 
+      <a href="https://veyrix.amit.is-a.dev/docs">
         <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
       </a>
     </td>
