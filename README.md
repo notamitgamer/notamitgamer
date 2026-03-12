@@ -159,9 +159,7 @@
 
 > ### * Project is still in progress.
 
-## My GitHub Stats
 
-<p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=notamitgamer&theme=ayu-mirage&hide_border=true&border_radius=50&background=00000000" alt="GitHub Streak"></p>
 
 <p align="center">
   <img src="giphy-unscreen.gif" alt="first Animation" width="300" />
