@@ -163,6 +163,10 @@
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=notamitgamer&theme=ayu-mirage&hide_border=true&border_radius=50&background=00000000" alt="GitHub Streak"></p>
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=notamitgamer&theme=tokyo-night&hide_border=true)](https://github.com/notamitgamer)
+[![trophy](https://trophy.ryglcloud.net/?username=notamitgamer&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-troph)
+
+
 <p align="center">
   <img src="giphy-unscreen.gif" alt="first Animation" width="300" />
   <img src="giphy-unscreen2.gif" alt="Second Animation" width="300" />
