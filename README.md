@@ -1,174 +1,192 @@
-<image align="center" src="banner-m.png">
-  
----
-
-<p align="center">
-<a href="https://amit.is-a.dev"><img src="https://img.shields.io/badge/Website-amit.is--a.dev-blue?style=for-the-badge"></a>
-  <a href="https://github.com/notamitgamer"><img src="https://img.shields.io/badge/GitHub-notamitgamer-black?style=for-the-badge"></a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=notamitgamer&style=for-the-badge&color=blue" alt="Profile Views">
-</p>
 <div align="center">
-  <a href="https://amit.is-a.dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=BEF264&center=true&vCenter=true&width=435&lines=%2F%2F+SYSTEM+ONLINE+.+.+.;%2F%2F+INITIALIZING+CORE+MODULES+.+.+.;%2F%2F+WELCOME+VISITOR" alt="System Online" />
-  </a>
+
+```
+ █████╗ ███╗   ███╗██╗████████╗    ██████╗ ██╗   ██╗████████╗████████╗ █████╗ 
+██╔══██╗████╗ ████║██║╚══██╔══╝    ██╔══██╗██║   ██║╚══██╔══╝╚══██╔══╝██╔══██╗
+███████║██╔████╔██║██║   ██║       ██║  ██║██║   ██║   ██║      ██║   ███████║
+██╔══██║██║╚██╔╝██║██║   ██║       ██║  ██║██║   ██║   ██║      ██║   ██╔══██║
+██║  ██║██║ ╚═╝ ██║██║   ██║       ██████╔╝╚██████╔╝   ██║      ██║   ██║  ██║
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝       ╚═════╝  ╚═════╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝
+```
+
+**CS Undergrad · Full Stack Developer (Maybe)**
+
+[![Website](https://img.shields.io/badge/amit.is--a.dev-000?style=flat-square&logo=google-chrome&logoColor=white)](https://amit.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:amitdutta4255@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@amit.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/notamitgamer)
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/notamitgamer)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/notamitgamer)
+[![ORCID](https://img.shields.io/badge/ORCID-000?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8834-9881)
+[![Crunchbase](https://img.shields.io/badge/Crunchbase-000?style=flat-square&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/person/amit-dutta-d32d)
+
 </div>
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-Live_Status-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord Status" />
-</p>
 
-<p align="center">
-  <a href="https://discord.com/users/1274721760088166495">
-    <img src="https://lanyard.cnrad.dev/api/1274721760088166495?idleMessage=Just%20Chillin'%20%F0%9F%A7%8A" />
-  </a>
-</p>
+### About
 
-## Socials:
-[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=Google-chrome&logoColor=white)](https://amit.is-a.dev) [![Google Play](https://img.shields.io/badge/Google%20Play-4885E4?style=flat&logo=google-play&logoColor=white)](https://my.play/notamitgamer) 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/notamitgamer) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/notamitgamer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notamitgamer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notamitgamer) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notamitgamer) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitdutta4255@gmail.com)
+B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolkata** with some programming experience. I build tools, libraries, and web utilities — mostly things I wish existed. Optimizing for stability and reputation over speed.
 
-# Tech Stack:
-#### Primary Development Languages : 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-#### Languages for Code Adaptation :
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Google Script](https://img.shields.io/badge/Google%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-#### Web Services :
-
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+-  &nbsp; 1st year · Semester 1 &nbsp;
+-  &nbsp; Currently working on — **Sem 1 exams**
+-  &nbsp; Freelance — **Unavailable**
+-  &nbsp; [More about me ↗](https://amit.is-a.dev/about) &nbsp;·&nbsp; [Google Knowledge Graph ↗](https://www.google.com/search?kgmid=/g/11yzcqs5ff)
 
 ---
+
+### Stack
+
+* **Primary:** `Python`
+* **Web & Systems:** `HTML5`, `CSS3`, `JavaScript`, `Java`, `C`, `C++`, `Kotlin`, `Google Apps Script`
+* **Services:** `Firebase`, `Firestore`, `Gemini API`, `Render`
+* **Tooling:** `Git`
+
+---
+
+### Projects
+
+<sub>**WEB APPS**</sub>
+
+<table>
+<tr>
+<td width="50%">
+
+**[Veyrix IDE](https://veyrix.amit.is-a.dev)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
+
+Browser-based PWA code editor. Offline support, real-time syntax highlighting, and dual sharing via compressed URLs or Firebase cloud links.
+
+<kbd>JavaScript</kbd> <kbd>Firebase</kbd> <kbd>PWA</kbd> <a href="https://veyrix.amit.is-a.dev"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=white" align="top"></a> <a href="https://veyrix.amit.is-a.dev/docs"><img src="https://img.shields.io/badge/Docs-000?style=flat-square&logo=readthedocs&logoColor=white" align="top"></a>
+
+</td>
+<td width="50%">
+
+**[Compiler](https://compiler.amit.is-a.dev)** <img src="https://img.shields.io/badge/WIP-f59e0b?style=flat-square" align="top">
+
+Online compiler with a Render-powered backend. Supports C, C++, and Python execution in the browser.
+
+<kbd>Python</kbd> <kbd>C/C++</kbd> <kbd>Render</kbd> <a href="https://compiler.amit.is-a.dev"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=white" align="top"></a>
+
+</td>
+</tr>
+</table>
+
+<sub>**CLI & AUTOMATION**</sub>
+
+<table>
+<tr>
+<td width="33%">
+
+**[Githrun](https://amit.is-a.dev/githrun)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
+
+Run, install, and explore GitHub scripts instantly — no cloning required.
+
+<kbd>Python</kbd> <kbd>CLI</kbd> <a href="https://amit.is-a.dev/githrun"><img src="https://img.shields.io/badge/Docs-000?style=flat-square&logo=readthedocs&logoColor=white" align="top"></a>
+
+</td>
+<td width="33%">
+
+**[WhatsApp Logger](https://amit.is-a.dev/logger)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
+
+Self-hosted companion device that connects like WhatsApp Web and permanently archives conversations to your private database.
+
+<kbd>Node.js</kbd> <kbd>Baileys</kbd> <kbd>Firestore</kbd> <a href="https://amit.is-a.dev/logger"><img src="https://img.shields.io/badge/Docs-000?style=flat-square&logo=readthedocs&logoColor=white" align="top"></a>
+
+</td>
+<td width="33%">
+
+**[Mojic](https://amit.is-a.dev/mojicDocs)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
+
+CLI-based C source code obfuscator using a 256-bit password-seeded rolling cipher.
+
+<kbd>C</kbd> <kbd>CLI</kbd> <a href="https://amit.is-a.dev/mojicDocs"><img src="https://img.shields.io/badge/Docs-000?style=flat-square&logo=readthedocs&logoColor=white" align="top"></a>
+
+</td>
+</tr>
+</table>
+
+<sub>**LIBRARIES & PACKAGES**</sub>
+
+<table>
+<tr>
+<td width="50%">
+
+**[ADPKG](https://pypi.org/project/adpkg/)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
+
+Python toolkit for complex math — compound interest, matrix operations, and statistics.
+
+<kbd>Python</kbd> <a href="https://pypi.org/project/adpkg/"><img src="https://img.shields.io/badge/PyPI-000?style=flat-square&logo=pypi&logoColor=white" align="top"></a>
+
+</td>
+</tr>
+</table>
+
+<sub>**EDUCATION & OTHER**</sub>
+
+<table>
+<tr>
+<td width="33%">
+
+**[WBSU Repository](https://amit.is-a.dev/bsc)** <img src="https://img.shields.io/badge/WIP-f59e0b?style=flat-square" align="top">
+
+Complete B.Sc. Hons CS practical code collection.
+
+<kbd>C</kbd> <kbd>Python</kbd> <a href="https://amit.is-a.dev/bsc"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=white" align="top"></a> <a href="https://github.com/notamitgamer/bsc"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white" align="top"></a>
+
+</td>
+<td width="33%">
+
+**[Project ADA](https://ada.amit.is-a.dev)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
+
+Gemini-powered AI ecosystem bridging systems programming and LLM interfaces, with a secure Render backend and Firestore storage.
+
+<kbd>Python</kbd> <kbd>Gemini API</kbd> <kbd>Firestore</kbd> <a href="https://ada.amit.is-a.dev"><img src="https://img.shields.io/badge/Demo-000?style=flat-square&logo=airplayvideo&logoColor=white" align="top"></a>
+
+</td>
+<td width="33%">
+
+**[ESAL-1.0](https://esal.amit.is-a.dev)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
+
+Educational Source-Available License with a strict Anti-Plagiarism clause.
+
+<a href="https://esal.amit.is-a.dev"><img src="https://img.shields.io/badge/Docs-000?style=flat-square&logo=readthedocs&logoColor=white" align="top"></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>+ Interactive Calculator (Legacy)</summary>
+<br>
+
+Responsive number system converter — Binary, Decimal, Octal, Hex.
+&nbsp; <a href="https://amit.is-a.dev/codenct"><img src="https://img.shields.io/badge/First_Edition-000?style=flat-square" align="top"></a>
+&nbsp; <a href="https://amit.is-a.dev/nct-legacy"><img src="https://img.shields.io/badge/Legacy_Edition-000?style=flat-square" align="top"></a>
+
+</details>
+
+---
+
+### Certifications
+
+| Certificate | Issuer | Date | ID |
+|---|---|---|---|
+| [Build a free website with WordPress](https://www.coursera.org/account/accomplishments/records/HT6XTKV390MC) | Coursera Project Network | Apr 2025 | `HT6XTKV390MC` |
+
+---
+
+### GitHub Stats
+
 <div align="center">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=BEF264&center=true&vCenter=true&width=600&lines=02+%2F%2F+SELECTED+WORKS+.+.+.;PROJECT+PROTOCOL+INITIATED" alt="Selected Works" />
-  <br>
+
+![Streak](https://streak-stats.demolab.com/?user=notamitgamer&theme=ayu-mirage&hide_border=true&background=00000000)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=notamitgamer&theme=tokyo-night&hide_border=true)
+
 </div>
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>Interactive Calculator First Edition</h3>
-      <p>Responsive number system converter handling Binary, Decimal, Octal, and Hex.</p>
-      <a href="https://amit.is-a.dev/codenct">
-        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="read docs">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>ADPKG Library</h3>
-      <p>Python toolkit for complex math: compound interest, matrices, and stats.</p>
-      <a href="https://pypi.org/project/adpkg/">
-          <img src="https://img.shields.io/badge/PYPI-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="pypi">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>Compiler*</h3>
-      <p>Online compiler powered by Render Backend. Supports C, C++, and Python.</p>
-      <a href="https://compiler.amit.is-a.dev">
-          <img src="https://img.shields.io/badge/COMPILE-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Compile">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <h3>WBSU Repository*</h3>
-      <p>Complete collection of B.Sc. Hons Computer Science practical codes.</p>
-      <a href="https://amit.is-a.dev/bsc">
-        <img src="https://img.shields.io/badge/LIVE_SITE-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Live Site">
-      </a> 
-      <a href="https://github.com/notamitgamer/bsc">
-        <img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logoColor=black&labelColor=101010" alt="GitHub">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>Project ADA*</h3>
-      <p>Custom trained deep learning model optimized for high accuracy performance.</p>
-      <a href="https://ada.amit.is-a.dev">
-        <img src="https://img.shields.io/badge/DEMO-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Demo">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>ESAL-1.0 License</h3>
-      <p>Educational Source-Available License with strict Anti-Plagiarism Clause.</p>
-      <a href="https://esal.amit.is-a.dev">
-        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <h3>Mojic*</h3>
-      <p>A versatile NPM package for seamless text and emoji processing integration in JavaScript projects.</p>
-      <a href="https://amit.is-a.dev/mojicDocs">
-        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>Githrun*</h3>
-      <p>Python CLI to run, install, and explore GitHub scripts instantly without cloning.</p>
-      <a href="https://amit.is-a.dev/githrun">
-        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>Interactive Calculator legacy Edition</h3>
-      <p>Responsive number system converter handling Binary, Decimal, Octal, and Hex.</p>
-      <a href="https://amit.is-a.dev/nct-legacy">
-        <img src="https://img.shields.io/badge/DEMO-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Demo">
-      </a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>WhatsApp Logger (Self-Hosted)*</h3>
-      <p>A privacy-first, self-hosted archive for WhatsApp conversations.</p>
-      <p>WhatsApp Logger is a "Companion Device" that runs in the cloud. It connects to your WhatsApp account just like WhatsApp Web, but instead of just displaying messages, it <strong>saves them permanently</strong> to your private database.</p>
-      <a href="https://amit.is-a.dev/logger">
-        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>Veyrix IDE*</h3>
-      <p>Veyrix IDE is a lightweight, privacy-first PWA code editor that runs fully in your browser.</p>
-      <p>Veyrix IDE uses IndexedDB for local storage, works offline, supports real-time syntax highlighting, and offers dual sharing: compressed local URLs or secure Firebase cloud links. Built for developers who need a fast, zero-setup scratchpad anywhere.</p>
-      <a href="https://veyrix.amit.is-a.dev">
-        <img src="https://img.shields.io/badge/LIVE_SITE-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Live Site">
-      </a> 
-      <a href="https://veyrix.amit.is-a.dev/docs">
-        <img src="https://img.shields.io/badge/READ_DOCS-bef264?style=for-the-badge&logoColor=black&labelColor=101010" alt="Read Docs">
-      </a>
-    </td>
-  </tr>
-</table>
 
-> ### * Project is still in progress.
- 
-## My GitHub Stats
+---
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=notamitgamer&theme=ayu-mirage&hide_border=true&border_radius=50&background=00000000" alt="GitHub Streak"></p>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=notamitgamer&theme=tokyo-night&hide_border=true)](https://github.com/notamitgamer)
-[![trophy](https://trophy.ryglcloud.net/?username=notamitgamer&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-troph)
-
-
-<p align="center">
-  <img src="giphy-unscreen.gif" alt="first Animation" width="300" />
-  <img src="giphy-unscreen2.gif" alt="Second Animation" width="300" />
-</p>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=notamitgamer&style=for-the-badge" alt="Profile Views">
+</div>
