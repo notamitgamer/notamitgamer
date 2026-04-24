@@ -12,6 +12,7 @@
 **CS Undergrad · Full Stack Developer (Maybe)**
 
 [![Website](https://img.shields.io/badge/amit.is--a.dev-000?style=flat-square&logo=google-chrome&logoColor=white)](https://amit.is-a.dev)
+[![Website](https://img.shields.io/badge/discord-000?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1274721760088166495)
 [![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:amitdutta4255@gmail.com)
 [![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@amit.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/notamitgamer)
