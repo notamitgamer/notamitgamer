@@ -57,7 +57,7 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 
 Browser-based PWA code editor. Offline support, real-time syntax highlighting, and dual sharing via compressed URLs or Firebase cloud links.
 
-<kbd>JavaScript</kbd> <kbd>Firebase</kbd> <kbd>PWA</kbd> <a href="https://veyrix.amit.is-a.dev"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=white" align="top"></a> <a href="https://veyrix.amit.is-a.dev/docs"><img src="https://img.shields.io/badge/Docs-000?style=flat-square&logo=readthedocs&logoColor=white" align="top"></a>
+<kbd>JavaScript</kbd> <kbd>Firebase</kbd> <kbd>PWA</kbd> <a href="https://veyrix.amit.is-a.dev">Live Site ↗</a>&nbsp;·&nbsp;<a href="https://veyrix.amit.is-a.dev/docs">Docs ↗</a>
 
 </td>
 <td width="50%">
