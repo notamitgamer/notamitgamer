@@ -66,7 +66,7 @@ Browser-based PWA code editor. Offline support, real-time syntax highlighting, a
 
 Online compiler with a Render-powered backend. Supports C, C++, and Python execution in the browser.
 
-<kbd>Python</kbd> <kbd>C/C++</kbd> <kbd>Render</kbd> <a href="https://compiler.amit.is-a.dev"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=white" align="top"></a>
+<kbd>Python</kbd> <kbd>C/C++</kbd> <kbd>Render</kbd> <a href="https://compiler.amit.is-a.dev">Live Site ↗</a>&nbsp;
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ Online compiler with a Render-powered backend. Supports C, C++, and Python execu
 
 Run, install, and explore GitHub scripts instantly — no cloning required.
 
-<kbd>Python</kbd> <kbd>CLI</kbd> <a href="https://amit.is-a.dev/githrun"><img src="https://img.shields.io/badge/Docs-000?style=flat-square&logo=readthedocs&logoColor=white" align="top"></a>
+<kbd>Python</kbd> <kbd>CLI</kbd> &nbsp;<a href="https://amit.is-a.dev/githrun">Docs ↗</a>
 
 </td>
 <td width="33%">
@@ -91,7 +91,7 @@ Run, install, and explore GitHub scripts instantly — no cloning required.
 
 Self-hosted companion device that connects like WhatsApp Web and permanently archives conversations to your private database.
 
-<kbd>Node.js</kbd> <kbd>Baileys</kbd> <kbd>Firestore</kbd> <a href="https://amit.is-a.dev/logger"><img src="https://img.shields.io/badge/Docs-000?style=flat-square&logo=readthedocs&logoColor=white" align="top"></a>
+<kbd>Node.js</kbd> <kbd>Baileys</kbd> <kbd>Firestore</kbd> &nbsp;<a href="https://amit.is-a.dev/logger">Docs ↗</a>
 
 </td>
 <td width="33%">
@@ -100,7 +100,7 @@ Self-hosted companion device that connects like WhatsApp Web and permanently arc
 
 CLI-based C source code obfuscator using a 256-bit password-seeded rolling cipher.
 
-<kbd>C</kbd> <kbd>CLI</kbd> <a href="https://amit.is-a.dev/mojicDocs"><img src="https://img.shields.io/badge/Docs-000?style=flat-square&logo=readthedocs&logoColor=white" align="top"></a>
+<kbd>C</kbd> <kbd>CLI</kbd> &nbsp;<a href="https://amit.is-a.dev/mojicDocs">Docs ↗</a>
 
 </td>
 </tr>
@@ -116,7 +116,7 @@ CLI-based C source code obfuscator using a 256-bit password-seeded rolling ciphe
 
 Python toolkit for complex math — compound interest, matrix operations, and statistics.
 
-<kbd>Python</kbd> <a href="https://pypi.org/project/adpkg/"><img src="https://img.shields.io/badge/PyPI-000?style=flat-square&logo=pypi&logoColor=white" align="top"></a>
+<kbd>Python</kbd> &nbsp;<a href="https://pypi.org/project/adpkg/">PyPI ↗</a>
 
 </td>
 </tr>
@@ -128,11 +128,11 @@ Python toolkit for complex math — compound interest, matrix operations, and st
 <tr>
 <td width="33%">
 
-**[WBSU Repository](https://amit.is-a.dev/bsc)** <img src="https://img.shields.io/badge/WIP-f59e0b?style=flat-square" align="top">
+**[WBSU Repository](https://amit.is-a.dev/bsc)** <img src="https://img.shields.io/badge/WIP-f59e0b?style=flat-square" align="top"> 
 
 Complete B.Sc. Hons CS practical code collection.
 
-<kbd>C</kbd> <kbd>Python</kbd> <a href="https://amit.is-a.dev/bsc"><img src="https://img.shields.io/badge/Live_Site-000?style=flat-square&logo=vercel&logoColor=white" align="top"></a> <a href="https://github.com/notamitgamer/bsc"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white" align="top"></a>
+<kbd>C</kbd> <kbd>Python</kbd> &nbsp;<a href="https://amit.is-a.dev/bsc">Live ↗</a> · &nbsp;<a href="https://github.com/notamitgamer/bs">Github ↗</a>
 
 </td>
 <td width="33%">
@@ -141,7 +141,7 @@ Complete B.Sc. Hons CS practical code collection.
 
 Gemini-powered AI ecosystem bridging systems programming and LLM interfaces, with a secure Render backend and Firestore storage.
 
-<kbd>Python</kbd> <kbd>Gemini API</kbd> <kbd>Firestore</kbd> <a href="https://ada.amit.is-a.dev"><img src="https://img.shields.io/badge/Demo-000?style=flat-square&logo=airplayvideo&logoColor=white" align="top"></a>
+<kbd>Python</kbd> <kbd>Gemini API</kbd> <kbd>Firestore</kbd> &nbsp;<a href="https://ada.amit.is-a.dev">Demo ↗</a>
 
 </td>
 <td width="33%">
@@ -150,7 +150,7 @@ Gemini-powered AI ecosystem bridging systems programming and LLM interfaces, wit
 
 Educational Source-Available License with a strict Anti-Plagiarism clause.
 
-<a href="https://esal.amit.is-a.dev"><img src="https://img.shields.io/badge/Docs-000?style=flat-square&logo=readthedocs&logoColor=white" align="top"></a>
+&nbsp;<a href="https://esal.amit.is-a.dev">Docs ↗</a>
 
 </td>
 </tr>
@@ -161,8 +161,9 @@ Educational Source-Available License with a strict Anti-Plagiarism clause.
 <br>
 
 Responsive number system converter — Binary, Decimal, Octal, Hex.
-&nbsp; <a href="https://amit.is-a.dev/codenct"><img src="https://img.shields.io/badge/First_Edition-000?style=flat-square" align="top"></a>
-&nbsp; <a href="https://amit.is-a.dev/nct-legacy"><img src="https://img.shields.io/badge/Legacy_Edition-000?style=flat-square" align="top"></a>
+&nbsp;<a href="https://amit.is-a.dev/codenc">First Edition ↗</a>
+&nbsp;·
+&nbsp;<a href="https://amit.is-a.dev/nct-legacy">Legacy Edition ↗</a>
 
 </details>
 
