@@ -1,0 +1,33 @@
+name: Auto-Update Recent Commits
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch: 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Python Script to update README
+        run: python .github/scripts/update_commits.py
+
+      - name: Commit and Push Changes
+        run: |
+          # Configure git with a bot identity
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Add the README file
+          git add README.md
+          
+          # Only commit and push if there are actual changes made to the file
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update recent commits" && git push)
