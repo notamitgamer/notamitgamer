@@ -177,6 +177,12 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ---
 
+### Recent Commits
+<!-- START_RECENT_COMMITS -->
+<!-- END_RECENT_COMMITS -->
+
+---
+
 ### GitHub Stats
 
 <div align="center">
