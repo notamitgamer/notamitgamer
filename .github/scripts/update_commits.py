@@ -3,7 +3,7 @@ import json
 import re
 
 USERNAME = "notamitgamer"
-API_URL = f"https://api.github.com/users/{USERNAME}/events/public"
+API_URL = f"https://api.github.com/users/{USERNAME}/events/public?per_page=100"
 
 def fetch_recent_commits():
     try:
@@ -14,10 +14,15 @@ def fetch_recent_commits():
         with urllib.request.urlopen(req) as response:
             data = json.loads(response.read().decode())
 
+        print(f"✅ Fetched {len(data)} recent events from GitHub API.")
+
         commits = []
+        push_events_count = 0
+
         for event in data:
             # We only care about events where you pushed code
             if event['type'] == 'PushEvent':
+                push_events_count += 1
                 repo_name = event['repo']['name']
                 
                 # Safely get the commits list (defaults to an empty list if missing)
@@ -35,8 +40,10 @@ def fetch_recent_commits():
                     
                     # Stop once we have 5 commits
                     if len(commits) >= 5:
+                        print(f"✅ Found 5 commits! Stopping search.")
                         return commits
                         
+        print(f"⚠️ Found {push_events_count} PushEvents, containing a total of {len(commits)} commits.")
         return commits
 
     except Exception as e:
