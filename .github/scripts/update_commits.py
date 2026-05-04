@@ -1,53 +1,61 @@
 import urllib.request
 import json
 import re
+from datetime import datetime
 
 USERNAME = "notamitgamer"
-API_URL = f"https://api.github.com/users/{USERNAME}/events/public?per_page=100"
 
 def fetch_recent_commits():
+    commits_data = []
     try:
-        # Create a request object with a User-Agent (GitHub API requires it)
-        req = urllib.request.Request(API_URL)
+        # 1. Get the repos you recently pushed to
+        repos_url = f"https://api.github.com/users/{USERNAME}/repos?sort=pushed&per_page=5"
+        req = urllib.request.Request(repos_url)
         req.add_header('User-Agent', f'{USERNAME}-readme-updater')
-        
+
         with urllib.request.urlopen(req) as response:
-            data = json.loads(response.read().decode())
+            repos = json.loads(response.read().decode())
 
-        print(f"✅ Fetched {len(data)} recent events from GitHub API.")
-
-        commits = []
-        push_events_count = 0
-
-        for event in data:
-            # We only care about events where you pushed code
-            if event['type'] == 'PushEvent':
-                push_events_count += 1
-                repo_name = event['repo']['name']
-                
-                # Safely get the commits list (defaults to an empty list if missing)
-                commits_list = event['payload'].get('commits', [])
-                
-                for commit in commits_list:
-                    # Extract the first line of the commit message (removes long descriptions)
-                    msg = commit['message'].split('\n')[0]
+        # 2. For each repo, get your recent commits
+        for repo in repos:
+            repo_name = repo['name']
+            # Query commits authored specifically by your username
+            commits_url = f"https://api.github.com/repos/{USERNAME}/{repo_name}/commits?author={USERNAME}&per_page=5"
+            
+            try:
+                c_req = urllib.request.Request(commits_url)
+                c_req.add_header('User-Agent', f'{USERNAME}-readme-updater')
+                with urllib.request.urlopen(c_req) as c_response:
+                    repo_commits = json.loads(c_response.read().decode())
                     
-                    # The API returns an api.github.com URL, we need to convert it to a standard web URL
-                    url = commit['url'].replace('api.github.com/repos', 'github.com').replace('/commits/', '/commit/')
-                    
-                    # Format as a markdown list item
-                    commits.append(f"- [{msg}]({url}) in [{repo_name}](https://github.com/{repo_name})")
-                    
-                    # Stop once we have 5 commits
-                    if len(commits) >= 5:
-                        print(f"✅ Found 5 commits! Stopping search.")
-                        return commits
+                    for commit in repo_commits:
+                        # Parse date for sorting
+                        date_str = commit['commit']['author']['date']
+                        date_obj = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")
                         
-        print(f"⚠️ Found {push_events_count} PushEvents, containing a total of {len(commits)} commits.")
-        return commits
+                        # Extract message and the direct web URL
+                        msg = commit['commit']['message'].split('\n')[0]
+                        url = commit['html_url']
+                        
+                        commits_data.append({
+                            'date': date_obj,
+                            'markdown': f"- [{msg}]({url}) in [{repo_name}](https://github.com/{USERNAME}/{repo_name})"
+                        })
+            except Exception as e:
+                print(f"Skipping commits for {repo_name} due to error: {e}")
+                continue
+
+        # 3. Sort all collected commits by date descending (newest first)
+        commits_data.sort(key=lambda x: x['date'], reverse=True)
+
+        # 4. Extract just the markdown strings for the top 5
+        final_commits = [c['markdown'] for c in commits_data[:5]]
+        
+        print(f"✅ Successfully found {len(final_commits)} recent commits across your repositories.")
+        return final_commits
 
     except Exception as e:
-        print(f"Error fetching commits: {e}")
+        print(f"Error fetching data: {e}")
         return []
 
 def update_readme(commits):
