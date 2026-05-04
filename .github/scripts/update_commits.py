@@ -55,10 +55,10 @@ def update_readme(commits):
     with open('README.md', 'r', encoding='utf-8') as f:
         readme = f.read()
 
-    # Use regex to replace everything between the HTML comments
+    # Use regex to replace the tags and everything in between them
     updated_readme = re.sub(
-        r"(?<=<!-- START_RECENT_COMMITS -->\n).*?(?=\n<!-- END_RECENT_COMMITS -->)",
-        commit_list_md,
+        r"<!-- START_RECENT_COMMITS -->.*?<!-- END_RECENT_COMMITS -->",
+        f"<!-- START_RECENT_COMMITS -->\n{commit_list_md}\n<!-- END_RECENT_COMMITS -->",
         readme,
         flags=re.DOTALL
     )
