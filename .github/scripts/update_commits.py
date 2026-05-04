@@ -19,7 +19,11 @@ def fetch_recent_commits():
             # We only care about events where you pushed code
             if event['type'] == 'PushEvent':
                 repo_name = event['repo']['name']
-                for commit in event['payload']['commits']:
+                
+                # Safely get the commits list (defaults to an empty list if missing)
+                commits_list = event['payload'].get('commits', [])
+                
+                for commit in commits_list:
                     # Extract the first line of the commit message (removes long descriptions)
                     msg = commit['message'].split('\n')[0]
                     
@@ -44,6 +48,7 @@ def update_readme(commits):
         print("No commits found to update.")
         return
 
+    # Format the commits back to standard markdown bullet points
     commit_list_md = "\n".join(commits)
 
     # Read the current README.md
