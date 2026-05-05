@@ -179,11 +179,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Revise README content and image links](https://github.com/notamitgamer/osma/commit/d39b6563d08ab0d1e9001e0efb47b55fe0b2e511) in [osma](https://github.com/notamitgamer/osma)
 - [Add user content JSON configuration file](https://github.com/notamitgamer/register/commit/3e9d2e1d04f24afd0f7a788db8ff4b7f994689d2) in [register](https://github.com/notamitgamer/register)
 - [Add raw.usercontent.amit.json with user data](https://github.com/notamitgamer/register/commit/bcff5096e97a749e3925082fb785e8414550e193) in [register](https://github.com/notamitgamer/register)
 - [Enhance commit fetching logic in update_commits.py](https://github.com/notamitgamer/notamitgamer/commit/4e8ded6bf7ae898e74b2873657c50845e0e39bd4) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Update update_commits.py](https://github.com/notamitgamer/notamitgamer/commit/d2b91826767699508ff1c0d96ea45c42108f867e) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Refactor regex for updating README.md commits section](https://github.com/notamitgamer/notamitgamer/commit/887a1d0810a55479a16fc5cbca99d0a6dad8bd49) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
 <!-- END_RECENT_COMMITS -->
 
 ---
