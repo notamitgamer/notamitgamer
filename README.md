@@ -20,7 +20,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-000?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8834-9881)
 [![Crunchbase](https://img.shields.io/badge/Crunchbase-000?style=flat-square&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/person/amit-dutta-d32d)
 <br><br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/1274721760088166495?bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true)](https://discord.com/users/1274721760088166495)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1274721760088166495?bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true)](https://discord.com/users/1274721760088166495)
 </div>
 
 ---
