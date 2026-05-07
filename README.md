@@ -179,11 +179,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Update README with CDN information and access links](https://github.com/notamitgamer/amit-is-a-dev/commit/ae8fe454cb01895c6f8e8757a553a6ad4aa6f62f) in [amit-is-a-dev](https://github.com/notamitgamer/amit-is-a-dev)
 - [Update README.md](https://github.com/notamitgamer/notamitgamer/commit/daa15039219cd18aa08213f9507f268c87df49a2) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Update README.md](https://github.com/notamitgamer/notamitgamer/commit/09acad1af60ae2843c9650dde4daceb126a88f79) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Update Discord badge and add presence indicator](https://github.com/notamitgamer/notamitgamer/commit/4139bf40c361c02cb0f404f901b2b1d98cbf34d2) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Revise README content and image links](https://github.com/notamitgamer/osma/commit/d39b6563d08ab0d1e9001e0efb47b55fe0b2e511) in [osma](https://github.com/notamitgamer/osma)
-- [Add user content JSON configuration file](https://github.com/notamitgamer/register/commit/3e9d2e1d04f24afd0f7a788db8ff4b7f994689d2) in [register](https://github.com/notamitgamer/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
