@@ -179,11 +179,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Merge branch 'main' into main](https://github.com/notamitgamer/register/commit/87dd89e7a93f7d6c7bf3cf0ebdb58d20650c60b5) in [register](https://github.com/notamitgamer/register)
+- [Merge pull request #12 from notamitgamer/dependabot/npm_and_yarn/axios-1.16.0](https://github.com/notamitgamer/ada/commit/bc564eb14caa70b7c3145ecac2d275cad7ffdd75) in [ada](https://github.com/notamitgamer/ada)
 - [Merge branch 'main' into main](https://github.com/notamitgamer/register/commit/23447540efca6ef7dc252c25bed7884c84e21856) in [register](https://github.com/notamitgamer/register)
-- [Merge pull request #2 from notaranag-cpu/patch-1](https://github.com/notamitgamer/soumo/commit/189aedc5abd3679b30e613f7b7bd5da7a3a5fb5d) in [soumo](https://github.com/notamitgamer/soumo)
 - [Update README.md](https://github.com/notamitgamer/notamitgamer/commit/daa15039219cd18aa08213f9507f268c87df49a2) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Update README.md](https://github.com/notamitgamer/notamitgamer/commit/09acad1af60ae2843c9650dde4daceb126a88f79) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Update Discord badge and add presence indicator](https://github.com/notamitgamer/notamitgamer/commit/4139bf40c361c02cb0f404f901b2b1d98cbf34d2) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
 <!-- END_RECENT_COMMITS -->
 
 ---
