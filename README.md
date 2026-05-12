@@ -180,11 +180,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Update README with new role and badge links](https://github.com/notamitgamer/notamitgamer/commit/7fe3830839e09875c2894ca29af7a866a019bae3) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Merge branch 'main' into main](https://github.com/notamitgamer/register/commit/87dd89e7a93f7d6c7bf3cf0ebdb58d20650c60b5) in [register](https://github.com/notamitgamer/register)
-- [Merge pull request #12 from notamitgamer/dependabot/npm_and_yarn/axios-1.16.0](https://github.com/notamitgamer/ada/commit/bc564eb14caa70b7c3145ecac2d275cad7ffdd75) in [ada](https://github.com/notamitgamer/ada)
-- [Merge branch 'main' into main](https://github.com/notamitgamer/register/commit/23447540efca6ef7dc252c25bed7884c84e21856) in [register](https://github.com/notamitgamer/register)
-- [Update README.md](https://github.com/notamitgamer/notamitgamer/commit/daa15039219cd18aa08213f9507f268c87df49a2) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Merge pull request #38111 from syedmukheeth/patch-1](https://github.com/notamitgamer/register/commit/49d77c50b183a610d792813fbdcde76a9dade954) in [register](https://github.com/notamitgamer/register)
+- [Merge pull request #38092 from muzammilexe/main](https://github.com/notamitgamer/register/commit/224ffdbfadaa38b8bdcf3b46ced582e30fad85d4) in [register](https://github.com/notamitgamer/register)
+- [Merge pull request #38091 from aryan-astra/add-aryans-domain](https://github.com/notamitgamer/register/commit/7bba10a00e7ca7dec2417525db83da1ce6c3d9e5) in [register](https://github.com/notamitgamer/register)
+- [Merge pull request #38090 from ken00bu/main](https://github.com/notamitgamer/register/commit/e0fb3ce39048ea4647f92f9edd346a09f2a4b834) in [register](https://github.com/notamitgamer/register)
+- [Merge pull request #38087 from r4tur1/patch-1](https://github.com/notamitgamer/register/commit/fa4ad68cbc830930ec62c1b64664373a2ee3a7fd) in [register](https://github.com/notamitgamer/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
