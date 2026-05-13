@@ -180,11 +180,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Update service worker to include full site link](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/aa86b041e013a43f98e7637d3efcc22dd13b8921) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Update start_url to full site link](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/c5c5ca63ebdf886e22ae35dfe047188f658f3f84) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [updated version: 3.10.4 -> 3.10.5](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/50ae2f0aebb39e63f7d5058e4feb30566455aa45) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 - [Merge pull request #38111 from syedmukheeth/patch-1](https://github.com/notamitgamer/register/commit/49d77c50b183a610d792813fbdcde76a9dade954) in [register](https://github.com/notamitgamer/register)
 - [Merge pull request #38092 from muzammilexe/main](https://github.com/notamitgamer/register/commit/224ffdbfadaa38b8bdcf3b46ced582e30fad85d4) in [register](https://github.com/notamitgamer/register)
-- [Merge pull request #38091 from aryan-astra/add-aryans-domain](https://github.com/notamitgamer/register/commit/7bba10a00e7ca7dec2417525db83da1ce6c3d9e5) in [register](https://github.com/notamitgamer/register)
-- [Merge pull request #38090 from ken00bu/main](https://github.com/notamitgamer/register/commit/e0fb3ce39048ea4647f92f9edd346a09f2a4b834) in [register](https://github.com/notamitgamer/register)
-- [Merge pull request #38087 from r4tur1/patch-1](https://github.com/notamitgamer/register/commit/fa4ad68cbc830930ec62c1b64664373a2ee3a7fd) in [register](https://github.com/notamitgamer/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
