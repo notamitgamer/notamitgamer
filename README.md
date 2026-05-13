@@ -48,114 +48,22 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 
 ### Projects
 
-<sub>**WEB APPS**</sub>
+**Web Apps**
+- [Veyrix IDE ↗](https://veyrix.amit.is-a.dev) · [Docs ↗](https://veyrix.amit.is-a.dev/docs) — Browser-based PWA code editor with offline support, real-time syntax highlighting, and dual sharing via compressed URLs or Firebase cloud links.
+- [Compiler ↗](https://compiler.amit.is-a.dev) — Online compiler for C, C++, and Python with a Render-powered backend.
 
-<table>
-<tr>
-<td width="50%">
+**CLI & Automation**
+- [Githrun ↗](https://amit.is-a.dev/githrun) · [PyPI ↗](https://pypi.org/project/githrun) — Run, install, and explore GitHub scripts instantly — no cloning required.
+- [WhatsApp Logger ↗](https://amit.is-a.dev/logger) · [GitHub ↗](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-) — Self-hosted tool that archives WhatsApp conversations to a private Firestore database.
+- [Mojic ↗](https://amit.is-a.dev/mojicDocs) · [GitHub ↗](https://github.com/notamitgamer/mojic) — CLI-based C source code obfuscator using a 256-bit password-seeded rolling cipher.
 
-**[Veyrix IDE](https://veyrix.amit.is-a.dev)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
+**Libraries**
+- [ADPKG ↗](https://pypi.org/project/adpkg/) — Python toolkit for compound interest, matrix operations, and statistics.
 
-Browser-based PWA code editor. Offline support, real-time syntax highlighting, and dual sharing via compressed URLs or Firebase cloud links.
-
-<kbd>JavaScript</kbd> <kbd>Firebase</kbd> <kbd>PWA</kbd> <a href="https://veyrix.amit.is-a.dev">Live Site ↗</a>&nbsp;·&nbsp;<a href="https://veyrix.amit.is-a.dev/docs">Docs ↗</a>
-
-</td>
-<td width="50%">
-
-**[Compiler](https://compiler.amit.is-a.dev)** <img src="https://img.shields.io/badge/WIP-f59e0b?style=flat-square" align="top">
-
-Online compiler with a Render-powered backend. Supports C, C++, and Python execution in the browser.
-
-<kbd>Python</kbd> <kbd>C/C++</kbd> <kbd>Render</kbd> <a href="https://compiler.amit.is-a.dev">Live Site ↗</a>&nbsp;
-
-</td>
-</tr>
-</table>
-
-<sub>**CLI & AUTOMATION**</sub>
-
-<table>
-<tr>
-<td width="33%">
-
-**[Githrun](https://amit.is-a.dev/githrun)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
-
-Run, install, and explore GitHub scripts instantly — no cloning required.
-
-<kbd>Python</kbd> <kbd>CLI</kbd> &nbsp;<a href="https://amit.is-a.dev/githrun">Docs ↗</a>
-
-</td>
-<td width="33%">
-
-**[WhatsApp Logger](https://amit.is-a.dev/logger)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
-
-Self-hosted companion device that connects like WhatsApp Web and permanently archives conversations to your private database.
-
-<kbd>Node.js</kbd> <kbd>Baileys</kbd> <kbd>Firestore</kbd> &nbsp;<a href="https://amit.is-a.dev/logger">Docs ↗</a>
-
-</td>
-<td width="33%">
-
-**[Mojic](https://amit.is-a.dev/mojicDocs)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
-
-CLI-based C source code obfuscator using a 256-bit password-seeded rolling cipher.
-
-<kbd>C</kbd> <kbd>CLI</kbd> &nbsp;<a href="https://amit.is-a.dev/mojicDocs">Docs ↗</a>
-
-</td>
-</tr>
-</table>
-
-<sub>**LIBRARIES & PACKAGES**</sub>
-
-<table>
-<tr>
-<td width="50%">
-
-**[ADPKG](https://pypi.org/project/adpkg/)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
-
-Python toolkit for complex math — compound interest, matrix operations, and statistics.
-
-<kbd>Python</kbd> &nbsp;<a href="https://pypi.org/project/adpkg/">PyPI ↗</a>
-
-</td>
-</tr>
-</table>
-
-<sub>**EDUCATION & OTHER**</sub>
-
-<table>
-<tr>
-<td width="33%">
-
-**[WBSU Repository](https://amit.is-a.dev/bsc)** <img src="https://img.shields.io/badge/WIP-f59e0b?style=flat-square" align="top"> 
-
-Complete B.Sc. Hons CS practical code collection.
-
-<kbd>C</kbd> <kbd>Python</kbd> &nbsp;<a href="https://amit.is-a.dev/bsc">Live ↗</a> · &nbsp;<a href="https://github.com/notamitgamer/bs">Github ↗</a>
-
-</td>
-<td width="33%">
-
-**[Project ADA](https://ada.amit.is-a.dev)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
-
-Gemini-powered AI ecosystem bridging systems programming and LLM interfaces, with a secure Render backend and Firestore storage.
-
-<kbd>Python</kbd> <kbd>Gemini API</kbd> <kbd>Firestore</kbd> &nbsp;<a href="https://ada.amit.is-a.dev">Demo ↗</a>
-
-</td>
-<td width="33%">
-
-**[ESAL-1.0](https://esal.amit.is-a.dev)** <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" align="top">
-
-Educational Source-Available License with a strict Anti-Plagiarism clause.
-
-&nbsp;<a href="https://esal.amit.is-a.dev">Docs ↗</a>
-
-</td>
-</tr>
-</table>
+**Other**
+- [WBSU Repository ↗](https://amit.is-a.dev/bsc) · [GitHub ↗](https://github.com/notamitgamer/bsc) — Complete B.Sc. Hons CS practical code collection.
+- [Project ADA ↗](https://ada.amit.is-a.dev) · [Docs ↗](https://ada.amit.is-a.dev/docs) — Gemini-powered AI ecosystem with a Render backend and Firestore storage.
+- [ESAL-1.0 ↗](https://esal.amit.is-a.dev) — Educational Source-Available License with a strict Anti-Plagiarism clause.
 
 <details>
 <summary>+ Interactive Calculator (Legacy)</summary>
