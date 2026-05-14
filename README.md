@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [updated docs with mkdocs v3.2.6](https://github.com/notamitgamer/bsc/commit/d3bb5c8dde1eda8dbd08fd06a8f43364b8530f18) in [bsc](https://github.com/notamitgamer/bsc)
 - [Update README with additional quick links](https://github.com/notamitgamer/bsc/commit/6517e0ae2545daaeac25b8a3a4ac15ea7224d22a) in [bsc](https://github.com/notamitgamer/bsc)
 - [Add workflow to rename Semester folders to lowercase](https://github.com/notamitgamer/bsc/commit/f8dfbccb0c115d7bfa9fcb8fb63ac0df7c5cb2a2) in [bsc](https://github.com/notamitgamer/bsc)
 - [Delete .vscode directory](https://github.com/notamitgamer/bsc/commit/2e26361318228389a0c5c5b9620d92e1299e1779) in [bsc](https://github.com/notamitgamer/bsc)
 - [updated docs with mkdocs](https://github.com/notamitgamer/bsc/commit/8302c4feb2fb7b61a4aaf17314b14f16d9bf925d) in [bsc](https://github.com/notamitgamer/bsc)
-- [Refactor GitHub Actions workflow for deployment](https://github.com/notamitgamer/bsc/commit/617f481a6c1eae5e32c992a69a475ed23e6565b6) in [bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
