@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [updated docs with mkdocs v3.2.6](https://github.com/notamitgamer/bsc/commit/d3bb5c8dde1eda8dbd08fd06a8f43364b8530f18) in [bsc](https://github.com/notamitgamer/bsc)
-- [Update README with additional quick links](https://github.com/notamitgamer/bsc/commit/6517e0ae2545daaeac25b8a3a4ac15ea7224d22a) in [bsc](https://github.com/notamitgamer/bsc)
-- [Add workflow to rename Semester folders to lowercase](https://github.com/notamitgamer/bsc/commit/f8dfbccb0c115d7bfa9fcb8fb63ac0df7c5cb2a2) in [bsc](https://github.com/notamitgamer/bsc)
-- [Delete .vscode directory](https://github.com/notamitgamer/bsc/commit/2e26361318228389a0c5c5b9620d92e1299e1779) in [bsc](https://github.com/notamitgamer/bsc)
-- [updated docs with mkdocs](https://github.com/notamitgamer/bsc/commit/8302c4feb2fb7b61a4aaf17314b14f16d9bf925d) in [bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #38308 from amonfanticelli/main](https://github.com/notamitgamer/register/commit/8d4293d2eb894cf9b3d76b977aa8640a2031dffd) in [register](https://github.com/notamitgamer/register)
+- [Merge pull request #38309 from suraj235/main](https://github.com/notamitgamer/register/commit/ea5e4d0998468687e5ca53b2bd9fdbd9a84f2996) in [register](https://github.com/notamitgamer/register)
+- [Merge pull request #38271 from Rkcr7/register-www-ritiksharma](https://github.com/notamitgamer/register/commit/6de39dcf48792279247cd4b5b64c477a1b47e8bd) in [register](https://github.com/notamitgamer/register)
+- [Merge pull request #38270 from Id-Yuu/main](https://github.com/notamitgamer/register/commit/9f8a366c1acbfce8f15c075b2ffce3aaa055c1d3) in [register](https://github.com/notamitgamer/register)
+- [Merge pull request #38269 from PyGuy-Programming/main](https://github.com/notamitgamer/register/commit/94b926e7e870e83c7ee5d79d2d23f84b54ec92f5) in [register](https://github.com/notamitgamer/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
