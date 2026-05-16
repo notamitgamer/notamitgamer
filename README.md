@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #38308 from amonfanticelli/main](https://github.com/notamitgamer/register/commit/8d4293d2eb894cf9b3d76b977aa8640a2031dffd) in [register](https://github.com/notamitgamer/register)
-- [Merge pull request #38309 from suraj235/main](https://github.com/notamitgamer/register/commit/ea5e4d0998468687e5ca53b2bd9fdbd9a84f2996) in [register](https://github.com/notamitgamer/register)
-- [Merge pull request #38271 from Rkcr7/register-www-ritiksharma](https://github.com/notamitgamer/register/commit/6de39dcf48792279247cd4b5b64c477a1b47e8bd) in [register](https://github.com/notamitgamer/register)
-- [Merge pull request #38270 from Id-Yuu/main](https://github.com/notamitgamer/register/commit/9f8a366c1acbfce8f15c075b2ffce3aaa055c1d3) in [register](https://github.com/notamitgamer/register)
-- [Merge pull request #38269 from PyGuy-Programming/main](https://github.com/notamitgamer/register/commit/94b926e7e870e83c7ee5d79d2d23f84b54ec92f5) in [register](https://github.com/notamitgamer/register)
+- [Update CNAME for GitHub Pages](https://github.com/notamitgamer/osma/commit/c170ce3f54f0e18e2dd2f36f9e278bd027b61eca) in [osma](https://github.com/notamitgamer/osma)
+- [Update CNAME for custom domain](https://github.com/notamitgamer/osma/commit/68c29d2faf1efd97e875ec9413b8a73f2e57450b) in [osma](https://github.com/notamitgamer/osma)
+- [Docs by retype](https://github.com/notamitgamer/osma/commit/0aeaf2d888dc250dcc6aeffa78422612d567ad2f) in [osma](https://github.com/notamitgamer/osma)
+- [Delete docs directory](https://github.com/notamitgamer/osma/commit/27e5f3fc4a176f5484ce4e586ef79f9b28cebc6b) in [osma](https://github.com/notamitgamer/osma)
+- [Delete CNAME](https://github.com/notamitgamer/osma/commit/5e663bb3a27a80626b138f9e4e07d3a9f5fe48b8) in [osma](https://github.com/notamitgamer/osma)
 <!-- END_RECENT_COMMITS -->
 
 ---
