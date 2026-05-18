@@ -61,7 +61,7 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 - [ADPKG ↗](https://pypi.org/project/adpkg/) — Python toolkit for compound interest, matrix operations, and statistics.
 
 **Other**
-- [WBSU Repository ↗](https://amit.is-a.dev/bsc) · [GitHub ↗](https://github.com/notamitgamer/bsc) — Complete B.Sc. Hons CS practical code collection.
+- [WBSU Repository ↗](https://code.amit.is-a.dev) · [GitHub ↗](https://github.com/notamitgamer/bsc) — Complete B.Sc. Hons CS practical code collection.
 - [Project ADA ↗](https://ada.amit.is-a.dev) · [Docs ↗](https://ada.amit.is-a.dev/docs) — Gemini-powered AI ecosystem with a Render backend and Firestore storage.
 - [ESAL-1.0 ↗](https://esal.amit.is-a.dev) — Educational Source-Available License with a strict Anti-Plagiarism clause.
 
