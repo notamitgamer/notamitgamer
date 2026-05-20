@@ -66,7 +66,7 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 - [ESAL-1.0 ↗](https://esal.amit.is-a.dev) — Educational Source-Available License with a strict Anti-Plagiarism clause.
 
 <details>
-<summary>+ Interactive Calculator (Legacy)</summary>
+<summary>Interactive Calculator (Legacy)</summary>
 <br>
 
 Responsive number system converter — Binary, Decimal, Octal, Hex.
