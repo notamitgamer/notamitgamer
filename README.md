@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Implement quest management and spoofing for Discord](https://github.com/notamitgamer/notamitgamer/commit/be511ec2b860e8297de9922cee6b9141e16ff2c2) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Add abandoned notice to README](https://github.com/notamitgamer/github-readme-stats/commit/997573701ce9d224129e38912a2f0fd107a8d102) in [github-readme-stats](https://github.com/notamitgamer/github-readme-stats)
 - [Correct summary tag and formatting in README](https://github.com/notamitgamer/notamitgamer/commit/b4530d702295a84e8b2afa450bea752a8b37c74d) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Fix WBSU Repository link in README](https://github.com/notamitgamer/notamitgamer/commit/8ae5f35de5dca4c4e707aa2a496b7c2d54f05d58) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [docs v3.3.1](https://github.com/notamitgamer/bsc/commit/9437a2d5be43ae6a39d6122b6a9e2f25977b3247) in [bsc](https://github.com/notamitgamer/bsc)
-- [Update CNAME for GitHub Pages](https://github.com/notamitgamer/osma/commit/c170ce3f54f0e18e2dd2f36f9e278bd027b61eca) in [osma](https://github.com/notamitgamer/osma)
 <!-- END_RECENT_COMMITS -->
 
 ---
