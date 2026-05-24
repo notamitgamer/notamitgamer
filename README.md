@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Implement quest management and spoofing for Discord](https://github.com/notamitgamer/notamitgamer/commit/be511ec2b860e8297de9922cee6b9141e16ff2c2) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Add abandoned notice to README](https://github.com/notamitgamer/github-readme-stats/commit/997573701ce9d224129e38912a2f0fd107a8d102) in [github-readme-stats](https://github.com/notamitgamer/github-readme-stats)
-- [Correct summary tag and formatting in README](https://github.com/notamitgamer/notamitgamer/commit/b4530d702295a84e8b2afa450bea752a8b37c74d) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Fix WBSU Repository link in README](https://github.com/notamitgamer/notamitgamer/commit/8ae5f35de5dca4c4e707aa2a496b7c2d54f05d58) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [docs v3.3.1](https://github.com/notamitgamer/bsc/commit/9437a2d5be43ae6a39d6122b6a9e2f25977b3247) in [bsc](https://github.com/notamitgamer/bsc)
+- [Refactor WhatsApp auth to use Firestore](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/3142fb8bf510800b9e4972fd9d1bb2a8a5718b26) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [feat: ui update v4.0](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/62417adb2c64c5eb6652077a9275eefc39cb84b8) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Switch to Firestore for WhatsApp auth state management](https://github.com/notamitgamer/logger/commit/db8516acdeaa07b8a1a74e04d475126592616243) in [logger](https://github.com/notamitgamer/logger)
+- [new](https://github.com/notamitgamer/logger/commit/6c1829dbf8bfc1da954e9dc287f52cba27e0b26c) in [logger](https://github.com/notamitgamer/logger)
+- [Update README with upcoming features announcement](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/e98ae72c2bd205ff2450e94fa4872d2b26813d96) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 <!-- END_RECENT_COMMITS -->
 
 ---
