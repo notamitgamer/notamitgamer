@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Revise README for upcoming features and enhancements](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/9e6fe98df1f9ed6a4199bc7806d0be47abffab3a) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Revise service worker for improved caching strategy](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/51769adf176d10db0b94eef350cbc6d359241c99) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [feat: ui update v4.1.5](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/113af07abdb15f70be11f226e7cbbfe58faadd8c) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 - [Refactor WhatsApp auth to use Firestore](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/3142fb8bf510800b9e4972fd9d1bb2a8a5718b26) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 - [feat: ui update v4.0](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/62417adb2c64c5eb6652077a9275eefc39cb84b8) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Switch to Firestore for WhatsApp auth state management](https://github.com/notamitgamer/logger/commit/db8516acdeaa07b8a1a74e04d475126592616243) in [logger](https://github.com/notamitgamer/logger)
-- [new](https://github.com/notamitgamer/logger/commit/6c1829dbf8bfc1da954e9dc287f52cba27e0b26c) in [logger](https://github.com/notamitgamer/logger)
-- [Update README with upcoming features announcement](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/e98ae72c2bd205ff2450e94fa4872d2b26813d96) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 <!-- END_RECENT_COMMITS -->
 
 ---
