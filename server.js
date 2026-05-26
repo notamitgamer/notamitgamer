@@ -239,7 +239,11 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
       to: [personalGmail],
       reply_to: originalSender, 
       subject: subject,
-      html: notificationHtml
+      html: notificationHtml,
+      // We attach the original incoming email ID as a hidden tag
+      tags: [
+        { name: 'original_id', value: emailData.email_id || 'unknown' }
+      ]
     };
 
     const { data, error } = await resend.emails.send(payload);
@@ -276,12 +280,23 @@ app.get('/api/emails', async (req, res) => {
     }
 
     // 2. Map the Sent Emails to look like Received Emails
-    let mappedEmails = payload.data.map(email => ({
-      id: email.id,
-      subject: email.subject,
-      from: email.reply_to || "Notifier Bot", // Replace bot with real sender!
-      created_at: email.created_at
-    }));
+    let mappedEmails = payload.data.map(email => {
+      // Extract the original incoming email ID if we tagged it
+      let actualId = email.id;
+      if (email.tags && Array.isArray(email.tags)) {
+        const origTag = email.tags.find(t => t.name === 'original_id');
+        if (origTag && origTag.value !== 'unknown') {
+          actualId = origTag.value;
+        }
+      }
+
+      return {
+        id: actualId,
+        subject: email.subject,
+        from: email.reply_to || "Notifier Bot", 
+        created_at: email.created_at
+      };
+    });
 
     // 3. Sync Logic: Only return emails newer than the requested timestamp
     const since = req.query.since;
