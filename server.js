@@ -1,8 +1,8 @@
 const express = require('express');
 const { Resend } = require('resend');
 const { Webhook } = require('svix');
-const cors = require('cors'); 
-const path = require('path'); 
+const cors = require('cors'); // <-- ADDED CORS
+const path = require('path'); // <-- ADDED PATH
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -265,9 +265,27 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
 
 // --- ADDED /api/emails ROUTE ---
 app.get('/api/emails', async (req, res) => {
-  const { data, error } = await resend.emails.list();
-  if (error) return res.status(500).json({ error: error.message });
-  res.json(data); 
+  try {
+    const response = await fetch('https://api.resend.com/emails', {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${process.env.RESEND_API_KEY}`,
+        'Content-Type': 'application/json'
+      }
+    });
+
+    if (!response.ok) {
+      const errorData = await response.json();
+      throw new Error(errorData.message || 'Failed to fetch from Resend');
+    }
+
+    const data = await response.json();
+    res.json(data); 
+
+  } catch (error) {
+    console.error('Error fetching emails:', error.message);
+    res.status(500).json({ error: error.message });
+  }
 });
 // -------------------------------
 
