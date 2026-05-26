@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Revise README for upcoming features and enhancements](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/9e6fe98df1f9ed6a4199bc7806d0be47abffab3a) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Revise service worker for improved caching strategy](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/51769adf176d10db0b94eef350cbc6d359241c99) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [feat: ui update v4.1.5](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/113af07abdb15f70be11f226e7cbbfe58faadd8c) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Refactor WhatsApp auth to use Firestore](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/3142fb8bf510800b9e4972fd9d1bb2a8a5718b26) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [feat: ui update v4.0](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/62417adb2c64c5eb6652077a9275eefc39cb84b8) in [WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Clean up server.js by removing unused code](https://github.com/notamitgamer/notamitgamer/commit/e55cf2de17c24d9a263ff334cbb2b2b7052e2974) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Enhance email payload with original ID tagging](https://github.com/notamitgamer/notamitgamer/commit/13684516cbc7a4ec2a1918868ba5fabe4a85d2e3) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Update server.js](https://github.com/notamitgamer/notamitgamer/commit/12f4b10f0edadd47a42d7e52d19f4750a2c8fe52) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Merge pull request #1 from notamitgamer/sub](https://github.com/notamitgamer/notamitgamer/commit/fdcecd9adbd43073374631ccd84d5437023eac3e) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Update package.json](https://github.com/notamitgamer/notamitgamer/commit/2b5c41d239ddd89ecfd423e7212141c4d14e96c2) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
 <!-- END_RECENT_COMMITS -->
 
 ---
