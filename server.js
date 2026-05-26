@@ -3,34 +3,12 @@ const { Resend } = require('resend');
 const { Webhook } = require('svix');
 const cors = require('cors'); 
 const path = require('path'); 
-const mongoose = require('mongoose'); // <-- ADDED MONGOOSE
 
 const app = express();
 const port = process.env.PORT || 3000;
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 const webhookSecret = process.env.RESEND_WEBHOOK_SECRET;
-
-// --- DATABASE SETUP ---
-// Connect to MongoDB using the URI from environment variables
-mongoose.connect(process.env.MONGODB_URI)
-  .then(() => console.log('✅ Connected to MongoDB'))
-  .catch(err => console.error('❌ MongoDB connection error:', err));
-
-// Define what an Email looks like in our database
-const emailSchema = new mongoose.Schema({
-  id: { type: String, required: true, unique: true }, // Resend's tracking ID
-  subject: String,
-  from: String,
-  to: [String],
-  created_at: { type: Date, default: Date.now },
-  html: String, // Store the raw HTML in case you want to display it later
-  text: String
-});
-
-// Create the Database Model
-const Email = mongoose.model('Email', emailSchema);
-// ----------------------
 
 app.use(cors());
 app.use(express.static(path.join(__dirname, 'public')));
@@ -39,7 +17,7 @@ app.get('/sw.js', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'sw.js'));
 });
 
-// Existing incoming webhook route
+// Existing incoming webhook route (MongoDB removed)
 app.post('/api/incoming', express.text({ type: 'application/json' }), async (req, res) => {
   try {
     const rawBody = req.body;
@@ -74,25 +52,6 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
     if (!allowedAliases.includes(originalRecipient)) {
       return res.status(200).json({ success: true, message: 'Alias ignored' });
     }
-
-    // --- SAVE TO MONGODB ---
-    try {
-      const newEmail = new Email({
-        id: emailData.email_id || `em_${Date.now()}`,
-        subject: subject,
-        from: originalSender,
-        to: emailData.to,
-        created_at: new Date(emailData.created_at || Date.now()),
-        html: emailData.html,
-        text: emailData.text
-      });
-      await newEmail.save();
-      console.log(`💾 Saved incoming email from ${originalSender} to Database!`);
-    } catch (dbErr) {
-      console.error('Error saving to DB:', dbErr.message);
-      // We log the error but don't stop the code, so the notification still sends!
-    }
-    // -----------------------
 
     const personalGmail = process.env.PERSONAL_GMAIL; 
     const forwardingAddress = process.env.FORWARDING_BOT_ADDRESS; 
@@ -298,21 +257,48 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
   }
 });
 
-// --- UPDATED API ROUTE ---
+// --- UPDATED API ROUTE (NATIVE FETCH + SYNC LOGIC) ---
 app.get('/api/emails', async (req, res) => {
   try {
-    // Fetch emails directly from MongoDB!
-    // .sort({ created_at: -1 }) gets the newest ones first
-    const emails = await Email.find().sort({ created_at: -1 }).limit(100);
+    // 1. Fetch directly using native Node fetch to avoid SDK errors
+    const response = await fetch('https://api.resend.com/emails', {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${process.env.RESEND_API_KEY}`,
+        'Content-Type': 'application/json'
+      }
+    });
+
+    const payload = await response.json();
     
-    // We wrap it in a { data: [] } object so your frontend code doesn't have to change at all
-    res.json({ data: emails, object: "list" });
+    if (!response.ok || !payload.data) {
+      throw new Error(payload.message || 'Failed to fetch from Resend API');
+    }
+
+    // 2. Map the Sent Emails to look like Received Emails
+    let mappedEmails = payload.data.map(email => ({
+      id: email.id,
+      subject: email.subject,
+      from: email.reply_to || "Notifier Bot", // Replace bot with real sender!
+      created_at: email.created_at
+    }));
+
+    // 3. Sync Logic: Only return emails newer than the requested timestamp
+    const since = req.query.since;
+    if (since) {
+      const sinceTime = new Date(since).getTime();
+      mappedEmails = mappedEmails.filter(email => {
+        return new Date(email.created_at).getTime() > sinceTime;
+      });
+    }
+
+    res.json({ data: mappedEmails, object: "list" });
   } catch (error) {
-    console.error('Error fetching from DB:', error.message);
-    res.status(500).json({ error: 'Failed to fetch from Database' });
+    console.error('Error in /api/emails:', error.message);
+    res.status(500).json({ error: 'Failed to fetch emails' });
   }
 });
-// -------------------------
+// -----------------------------------------------------
 
 app.get('/ping', (req, res) => {
   res.status(200).send('Server is awake!');
