@@ -1,6 +1,8 @@
 const express = require('express');
 const { Resend } = require('resend');
 const { Webhook } = require('svix');
+const cors = require('cors'); // <-- ADDED CORS
+const path = require('path'); // <-- ADDED PATH
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -8,6 +10,19 @@ const port = process.env.PORT || 3000;
 const resend = new Resend(process.env.RESEND_API_KEY);
 const webhookSecret = process.env.RESEND_WEBHOOK_SECRET;
 
+// --- ADDED MIDDLEWARE & STATIC SERVING ---
+app.use(cors());
+
+// Serve the frontend files from the 'public' directory
+app.use(express.static(path.join(__dirname, 'public')));
+
+// Explicitly serve the service worker at the root scope
+app.get('/sw.js', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'sw.js'));
+});
+// -----------------------------------------
+
+// Existing incoming webhook route
 app.post('/api/incoming', express.text({ type: 'application/json' }), async (req, res) => {
   try {
     const rawBody = req.body;
@@ -247,6 +262,14 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
     return res.status(500).json({ error: 'Internal Server Error' });
   }
 });
+
+// --- ADDED /api/emails ROUTE ---
+app.get('/api/emails', async (req, res) => {
+  const { data, error } = await resend.emails.list();
+  if (error) return res.status(500).json({ error: error.message });
+  res.json(data); 
+});
+// -------------------------------
 
 app.get('/ping', (req, res) => {
   res.status(200).send('Server is awake!');
