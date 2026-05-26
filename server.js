@@ -1,8 +1,8 @@
 const express = require('express');
 const { Resend } = require('resend');
 const { Webhook } = require('svix');
-const cors = require('cors'); // <-- ADDED CORS
-const path = require('path'); // <-- ADDED PATH
+const cors = require('cors'); 
+const path = require('path'); 
 
 const app = express();
 const port = process.env.PORT || 3000;
