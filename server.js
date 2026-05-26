@@ -1,8 +1,9 @@
 const express = require('express');
 const { Resend } = require('resend');
 const { Webhook } = require('svix');
-const cors = require('cors'); // <-- ADDED CORS
-const path = require('path'); // <-- ADDED PATH
+const cors = require('cors'); 
+const path = require('path'); 
+const mongoose = require('mongoose'); // <-- ADDED MONGOOSE
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -10,17 +11,33 @@ const port = process.env.PORT || 3000;
 const resend = new Resend(process.env.RESEND_API_KEY);
 const webhookSecret = process.env.RESEND_WEBHOOK_SECRET;
 
-// --- ADDED MIDDLEWARE & STATIC SERVING ---
-app.use(cors());
+// --- DATABASE SETUP ---
+// Connect to MongoDB using the URI from environment variables
+mongoose.connect(process.env.MONGODB_URI)
+  .then(() => console.log('✅ Connected to MongoDB'))
+  .catch(err => console.error('❌ MongoDB connection error:', err));
 
-// Serve the frontend files from the 'public' directory
+// Define what an Email looks like in our database
+const emailSchema = new mongoose.Schema({
+  id: { type: String, required: true, unique: true }, // Resend's tracking ID
+  subject: String,
+  from: String,
+  to: [String],
+  created_at: { type: Date, default: Date.now },
+  html: String, // Store the raw HTML in case you want to display it later
+  text: String
+});
+
+// Create the Database Model
+const Email = mongoose.model('Email', emailSchema);
+// ----------------------
+
+app.use(cors());
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Explicitly serve the service worker at the root scope
 app.get('/sw.js', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'sw.js'));
 });
-// -----------------------------------------
 
 // Existing incoming webhook route
 app.post('/api/incoming', express.text({ type: 'application/json' }), async (req, res) => {
@@ -58,10 +75,28 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
       return res.status(200).json({ success: true, message: 'Alias ignored' });
     }
 
+    // --- SAVE TO MONGODB ---
+    try {
+      const newEmail = new Email({
+        id: emailData.email_id || `em_${Date.now()}`,
+        subject: subject,
+        from: originalSender,
+        to: emailData.to,
+        created_at: new Date(emailData.created_at || Date.now()),
+        html: emailData.html,
+        text: emailData.text
+      });
+      await newEmail.save();
+      console.log(`💾 Saved incoming email from ${originalSender} to Database!`);
+    } catch (dbErr) {
+      console.error('Error saving to DB:', dbErr.message);
+      // We log the error but don't stop the code, so the notification still sends!
+    }
+    // -----------------------
+
     const personalGmail = process.env.PERSONAL_GMAIL; 
     const forwardingAddress = process.env.FORWARDING_BOT_ADDRESS; 
 
-    // Premium Adaptive Google-style HTML Template
     const notificationHtml = `
 <!DOCTYPE html>
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
@@ -263,31 +298,21 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
   }
 });
 
-// --- ADDED /api/emails ROUTE ---
+// --- UPDATED API ROUTE ---
 app.get('/api/emails', async (req, res) => {
   try {
-    const response = await fetch('https://api.resend.com/emails', {
-      method: 'GET',
-      headers: {
-        'Authorization': `Bearer ${process.env.RESEND_API_KEY}`,
-        'Content-Type': 'application/json'
-      }
-    });
-
-    if (!response.ok) {
-      const errorData = await response.json();
-      throw new Error(errorData.message || 'Failed to fetch from Resend');
-    }
-
-    const data = await response.json();
-    res.json(data); 
-
+    // Fetch emails directly from MongoDB!
+    // .sort({ created_at: -1 }) gets the newest ones first
+    const emails = await Email.find().sort({ created_at: -1 }).limit(100);
+    
+    // We wrap it in a { data: [] } object so your frontend code doesn't have to change at all
+    res.json({ data: emails, object: "list" });
   } catch (error) {
-    console.error('Error fetching emails:', error.message);
-    res.status(500).json({ error: error.message });
+    console.error('Error fetching from DB:', error.message);
+    res.status(500).json({ error: 'Failed to fetch from Database' });
   }
 });
-// -------------------------------
+// -------------------------
 
 app.get('/ping', (req, res) => {
   res.status(200).send('Server is awake!');
