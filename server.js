@@ -1,8 +1,6 @@
 const express = require('express');
 const { Resend } = require('resend');
 const { Webhook } = require('svix');
-const cors = require('cors'); 
-const path = require('path'); 
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -10,14 +8,6 @@ const port = process.env.PORT || 3000;
 const resend = new Resend(process.env.RESEND_API_KEY);
 const webhookSecret = process.env.RESEND_WEBHOOK_SECRET;
 
-app.use(cors());
-app.use(express.static(path.join(__dirname, 'public')));
-
-app.get('/sw.js', (req, res) => {
-  res.sendFile(path.join(__dirname, 'public', 'sw.js'));
-});
-
-// Existing incoming webhook route (MongoDB removed)
 app.post('/api/incoming', express.text({ type: 'application/json' }), async (req, res) => {
   try {
     const rawBody = req.body;
@@ -56,6 +46,7 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
     const personalGmail = process.env.PERSONAL_GMAIL; 
     const forwardingAddress = process.env.FORWARDING_BOT_ADDRESS; 
 
+    // Premium Adaptive Google-style HTML Template
     const notificationHtml = `
 <!DOCTYPE html>
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
@@ -239,11 +230,7 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
       to: [personalGmail],
       reply_to: originalSender, 
       subject: subject,
-      html: notificationHtml,
-      // We attach the original incoming email ID as a hidden tag
-      tags: [
-        { name: 'original_id', value: emailData.email_id || 'unknown' }
-      ]
+      html: notificationHtml
     };
 
     const { data, error } = await resend.emails.send(payload);
@@ -260,60 +247,6 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
     return res.status(500).json({ error: 'Internal Server Error' });
   }
 });
-
-// --- UPDATED API ROUTE (NATIVE FETCH + SYNC LOGIC) ---
-app.get('/api/emails', async (req, res) => {
-  try {
-    // 1. Fetch directly using native Node fetch to avoid SDK errors
-    const response = await fetch('https://api.resend.com/emails', {
-      method: 'GET',
-      headers: {
-        'Authorization': `Bearer ${process.env.RESEND_API_KEY}`,
-        'Content-Type': 'application/json'
-      }
-    });
-
-    const payload = await response.json();
-    
-    if (!response.ok || !payload.data) {
-      throw new Error(payload.message || 'Failed to fetch from Resend API');
-    }
-
-    // 2. Map the Sent Emails to look like Received Emails
-    let mappedEmails = payload.data.map(email => {
-      // Extract the original incoming email ID if we tagged it
-      let actualId = email.id;
-      if (email.tags && Array.isArray(email.tags)) {
-        const origTag = email.tags.find(t => t.name === 'original_id');
-        if (origTag && origTag.value !== 'unknown') {
-          actualId = origTag.value;
-        }
-      }
-
-      return {
-        id: actualId,
-        subject: email.subject,
-        from: email.reply_to || "Notifier Bot", 
-        created_at: email.created_at
-      };
-    });
-
-    // 3. Sync Logic: Only return emails newer than the requested timestamp
-    const since = req.query.since;
-    if (since) {
-      const sinceTime = new Date(since).getTime();
-      mappedEmails = mappedEmails.filter(email => {
-        return new Date(email.created_at).getTime() > sinceTime;
-      });
-    }
-
-    res.json({ data: mappedEmails, object: "list" });
-  } catch (error) {
-    console.error('Error in /api/emails:', error.message);
-    res.status(500).json({ error: 'Failed to fetch emails' });
-  }
-});
-// -----------------------------------------------------
 
 app.get('/ping', (req, res) => {
   res.status(200).send('Server is awake!');
