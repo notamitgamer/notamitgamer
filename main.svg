@@ -18,81 +18,87 @@
         }
       }
       
-      /* Line 1: Left → Down → Right → Up → Center */
+      /* Line 1: Move out and back, then pause at original position */
       @keyframes orbitLine1 {
         0% { transform: translate(0, 0); opacity: 1; }
-        12.5% { transform: translate(-180px, 0); opacity: 1; }
-        25% { transform: translate(-180px, 80px); opacity: 1; }
-        37.5% { transform: translate(0, 80px); opacity: 1; }
-        50% { transform: translate(180px, 80px); opacity: 1; }
-        62.5% { transform: translate(180px, 0); opacity: 1; }
-        75% { transform: translate(180px, -80px); opacity: 1; }
-        87.5% { transform: translate(0, -80px); opacity: 1; }
+        4% { transform: translate(-180px, 0); opacity: 1; }
+        8% { transform: translate(-180px, 80px); opacity: 1; }
+        12% { transform: translate(0, 80px); opacity: 1; }
+        16% { transform: translate(180px, 80px); opacity: 1; }
+        20% { transform: translate(180px, 0); opacity: 1; }
+        24% { transform: translate(180px, -80px); opacity: 1; }
+        28% { transform: translate(0, -80px); opacity: 1; }
+        32% { transform: translate(0, 0); opacity: 1; }
         100% { transform: translate(0, 0); opacity: 1; }
       }
       
-      /* Line 2: Right → Down → Left → Up → Center */
+      /* Line 2: Move out and back, then pause */
       @keyframes orbitLine2 {
         0% { transform: translate(0, 0); opacity: 1; }
-        12.5% { transform: translate(180px, 0); opacity: 1; }
-        25% { transform: translate(180px, 80px); opacity: 1; }
-        37.5% { transform: translate(0, 80px); opacity: 1; }
-        50% { transform: translate(-180px, 80px); opacity: 1; }
-        62.5% { transform: translate(-180px, 0); opacity: 1; }
-        75% { transform: translate(-180px, -80px); opacity: 1; }
-        87.5% { transform: translate(0, -80px); opacity: 1; }
+        4% { transform: translate(180px, 0); opacity: 1; }
+        8% { transform: translate(180px, 80px); opacity: 1; }
+        12% { transform: translate(0, 80px); opacity: 1; }
+        16% { transform: translate(-180px, 80px); opacity: 1; }
+        20% { transform: translate(-180px, 0); opacity: 1; }
+        24% { transform: translate(-180px, -80px); opacity: 1; }
+        28% { transform: translate(0, -80px); opacity: 1; }
+        32% { transform: translate(0, 0); opacity: 1; }
         100% { transform: translate(0, 0); opacity: 1; }
       }
       
-      /* Line 3: Left → Up → Right → Down → Center */
+      /* Line 3: Move out and back, then pause */
       @keyframes orbitLine3 {
         0% { transform: translate(0, 0); opacity: 1; }
-        12.5% { transform: translate(-180px, 0); opacity: 1; }
-        25% { transform: translate(-180px, -80px); opacity: 1; }
-        37.5% { transform: translate(0, -80px); opacity: 1; }
-        50% { transform: translate(180px, -80px); opacity: 1; }
-        62.5% { transform: translate(180px, 0); opacity: 1; }
-        75% { transform: translate(180px, 80px); opacity: 1; }
-        87.5% { transform: translate(0, 80px); opacity: 1; }
+        4% { transform: translate(-180px, 0); opacity: 1; }
+        8% { transform: translate(-180px, -80px); opacity: 1; }
+        12% { transform: translate(0, -80px); opacity: 1; }
+        16% { transform: translate(180px, -80px); opacity: 1; }
+        20% { transform: translate(180px, 0); opacity: 1; }
+        24% { transform: translate(180px, 80px); opacity: 1; }
+        28% { transform: translate(0, 80px); opacity: 1; }
+        32% { transform: translate(0, 0); opacity: 1; }
         100% { transform: translate(0, 0); opacity: 1; }
       }
       
-      /* Line 4: Right → Up → Left → Down → Center */
+      /* Line 4: Move out and back, then pause */
       @keyframes orbitLine4 {
         0% { transform: translate(0, 0); opacity: 1; }
-        12.5% { transform: translate(180px, 0); opacity: 1; }
-        25% { transform: translate(180px, -80px); opacity: 1; }
-        37.5% { transform: translate(0, -80px); opacity: 1; }
-        50% { transform: translate(-180px, -80px); opacity: 1; }
-        62.5% { transform: translate(-180px, 0); opacity: 1; }
-        75% { transform: translate(-180px, 80px); opacity: 1; }
-        87.5% { transform: translate(0, 80px); opacity: 1; }
+        4% { transform: translate(180px, 0); opacity: 1; }
+        8% { transform: translate(180px, -80px); opacity: 1; }
+        12% { transform: translate(0, -80px); opacity: 1; }
+        16% { transform: translate(-180px, -80px); opacity: 1; }
+        20% { transform: translate(-180px, 0); opacity: 1; }
+        24% { transform: translate(-180px, 80px); opacity: 1; }
+        28% { transform: translate(0, 80px); opacity: 1; }
+        32% { transform: translate(0, 0); opacity: 1; }
         100% { transform: translate(0, 0); opacity: 1; }
       }
       
-      /* Line 5: Down → Right → Up → Left → Center */
+      /* Line 5: Move out and back, then pause */
       @keyframes orbitLine5 {
         0% { transform: translate(0, 0); opacity: 1; }
-        12.5% { transform: translate(0, 80px); opacity: 1; }
-        25% { transform: translate(180px, 80px); opacity: 1; }
-        37.5% { transform: translate(180px, 0); opacity: 1; }
-        50% { transform: translate(180px, -80px); opacity: 1; }
-        62.5% { transform: translate(0, -80px); opacity: 1; }
-        75% { transform: translate(-180px, -80px); opacity: 1; }
-        87.5% { transform: translate(-180px, 0); opacity: 1; }
+        4% { transform: translate(0, 80px); opacity: 1; }
+        8% { transform: translate(180px, 80px); opacity: 1; }
+        12% { transform: translate(180px, 0); opacity: 1; }
+        16% { transform: translate(180px, -80px); opacity: 1; }
+        20% { transform: translate(0, -80px); opacity: 1; }
+        24% { transform: translate(-180px, -80px); opacity: 1; }
+        28% { transform: translate(-180px, 0); opacity: 1; }
+        32% { transform: translate(0, 0); opacity: 1; }
         100% { transform: translate(0, 0); opacity: 1; }
       }
       
-      /* Line 6: Up → Left → Down → Right → Center */
+      /* Line 6: Move out and back, then pause */
       @keyframes orbitLine6 {
         0% { transform: translate(0, 0); opacity: 1; }
-        12.5% { transform: translate(0, -80px); opacity: 1; }
-        25% { transform: translate(-180px, -80px); opacity: 1; }
-        37.5% { transform: translate(-180px, 0); opacity: 1; }
-        50% { transform: translate(-180px, 80px); opacity: 1; }
-        62.5% { transform: translate(0, 80px); opacity: 1; }
-        75% { transform: translate(180px, 80px); opacity: 1; }
-        87.5% { transform: translate(180px, 0); opacity: 1; }
+        4% { transform: translate(0, -80px); opacity: 1; }
+        8% { transform: translate(-180px, -80px); opacity: 1; }
+        12% { transform: translate(-180px, 0); opacity: 1; }
+        16% { transform: translate(-180px, 80px); opacity: 1; }
+        20% { transform: translate(0, 80px); opacity: 1; }
+        24% { transform: translate(180px, 80px); opacity: 1; }
+        28% { transform: translate(180px, 0); opacity: 1; }
+        32% { transform: translate(0, 0); opacity: 1; }
         100% { transform: translate(0, 0); opacity: 1; }
       }
       
@@ -102,23 +108,15 @@
         fill: #00ff41;
       }
       
-      .line1 { animation: orbitLine1 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
-      .line2 { animation: orbitLine2 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
-      .line3 { animation: orbitLine3 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
-      .line4 { animation: orbitLine4 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
-      .line5 { animation: orbitLine5 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
-      .line6 { animation: orbitLine6 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
+      /* 14 second cycle: 4.48s animation + 9.52s pause - smoother timing */
+      .line1 { animation: orbitLine1 14s cubic-bezier(0.4, 0.0, 0.2, 1) infinite; }
+      .line2 { animation: orbitLine2 14s cubic-bezier(0.4, 0.0, 0.2, 1) infinite; animation-delay: 0.35s; }
+      .line3 { animation: orbitLine3 14s cubic-bezier(0.4, 0.0, 0.2, 1) infinite; animation-delay: 0.7s; }
+      .line4 { animation: orbitLine4 14s cubic-bezier(0.4, 0.0, 0.2, 1) infinite; animation-delay: 1.05s; }
+      .line5 { animation: orbitLine5 14s cubic-bezier(0.4, 0.0, 0.2, 1) infinite; animation-delay: 1.4s; }
+      .line6 { animation: orbitLine6 14s cubic-bezier(0.4, 0.0, 0.2, 1) infinite; animation-delay: 1.75s; }
       
-      /* Fade in initial appearance */
-      @keyframes initialFade {
-        0% { opacity: 0; }
-        100% { opacity: 1; }
-      }
-      
-      .initial {
-        animation: initialFade 0.5s ease-out forwards;
-      }
-      
+      /* Matrix rain infinite */
       .matrix-char {
         font-family: monospace;
         font-size: 10px;
@@ -134,16 +132,16 @@
       
       @keyframes dashLoader {
         0% { stroke-dasharray: 1, 150; stroke-dashoffset: 0; }
-        50% { stroke-dasharray: 70, 150; stroke-dashoffset: -30; }
-        100% { stroke-dasharray: 70, 150; stroke-dashoffset: -120; }
+        50% { stroke-dasharray: 90, 150; stroke-dashoffset: -35; }
+        100% { stroke-dasharray: 90, 150; stroke-dashoffset: -124; }
       }
       
       .loader-circle {
         transform-origin: 400px 275px;
-        animation: spinLoader 0.9s linear infinite;
+        animation: spinLoader 1s linear infinite;
       }
       .loader-circle circle {
-        animation: dashLoader 1.4s ease-in-out infinite;
+        animation: dashLoader 1.6s ease-in-out infinite;
       }
     </style>
   </defs>
@@ -168,7 +166,7 @@
   </g>
 
   <!-- ASCII Art - AMIT (centered at x=130) -->
-  <g class="initial">
+  <g>
     <!-- Line 1 container -->
     <g class="line1">
       <text x="130" y="65" class="line" letter-spacing="0">  █████╗  ███╗   ██╗ ██╗ ████████╗</text>
@@ -200,12 +198,9 @@
     </g>
   </g>
 
-  <!-- Loading spinner at bottom -->
+  <!-- Loading spinner only (no text) -->
   <g transform="translate(400, 285)" class="loader-circle">
-    <circle cx="0" cy="0" r="9" fill="none" stroke="#00ff41" stroke-width="1.5" stroke-linecap="round"
+    <circle cx="0" cy="0" r="10" fill="none" stroke="#00ff41" stroke-width="1.5" stroke-linecap="round"
             stroke-dasharray="1, 150" stroke-dashoffset="0" opacity="0.6"/>
   </g>
-  
-  <!-- Small loading text -->
-  <text x="420" y="289" font-family="'Courier New', monospace" font-size="9" fill="#00ff41" opacity="0.4">loading</text>
 </svg>
