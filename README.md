@@ -1,4 +1,8 @@
 <div align="center">
+  <a href="https://discord.com/users/1274721760088166495" target="_blank">
+    <img src="main.svg" width="100%" style="max-width: 650px;" alt="Amit" />
+  </a>
+</div>
 
 <!--- ```
  █████╗ ███╗   ███╗██╗████████╗ 
