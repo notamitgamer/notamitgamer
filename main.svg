@@ -98,8 +98,9 @@
       
       .line {
         font-family: 'Courier New', 'Fira Code', monospace;
-        font-size: 20px;
+        font-size: 18px;
         fill: #00ff41;
+        white-space: pre;
       }
       
       .line1 { animation: orbitLine1 14s cubic-bezier(0.4, 0.0, 0.2, 1) infinite; }
@@ -157,27 +158,22 @@
 
   <g>
     <g class="line1">
-      <text x="130" y="65" class="line" letter-spacing="0">   █████╗ ███╗  ███╗ ██╗ ████████╗ </text>
-    </g>                                                    
-    
-    <g class="line2">
-      <text x="130" y="95" class="line" letter-spacing="0">██╔══██╗ ████╗  ██║ ██║ ╚══██╔══╝</text>
+      <text x="120" y="65" class="line">   █████╗ ███╗        ███╗██╗████████╗</text>
+    </g>                                 
+    <g class="line2">                     
+      <text x="120" y="95" class="line">██╔══██╗████╗   ████║██║╚══██╔══╝ </text>
     </g>                                                
-    
     <g class="line3">
-      <text x="130" y="125" class="line" letter-spacing="0">███████║ ██╔██╗ ██║ ██║    ██║</text>
+      <text x="120" y="125" class="line">███████║██╔████╔██║██║        ██║   </text>
     </g>
-    
     <g class="line4">
-      <text x="130" y="155" class="line" letter-spacing="0">██╔══██║ ██║╚██╗██║ ██║    ██║</text>
+      <text x="120" y="155" class="line">██╔══██║██║╚██╔╝██║██║        ██║    </text>
     </g>
-    
     <g class="line5">
-      <text x="130" y="185" class="line" letter-spacing="0">██║  ██║ ██║ ╚████║ ██║    ██║</text>
+      <text x="120" y="185" class="line">██║     ██║██║ ╚═╝    ██║██║        ██║  </text>
     </g>
-    
     <g class="line6">
-      <text x="130" y="215" class="line" letter-spacing="0">╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝    ╚═╝</text>
+      <text x="120" y="215" class="line">╚═╝     ╚═╝╚═╝             ╚═╝╚═╝       ╚═╝    </text>
     </g>
   </g>
 
