@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="800" height="320">
+  <defs>
+    <style>
+      @keyframes matrixRain {
+        0% {
+          transform: translateY(-30px);
+          opacity: 0;
+        }
+        10% {
+          opacity: 0.04;
+        }
+        90% {
+          opacity: 0.04;
+        }
+        100% {
+          transform: translateY(320px);
+          opacity: 0;
+        }
+      }
+      
+      /* Line 1: Left → Down → Right → Up → Center */
+      @keyframes orbitLine1 {
+        0% { transform: translate(0, 0); opacity: 1; }
+        12.5% { transform: translate(-180px, 0); opacity: 1; }
+        25% { transform: translate(-180px, 80px); opacity: 1; }
+        37.5% { transform: translate(0, 80px); opacity: 1; }
+        50% { transform: translate(180px, 80px); opacity: 1; }
+        62.5% { transform: translate(180px, 0); opacity: 1; }
+        75% { transform: translate(180px, -80px); opacity: 1; }
+        87.5% { transform: translate(0, -80px); opacity: 1; }
+        100% { transform: translate(0, 0); opacity: 1; }
+      }
+      
+      /* Line 2: Right → Down → Left → Up → Center */
+      @keyframes orbitLine2 {
+        0% { transform: translate(0, 0); opacity: 1; }
+        12.5% { transform: translate(180px, 0); opacity: 1; }
+        25% { transform: translate(180px, 80px); opacity: 1; }
+        37.5% { transform: translate(0, 80px); opacity: 1; }
+        50% { transform: translate(-180px, 80px); opacity: 1; }
+        62.5% { transform: translate(-180px, 0); opacity: 1; }
+        75% { transform: translate(-180px, -80px); opacity: 1; }
+        87.5% { transform: translate(0, -80px); opacity: 1; }
+        100% { transform: translate(0, 0); opacity: 1; }
+      }
+      
+      /* Line 3: Left → Up → Right → Down → Center */
+      @keyframes orbitLine3 {
+        0% { transform: translate(0, 0); opacity: 1; }
+        12.5% { transform: translate(-180px, 0); opacity: 1; }
+        25% { transform: translate(-180px, -80px); opacity: 1; }
+        37.5% { transform: translate(0, -80px); opacity: 1; }
+        50% { transform: translate(180px, -80px); opacity: 1; }
+        62.5% { transform: translate(180px, 0); opacity: 1; }
+        75% { transform: translate(180px, 80px); opacity: 1; }
+        87.5% { transform: translate(0, 80px); opacity: 1; }
+        100% { transform: translate(0, 0); opacity: 1; }
+      }
+      
+      /* Line 4: Right → Up → Left → Down → Center */
+      @keyframes orbitLine4 {
+        0% { transform: translate(0, 0); opacity: 1; }
+        12.5% { transform: translate(180px, 0); opacity: 1; }
+        25% { transform: translate(180px, -80px); opacity: 1; }
+        37.5% { transform: translate(0, -80px); opacity: 1; }
+        50% { transform: translate(-180px, -80px); opacity: 1; }
+        62.5% { transform: translate(-180px, 0); opacity: 1; }
+        75% { transform: translate(-180px, 80px); opacity: 1; }
+        87.5% { transform: translate(0, 80px); opacity: 1; }
+        100% { transform: translate(0, 0); opacity: 1; }
+      }
+      
+      /* Line 5: Down → Right → Up → Left → Center */
+      @keyframes orbitLine5 {
+        0% { transform: translate(0, 0); opacity: 1; }
+        12.5% { transform: translate(0, 80px); opacity: 1; }
+        25% { transform: translate(180px, 80px); opacity: 1; }
+        37.5% { transform: translate(180px, 0); opacity: 1; }
+        50% { transform: translate(180px, -80px); opacity: 1; }
+        62.5% { transform: translate(0, -80px); opacity: 1; }
+        75% { transform: translate(-180px, -80px); opacity: 1; }
+        87.5% { transform: translate(-180px, 0); opacity: 1; }
+        100% { transform: translate(0, 0); opacity: 1; }
+      }
+      
+      /* Line 6: Up → Left → Down → Right → Center */
+      @keyframes orbitLine6 {
+        0% { transform: translate(0, 0); opacity: 1; }
+        12.5% { transform: translate(0, -80px); opacity: 1; }
+        25% { transform: translate(-180px, -80px); opacity: 1; }
+        37.5% { transform: translate(-180px, 0); opacity: 1; }
+        50% { transform: translate(-180px, 80px); opacity: 1; }
+        62.5% { transform: translate(0, 80px); opacity: 1; }
+        75% { transform: translate(180px, 80px); opacity: 1; }
+        87.5% { transform: translate(180px, 0); opacity: 1; }
+        100% { transform: translate(0, 0); opacity: 1; }
+      }
+      
+      .line {
+        font-family: 'Courier New', 'Fira Code', monospace;
+        font-size: 20px;
+        fill: #00ff41;
+      }
+      
+      .line1 { animation: orbitLine1 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
+      .line2 { animation: orbitLine2 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
+      .line3 { animation: orbitLine3 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
+      .line4 { animation: orbitLine4 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
+      .line5 { animation: orbitLine5 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
+      .line6 { animation: orbitLine6 3s ease-in-out 0s forwards; animation-delay: 7s; animation-iteration-count: 1; }
+      
+      /* Fade in initial appearance */
+      @keyframes initialFade {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      
+      .initial {
+        animation: initialFade 0.5s ease-out forwards;
+      }
+      
+      .matrix-char {
+        font-family: monospace;
+        font-size: 10px;
+        fill: #00ff41;
+        opacity: 0;
+        animation: matrixRain 4s linear infinite;
+      }
+      
+      @keyframes spinLoader {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      
+      @keyframes dashLoader {
+        0% { stroke-dasharray: 1, 150; stroke-dashoffset: 0; }
+        50% { stroke-dasharray: 70, 150; stroke-dashoffset: -30; }
+        100% { stroke-dasharray: 70, 150; stroke-dashoffset: -120; }
+      }
+      
+      .loader-circle {
+        transform-origin: 400px 275px;
+        animation: spinLoader 0.9s linear infinite;
+      }
+      .loader-circle circle {
+        animation: dashLoader 1.4s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Dark background -->
+  <rect width="800" height="320" fill="#0a100a"/>
+
+  <!-- Matrix rain effect -->
+  <g opacity="0.04">
+    <text x="40" y="0" class="matrix-char" style="animation-delay: 0s">010010</text>
+    <text x="140" y="0" class="matrix-char" style="animation-delay: 0.5s">101010</text>
+    <text x="240" y="0" class="matrix-char" style="animation-delay: 1s">110100</text>
+    <text x="340" y="0" class="matrix-char" style="animation-delay: 1.5s">011001</text>
+    <text x="440" y="0" class="matrix-char" style="animation-delay: 0.3s">100110</text>
+    <text x="540" y="0" class="matrix-char" style="animation-delay: 0.8s">001011</text>
+    <text x="640" y="0" class="matrix-char" style="animation-delay: 1.2s">110101</text>
+    <text x="740" y="0" class="matrix-char" style="animation-delay: 0.6s">011010</text>
+    <text x="90" y="0" class="matrix-char" style="animation-delay: 0.2s">101101</text>
+    <text x="290" y="0" class="matrix-char" style="animation-delay: 0.9s">010011</text>
+    <text x="490" y="0" class="matrix-char" style="animation-delay: 0.4s">111000</text>
+    <text x="690" y="0" class="matrix-char" style="animation-delay: 1.1s">001110</text>
+  </g>
+
+  <!-- ASCII Art - AMIT (centered at x=130) -->
+  <g class="initial">
+    <!-- Line 1 container -->
+    <g class="line1">
+      <text x="130" y="65" class="line" letter-spacing="0">  █████╗  ███╗   ██╗ ██╗ ████████╗</text>
+    </g>
+    
+    <!-- Line 2 container -->
+    <g class="line2">
+      <text x="130" y="95" class="line" letter-spacing="0"> ██╔══██╗ ████╗  ██║ ██║ ╚══██╔══╝</text>
+    </g>
+    
+    <!-- Line 3 container -->
+    <g class="line3">
+      <text x="130" y="125" class="line" letter-spacing="0"> ███████║ ██╔██╗ ██║ ██║    ██║</text>
+    </g>
+    
+    <!-- Line 4 container -->
+    <g class="line4">
+      <text x="130" y="155" class="line" letter-spacing="0"> ██╔══██║ ██║╚██╗██║ ██║    ██║</text>
+    </g>
+    
+    <!-- Line 5 container -->
+    <g class="line5">
+      <text x="130" y="185" class="line" letter-spacing="0"> ██║  ██║ ██║ ╚████║ ██║    ██║</text>
+    </g>
+    
+    <!-- Line 6 container -->
+    <g class="line6">
+      <text x="130" y="215" class="line" letter-spacing="0"> ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═╝    ╚═╝</text>
+    </g>
+  </g>
+
+  <!-- Loading spinner at bottom -->
+  <g transform="translate(400, 285)" class="loader-circle">
+    <circle cx="0" cy="0" r="9" fill="none" stroke="#00ff41" stroke-width="1.5" stroke-linecap="round"
+            stroke-dasharray="1, 150" stroke-dashoffset="0" opacity="0.6"/>
+  </g>
+  
+ 
