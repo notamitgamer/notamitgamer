@@ -206,4 +206,6 @@
             stroke-dasharray="1, 150" stroke-dashoffset="0" opacity="0.6"/>
   </g>
   
- 
+  <!-- Small loading text -->
+  <text x="420" y="289" font-family="'Courier New', monospace" font-size="9" fill="#00ff41" opacity="0.4">loading</text>
+</svg>
