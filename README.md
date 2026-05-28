@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Update update-commits.yml](https://github.com/notamitgamer/notamitgamer/commit/851566fa4ddc86cec920fd103c15b4504bba3bd9) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Update commit fetching method in update_commits.py](https://github.com/notamitgamer/notamitgamer/commit/a05a0c567a6c86d6a245c9b870f104af051868ef) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Merge pull request #39412 from deolallwynsamueljb-tech/add-pawntoking](https://github.com/is-a-dev/register/commit/6a47662fb94f1f4abd3b91e7dd6ed9af94ab3a08) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Apply suggestion from @notamitgamer](https://github.com/is-a-dev/register/commit/e58ead127200fdd99d59814e7dac08b6aa3bb148) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Refactor commit fetching to use events API](https://github.com/notamitgamer/notamitgamer/commit/2b18ab8bf03355f43ca4f362b626171dc3d040b7) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Merge pull request #39467 from dulankacharidu/main](https://github.com/is-a-dev/register/commit/1cf0da43967af7791b52e1fa0e67f14eabb1bfe0) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #39461 from NoozAbooz/patch-2](https://github.com/is-a-dev/register/commit/8a8bdab1120fe3ca5a016086390cb06285b6b034) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #39448 from Neko-no-akuma-TW/main](https://github.com/is-a-dev/register/commit/da55b481e44cfe28d5eba71d7b77efad323f279e) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #39440 from sxzdneo/main](https://github.com/is-a-dev/register/commit/9aece3ef7851fed377c6582550bf2149c070268c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #39436 from Newton026-ra/main](https://github.com/is-a-dev/register/commit/611cd653e08c42d36fe75b8ff59e15108f9f6897) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
