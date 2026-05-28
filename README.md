@@ -31,7 +31,7 @@
 B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolkata** with some programming experience. I build tools, libraries, and web utilities — mostly things I wish existed. Optimizing for stability and reputation over speed.
 
 -  &nbsp; 1st year · Semester 1 &nbsp;
--  &nbsp; Currently working on — **Sem 1 exams**
+-  &nbsp; Currently working on — **Sem 2 Prep**
 -  &nbsp; Freelance — **Unavailable**
 -  &nbsp; [More about me ↗](https://amit.is-a.dev/about) &nbsp;·&nbsp; [Google Knowledge Graph ↗](https://www.google.com/search?kgmid=/g/11yzcqs5ff)
 
