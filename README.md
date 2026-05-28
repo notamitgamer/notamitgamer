@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Clean up server.js by removing unused code](https://github.com/notamitgamer/notamitgamer/commit/e55cf2de17c24d9a263ff334cbb2b2b7052e2974) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Enhance email payload with original ID tagging](https://github.com/notamitgamer/notamitgamer/commit/13684516cbc7a4ec2a1918868ba5fabe4a85d2e3) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Update server.js](https://github.com/notamitgamer/notamitgamer/commit/12f4b10f0edadd47a42d7e52d19f4750a2c8fe52) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Merge pull request #1 from notamitgamer/sub](https://github.com/notamitgamer/notamitgamer/commit/fdcecd9adbd43073374631ccd84d5437023eac3e) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Update package.json](https://github.com/notamitgamer/notamitgamer/commit/2b5c41d239ddd89ecfd423e7212141c4d14e96c2) in [notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Update update-commits.yml](https://github.com/notamitgamer/notamitgamer/commit/851566fa4ddc86cec920fd103c15b4504bba3bd9) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Update commit fetching method in update_commits.py](https://github.com/notamitgamer/notamitgamer/commit/a05a0c567a6c86d6a245c9b870f104af051868ef) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Merge pull request #39412 from deolallwynsamueljb-tech/add-pawntoking](https://github.com/is-a-dev/register/commit/6a47662fb94f1f4abd3b91e7dd6ed9af94ab3a08) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Apply suggestion from @notamitgamer](https://github.com/is-a-dev/register/commit/e58ead127200fdd99d59814e7dac08b6aa3bb148) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Refactor commit fetching to use events API](https://github.com/notamitgamer/notamitgamer/commit/2b18ab8bf03355f43ca4f362b626171dc3d040b7) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 <!-- END_RECENT_COMMITS -->
 
 ---
