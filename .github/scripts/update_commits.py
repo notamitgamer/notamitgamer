@@ -27,7 +27,7 @@ def fetch_recent_commits():
 
         for item in items:
             date_str = item['commit']['author']['date']
-            date_obj = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")
+            date_obj = datetime.fromisoformat(date_str)
 
             msg = item['commit']['message'].split('\n')[0]
             commit_url = item['html_url']
