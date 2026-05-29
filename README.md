@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #39554 from doughmination/main](https://github.com/is-a-dev/register/commit/94bcd1e547ed2bce7ac42f9038058111d53822ec) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #39570 from Reaper-ai/main](https://github.com/is-a-dev/register/commit/fafbf0f87d94f34b513abaf67022291f68e81d4d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #39570 from Reaper-ai/main](https://github.com/theiglmail-droid/register/commit/fafbf0f87d94f34b513abaf67022291f68e81d4d) in [theiglmail-droid/register](https://github.com/theiglmail-droid/register)
-- [Merge pull request #39567 from voidirl/main](https://github.com/is-a-dev/register/commit/5cf3b1daed4c45c0d88c030b1663c7847cc44395) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #39567 from voidirl/main](https://github.com/theiglmail-droid/register/commit/5cf3b1daed4c45c0d88c030b1663c7847cc44395) in [theiglmail-droid/register](https://github.com/theiglmail-droid/register)
+- [v3.3.2](https://github.com/notamitgamer/bsc/commit/c8ae5594b825cfb36a7df80a5b251a4e6ef77304) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Fix missing newline at end of main.yml](https://github.com/notamitgamer/bsc/commit/d41e1a8b643ae9fd332c23cf1c8a694cbf9b2253) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Modify workflow to build site with Zensical](https://github.com/notamitgamer/bsc/commit/6d922ed85d4c8a7862b1803417c695642784889d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Initialize MkDocs configuration](https://github.com/notamitgamer/bsc/commit/03d292a58585a95a4e7ba94fefb367e2a0b24130) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Delete utils/mkdocs.yml](https://github.com/notamitgamer/bsc/commit/c78e0958192d8afffae34229c1fca26193aef62b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
