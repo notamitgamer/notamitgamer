@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [v3.3.2](https://github.com/notamitgamer/bsc/commit/c8ae5594b825cfb36a7df80a5b251a4e6ef77304) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Fix missing newline at end of main.yml](https://github.com/notamitgamer/bsc/commit/d41e1a8b643ae9fd332c23cf1c8a694cbf9b2253) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Modify workflow to build site with Zensical](https://github.com/notamitgamer/bsc/commit/6d922ed85d4c8a7862b1803417c695642784889d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Initialize MkDocs configuration](https://github.com/notamitgamer/bsc/commit/03d292a58585a95a4e7ba94fefb367e2a0b24130) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Delete utils/mkdocs.yml](https://github.com/notamitgamer/bsc/commit/c78e0958192d8afffae34229c1fca26193aef62b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #39662 from SPNgcobo/patch-1](https://github.com/is-a-dev/register/commit/08bb88da24a5088f3e0e8c99f2200c2e6a49e14d) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #39647 from SoumyaEXE/main](https://github.com/is-a-dev/register/commit/4f76d9679e24ae1aaa9b24e0c4e20466e2545b48) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #39646 from agusm2002/patch-1](https://github.com/is-a-dev/register/commit/14d260efe48600dc18bb08a929e1f9223960bbaa) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #39602 from binzidd/Is-a-deev-request-binay-s](https://github.com/is-a-dev/register/commit/5b151ec28039b467ce0b7744e467f86df71555d3) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Update domains/binays.json](https://github.com/is-a-dev/register/commit/073b19f4a12c2242625d4b96882e3911e93b6a80) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
