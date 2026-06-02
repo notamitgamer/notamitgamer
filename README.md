@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #39808 from vaibhav-aryaaa/patch-2](https://github.com/is-a-dev/register/commit/46b5928fbc6ea767274ac688ae1d5cb895458364) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #39805 from neel-d9/main](https://github.com/is-a-dev/register/commit/7ac910666a54abab2b2ebfc44d25e215d4d9e85e) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #39803 from belalElshafei/main](https://github.com/is-a-dev/register/commit/20fb2c8ee5c6574d1aec03ea55c0cd7639d105e7) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #39798 from vishnuuuvrdn/main](https://github.com/is-a-dev/register/commit/763e52327752981708ef1e2fb6bdb31ffd00676a) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #39794 from rihapfirdaus/main](https://github.com/is-a-dev/register/commit/5d81eee287756afca2959868a2a59f57daca7c30) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Create CNAME](https://github.com/notamitgamer/bsc/commit/9cd07e8e30cd0db0322039278274510e3a02b43b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Delete CNAME](https://github.com/notamitgamer/bsc/commit/6f3333e6323b7f3ed4ebaea90ffb203fed321d74) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Add GitHub Pages challenge configuration file](https://github.com/is-a-dev/register/commit/8f71f71f25b4daa0af0107b8500cac2a6812afc9) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Update CNAME record to point to GitHub Pages](https://github.com/is-a-dev/register/commit/5087f89deb50bc11a86d2dc31825113d2affc4de) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Create CNAME](https://github.com/notamitgamer/bsc/commit/ff2be14fab2f5ea0c644370e58feea7a076a5a15) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
