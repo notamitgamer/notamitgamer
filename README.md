@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [added more](https://github.com/notamitgamer/bsc/commit/ef10c588088cb5142c3934ac58f56b7c9f550945) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [added more](https://github.com/notamitgamer/bsc/commit/79e7c4966d4f556c58341db3e36017520f2d1482) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [-](https://github.com/notamitgamer/bsc/commit/cea88103ec2305a3fd5b2909945cc1f8d8a94f80) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Rename 'site' to 'docs' and add CNAME](https://github.com/notamitgamer/bsc/commit/4cf2fdbe32d2a21cd88fd4a1e9bb2d273553fdc4) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Create CNAME](https://github.com/notamitgamer/bsc/commit/027b47e2915eb7ef878007c330ed3f4ff2588e0d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Add 'docs-new/' to GitHub Actions commit step](https://github.com/notamitgamer/bsc/commit/5d12adb0795fc766521b62d28de79545ea86b676) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
