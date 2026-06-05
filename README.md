@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [cleanup](https://github.com/notamitgamer/bsc/commit/9d5b42b1eaea215fa736df2cdd54f8e799e8e908) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Create CNAME](https://github.com/notamitgamer/bsc/commit/bcd7735618d7389f5567e7e0f12a28cbeb4827be) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Delete docs directory](https://github.com/notamitgamer/bsc/commit/4740d6c40180c39a4bb7a53a40270bf20d5b3d31) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [added github logo](https://github.com/notamitgamer/bsc/commit/f2ead473735bb7934d27071d642ce4a8dacf70d1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Resolved merge conflicts in generated md files](https://github.com/notamitgamer/bsc/commit/5d10b975ec30be29a4529b7c48d9f2e47e740bd4) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [shifted to VitePress](https://github.com/notamitgamer/bsc/commit/9244b8c6acb9646ef682fa7329d16d5b02066304) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
