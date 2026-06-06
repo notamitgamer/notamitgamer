@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [updated backdop](https://github.com/notamitgamer/bsc/commit/1fe4d4b0cc272aad260c12e137526171e7d7212e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [terms banner](https://github.com/notamitgamer/bsc/commit/f2307c2de2282334c487ee5a8735ba391e26c8ee) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [updated top nav](https://github.com/notamitgamer/bsc/commit/b2967be00afb80daaf16561397cd3946ec69e50a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [new design](https://github.com/notamitgamer/bsc/commit/e4eb20bac4b6dfdd2642ef7dc8b85f0cb1d79d0a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Clean up features list in README](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/c199489b7fda473ac22816f30da0f7bf2dd5ad0a) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Update README with safety information for WhatsApp Logger](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/577c6ee89d179a113f24f54543aa015b673f8c4f) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [cleanup](https://github.com/notamitgamer/bsc/commit/9d5b42b1eaea215fa736df2cdd54f8e799e8e908) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Create CNAME](https://github.com/notamitgamer/bsc/commit/bcd7735618d7389f5567e7e0f12a28cbeb4827be) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Delete docs directory](https://github.com/notamitgamer/bsc/commit/4740d6c40180c39a4bb7a53a40270bf20d5b3d31) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
