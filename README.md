@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [updated banner](https://github.com/notamitgamer/bsc/commit/0a1978b4973f46941d70f9b5337cd8931a3fd7da) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [updated backdop](https://github.com/notamitgamer/bsc/commit/1fe4d4b0cc272aad260c12e137526171e7d7212e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [terms banner](https://github.com/notamitgamer/bsc/commit/f2307c2de2282334c487ee5a8735ba391e26c8ee) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [updated top nav](https://github.com/notamitgamer/bsc/commit/b2967be00afb80daaf16561397cd3946ec69e50a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [new design](https://github.com/notamitgamer/bsc/commit/e4eb20bac4b6dfdd2642ef7dc8b85f0cb1d79d0a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Clean up features list in README](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/c199489b7fda473ac22816f30da0f7bf2dd5ad0a) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 <!-- END_RECENT_COMMITS -->
 
 ---
