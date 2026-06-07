@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [updated banner](https://github.com/notamitgamer/bsc/commit/0a1978b4973f46941d70f9b5337cd8931a3fd7da) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated backdop](https://github.com/notamitgamer/bsc/commit/1fe4d4b0cc272aad260c12e137526171e7d7212e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [terms banner](https://github.com/notamitgamer/bsc/commit/f2307c2de2282334c487ee5a8735ba391e26c8ee) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated top nav](https://github.com/notamitgamer/bsc/commit/b2967be00afb80daaf16561397cd3946ec69e50a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [new design](https://github.com/notamitgamer/bsc/commit/e4eb20bac4b6dfdd2642ef7dc8b85f0cb1d79d0a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #40223 from nirans2002/main](https://github.com/is-a-dev/register/commit/48a5a05425d87dbf312ca87115c615ae659ae6ce) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40221 from sethski/register-sethplanco](https://github.com/is-a-dev/register/commit/4490f0a5369a64161d5bde62a72615c3e2d800dc) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40212 from ouiegbfwvdsj/add-youkan-portfolio-v3](https://github.com/is-a-dev/register/commit/f72a50aac460c2b44d986c9b7c55079d27771b6c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40210 from satyam2006-cmd/main](https://github.com/is-a-dev/register/commit/4cac1c058ab7d940d1bb0f78a5813585dc83d3d9) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40207 from mdzoubir/main](https://github.com/is-a-dev/register/commit/c485ebffc54cbae5f94d0eed0dcd172ee2488c0d) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
