@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #40335 from roy-kalyan/main](https://github.com/is-a-dev/register/commit/124f94f85faf8012bd0db0b4290e83340e61a088) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40303 from bteamapp/patch-3](https://github.com/is-a-dev/register/commit/25f6a1e0ef1f40642bf7499ed8d9867efa2c470d) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #40296 from akhilsaklani7coder/patch-3](https://github.com/is-a-dev/register/commit/9cb1c8136305f6e53b93856fb974dc390b455c9a) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #40295 from surajbhatt27/main](https://github.com/is-a-dev/register/commit/4fbfdc8d889c86494d89d4ae390d1c5577ece924) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #40284 from doughmination/main](https://github.com/is-a-dev/register/commit/d2f89b69b315d35f22fb4c338a189c7a1c074ba5) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40275 from onebismark/main](https://github.com/is-a-dev/register/commit/128a530c2bd5b08594a263b6e1f7a159f77a84fd) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40274 from theamallalgi/main](https://github.com/is-a-dev/register/commit/80e367928f166ec7ccc928d509f24a1a8b50b344) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
