@@ -88,11 +88,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Update README.md](https://github.com/notamitgamer/amit-is-a-dev/commit/20249de43d2ffcd50b91aaff4df3021797b13883) in [notamitgamer/amit-is-a-dev](https://github.com/notamitgamer/amit-is-a-dev)
-- [update file path in hf](https://github.com/notamitgamer/bsc/commit/147c51f60da61933f4a15a17edf6f7305472a58a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Update README.md](https://github.com/notamitgamer/osma/commit/3d433fbf1a67d73bd4c278480aba280eafc0230a) in [notamitgamer/osma](https://github.com/notamitgamer/osma)
-- [Refactor GitHub Actions workflow for file sync](https://github.com/notamitgamer/bsc/commit/8d8eaa93e3b29569723ec6bc684b9c64f67434c6) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [sem index update](https://github.com/notamitgamer/bsc/commit/0a382ebb90452cbf177cca4b0ebe57bc308712fc) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #40296 from akhilsaklani7coder/patch-3](https://github.com/is-a-dev/register/commit/9cb1c8136305f6e53b93856fb974dc390b455c9a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40295 from surajbhatt27/main](https://github.com/is-a-dev/register/commit/4fbfdc8d889c86494d89d4ae390d1c5577ece924) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40284 from doughmination/main](https://github.com/is-a-dev/register/commit/d2f89b69b315d35f22fb4c338a189c7a1c074ba5) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40275 from onebismark/main](https://github.com/is-a-dev/register/commit/128a530c2bd5b08594a263b6e1f7a159f77a84fd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40274 from theamallalgi/main](https://github.com/is-a-dev/register/commit/80e367928f166ec7ccc928d509f24a1a8b50b344) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
