@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #40335 from roy-kalyan/main](https://github.com/is-a-dev/register/commit/124f94f85faf8012bd0db0b4290e83340e61a088) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40303 from bteamapp/patch-3](https://github.com/is-a-dev/register/commit/25f6a1e0ef1f40642bf7499ed8d9867efa2c470d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40296 from akhilsaklani7coder/patch-3](https://github.com/is-a-dev/register/commit/9cb1c8136305f6e53b93856fb974dc390b455c9a) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40295 from surajbhatt27/main](https://github.com/is-a-dev/register/commit/4fbfdc8d889c86494d89d4ae390d1c5577ece924) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40284 from doughmination/main](https://github.com/is-a-dev/register/commit/d2f89b69b315d35f22fb4c338a189c7a1c074ba5) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Update semester information in README.md](https://github.com/notamitgamer/notamitgamer/commit/a5368f863cf3b99402b1a3e33a0a9d181b14c632) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Merge pull request #40413 from cibi-k/main](https://github.com/is-a-dev/register/commit/c271b408461ef3214941ee1b5f639ee8747f2c97) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40415 from icefishii/patch-1](https://github.com/is-a-dev/register/commit/845efbb89bf8b225ee6ba2690e8edefc212d1df2) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40394 from onebismark/main](https://github.com/is-a-dev/register/commit/fc8c33e4304611b573f98123e720540e5afa216f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #40379 from bats15/main](https://github.com/is-a-dev/register/commit/abdcdf5896a987dd25b47ac11f360cc46264b86d) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
