@@ -11,6 +11,8 @@
 
 **CS Undergrad · Full Stack Developer (Maybe)**<br>
 **PR Reviewer at <a href="https://github.com/is-a-dev">is-a.dev</a> organization**
+<br><br>***Also need a girlfriend***
+
 
 [![Website](https://img.shields.io/badge/amit.is--a.dev-000?style=flat-square&logo=google-chrome&logoColor=white)](https://amit.is-a.dev)
 [![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:amitdutta4255@gmail.com)
@@ -30,10 +32,10 @@
 
 B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolkata** with some programming experience. I build tools, libraries, and web utilities — mostly things I wish existed. Optimizing for stability and reputation over speed.
 
--  &nbsp; 1st year · Semester 1 &nbsp;
+-  &nbsp; 1st year · Semester 2 &nbsp;
 -  &nbsp; Currently working on — **Sem 2 Prep**
 -  &nbsp; Freelance — **Unavailable**
--  &nbsp; [More about me ↗](https://amit.is-a.dev/about) &nbsp;·&nbsp; [Google Knowledge Graph ↗](https://www.google.com/search?kgmid=/g/11yzcqs5ff)
+-  &nbsp; [More about me ↗](https://amit.is-a.dev/about) &nbsp;·&nbsp; [Google Knowledge Graph ↗](https://www.google.com/search?kgmid=/g/11yzcqs5ff) 
 
 ---
 
