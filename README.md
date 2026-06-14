@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Revise personal note in README](https://github.com/notamitgamer/notamitgamer/commit/66013df37c6f5b2f65c4315acf89a0ebf6bce058) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Merge pull request #40711 from Shin7806/main](https://github.com/is-a-dev/register/commit/0fa6abbfc380e328a491a9ec69c96b5f483cabc3) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #40450 from mcenahle/main](https://github.com/is-a-dev/register/commit/e663010ec34417850a1f11b30202b1240c0ea8f9) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #40421 from rohitkumar893/main](https://github.com/is-a-dev/register/commit/8f322a26c5dcf76ad813244c93dff333239950bb) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #40600 from PsychedelicPalimpsest/main](https://github.com/is-a-dev/register/commit/51d243d718c340ed4fabe2cd1f3d4b0eaa355746) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40395 from soumyabrata-hub/main](https://github.com/is-a-dev/register/commit/6d55214d4da37f0e3352a6712c2ef72e40d28f3a) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
