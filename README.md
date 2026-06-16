@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #40861 from Lalitkishore2/main](https://github.com/is-a-dev/register/commit/bdbc3def823fe0bbe989ceadac6d6aca4d23e6f8) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #40886 from shivank-bidgely/main](https://github.com/is-a-dev/register/commit/5f9a96388906d1055ff44fa26afa60493ac449c0) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #40844 from Anshad2u/add-anshad](https://github.com/is-a-dev/register/commit/0a9c870747877a564e5db0883c896657c03b5138) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #40835 from nebex/main](https://github.com/is-a-dev/register/commit/f73e29540837720fe07e54747ada10449952ea7e) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #40866 from vijay-rodge/patch-2](https://github.com/is-a-dev/register/commit/4757af4123d7a161cbd4b6f831f7d553f97ef804) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40849 from usmonffuzb/main](https://github.com/is-a-dev/register/commit/76a472c75442bc28314d05f6d5195e4fef2ce747) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
