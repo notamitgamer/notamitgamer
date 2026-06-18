@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [skipping auto jekyll build](https://github.com/notamitgamer/bsc/commit/504522914df3b4d94e96ee711f09d37d863d382a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [start of 2nd sem](https://github.com/notamitgamer/bsc/commit/f44c5b90af113b8a190a3ddc4bd7a212ac53aa48) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [start of 2nd sem](https://github.com/notamitgamer/bsc/commit/a62796097d067e4b13e9d503375b6cdddd3d1214) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [start of 2nd sem](https://github.com/notamitgamer/bsc/commit/c750c1869b2d3e8d8c6dfd816c2b491055d0bc18) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #40968 from samuelbanapour/gamesolodev](https://github.com/is-a-dev/register/commit/9eadc49520e22dec790f16640bfc4f682d85c654) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40966 from vindalfr-k/patch-2](https://github.com/is-a-dev/register/commit/7b10fab6629b3d2daa991b156d6455a167e96530) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40964 from vindalfr-k/main](https://github.com/is-a-dev/register/commit/28e7e22c83006fc6393f5ee3c82667c80c368a07) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40959 from onetech-project/main](https://github.com/is-a-dev/register/commit/c7671192f8f6892b37bf93d79bf42df25582f876) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #40955 from sohumcs/main](https://github.com/is-a-dev/register/commit/3491312862fb748520ffe9fa97f4154df392fae3) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
