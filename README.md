@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [skipping auto jekyll build](https://github.com/notamitgamer/bsc/commit/504522914df3b4d94e96ee711f09d37d863d382a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [start of 2nd sem](https://github.com/notamitgamer/bsc/commit/f44c5b90af113b8a190a3ddc4bd7a212ac53aa48) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [start of 2nd sem](https://github.com/notamitgamer/bsc/commit/a62796097d067e4b13e9d503375b6cdddd3d1214) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [start of 2nd sem](https://github.com/notamitgamer/bsc/commit/c750c1869b2d3e8d8c6dfd816c2b491055d0bc18) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #40968 from samuelbanapour/gamesolodev](https://github.com/is-a-dev/register/commit/9eadc49520e22dec790f16640bfc4f682d85c654) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41240 from liushuisheng/main](https://github.com/is-a-dev/register/commit/fa6e3d8024c37c36588645c7a3b43200d5ac3a2e) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41236 from virgiliojr94/main](https://github.com/is-a-dev/register/commit/5e80bc72a32701c77bae5c0e870a252414baf29c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41235 from inthree3/main](https://github.com/is-a-dev/register/commit/e4b339e42f3e1d5f4d4aca6159b6bdd85f809142) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41233 from gnof-the-shark/main](https://github.com/is-a-dev/register/commit/fecbcdfc85170b1ddc6e5168fe6214350977f274) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Apply suggestion from @notamitgamer](https://github.com/is-a-dev/register/commit/e1617e93611f7c4f2e6f9f1024793c5b0f913ab2) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
