@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #41256 from lovian/main](https://github.com/is-a-dev/register/commit/adaa6e32fcea241770f5a3bd707f26e0e3a5dd87) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41255 from vindalfr-k/main](https://github.com/is-a-dev/register/commit/b36d8abe8a389c119d33adba2ec4520964aec926) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41254 from Naresh-Shetty6/nareshg-domain-fix](https://github.com/is-a-dev/register/commit/fbcc06cf084d26f479673ae6d2d2f8fe5b063f0c) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41253 from MBBXMESBAH/main](https://github.com/is-a-dev/register/commit/1e579f94537efecba10f18d815799c136bd25e3d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41251 from Qaiyyum47/patch-1](https://github.com/is-a-dev/register/commit/b5bbb200c9623324569a7bd9a672e166b03a87f9) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41298 from comsolodev-1/main](https://github.com/is-a-dev/register/commit/e83fb47934babd372884fd0db9575b5cbfcf3ae0) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41294 from arfprince/add-arfprince-domain](https://github.com/is-a-dev/register/commit/f7aaca074c608534aace0e1b4bfa9c5b713291de) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41291 from xlsanal/main](https://github.com/is-a-dev/register/commit/a8d6056bb7376383e34adf8e7293fab343bc90d9) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41286 from Its-Seeker/main](https://github.com/is-a-dev/register/commit/46bfff5df7ebe985843065b2aff64a1362e65593) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41258 from MYB-SIFAT/patch-2](https://github.com/is-a-dev/register/commit/0592fa750249204feedee97029c90f4c064305c5) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
