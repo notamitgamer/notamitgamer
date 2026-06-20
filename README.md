@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [fixed `Algorithms` → `algorithms`](https://github.com/notamitgamer/bsc/commit/59c64963e312cc7981b3e7886dd5d0823f6c475a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Delete semester_2/Algorithms directory](https://github.com/notamitgamer/bsc/commit/e75c75096a018b55167fc92cd5a90776ba746b2e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Too many edits to say](https://github.com/notamitgamer/bsc/commit/91a262d7df141e950c4d233015922d6806688169) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #41298 from comsolodev-1/main](https://github.com/is-a-dev/register/commit/e83fb47934babd372884fd0db9575b5cbfcf3ae0) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41294 from arfprince/add-arfprince-domain](https://github.com/is-a-dev/register/commit/f7aaca074c608534aace0e1b4bfa9c5b713291de) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [changelog](https://github.com/notamitgamer/bsc/commit/4026f09203f51db5f5b408fd8191c3f1b67861f1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [changelog](https://github.com/notamitgamer/bsc/commit/93687f7194d6a015fa8f1feb361a0fa9a927b318) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [version file](https://github.com/notamitgamer/bsc/commit/5d87cf7af53bb969dced07992940af494ac92dd1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [version file](https://github.com/notamitgamer/bsc/commit/782cfd52cec16b89c2961ea4f0d6c7b604f546d9) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Add 'docs' to excluded files in list.py](https://github.com/notamitgamer/bsc/commit/730894b7b995c4c829c7fcb87af17c49f28a938d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
