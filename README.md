@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [fixed `Algorithms` → `algorithms`](https://github.com/notamitgamer/bsc/commit/59c64963e312cc7981b3e7886dd5d0823f6c475a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Delete semester_2/Algorithms directory](https://github.com/notamitgamer/bsc/commit/e75c75096a018b55167fc92cd5a90776ba746b2e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Too many edits to say](https://github.com/notamitgamer/bsc/commit/91a262d7df141e950c4d233015922d6806688169) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #41298 from comsolodev-1/main](https://github.com/is-a-dev/register/commit/e83fb47934babd372884fd0db9575b5cbfcf3ae0) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #41294 from arfprince/add-arfprince-domain](https://github.com/is-a-dev/register/commit/f7aaca074c608534aace0e1b4bfa9c5b713291de) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41291 from xlsanal/main](https://github.com/is-a-dev/register/commit/a8d6056bb7376383e34adf8e7293fab343bc90d9) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41286 from Its-Seeker/main](https://github.com/is-a-dev/register/commit/46bfff5df7ebe985843065b2aff64a1362e65593) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41258 from MYB-SIFAT/patch-2](https://github.com/is-a-dev/register/commit/0592fa750249204feedee97029c90f4c064305c5) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
