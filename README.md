@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [updated changelog format](https://github.com/notamitgamer/bsc/commit/a920c6d17ad714ca1634801cdb5e3587487875b2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [given full permission to ci](https://github.com/notamitgamer/bsc/commit/44792f173aaa768df1387c962c0cd84ac9c50773) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [changelog](https://github.com/notamitgamer/bsc/commit/add748214b8e325692066515e2f0e86c4519c15a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [changelog](https://github.com/notamitgamer/bsc/commit/4026f09203f51db5f5b408fd8191c3f1b67861f1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [changelog](https://github.com/notamitgamer/bsc/commit/93687f7194d6a015fa8f1feb361a0fa9a927b318) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [version file](https://github.com/notamitgamer/bsc/commit/5d87cf7af53bb969dced07992940af494ac92dd1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [version file](https://github.com/notamitgamer/bsc/commit/782cfd52cec16b89c2961ea4f0d6c7b604f546d9) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Add 'docs' to excluded files in list.py](https://github.com/notamitgamer/bsc/commit/730894b7b995c4c829c7fcb87af17c49f28a938d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
