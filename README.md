@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [more practice](https://github.com/notamitgamer/bsc/commit/079243001073bd091af7dea1efa75a65c079c8a2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #9 from notamitgamer/copilot/fix-docs-deployment-issues](https://github.com/notamitgamer/bsc/commit/cac55f2eeaaedefe0316130c3bb1bad24b231694) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [added sponser button](https://github.com/notamitgamer/bsc/commit/370d1a5c28d44b0997b8e5f73208e89efbaedefd) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [forced pushed to the end](https://github.com/notamitgamer/bsc/commit/aac4f460c4cfb60cf7ecd8bec946636767d055a9) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [updated placement](https://github.com/notamitgamer/bsc/commit/55f97004b6e58fdc8d3efdf83a237f5481cfe085) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [a-ads widget test](https://github.com/notamitgamer/bsc/commit/d898c4831f9ec624dcb543976854be56c857eaad) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [a-ads widget test](https://github.com/notamitgamer/bsc/commit/890d96aba2f3e85f0e99399761b1bc457b169d8c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated changelog format](https://github.com/notamitgamer/bsc/commit/a920c6d17ad714ca1634801cdb5e3587487875b2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
