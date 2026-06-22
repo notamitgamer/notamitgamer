@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [forced pushed to the end](https://github.com/notamitgamer/bsc/commit/aac4f460c4cfb60cf7ecd8bec946636767d055a9) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [updated placement](https://github.com/notamitgamer/bsc/commit/55f97004b6e58fdc8d3efdf83a237f5481cfe085) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [a-ads widget test](https://github.com/notamitgamer/bsc/commit/d898c4831f9ec624dcb543976854be56c857eaad) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [a-ads widget test](https://github.com/notamitgamer/bsc/commit/890d96aba2f3e85f0e99399761b1bc457b169d8c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [updated changelog format](https://github.com/notamitgamer/bsc/commit/a920c6d17ad714ca1634801cdb5e3587487875b2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [given full permission to ci](https://github.com/notamitgamer/bsc/commit/44792f173aaa768df1387c962c0cd84ac9c50773) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [changelog](https://github.com/notamitgamer/bsc/commit/add748214b8e325692066515e2f0e86c4519c15a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [changelog](https://github.com/notamitgamer/bsc/commit/4026f09203f51db5f5b408fd8191c3f1b67861f1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [changelog](https://github.com/notamitgamer/bsc/commit/93687f7194d6a015fa8f1feb361a0fa9a927b318) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
