@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [added pwa support](https://github.com/notamitgamer/bsc/commit/1afec47128e3fcfaec9f70f84c0f02804669852a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [more practice](https://github.com/notamitgamer/bsc/commit/079243001073bd091af7dea1efa75a65c079c8a2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #9 from notamitgamer/copilot/fix-docs-deployment-issues](https://github.com/notamitgamer/bsc/commit/cac55f2eeaaedefe0316130c3bb1bad24b231694) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [added sponser button](https://github.com/notamitgamer/bsc/commit/370d1a5c28d44b0997b8e5f73208e89efbaedefd) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [forced pushed to the end](https://github.com/notamitgamer/bsc/commit/aac4f460c4cfb60cf7ecd8bec946636767d055a9) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated placement](https://github.com/notamitgamer/bsc/commit/55f97004b6e58fdc8d3efdf83a237f5481cfe085) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
