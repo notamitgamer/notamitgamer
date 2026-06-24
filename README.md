@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [more algo](https://github.com/notamitgamer/bsc/commit/853960e3e05efed43a9002686970e2d48fcb8328) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [[skip ci]](https://github.com/notamitgamer/bsc/commit/9864ca23e2327651b1b4cadebdce2e39d3b27eb1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated docs](https://github.com/notamitgamer/bsc/commit/8e3cb5824ca7032cc39558953e343c7a6bdcf5df) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [added pwa support](https://github.com/notamitgamer/bsc/commit/1afec47128e3fcfaec9f70f84c0f02804669852a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [more practice](https://github.com/notamitgamer/bsc/commit/079243001073bd091af7dea1efa75a65c079c8a2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #41521 from comsolodev-1/main](https://github.com/is-a-dev/register/commit/35d205da271a5cda4b9f5dbe190fae46a0d08f7e) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41515 from xlsanal/main](https://github.com/is-a-dev/register/commit/6e59273c7dd3fc7302f6fc82be407fb819d3c0a3) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41512 from nour-eldein10/main](https://github.com/is-a-dev/register/commit/4ddb5f54f9e78e3d630c1eedf626c14f3310ce95) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Apply suggestion from @notamitgamer](https://github.com/is-a-dev/register/commit/22e7108b64f54607768113fe71fb7a0323dd9a33) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41510 from Seyronh/main](https://github.com/is-a-dev/register/commit/ca1b8484ca1dc633e7d0ab2436a811799c32b856) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
