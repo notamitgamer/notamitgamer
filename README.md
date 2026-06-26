@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #41875 from MaxLHy0424/main](https://github.com/is-a-dev/register/commit/270fd9282ce4cb660d2055ee2c77ad9af316b335) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41874 from do11ars/main](https://github.com/is-a-dev/register/commit/6948bb8ff7b780b914b51aac68f1c699557ea621) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #41849 from kunjalswe/patch-2](https://github.com/is-a-dev/register/commit/8fc40131e0baae9e83ebf8f4668cb9a9d3ff066d) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Rename kunjaljoshi to kunjaljoshi.json](https://github.com/is-a-dev/register/commit/539d7c37b028f719ab8ddbd2f5687130e698a975) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #41847 from dengshangli/register-dengshangli-is-a-dev-v2](https://github.com/is-a-dev/register/commit/9ac17921bb572005e6204ec1c03cd65cc6b808d6) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41845 from dannyyycodes/main](https://github.com/is-a-dev/register/commit/8900db2c851810cc571926bbe8c7a83836a5b347) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41839 from jokoarynt/main](https://github.com/is-a-dev/register/commit/d60621a9107e68107202bd055afb84b8781f9f25) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
