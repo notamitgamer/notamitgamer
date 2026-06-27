@@ -1,168 +1,207 @@
 #!/usr/bin/env python3
-"""
-Fetches PR activity for tracked maintainers from is-a-dev/register
-and writes the results to maintainers.json.
-
-Uses the GitHub Search API to find PRs each maintainer interacted with
-(reviewed, commented, merged, closed, labelled) — much faster than
-paginating every PR in the repo.
-"""
-
 import json
 import os
 import time
 from datetime import datetime, timezone
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-REPO = "is-a-dev/register"
+REPO        = "is-a-dev/register"
+REPO_START  = (2020, 10)   # October 2020
+CACHE_FILE  = "pr_cache.json"
+OUTPUT_FILE = "maintainers.json"
 
 MAINTAINERS = [
-    "Yunexiz",
-    "wdhdev",
-    "STICKnoLOGIC",
-    "Stef-00012",
-    "satr14washere",
-    "orangci",
-    "omsenjalia",
-    "notamitgamer",
-    "iostpa",
-    "dragsbruh",
-    "DEV-DIBSTER",
+    "Yunexiz", "wdhdev", "STICKnoLOGIC", "Stef-00012",
+    "satr14washere", "orangci", "omsenjalia", "notamitgamer",
+    "iostpa", "dragsbruh", "DEV-DIBSTER",
 ]
 
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
-OUTPUT_FILE = "maintainers.json"
-
 HEADERS = {
     "Accept": "application/vnd.github+json",
     "X-GitHub-Api-Version": "2022-11-28",
+    "Authorization": f"Bearer {GITHUB_TOKEN}",
 }
-if GITHUB_TOKEN:
-    HEADERS["Authorization"] = f"Bearer {GITHUB_TOKEN}"
 
-# ── Helpers ───────────────────────────────────────────────────────────────────
-
-def get(url: str, params: dict = None):
-    while True:
-        r = requests.get(url, headers=HEADERS, params=params, timeout=30)
-        if r.status_code == 403 and "rate limit" in r.text.lower():
-            reset = int(r.headers.get("X-RateLimit-Reset", time.time() + 60))
-            wait = max(reset - int(time.time()), 5)
-            print(f"  Rate limited – sleeping {wait}s …", flush=True)
-            time.sleep(wait)
-            continue
-        if r.status_code == 422:
-            # Search index not available for this query, return empty
-            return {"items": [], "total_count": 0}
-        r.raise_for_status()
-        return r.json()
-
-
-def search_prs(query: str) -> set[int]:
-    """Return set of PR numbers matching a GitHub search query."""
-    pr_numbers = set()
-    page = 1
-    while True:
-        data = get(
-            "https://api.github.com/search/issues",
-            {"q": query, "per_page": 100, "page": page},
-        )
-        items = data.get("items", [])
-        for item in items:
-            pr_numbers.add(item["number"])
-        print(f"    page {page}: {len(items)} results (total so far: {len(pr_numbers)})", flush=True)
-        if len(items) < 100:
-            break
-        page += 1
-        time.sleep(0.5)  # be kind to search rate limits
-    return pr_numbers
-
+# ── Date helpers ──────────────────────────────────────────────────────────────
 
 def now_utc() -> datetime:
     return datetime.now(timezone.utc)
 
+def next_month(y: int, m: int) -> tuple[int, int]:
+    return (y + 1, 1) if m == 12 else (y, m + 1)
 
-def month_bounds(offset: int = 0):
-    """Return (start_str, end_str) in YYYY-MM-DD for use in GitHub search."""
-    today = now_utc().replace(day=1)
-    year, month = today.year, today.month
-    month += offset
-    while month <= 0:
-        month += 12
-        year -= 1
-    while month > 12:
-        month -= 12
-        year += 1
-    start = today.replace(year=year, month=month)
-    end_month = month + 1
-    end_year = year
-    if end_month > 12:
-        end_month = 1
-        end_year += 1
-    end = start.replace(year=end_year, month=end_month)
-    return start.strftime("%Y-%m-%d"), end.strftime("%Y-%m-%d")
+def prev_month(y: int, m: int) -> tuple[int, int]:
+    return (y - 1, 12) if m == 1 else (y, m - 1)
 
+def month_key(y: int, m: int) -> str:
+    return f"{y}-{m:02d}"
 
-# ── Per-maintainer search ─────────────────────────────────────────────────────
+def month_range_str(y: int, m: int) -> tuple[str, str]:
+    ny, nm = next_month(y, m)
+    return f"{y}-{m:02d}-01", f"{ny}-{nm:02d}-01"
 
-def get_pr_count(username: str, date_filter: str = "") -> int:
+def all_months() -> list[tuple[int, int]]:
+    """All months from REPO_START up to and including current month."""
+    now = now_utc()
+    months = []
+    y, m = REPO_START
+    while (y, m) <= (now.year, now.month):
+        months.append((y, m))
+        y, m = next_month(y, m)
+    return months
+
+# ── Cache helpers ─────────────────────────────────────────────────────────────
+
+def load_cache() -> dict:
     """
-    Count distinct PRs in REPO that `username` interacted with
-    (reviewed, commented, merged/closed) but did NOT author.
-
-    date_filter: e.g. "2025-06-01..2025-07-01" or "" for all time.
+    Cache structure:
+    {
+      "USERNAME": {
+        "2020-10": 5,
+        "2020-11": 12,
+        ...
+      },
+      ...
+    }
     """
-    base = f"repo:{REPO} is:pr -author:{username}"
-    date_part = f" updated:{date_filter}" if date_filter else ""
+    if os.path.exists(CACHE_FILE):
+        with open(CACHE_FILE) as f:
+            return json.load(f)
+    return {}
 
-    queries = [
-        f"{base} reviewed-by:{username}{date_part}",
-        f"{base} commenter:{username}{date_part}",
-    ]
+def save_cache(cache: dict):
+    with open(CACHE_FILE, "w") as f:
+        json.dump(cache, f, indent=2)
 
-    pr_set = set()
-    for q in queries:
-        print(f"  Searching: {q}", flush=True)
-        pr_set |= search_prs(q)
-        time.sleep(1)  # GitHub search: 30 req/min for authenticated
+# ── GitHub Search ─────────────────────────────────────────────────────────────
 
-    return len(pr_set)
+def fetch_ids(query: str) -> set[int]:
+    """Fetch all PR numbers matching a search query (handles pagination)."""
+    ids = set()
+    page = 1
+    while True:
+        while True:
+            r = requests.get(
+                "https://api.github.com/search/issues",
+                headers=HEADERS,
+                params={"q": query, "per_page": 100, "page": page},
+                timeout=30,
+            )
+            if r.status_code in (403, 429):
+                reset = int(r.headers.get("X-RateLimit-Reset", time.time() + 30))
+                wait  = max(reset - int(time.time()), 10)
+                print(f"    Rate limited – sleeping {wait}s …", flush=True)
+                time.sleep(wait)
+                continue
+            if r.status_code == 422:
+                return ids
+            r.raise_for_status()
+            break
 
+        data  = r.json()
+        items = data.get("items", [])
+        for item in items:
+            ids.add(item["number"])
+        if len(items) < 100:
+            break
+        page += 1
+        time.sleep(0.5)
+    return ids
+
+
+def count_for_month(username: str, y: int, m: int) -> int:
+    """Count distinct closed PRs a maintainer interacted with in a given month."""
+    start, end = month_range_str(y, m)
+    base  = f"repo:{REPO} is:pr is:closed -author:{username}"
+    date  = f"closed:{start}..{end}"
+
+    rev_ids = fetch_ids(f"{base} reviewed-by:{username} {date}")
+    time.sleep(0.5)
+    com_ids = fetch_ids(f"{base} commenter:{username} {date}")
+    time.sleep(0.5)
+
+    return len(rev_ids | com_ids)
+
+# ── Per-maintainer update ─────────────────────────────────────────────────────
+
+def update_maintainer(username: str, cache: dict) -> dict:
+    print(f"\n── {username} ──", flush=True)
+
+    user_cache = cache.get(username, {})
+    now        = now_utc()
+    cur_key    = month_key(now.year, now.month)
+
+    for (y, m) in all_months():
+        key = month_key(y, m)
+        # Always re-fetch current month (still growing). Skip all others if cached.
+        if key in user_cache and key != cur_key:
+            print(f"  {key}: cached={user_cache[key]} (skip)", flush=True)
+            continue
+
+        count = count_for_month(username, y, m)
+        user_cache[key] = count
+        print(f"  {key}: fetched={count}", flush=True)
+
+    cache[username] = user_cache
+
+    # Compute stats from cache
+    all_time = sum(user_cache.values())
+
+    py, pm   = prev_month(now.year, now.month)
+    this_month = user_cache.get(month_key(now.year, now.month), 0)
+    last_month = user_cache.get(month_key(py, pm), 0)
+
+    print(f"  ✓ all={all_time}  this_month={this_month}  last_month={last_month}", flush=True)
+
+    return {
+        "username": username,
+        "stats": {
+            "all_time":   all_time,
+            "this_month": this_month,
+            "last_month": last_month,
+        },
+        "last_updated": now_utc().isoformat(),
+    }
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    this_month_start, this_month_end = month_bounds(0)
-    last_month_start, last_month_end = month_bounds(-1)
-    updated_at = now_utc().isoformat()
+    if not GITHUB_TOKEN:
+        raise RuntimeError("GITHUB_TOKEN not set")
 
-    output = []
-    for username in MAINTAINERS:
-        print(f"\n── {username} ──", flush=True)
+    cache = load_cache()
+    print(f"Loaded cache for {len(cache)} maintainers.\n", flush=True)
 
-        all_time   = get_pr_count(username)
-        this_month = get_pr_count(username, f"{this_month_start}..{this_month_end}")
-        last_month = get_pr_count(username, f"{last_month_start}..{last_month_end}")
+    results  = {}
+    # max_workers=2 to stay within Search API rate limits (30 req/min)
+    with ThreadPoolExecutor(max_workers=2) as ex:
+        futures = {ex.submit(update_maintainer, u, cache): u for u in MAINTAINERS}
+        for future in as_completed(futures):
+            u = futures[future]
+            try:
+                results[u] = future.result()
+            except Exception as e:
+                print(f"  ✗ {u} failed: {e}", flush=True)
+                results[u] = {
+                    "username": u,
+                    "stats": {"all_time": 0, "this_month": 0, "last_month": 0},
+                    "last_updated": now_utc().isoformat(),
+                }
 
-        print(f"  → all={all_time}  this_month={this_month}  last_month={last_month}", flush=True)
+    # Save updated cache
+    save_cache(cache)
+    print(f"\n✓ Cache saved to {CACHE_FILE}", flush=True)
 
-        output.append({
-            "username": username,
-            "stats": {
-                "all_time":   all_time,
-                "this_month": this_month,
-                "last_month": last_month,
-            },
-            "last_updated": updated_at,
-        })
-
+    # Write output
+    output = [results[u] for u in MAINTAINERS if u in results]
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2)
-
-    print(f"\n✓ Written to {OUTPUT_FILE}", flush=True)
+    print(f"✓ Written to {OUTPUT_FILE}", flush=True)
 
 
 if __name__ == "__main__":
