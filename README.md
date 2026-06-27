@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Add workflow to auto-update README with recent commits](https://github.com/notamitgamer/notamitgamer/commit/ce7c0b8a6ae8d3fb70d4dfccc6cf1cfecb9ad645) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Refactor update_maintainers.py for efficiency](https://github.com/notamitgamer/notamitgamer/commit/9bfd16aac55f0d74eaee3d6be3715a2f9ac16f4b) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Rename update-commits.yml to job.yml](https://github.com/notamitgamer/notamitgamer/commit/6492e363029f0c0f8a2a2a2cf627e53c33d3b3cb) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Add script to track maintainer PR activity](https://github.com/notamitgamer/notamitgamer/commit/57e048b8b1e0f1b89315d82384f229939e4038b9) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Merge pull request #41875 from MaxLHy0424/main](https://github.com/is-a-dev/register/commit/270fd9282ce4cb660d2055ee2c77ad9af316b335) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41874 from do11ars/main](https://github.com/is-a-dev/register/commit/6948bb8ff7b780b914b51aac68f1c699557ea621) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41849 from kunjalswe/patch-2](https://github.com/is-a-dev/register/commit/8fc40131e0baae9e83ebf8f4668cb9a9d3ff066d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Rename kunjaljoshi to kunjaljoshi.json](https://github.com/is-a-dev/register/commit/539d7c37b028f719ab8ddbd2f5687130e698a975) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
