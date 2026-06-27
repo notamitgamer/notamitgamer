@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import json
 import os
 import time
@@ -9,7 +10,6 @@ import requests
 # ── Config ────────────────────────────────────────────────────────────────────
 
 REPO        = "is-a-dev/register"
-REPO_START  = (2020, 10)
 CACHE_FILE  = "pr_cache.json"
 OUTPUT_FILE = "maintainers.json"
 
@@ -26,33 +26,51 @@ HEADERS = {
     "Authorization": f"Bearer {GITHUB_TOKEN}",
 }
 
-# ── Date helpers ──────────────────────────────────────────────────────────────
+# ── Helpers ───────────────────────────────────────────────────────────────────
 
 def now_utc() -> datetime:
     return datetime.now(timezone.utc)
 
-def next_month(y: int, m: int) -> tuple[int, int]:
-    return (y + 1, 1) if m == 12 else (y, m + 1)
 
-def prev_month(y: int, m: int) -> tuple[int, int]:
-    return (y - 1, 12) if m == 1 else (y, m - 1)
+def fetch_contributor_stats() -> list:
+    """
+    Fetch /stats/contributors. GitHub computes this asynchronously —
+    if it returns 202, we wait and retry until we get 200.
+    """
+    url = f"https://api.github.com/repos/{REPO}/stats/contributors"
+    for attempt in range(10):
+        r = requests.get(url, headers=HEADERS, timeout=30)
+        if r.status_code == 202:
+            print(f"  GitHub is computing stats, waiting 5s … (attempt {attempt+1})", flush=True)
+            time.sleep(5)
+            continue
+        if r.status_code == 204:
+            print("  No stats available yet.", flush=True)
+            return []
+        r.raise_for_status()
+        return r.json()
+    raise RuntimeError("GitHub stats endpoint kept returning 202 after 10 attempts")
 
-def month_key(y: int, m: int) -> str:
-    return f"{y}-{m:02d}"
 
-def month_range_str(y: int, m: int) -> tuple[str, str]:
-    """Returns ISO timestamps for start/end of a month."""
-    ny, nm = next_month(y, m)
-    return f"{y}-{m:02d}-01T00:00:00Z", f"{ny}-{nm:02d}-01T00:00:00Z"
+def week_to_month_key(ts: int) -> str:
+    """Convert a Unix week timestamp to YYYY-MM key of the month it falls in."""
+    dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+    return f"{dt.year}-{dt.month:02d}"
 
-def all_months() -> list[tuple[int, int]]:
+
+def this_month_key() -> str:
     now = now_utc()
-    months = []
-    y, m = REPO_START
-    while (y, m) <= (now.year, now.month):
-        months.append((y, m))
-        y, m = next_month(y, m)
-    return months
+    return f"{now.year}-{now.month:02d}"
+
+
+def last_month_key() -> str:
+    now = now_utc()
+    y, m = now.year, now.month
+    if m == 1:
+        y, m = y - 1, 12
+    else:
+        m -= 1
+    return f"{y}-{m:02d}"
 
 # ── Cache ─────────────────────────────────────────────────────────────────────
 
@@ -62,93 +80,10 @@ def load_cache() -> dict:
             return json.load(f)
     return {}
 
+
 def save_cache(cache: dict):
     with open(CACHE_FILE, "w") as f:
         json.dump(cache, f, indent=2)
-
-# ── GitHub Commits API ────────────────────────────────────────────────────────
-
-def count_commits(username: str, since: str, until: str) -> int:
-    """Count commits by a user in a date range using pagination."""
-    url    = f"https://api.github.com/repos/{REPO}/commits"
-    count  = 0
-    page   = 1
-    while True:
-        while True:
-            r = requests.get(url, headers=HEADERS, params={
-                "author":   username,
-                "since":    since,
-                "until":    until,
-                "per_page": 100,
-                "page":     page,
-            }, timeout=30)
-
-            remaining = int(r.headers.get("X-RateLimit-Remaining", 10))
-            reset_at  = int(r.headers.get("X-RateLimit-Reset", time.time() + 60))
-
-            if r.status_code in (403, 429) or remaining == 0:
-                wait = max(reset_at - int(time.time()), 5)
-                print(f"    Rate limited – sleeping {wait}s …", flush=True)
-                time.sleep(wait + 2)
-                continue
-
-            r.raise_for_status()
-
-            if remaining < 10:
-                wait = max(reset_at - int(time.time()), 5)
-                print(f"    Low requests ({remaining} left) – sleeping {wait}s …", flush=True)
-                time.sleep(wait + 2)
-            break
-
-        items  = r.json()
-        count += len(items)
-        if len(items) < 100:
-            break
-        page += 1
-        time.sleep(0.3)
-
-    return count
-
-# ── Per-maintainer update ─────────────────────────────────────────────────────
-
-def update_maintainer(username: str, cache: dict) -> dict:
-    print(f"\n── {username} ──", flush=True)
-
-    user_cache = cache.get(username, {})
-    now        = now_utc()
-    cur_key    = month_key(now.year, now.month)
-
-    for (y, m) in all_months():
-        key = month_key(y, m)
-        if key in user_cache and key != cur_key:
-            print(f"  {key}: {user_cache[key]} (cached)", flush=True)
-            continue
-
-        since, until   = month_range_str(y, m)
-        count          = count_commits(username, since, until)
-        user_cache[key] = count
-        print(f"  {key}: {count} (fetched)", flush=True)
-
-        # Save after every month so progress isn't lost on interruption
-        cache[username] = user_cache
-        save_cache(cache)
-
-    py, pm     = prev_month(now.year, now.month)
-    all_time   = sum(user_cache.values())
-    this_month = user_cache.get(cur_key, 0)
-    last_month = user_cache.get(month_key(py, pm), 0)
-
-    print(f"  ✓ all={all_time}  this_month={this_month}  last_month={last_month}", flush=True)
-
-    return {
-        "username": username,
-        "stats": {
-            "all_time":   all_time,
-            "this_month": this_month,
-            "last_month": last_month,
-        },
-        "last_updated": now_utc().isoformat(),
-    }
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
@@ -157,25 +92,70 @@ def main():
         raise RuntimeError("GITHUB_TOKEN not set")
 
     cache = load_cache()
-    print(f"Loaded cache for {len(cache)} maintainer(s).\n", flush=True)
+    print("Fetching contributor stats (single API call) …", flush=True)
+    stats = fetch_contributor_stats()
 
-    results = {}
+    if not stats:
+        print("No stats returned, aborting.", flush=True)
+        return
+
+    maintainers_lower = {m.lower(): m for m in MAINTAINERS}
+    this_key = this_month_key()
+    last_key = last_month_key()
+
+    # Build monthly totals per maintainer from the weekly data
+    # weekly_data: { "username": { "YYYY-MM": total_commits } }
+    weekly_data = {}
+    for contributor in stats:
+        login = (contributor.get("author") or {}).get("login", "")
+        if not login or login.lower() not in maintainers_lower:
+            continue
+
+        canonical = maintainers_lower[login.lower()]
+        monthly   = {}
+        for week in contributor.get("weeks", []):
+            commits = week.get("c", 0)
+            if commits == 0:
+                continue
+            mk = week_to_month_key(week["w"])
+            monthly[mk] = monthly.get(mk, 0) + commits
+
+        weekly_data[canonical] = monthly
+        print(f"  {canonical}: {sum(monthly.values())} total commits across {len(monthly)} active months", flush=True)
+
+    # Merge into cache — update only months that changed
+    for username, monthly in weekly_data.items():
+        user_cache = cache.get(username, {})
+        for mk, count in monthly.items():
+            user_cache[mk] = count   # overwrite (stats endpoint is authoritative)
+        cache[username] = user_cache
+
+    save_cache(cache)
+    print(f"\n✓ Cache saved to {CACHE_FILE}", flush=True)
+
+    # Build output
+    output = []
     for username in MAINTAINERS:
-        try:
-            results[username] = update_maintainer(username, cache)
-        except Exception as e:
-            print(f"  ✗ {username} failed: {e}", flush=True)
-            results[username] = {
-                "username": username,
-                "stats": {"all_time": 0, "this_month": 0, "last_month": 0},
-                "last_updated": now_utc().isoformat(),
-            }
+        user_cache = cache.get(username, {})
+        all_time   = sum(user_cache.values())
+        this_month = user_cache.get(this_key, 0)
+        last_month = user_cache.get(last_key, 0)
 
-    output = [results[u] for u in MAINTAINERS if u in results]
+        print(f"  {username}: all={all_time}  this_month={this_month}  last_month={last_month}", flush=True)
+        output.append({
+            "username": username,
+            "stats": {
+                "all_time":   all_time,
+                "this_month": this_month,
+                "last_month": last_month,
+            },
+            "last_updated": now_utc().isoformat(),
+        })
+
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2)
 
-    print(f"\n✓ Written to {OUTPUT_FILE}", flush=True)
+    print(f"✓ Written to {OUTPUT_FILE}", flush=True)
 
 
 if __name__ == "__main__":
