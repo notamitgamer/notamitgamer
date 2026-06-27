@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #41879 from miftahozuki/main](https://github.com/is-a-dev/register/commit/82453f8e9fe6cb4831f3b21e03b8b38e59f0c1f2) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41886 from sbalbalosa/vercel-update](https://github.com/is-a-dev/register/commit/ebe14b0e64a1511bcc177e8b05d3829e07b6ea5a) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41881 from rg-incognito/fix-rohitgande-all-vercel-records](https://github.com/is-a-dev/register/commit/08918487dcf15eea408bdb50d84312965815d809) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Delete domains/_vercel.www.rohitgande.json](https://github.com/is-a-dev/register/commit/bf30523a88a4da4a7f16fa55630bf4603186a5af) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Update TXT records for domain verification](https://github.com/is-a-dev/register/commit/996e1c65f65c8cc68134840de64da71b7c574cce) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41934 from Malvin555/main](https://github.com/is-a-dev/register/commit/b8bfe666ea934dd8423a3b0190e5a888aaf0c59b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41933 from fvcified/patch-3](https://github.com/is-a-dev/register/commit/e19c7c56a182bbbcf51e30f65abfb08815d82174) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41926 from ben-xdev/main](https://github.com/is-a-dev/register/commit/aa72ee344509c62593715527d54b44f29541ef6d) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41923 from TQ-See/main](https://github.com/is-a-dev/register/commit/1c8063c234293cb3c2d8d3ccb25267e0bec5c4fe) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41922 from richmawanharizp/main](https://github.com/is-a-dev/register/commit/42633bfb48ecd626caae6298f76b0a690f5bcf92) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
