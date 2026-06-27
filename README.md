@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Add workflow to auto-update README with recent commits](https://github.com/notamitgamer/notamitgamer/commit/ce7c0b8a6ae8d3fb70d4dfccc6cf1cfecb9ad645) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Refactor update_maintainers.py for efficiency](https://github.com/notamitgamer/notamitgamer/commit/9bfd16aac55f0d74eaee3d6be3715a2f9ac16f4b) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Rename update-commits.yml to job.yml](https://github.com/notamitgamer/notamitgamer/commit/6492e363029f0c0f8a2a2a2cf627e53c33d3b3cb) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Add script to track maintainer PR activity](https://github.com/notamitgamer/notamitgamer/commit/57e048b8b1e0f1b89315d82384f229939e4038b9) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Merge pull request #41875 from MaxLHy0424/main](https://github.com/is-a-dev/register/commit/270fd9282ce4cb660d2055ee2c77ad9af316b335) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41879 from miftahozuki/main](https://github.com/is-a-dev/register/commit/82453f8e9fe6cb4831f3b21e03b8b38e59f0c1f2) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41886 from sbalbalosa/vercel-update](https://github.com/is-a-dev/register/commit/ebe14b0e64a1511bcc177e8b05d3829e07b6ea5a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #41881 from rg-incognito/fix-rohitgande-all-vercel-records](https://github.com/is-a-dev/register/commit/08918487dcf15eea408bdb50d84312965815d809) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Delete domains/_vercel.www.rohitgande.json](https://github.com/is-a-dev/register/commit/bf30523a88a4da4a7f16fa55630bf4603186a5af) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Update TXT records for domain verification](https://github.com/is-a-dev/register/commit/996e1c65f65c8cc68134840de64da71b7c574cce) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
