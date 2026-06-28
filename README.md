@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [Update maintainer stats output and next update logic](https://github.com/notamitgamer/notamitgamer/commit/1607ee5f421eede27b7f1563ce45f35109fd4db1) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Fix cron schedule formatting in job.yml](https://github.com/notamitgamer/notamitgamer/commit/862c60a6903e116246e3dac0be8c5d9039a3d38f) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Change cron schedule to run every hour](https://github.com/notamitgamer/notamitgamer/commit/7d471c7d5babd6418aced35e16db07ed3fa7e219) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Merge pull request #42007 from NodeX-AR/patch-5](https://github.com/is-a-dev/register/commit/26dfa769344475804010b78168f0b1e9c4b3b5cb) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Add CNAME record to a-r.json](https://github.com/is-a-dev/register/commit/fd1299444aac27e5c6e6e948111a532483658372) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41984 from fvcified/patch-4](https://github.com/is-a-dev/register/commit/aa8d9305138ceea760de44245a3396bb17f69af6) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41982 from Anushree401/main](https://github.com/is-a-dev/register/commit/1bb30002a797fdfed1445fd30e152b6be34f2fc5) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #41979 from nel003/main](https://github.com/is-a-dev/register/commit/a22ce3d407a247dc7fcd62d94539f8823f603777) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
