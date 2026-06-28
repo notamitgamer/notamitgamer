@@ -1,101 +1,96 @@
-[
-  {
-    "username": "Yunexiz",
-    "stats": {
-      "all_time": 266,
-      "this_month": 29,
-      "last_month": 134
-    },
-    "last_updated": "2026-06-27T04:50:30.014161+00:00"
+{
+  "meta": {
+    "last_updated": "2026-06-28T02:02:05.224568+00:00",
+    "next_update": "2026-06-28T03:00:00+00:00"
   },
-  {
-    "username": "wdhdev",
-    "stats": {
-      "all_time": 6302,
-      "this_month": 1,
-      "last_month": 9
+  "maintainers": [
+    {
+      "username": "Yunexiz",
+      "stats": {
+        "all_time": 274,
+        "this_month": 37,
+        "last_month": 134
+      }
     },
-    "last_updated": "2026-06-27T04:50:30.014191+00:00"
-  },
-  {
-    "username": "STICKnoLOGIC",
-    "stats": {
-      "all_time": 4148,
-      "this_month": 69,
-      "last_month": 126
+    {
+      "username": "wdhdev",
+      "stats": {
+        "all_time": 6302,
+        "this_month": 1,
+        "last_month": 9
+      }
     },
-    "last_updated": "2026-06-27T04:50:30.014206+00:00"
-  },
-  {
-    "username": "Stef-00012",
-    "stats": {
-      "all_time": 270,
-      "this_month": 7,
-      "last_month": 0
+    {
+      "username": "STICKnoLOGIC",
+      "stats": {
+        "all_time": 4148,
+        "this_month": 69,
+        "last_month": 126
+      }
     },
-    "last_updated": "2026-06-27T04:50:30.014217+00:00"
-  },
-  {
-    "username": "satr14washere",
-    "stats": {
-      "all_time": 256,
-      "this_month": 1,
-      "last_month": 6
+    {
+      "username": "Stef-00012",
+      "stats": {
+        "all_time": 270,
+        "this_month": 7,
+        "last_month": 0
+      }
     },
-    "last_updated": "2026-06-27T04:50:30.014234+00:00"
-  },
-  {
-    "username": "orangci",
-    "stats": {
-      "all_time": 2056,
-      "this_month": 7,
-      "last_month": 33
+    {
+      "username": "satr14washere",
+      "stats": {
+        "all_time": 256,
+        "this_month": 1,
+        "last_month": 6
+      }
     },
-    "last_updated": "2026-06-27T04:50:30.014245+00:00"
-  },
-  {
-    "username": "omsenjalia",
-    "stats": {
-      "all_time": 299,
-      "this_month": 0,
-      "last_month": 66
+    {
+      "username": "orangci",
+      "stats": {
+        "all_time": 2060,
+        "this_month": 11,
+        "last_month": 33
+      }
     },
-    "last_updated": "2026-06-27T04:50:30.014256+00:00"
-  },
-  {
-    "username": "notamitgamer",
-    "stats": {
-      "all_time": 469,
-      "this_month": 203,
-      "last_month": 210
+    {
+      "username": "omsenjalia",
+      "stats": {
+        "all_time": 299,
+        "this_month": 0,
+        "last_month": 66
+      }
     },
-    "last_updated": "2026-06-27T04:50:30.014266+00:00"
-  },
-  {
-    "username": "iostpa",
-    "stats": {
-      "all_time": 3909,
-      "this_month": 71,
-      "last_month": 73
+    {
+      "username": "notamitgamer",
+      "stats": {
+        "all_time": 502,
+        "this_month": 236,
+        "last_month": 210
+      }
     },
-    "last_updated": "2026-06-27T04:50:30.014276+00:00"
-  },
-  {
-    "username": "dragsbruh",
-    "stats": {
-      "all_time": 541,
-      "this_month": 159,
-      "last_month": 332
+    {
+      "username": "iostpa",
+      "stats": {
+        "all_time": 3920,
+        "this_month": 82,
+        "last_month": 73
+      }
     },
-    "last_updated": "2026-06-27T04:50:30.014286+00:00"
-  },
-  {
-    "username": "DEV-DIBSTER",
-    "stats": {
-      "all_time": 5127,
-      "this_month": 85,
-      "last_month": 35
+    {
+      "username": "dragsbruh",
+      "stats": {
+        "all_time": 541,
+        "this_month": 159,
+        "last_month": 332
+      }
     },
-    "last_updated": "2026-06-27T04:50:30.014297+00:00"
-  }
-]
+    {
+      "username": "DEV-DIBSTER",
+      "stats": {
+        "all_time": 5127,
+        "this_month": 85,
+        "last_month": 35
+      }
+    }
+  ]
+}
