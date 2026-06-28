@@ -2,7 +2,7 @@ name: Auto-Update Maintainer Activity
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # every day at midnight UTC
+    - cron: '0 */1 * * *'   # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
