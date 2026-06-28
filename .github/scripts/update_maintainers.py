@@ -3,7 +3,7 @@
 import json
 import os
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 import requests
 
@@ -30,6 +30,15 @@ HEADERS = {
 
 def now_utc() -> datetime:
     return datetime.now(timezone.utc)
+
+
+def next_update_utc(now: datetime) -> datetime:
+    """
+    Cron is '0 */1 * * *' — fires at the top of every hour.
+    Next update = start of the next hour.
+    """
+    next_hour = now.replace(minute=0, second=0, microsecond=0) + timedelta(hours=1)
+    return next_hour
 
 
 def fetch_contributor_stats() -> list:
@@ -134,7 +143,8 @@ def main():
     print(f"\n✓ Cache saved to {CACHE_FILE}", flush=True)
 
     # Build output
-    output = []
+    now = now_utc()
+    maintainers_output = []
     for username in MAINTAINERS:
         user_cache = cache.get(username, {})
         all_time   = sum(user_cache.values())
@@ -142,15 +152,22 @@ def main():
         last_month = user_cache.get(last_key, 0)
 
         print(f"  {username}: all={all_time}  this_month={this_month}  last_month={last_month}", flush=True)
-        output.append({
+        maintainers_output.append({
             "username": username,
             "stats": {
                 "all_time":   all_time,
                 "this_month": this_month,
                 "last_month": last_month,
             },
-            "last_updated": now_utc().isoformat(),
         })
+
+    output = {
+        "meta": {
+            "last_updated": now.isoformat(),
+            "next_update":  next_update_utc(now).isoformat(),
+        },
+        "maintainers": maintainers_output,
+    }
 
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2)
