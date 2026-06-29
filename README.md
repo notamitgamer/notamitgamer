@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [added eduincs codes](https://github.com/notamitgamer/bsc/commit/ec32ec24c12a140aeb1e0b2c22d643487a0b0085) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Change cron schedule for maintainer activity update](https://github.com/notamitgamer/notamitgamer/commit/ad9e7711ef3ebe4d5f7cf6790ae4636a385613f1) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Update maintainer stats output and next update logic](https://github.com/notamitgamer/notamitgamer/commit/1607ee5f421eede27b7f1563ce45f35109fd4db1) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Fix cron schedule formatting in job.yml](https://github.com/notamitgamer/notamitgamer/commit/862c60a6903e116246e3dac0be8c5d9039a3d38f) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Change cron schedule to run every hour](https://github.com/notamitgamer/notamitgamer/commit/7d471c7d5babd6418aced35e16db07ed3fa7e219) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Merge pull request #42007 from NodeX-AR/patch-5](https://github.com/is-a-dev/register/commit/26dfa769344475804010b78168f0b1e9c4b3b5cb) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
