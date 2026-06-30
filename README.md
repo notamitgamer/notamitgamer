@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #42087 from pramod-d04/main](https://github.com/is-a-dev/register/commit/77e982afd0a7fff91fa11a951e352eecf9bf33b8) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42073 from amanmalhotra911/add-vercel-amanjot](https://github.com/is-a-dev/register/commit/12851da0024704f7578436d5edd2e7d1fc2f35ae) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42069 from FreyaGrace/main](https://github.com/is-a-dev/register/commit/7da54e96b728fabc549f7c9bf2c5d629b4894d1d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42064 from jahnejanne/main](https://github.com/is-a-dev/register/commit/6664ff7a22d8a80b90bf9186d7c6f0f32d924d08) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42063 from Tyrion7126/main](https://github.com/is-a-dev/register/commit/e728b8a6f65d720e8f880981e412a07a586dcb10) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42157 from Toshiii10/patch-3](https://github.com/is-a-dev/register/commit/f462650b5622b37d38138b7195d4377d6026e26f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42154 from devikapolavarapu/main](https://github.com/is-a-dev/register/commit/fbfdd45a885c2ea5ccdff1ccb575f491025d4cea) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42153 from msc-femboy/main](https://github.com/is-a-dev/register/commit/26eda9131c7bad9b09fec977acbf83c6b63b783d) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42148 from darshil2032007/main](https://github.com/is-a-dev/register/commit/7e1f454f5f521de3b924275c3474836cd1be77cc) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42147 from MerelyMiserable/main](https://github.com/is-a-dev/register/commit/1871c684e332b1bd2da5b3246345ad266761f66f) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
