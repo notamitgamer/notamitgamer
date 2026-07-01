@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [updated algolia search modal style](https://github.com/notamitgamer/bsc/commit/1eed97eb406ef0a38b73b05c92d9b27de417d512) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [updated algolia](https://github.com/notamitgamer/bsc/commit/b2756a80c70b1de5f8412e307c4e847fbd86f19c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [added algolia](https://github.com/notamitgamer/bsc/commit/6012d783d401d84438f8abc4c5cfd71db1b59327) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [algolia verfication.](https://github.com/is-a-dev/register/commit/5d1668dc5c37663ab1e3d4719f3ae7c50baaa57a) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #42237 from RaghavNotFound/main](https://github.com/is-a-dev/register/commit/e820a82099c08780f02b1fbddf84038222253746) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42226 from tomislavherman/main](https://github.com/is-a-dev/register/commit/d30f97d8681db071ecec6facd3ea110f83c3b9e6) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42225 from talha50819/webora-subdomain](https://github.com/is-a-dev/register/commit/3582028aed66c84a333cd8153a28e79617322452) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42219 from Ujjawal0204/add-ujjawal](https://github.com/is-a-dev/register/commit/a98b1d527e3c03fa7bcdcb99c5d1c4b1d6b5f647) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [updated format](https://github.com/notamitgamer/bsc/commit/deafb94e5f4447cc77697daf5a81bec3aa7fefe9) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
