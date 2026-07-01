@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #42157 from Toshiii10/patch-3](https://github.com/is-a-dev/register/commit/f462650b5622b37d38138b7195d4377d6026e26f) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42154 from devikapolavarapu/main](https://github.com/is-a-dev/register/commit/fbfdd45a885c2ea5ccdff1ccb575f491025d4cea) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42153 from msc-femboy/main](https://github.com/is-a-dev/register/commit/26eda9131c7bad9b09fec977acbf83c6b63b783d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42148 from darshil2032007/main](https://github.com/is-a-dev/register/commit/7e1f454f5f521de3b924275c3474836cd1be77cc) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42147 from MerelyMiserable/main](https://github.com/is-a-dev/register/commit/1871c684e332b1bd2da5b3246345ad266761f66f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42237 from RaghavNotFound/main](https://github.com/is-a-dev/register/commit/e820a82099c08780f02b1fbddf84038222253746) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42226 from tomislavherman/main](https://github.com/is-a-dev/register/commit/d30f97d8681db071ecec6facd3ea110f83c3b9e6) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42225 from talha50819/webora-subdomain](https://github.com/is-a-dev/register/commit/3582028aed66c84a333cd8153a28e79617322452) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42219 from Ujjawal0204/add-ujjawal](https://github.com/is-a-dev/register/commit/a98b1d527e3c03fa7bcdcb99c5d1c4b1d6b5f647) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [updated format](https://github.com/notamitgamer/bsc/commit/deafb94e5f4447cc77697daf5a81bec3aa7fefe9) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
