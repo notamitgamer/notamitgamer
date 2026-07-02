@@ -90,11 +90,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 
 ### Recent Commits
 <!-- START_RECENT_COMMITS -->
+- [fix(banner): replace hardcoded blue with brand color variable](https://github.com/notamitgamer/bsc/commit/19cd252ccfdb063b3cd814f2d93ae1f1c3e5fd81) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [style: refine DocSearch UI, add true-black dark mode, switch to Mauve theme](https://github.com/notamitgamer/bsc/commit/275a7ca9279330d8ea1e1723501e41d0894f3d9a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [updated algolia search modal style](https://github.com/notamitgamer/bsc/commit/1eed97eb406ef0a38b73b05c92d9b27de417d512) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [updated algolia](https://github.com/notamitgamer/bsc/commit/b2756a80c70b1de5f8412e307c4e847fbd86f19c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [added algolia](https://github.com/notamitgamer/bsc/commit/6012d783d401d84438f8abc4c5cfd71db1b59327) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [algolia verfication.](https://github.com/is-a-dev/register/commit/5d1668dc5c37663ab1e3d4719f3ae7c50baaa57a) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42237 from RaghavNotFound/main](https://github.com/is-a-dev/register/commit/e820a82099c08780f02b1fbddf84038222253746) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
