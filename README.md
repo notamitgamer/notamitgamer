@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Revise README content for clarity and humor](https://github.com/notamitgamer/notamitgamer/commit/0755fad9d1cf74d40a42c0d3d632eb475e105d15) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [fixed: (bug) Breadcrumbs .crumb-sep was not showing color properly.](https://github.com/notamitgamer/bsc/commit/5a058183450123a9b3310ddabbc1035aa6b178fe) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [added breadcrubms](https://github.com/notamitgamer/bsc/commit/1b07037e877b47beb9aedfd6960ca7bf1ae2b5f2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [fix(banner): replace hardcoded blue with brand color variable](https://github.com/notamitgamer/bsc/commit/19cd252ccfdb063b3cd814f2d93ae1f1c3e5fd81) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [style: refine DocSearch UI, add true-black dark mode, switch to Mauve theme](https://github.com/notamitgamer/bsc/commit/275a7ca9279330d8ea1e1723501e41d0894f3d9a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated algolia search modal style](https://github.com/notamitgamer/bsc/commit/1eed97eb406ef0a38b73b05c92d9b27de417d512) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated algolia](https://github.com/notamitgamer/bsc/commit/b2756a80c70b1de5f8412e307c4e847fbd86f19c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [added algolia](https://github.com/notamitgamer/bsc/commit/6012d783d401d84438f8abc4c5cfd71db1b59327) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
