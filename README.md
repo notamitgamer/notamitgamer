@@ -10,9 +10,8 @@
 ```
 
 **CS Undergrad · Full Stack Developer (Maybe)**<br>
-**PR Reviewer at <a href="https://github.com/is-a-dev">is-a.dev</a> organization**
-<br><br>***Also need a girlfriend (Urgent)***
-
+**PR Reviewer at <a href="https://github.com/is-a-dev">is-a.dev</a> organization** — *professional button-clicker*
+<br><br>***Status: 404 - Girlfriend Not Found***
 
 [![Website](https://img.shields.io/badge/amit.is--a.dev-000?style=flat-square&logo=google-chrome&logoColor=white)](https://amit.is-a.dev)
 [![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:amitdutta4255@gmail.com)
@@ -24,48 +23,50 @@
 [![Crunchbase](https://img.shields.io/badge/Crunchbase-000?style=flat-square&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/person/amit-dutta-d32d)
 <br><br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/1274721760088166495?bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true&hideActivity=true)](https://discord.com/users/1274721760088166495)
+
 </div>
 
 ---
 
 ### About
 
-B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolkata** with some programming experience. I build tools, libraries, and web utilities — mostly things I wish existed. Optimizing for stability and reputation over speed.
+B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolkata**, currently in semester 2 and still googling things I "*learned*" in semester 1. I build tools, libraries, and web utilities — mostly things I wish existed, occasionally things nobody asked for.
 
--  &nbsp; 1st year · Semester 2 &nbsp;
--  &nbsp; Currently working on — **Sem 2 Prep**
--  &nbsp; Freelance — **Unavailable**
--  &nbsp; [More about me ↗](https://amit.is-a.dev/about) &nbsp;·&nbsp; [Google Knowledge Graph ↗](https://www.google.com/search?kgmid=/g/11yzcqs5ff) 
+- 1st year · Semester 2 &nbsp;·&nbsp; *professional deadline-approacher*
+- Currently working on — **Sem 2 Prep** (a.k.a. panic)
+- Freelance — **Unavailable** *(see: Sem 2 Prep)*
+- Status — probably debugging something that worked five minutes ago
+- [More about me ↗](https://amit.is-a.dev/about) &nbsp;·&nbsp; [Google Knowledge Graph ↗](https://www.google.com/search?kgmid=/g/11yzcqs5ff)
 
 ---
 
 ### Stack
 
-* **Primary:** `Python`
-* **Web & Systems:** `HTML5`, `CSS3`, `JavaScript`, `Java`, `C`, `C++`, `Kotlin`, `Google Apps Script`
-* **Services:** `Firebase`, `Firestore`, `Gemini API`, `Render`
-* **Tooling:** `Git`
+* **Primary:** `Python` — my one true love (when coding, obviously), no jealousy issues
+* **Web & Systems:** `HTML5`, `CSS3`, `JavaScript`, `Java`, `C`, `C++`, `Kotlin`, `Google Apps Script` — mostly friendly, occasionally at war
+* **Services:** `Firebase`, `Firestore`, `Gemini API`, `Render` — the free-tier survival kit
+* **Tooling:** `Git` — my time machine and my regret log
 
 ---
 
 ### Projects
 
 **Web Apps**
-- [Veyrix IDE ↗](https://veyrix.amit.is-a.dev) · [Docs ↗](https://veyrix.amit.is-a.dev/docs) — Browser-based PWA code editor with offline support, real-time syntax highlighting, and dual sharing via compressed URLs or Firebase cloud links.
-- [Compiler ↗](https://compiler.amit.is-a.dev) — Online compiler for C, C++, and Python with a Render-powered backend.
+- [Veyrix IDE ↗](https://veyrix.amit.is-a.dev) · [Docs ↗](https://veyrix.amit.is-a.dev/docs) — Lightweight, browser-based code editor. Built after one too many "*I forgot to bring the assignment*" moments — write the code, download it in any extension, print, done.
+- [Compiler ↗](https://compiler.amit.is-a.dev) — Online C/C++/Python compiler, kept alive by hope and a Render free tier.
 
 **CLI & Automation**
-- [Githrun ↗](https://amit.is-a.dev/githrun) · [PyPI ↗](https://pypi.org/project/githrun) — Run, install, and explore GitHub scripts instantly — no cloning required.
-- [WhatsApp Logger ↗](https://amit.is-a.dev/logger) · [GitHub ↗](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-) — Self-hosted tool that archives WhatsApp conversations to a private Firestore database.
-- [Mojic ↗](https://amit.is-a.dev/mojicDocs) · [GitHub ↗](https://github.com/notamitgamer/mojic) — CLI-based C source code obfuscator using a 256-bit password-seeded rolling cipher.
+- [Githrun ↗](https://amit.is-a.dev/githrun) · [PyPI ↗](https://pypi.org/project/githrun) — Run GitHub scripts without cloning, for people (me) too impatient to `git clone`.
+- [WhatsApp Logger ↗](https://amit.is-a.dev/logger) · [GitHub ↗](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-) — Self-hosted archiver. Not spying, just... very thorough remembering.
+- [Mojic ↗](https://amit.is-a.dev/mojicDocs) · [GitHub ↗](https://github.com/notamitgamer/mojic) — Turns C code into emojis. Yes, on purpose. No, I don't know why either.
 
 **Libraries**
-- [ADPKG ↗](https://pypi.org/project/adpkg/) — Python toolkit for compound interest, matrix operations, and statistics.
+- [ADPKG ↗](https://pypi.org/project/adpkg/) — Compound interest, matrices, and stats, so I stop doing them by hand like a caveman.
 
 **Other**
-- [WBSU Repository ↗](https://code.amit.is-a.dev) · [GitHub ↗](https://github.com/notamitgamer/bsc) — Complete B.Sc. Hons CS practical code collection.
-- [Project ADA ↗](https://ada.amit.is-a.dev) · [Docs ↗](https://ada.amit.is-a.dev/docs) — Gemini-powered AI ecosystem with a Render backend and Firestore storage.
-- [ESAL-1.0 ↗](https://esal.amit.is-a.dev) — Educational Source-Available License with a strict Anti-Plagiarism clause.
+- [BSC Repository ↗](https://code.amit.is-a.dev) · [GitHub ↗](https://github.com/notamitgamer/bsc) — Every B.Sc. practical I've ever suffered through, preserved for posterity.
+- [Project ADA ↗](https://ada.amit.is-a.dev) · [Docs ↗](https://ada.amit.is-a.dev/docs) — Gemini-powered AI ecosystem, because apparently I needed a fourth project this month.
+- [ESAL-1.0 ↗](https://esal.amit.is-a.dev) — My own license, mostly to say "*please don't copy this*" in legal-sounding language.
 
 <details>
 <summary>Interactive Calculator (Legacy)</summary>
@@ -89,6 +90,7 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ---
 
 ### Recent Commits
+*(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
 - [fix(banner): replace hardcoded blue with brand color variable](https://github.com/notamitgamer/bsc/commit/19cd252ccfdb063b3cd814f2d93ae1f1c3e5fd81) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [style: refine DocSearch UI, add true-black dark mode, switch to Mauve theme](https://github.com/notamitgamer/bsc/commit/275a7ca9279330d8ea1e1723501e41d0894f3d9a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
