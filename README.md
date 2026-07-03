@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [added download files](https://github.com/notamitgamer/bsc/commit/a93a2d69761d35796e8350e8e63def377127a887) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #42312 from fm39hz/main](https://github.com/is-a-dev/register/commit/30ad797ef5930660cf5e12017fcdb196b048ea64) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #42311 from jairushiyatoday-beep/main](https://github.com/is-a-dev/register/commit/02db6ba69312479dd7184a114b7019f0057f664d) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Rename SECURITY.md to security.md [skip ci]](https://github.com/notamitgamer/bsc/commit/825ff480cd32551b47eed07b64e2778136869ef5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Rename CONTRIBUTING.md to contributing.md [skip ci]](https://github.com/notamitgamer/bsc/commit/b4ef1a0ba17e9ef18cc2bc6097e4cc111fd9cfab) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Rename CODE_OF_CONDUCT.md to code_of_conduct.md [skip ci]](https://github.com/notamitgamer/bsc/commit/de6a1674e66a5e53936db48fef1580c1fa59952a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
