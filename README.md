@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [upgraded to vitepress 2.0.0-alpha.17](https://github.com/notamitgamer/bsc/commit/920ead8201aa9fce82d03ed632d9054f4a09a260) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [added algo](https://github.com/notamitgamer/bsc/commit/5b34e2fa699bccad4f621112fc85ce749075b00b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Revise README content for clarity and humor](https://github.com/notamitgamer/notamitgamer/commit/0755fad9d1cf74d40a42c0d3d632eb475e105d15) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [fixed: (bug) Breadcrumbs .crumb-sep was not showing color properly.](https://github.com/notamitgamer/bsc/commit/5a058183450123a9b3310ddabbc1035aa6b178fe) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [added breadcrubms](https://github.com/notamitgamer/bsc/commit/1b07037e877b47beb9aedfd6960ca7bf1ae2b5f2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #42312 from fm39hz/main](https://github.com/is-a-dev/register/commit/30ad797ef5930660cf5e12017fcdb196b048ea64) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42311 from jairushiyatoday-beep/main](https://github.com/is-a-dev/register/commit/02db6ba69312479dd7184a114b7019f0057f664d) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Rename SECURITY.md to security.md [skip ci]](https://github.com/notamitgamer/bsc/commit/825ff480cd32551b47eed07b64e2778136869ef5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Rename CONTRIBUTING.md to contributing.md [skip ci]](https://github.com/notamitgamer/bsc/commit/b4ef1a0ba17e9ef18cc2bc6097e4cc111fd9cfab) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Rename CODE_OF_CONDUCT.md to code_of_conduct.md [skip ci]](https://github.com/notamitgamer/bsc/commit/de6a1674e66a5e53936db48fef1580c1fa59952a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
