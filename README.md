@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #42648 from AgustinH09/add-agustinh09](https://github.com/is-a-dev/register/commit/2ad95c9f0bcbaaaa3444cfb0885ddcea20442c01) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42646 from hrittm/main](https://github.com/is-a-dev/register/commit/f11c15dde323d7b2307a5b40d0f83401510229dd) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42640 from Joe50097/patch-57](https://github.com/is-a-dev/register/commit/d4edf0e44b2de4d02f9bc25e04b6c8cc6b1e326d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42639 from itsMeRaj69/main](https://github.com/is-a-dev/register/commit/36057ac09c74db0fdb748785cc9692f0631ac828) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42637 from Joe50097/patch-56](https://github.com/is-a-dev/register/commit/d70a1fce78e4da5fcd259bbf63afcc40eec91013) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42673 from dikhyantsatpathy-ui/main](https://github.com/is-a-dev/register/commit/cf02d062265c9e8387ce6fae6a66f592e701bc64) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42671 from divyarajkathi/patch-4](https://github.com/is-a-dev/register/commit/5cf5159b11e01e145622c7a810a25247916934f5) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42667 from inxane-rudrakxh/main](https://github.com/is-a-dev/register/commit/f1d1d48f5de2b10381fb12d0e2af999ab4a88ce7) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42665 from bjcf-dev/main](https://github.com/is-a-dev/register/commit/9642875252341a8f4b0a516fefa76a7b65a42648) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42664 from Saketkr21/main](https://github.com/is-a-dev/register/commit/23876091613cff79e8c81f11a7ccd6d2d85c41e5) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
