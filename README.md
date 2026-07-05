@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #42511 from jokoarynt/main](https://github.com/is-a-dev/register/commit/c6390464a1a2e207b384ea6b6e96145c72641f09) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42503 from avijitanand/main](https://github.com/is-a-dev/register/commit/19fdafd773b5affae6521edafaa37bcde09ac937) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42500 from n1k0ver3E/add-nikopang](https://github.com/is-a-dev/register/commit/b967b7f143f2c8570ddc1d72f5f1a82edd2bf347) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42496 from vansharmaweb/patch-1](https://github.com/is-a-dev/register/commit/46e795218e5fef22706acea8814340a0a706b1d3) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42495 from im-ng/main](https://github.com/is-a-dev/register/commit/57eb75e0f80ade5c3ddfadbb40911b085d5c44bb) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42620 from Stradok/main](https://github.com/is-a-dev/register/commit/404878b9f93cbb33797d41e45977f5566add5142) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42619 from jokoarynt/main](https://github.com/is-a-dev/register/commit/1747b172ae3de2984e0e37a8ee67949783f65a2b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42616 from BharatElav/txtrecordfix](https://github.com/is-a-dev/register/commit/1e7ca26e6f969d17b04003e33548553216aaf45a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42615 from AryanSingh2k4/patch-1](https://github.com/is-a-dev/register/commit/1097b2cabb1e3ca38e1f4e03621cdf6da390a4e9) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42613 from Tanishttha/main](https://github.com/is-a-dev/register/commit/81bef75e5c64d7c576fd2677369e511bbf7e3f5b) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
