@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #42620 from Stradok/main](https://github.com/is-a-dev/register/commit/404878b9f93cbb33797d41e45977f5566add5142) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42619 from jokoarynt/main](https://github.com/is-a-dev/register/commit/1747b172ae3de2984e0e37a8ee67949783f65a2b) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42616 from BharatElav/txtrecordfix](https://github.com/is-a-dev/register/commit/1e7ca26e6f969d17b04003e33548553216aaf45a) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42615 from AryanSingh2k4/patch-1](https://github.com/is-a-dev/register/commit/1097b2cabb1e3ca38e1f4e03621cdf6da390a4e9) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42613 from Tanishttha/main](https://github.com/is-a-dev/register/commit/81bef75e5c64d7c576fd2677369e511bbf7e3f5b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42648 from AgustinH09/add-agustinh09](https://github.com/is-a-dev/register/commit/2ad95c9f0bcbaaaa3444cfb0885ddcea20442c01) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42646 from hrittm/main](https://github.com/is-a-dev/register/commit/f11c15dde323d7b2307a5b40d0f83401510229dd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42640 from Joe50097/patch-57](https://github.com/is-a-dev/register/commit/d4edf0e44b2de4d02f9bc25e04b6c8cc6b1e326d) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42639 from itsMeRaj69/main](https://github.com/is-a-dev/register/commit/36057ac09c74db0fdb748785cc9692f0631ac828) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42637 from Joe50097/patch-56](https://github.com/is-a-dev/register/commit/d70a1fce78e4da5fcd259bbf63afcc40eec91013) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
