@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Update favicon to logo_light.svg in config](https://github.com/notamitgamer/bsc/commit/b60fa47fd89592816565704b9606c1077cc020d1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [refactor: update algorithm docs, workflows, and add code](https://github.com/notamitgamer/bsc/commit/9dbdb86c9034720da419b084c02043aee70cec30) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #42695 from barrybosssss/add-status-page-to-barryhisbot.is-a.dev](https://github.com/is-a-dev/register/commit/89196c1515a3202f49a5ade1fa2797b84b347cdb) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #42690 from merouan-dev/patch-12](https://github.com/is-a-dev/register/commit/2b457d7be081bc4be8dce9414ebe9fe6a1645b05) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #42689 from merouan-dev/patch-11](https://github.com/is-a-dev/register/commit/6a4ffc2b4e3cc42be9205a1ef1044449f29b1f40) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge branch 'main' into patch-11](https://github.com/is-a-dev/register/commit/31228e091796e9a3f251a1a04ad5bdad73d7ba90) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42688 from merouan-dev/patch-10](https://github.com/is-a-dev/register/commit/b5d31562af46e5b62debb66719fb08a86ddb893d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42683 from aimxnaim/main](https://github.com/is-a-dev/register/commit/487036a9b156eb5fd454f9af38353d18a8ecb9d8) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
