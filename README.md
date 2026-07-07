@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #42705 from theskylighter/main](https://github.com/is-a-dev/register/commit/2cdac3800214e4429b4d0df2c83971d5c3a00a56) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42702 from ai-haarish/patch-1](https://github.com/is-a-dev/register/commit/297e71de48bfef858438cd57eab49316e13e1384) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42701 from TheStarOfNorthAfrica/patch-1](https://github.com/is-a-dev/register/commit/307f16066ff412298b15f376a9f47d4d0950a7b7) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [fixed: fixed the license link in footer; refrctor: banner is redesigned, now with more room;](https://github.com/notamitgamer/bsc/commit/d9a0a3ae490d79d85906ff9f1a113961b61bcfe1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Update favicon to logo_light.svg in config](https://github.com/notamitgamer/bsc/commit/b60fa47fd89592816565704b9606c1077cc020d1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #42799 from Priyanshu631/main](https://github.com/is-a-dev/register/commit/9b92749dd7ad1c2d561ed9908efdc05ecee23fbb) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42732 from its-sorakun/main](https://github.com/is-a-dev/register/commit/d55da592ec49034e0bbf0805434b1362c0185dd1) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42796 from zeeshanalikudrat/main](https://github.com/is-a-dev/register/commit/b08090a0228c7d58d16a99ac4b2c075fb4c6fb81) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42794 from l3thily/dkarpov](https://github.com/is-a-dev/register/commit/1e830a120273ce8197112889dd443443b6a38779) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #42793 from merouan-dev/patch-15](https://github.com/is-a-dev/register/commit/38d498b7e8897dce54f47580df8626b92d4511e1) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
