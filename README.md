@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [fixed: fixed the license link in footer; refrctor: banner is redesigned, now with more room;](https://github.com/notamitgamer/bsc/commit/d9a0a3ae490d79d85906ff9f1a113961b61bcfe1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Update favicon to logo_light.svg in config](https://github.com/notamitgamer/bsc/commit/b60fa47fd89592816565704b9606c1077cc020d1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [refactor: update algorithm docs, workflows, and add code](https://github.com/notamitgamer/bsc/commit/9dbdb86c9034720da419b084c02043aee70cec30) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #42695 from barrybosssss/add-status-page-to-barryhisbot.is-a.dev](https://github.com/is-a-dev/register/commit/89196c1515a3202f49a5ade1fa2797b84b347cdb) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #42690 from merouan-dev/patch-12](https://github.com/is-a-dev/register/commit/2b457d7be081bc4be8dce9414ebe9fe6a1645b05) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42689 from merouan-dev/patch-11](https://github.com/is-a-dev/register/commit/6a4ffc2b4e3cc42be9205a1ef1044449f29b1f40) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
