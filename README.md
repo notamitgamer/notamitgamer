@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Revise README with migration and feature updates](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/a8d356b64ef0dda8bbeac6568fe63cc2a97a26e4) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Revise README for migration to Hugging Face](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/84e8fbcaedb62e9e6e383f7553ee547f217f572e) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Merge pull request #42803 from theyuvaraaj/main](https://github.com/is-a-dev/register/commit/16711216c8c811b39f51488eca0aedae08537684) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #42799 from Priyanshu631/main](https://github.com/is-a-dev/register/commit/9b92749dd7ad1c2d561ed9908efdc05ecee23fbb) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #42732 from its-sorakun/main](https://github.com/is-a-dev/register/commit/d55da592ec49034e0bbf0805434b1362c0185dd1) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42796 from zeeshanalikudrat/main](https://github.com/is-a-dev/register/commit/b08090a0228c7d58d16a99ac4b2c075fb4c6fb81) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42794 from l3thily/dkarpov](https://github.com/is-a-dev/register/commit/1e830a120273ce8197112889dd443443b6a38779) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42793 from merouan-dev/patch-15](https://github.com/is-a-dev/register/commit/38d498b7e8897dce54f47580df8626b92d4511e1) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
