@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Revise README with migration and feature updates](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/a8d356b64ef0dda8bbeac6568fe63cc2a97a26e4) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Revise README for migration to Hugging Face](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/84e8fbcaedb62e9e6e383f7553ee547f217f572e) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Merge pull request #42803 from theyuvaraaj/main](https://github.com/is-a-dev/register/commit/16711216c8c811b39f51488eca0aedae08537684) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42799 from Priyanshu631/main](https://github.com/is-a-dev/register/commit/9b92749dd7ad1c2d561ed9908efdc05ecee23fbb) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #42732 from its-sorakun/main](https://github.com/is-a-dev/register/commit/d55da592ec49034e0bbf0805434b1362c0185dd1) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #16 from notamitgamer/dependabot/npm_and_yarn/form-data-4.0.6](https://github.com/notamitgamer/ada/commit/d516bb674d11dd58f0111bafb7bf1c2fd60ef364) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
+- [Merge pull request #15 from notamitgamer/dependabot/npm_and_yarn/whiskeysockets/baileys-6.7.22](https://github.com/notamitgamer/ada/commit/a9e724db175603f3a3b10b8e116dfe2e19c8b4a9) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
+- [Merge pull request #14 from notamitgamer/dependabot/npm_and_yarn/ws-8.21.0](https://github.com/notamitgamer/ada/commit/d2d80ec926e8abcdd3005acf0ad1c3dfa992d3f3) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
+- [Merge pull request #13 from notamitgamer/dependabot/npm_and_yarn/protobufjs/utf8-1.1.1](https://github.com/notamitgamer/ada/commit/5730e856a1f559ae0e6d515eb8e5bc92e5cfb21e) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
+- [Update README to indicate repository abandonment](https://github.com/notamitgamer/ada/commit/3ce23d41bec0fc6bc3c6e22908bd2a019caf5ff9) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
 <!-- END_RECENT_COMMITS -->
 
 ---
