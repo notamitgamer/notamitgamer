@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-07-10T16:15:23.952267+00:00",
-    "next_update": "2026-07-10T17:00:00+00:00"
+    "last_updated": "2026-07-10T20:15:00.203756+00:00",
+    "next_update": "2026-07-10T21:00:00+00:00"
   },
   "maintainers": [
     {
@@ -47,8 +47,8 @@
     {
       "username": "orangci",
       "stats": {
-        "all_time": 2064,
-        "this_month": 2,
+        "all_time": 2065,
+        "this_month": 3,
         "last_month": 13
       }
     },
@@ -71,16 +71,16 @@
     {
       "username": "iostpa",
       "stats": {
-        "all_time": 3938,
-        "this_month": 4,
+        "all_time": 3939,
+        "this_month": 5,
         "last_month": 96
       }
     },
     {
       "username": "dragsbruh",
       "stats": {
-        "all_time": 679,
-        "this_month": 110,
+        "all_time": 708,
+        "this_month": 139,
         "last_month": 187
       }
     },
