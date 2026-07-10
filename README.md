@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #42874 from rahul4172/main](https://github.com/is-a-dev/register/commit/6cff80a69e6f2674dbd96f32c1992aa8345351d2) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #16 from notamitgamer/dependabot/npm_and_yarn/form-data-4.0.6](https://github.com/notamitgamer/ada/commit/d516bb674d11dd58f0111bafb7bf1c2fd60ef364) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
 - [Merge pull request #15 from notamitgamer/dependabot/npm_and_yarn/whiskeysockets/baileys-6.7.22](https://github.com/notamitgamer/ada/commit/a9e724db175603f3a3b10b8e116dfe2e19c8b4a9) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
 - [Merge pull request #14 from notamitgamer/dependabot/npm_and_yarn/ws-8.21.0](https://github.com/notamitgamer/ada/commit/d2d80ec926e8abcdd3005acf0ad1c3dfa992d3f3) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
 - [Merge pull request #13 from notamitgamer/dependabot/npm_and_yarn/protobufjs/utf8-1.1.1](https://github.com/notamitgamer/ada/commit/5730e856a1f559ae0e6d515eb8e5bc92e5cfb21e) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
-- [Update README to indicate repository abandonment](https://github.com/notamitgamer/ada/commit/3ce23d41bec0fc6bc3c6e22908bd2a019caf5ff9) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
 <!-- END_RECENT_COMMITS -->
 
 ---
