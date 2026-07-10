@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Refactor: remade the tasks.json for Linux, added for pgrm files.](https://github.com/notamitgamer/bsc/commit/c1111e50193d871b67571c867aa300959d0faa96) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Testing gpg key on new OS setup [skip ci]](https://github.com/notamitgamer/bsc/commit/2a2aa50bf879fd5cdd41b143f92fd5b6a8594d76) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [moved to Fedora Linux 44 from Windows 11](https://github.com/notamitgamer/bsc/commit/2a5433c9d665146cd264dc54276f714bfb4e7ace) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #42874 from rahul4172/main](https://github.com/is-a-dev/register/commit/6cff80a69e6f2674dbd96f32c1992aa8345351d2) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #16 from notamitgamer/dependabot/npm_and_yarn/form-data-4.0.6](https://github.com/notamitgamer/ada/commit/d516bb674d11dd58f0111bafb7bf1c2fd60ef364) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
-- [Merge pull request #15 from notamitgamer/dependabot/npm_and_yarn/whiskeysockets/baileys-6.7.22](https://github.com/notamitgamer/ada/commit/a9e724db175603f3a3b10b8e116dfe2e19c8b4a9) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
-- [Merge pull request #14 from notamitgamer/dependabot/npm_and_yarn/ws-8.21.0](https://github.com/notamitgamer/ada/commit/d2d80ec926e8abcdd3005acf0ad1c3dfa992d3f3) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
 <!-- END_RECENT_COMMITS -->
 
 ---
