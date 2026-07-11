@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-07-11T04:56:08.548785+00:00",
-    "next_update": "2026-07-11T05:00:00+00:00"
+    "last_updated": "2026-07-11T07:07:53.114472+00:00",
+    "next_update": "2026-07-11T08:00:00+00:00"
   },
   "maintainers": [
     {
@@ -79,8 +79,8 @@
     {
       "username": "dragsbruh",
       "stats": {
-        "all_time": 709,
-        "this_month": 140,
+        "all_time": 716,
+        "this_month": 147,
         "last_month": 187
       }
     },
