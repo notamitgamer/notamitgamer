@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Refactor: remade the tasks.json for Linux, added for pgrm files.](https://github.com/notamitgamer/bsc/commit/c1111e50193d871b67571c867aa300959d0faa96) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Testing gpg key on new OS setup [skip ci]](https://github.com/notamitgamer/bsc/commit/2a2aa50bf879fd5cdd41b143f92fd5b6a8594d76) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [moved to Fedora Linux 44 from Windows 11](https://github.com/notamitgamer/bsc/commit/2a5433c9d665146cd264dc54276f714bfb4e7ace) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #42874 from rahul4172/main](https://github.com/is-a-dev/register/commit/6cff80a69e6f2674dbd96f32c1992aa8345351d2) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #16 from notamitgamer/dependabot/npm_and_yarn/form-data-4.0.6](https://github.com/notamitgamer/ada/commit/d516bb674d11dd58f0111bafb7bf1c2fd60ef364) in [notamitgamer/ada](https://github.com/notamitgamer/ada)
+- [Merge pull request #43310 from boobachad/main](https://github.com/is-a-dev/register/commit/48eb5bce958d8f02d8eb80eea323b77ee802f89a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43308 from zeeshanalikudrat/main](https://github.com/is-a-dev/register/commit/0fa6e6f249f4e8269a4f6ffe06d9407cd2451301) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43307 from ModatherAli/main](https://github.com/is-a-dev/register/commit/beebb8f7da44b9efb53a5b10ab5d6eb61b5967fd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43305 from luhaodai/main](https://github.com/is-a-dev/register/commit/d9d5c0035d6b211d0a3d09a5494d28c3dd19260a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43304 from RykoTheDev/main](https://github.com/is-a-dev/register/commit/e3b35e3b9f8d59dd19596f6f9c84ae22f3048b94) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
