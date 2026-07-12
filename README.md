@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #43367 from ajtabjs/main](https://github.com/is-a-dev/register/commit/e4b9caf153c1d287b96c3bf88adbe857a7e0de2e) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43339 from GodRishi/patch-2](https://github.com/is-a-dev/register/commit/305eff375e70955feca6a51d69560d56ea1f1416) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43336 from HarnishSavsani/main](https://github.com/is-a-dev/register/commit/b190fae4ef6ccc78d9b78ebc212f62191cf92bba) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43334 from samipevekar/patch-2](https://github.com/is-a-dev/register/commit/8ee9dfbb6f2f22380e5d1754e0270ec907929c7f) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43333 from aroy67258/main](https://github.com/is-a-dev/register/commit/12122344fc1e74743e790ebe02ef759037c9efc0) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43331 from NyxelDeveloper/main](https://github.com/is-a-dev/register/commit/c1ec45c8a71c4662f86d3d3fdeaa4473f6a819b5) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
