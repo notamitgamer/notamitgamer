@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #43367 from ajtabjs/main](https://github.com/is-a-dev/register/commit/e4b9caf153c1d287b96c3bf88adbe857a7e0de2e) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43339 from GodRishi/patch-2](https://github.com/is-a-dev/register/commit/305eff375e70955feca6a51d69560d56ea1f1416) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43336 from HarnishSavsani/main](https://github.com/is-a-dev/register/commit/b190fae4ef6ccc78d9b78ebc212f62191cf92bba) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43334 from samipevekar/patch-2](https://github.com/is-a-dev/register/commit/8ee9dfbb6f2f22380e5d1754e0270ec907929c7f) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43333 from aroy67258/main](https://github.com/is-a-dev/register/commit/12122344fc1e74743e790ebe02ef759037c9efc0) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [v2.1.5](https://github.com/notamitgamer/mojic/commit/13fc63f31877f3fdf026e5af178b32e5d0b7ab85) in [notamitgamer/mojic](https://github.com/notamitgamer/mojic)
+- [[skip ci]](https://github.com/notamitgamer/bsc/commit/aa8ee552e17e38904450c586ac53b486462d05e4) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #43421 from KartikGupta2007/add-vercel-txt-kartik](https://github.com/is-a-dev/register/commit/bae10dc4ffc280fc6e29eceb27aff1c44f0fb995) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43415 from aadityaKS1/patch-3](https://github.com/is-a-dev/register/commit/8ed3795acfa990e8443446088099bd72c5d2c14b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43412 from RanveerSingh1997/fix-ranveer-cname](https://github.com/is-a-dev/register/commit/08c01b1ab46ea16a14b96fffcc2fae3e94282e36) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
