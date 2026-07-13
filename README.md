@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [more algo](https://github.com/notamitgamer/bsc/commit/39d9969767ff4372c6c4b039c108ed3009bf8a3d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #43459 from for-the-zero/main](https://github.com/is-a-dev/register/commit/0b863063352e7aa901707532cc3ebcb0e3a6e107) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43448 from nikulasito/fix-nico-alumbro-verification](https://github.com/is-a-dev/register/commit/36482fa8524debd02853dedf9722044eeedb6b10) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43446 from CAMAPY/main](https://github.com/is-a-dev/register/commit/32557b395a353ac3642214798ab41c15c5590fa0) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43444 from AnaghMiglani/main](https://github.com/is-a-dev/register/commit/6ab53040ec3feaf4afac953d990d09e4fb8d5661) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43441 from Haridharshini510/main](https://github.com/is-a-dev/register/commit/091dd4f946788b1ef5466ebd4a2035918a56db6c) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
