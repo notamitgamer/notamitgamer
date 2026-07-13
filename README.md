@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [fixed some ui things](https://github.com/notamitgamer/bsc/commit/6c65d37ca9d3e0c00fee93a5e8d0b819620436be) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [v2.1.5](https://github.com/notamitgamer/mojic/commit/13fc63f31877f3fdf026e5af178b32e5d0b7ab85) in [notamitgamer/mojic](https://github.com/notamitgamer/mojic)
 - [[skip ci]](https://github.com/notamitgamer/bsc/commit/aa8ee552e17e38904450c586ac53b486462d05e4) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #43421 from KartikGupta2007/add-vercel-txt-kartik](https://github.com/is-a-dev/register/commit/bae10dc4ffc280fc6e29eceb27aff1c44f0fb995) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43415 from aadityaKS1/patch-3](https://github.com/is-a-dev/register/commit/8ed3795acfa990e8443446088099bd72c5d2c14b) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43412 from RanveerSingh1997/fix-ranveer-cname](https://github.com/is-a-dev/register/commit/08c01b1ab46ea16a14b96fffcc2fae3e94282e36) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
