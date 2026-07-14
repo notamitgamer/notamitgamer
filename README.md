@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [more algo](https://github.com/notamitgamer/bsc/commit/39d9969767ff4372c6c4b039c108ed3009bf8a3d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #43459 from for-the-zero/main](https://github.com/is-a-dev/register/commit/0b863063352e7aa901707532cc3ebcb0e3a6e107) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43448 from nikulasito/fix-nico-alumbro-verification](https://github.com/is-a-dev/register/commit/36482fa8524debd02853dedf9722044eeedb6b10) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43446 from CAMAPY/main](https://github.com/is-a-dev/register/commit/32557b395a353ac3642214798ab41c15c5590fa0) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43444 from AnaghMiglani/main](https://github.com/is-a-dev/register/commit/6ab53040ec3feaf4afac953d990d09e4fb8d5661) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43601 from MohamadAfizi/main](https://github.com/is-a-dev/register/commit/f9d3d099db1b36ed4dc64e9f71a6709055d9f631) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43597 from 0xKogami/main](https://github.com/is-a-dev/register/commit/49333d07d966a460355be1d4626fcc396fae290b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43596 from coderhema/main](https://github.com/is-a-dev/register/commit/447a998d0d4d535b8862245ca46bf6488b61d0fa) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43594 from MoonRooter/patch-2](https://github.com/is-a-dev/register/commit/e4d1f6317ac838443d6f100a3689e1abca8a9b29) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43591 from bl4ckc4tF1r3/main](https://github.com/is-a-dev/register/commit/7ea8625254c9ef1c3bc972ddc012c89b163c264f) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
