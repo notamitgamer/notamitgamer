@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #43614 from iostpa/main](https://github.com/is-a-dev/register/commit/1868076b53e2d60e038a7c8d355979c4ddf85ffb) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43613 from iostpa/main](https://github.com/is-a-dev/register/commit/aab8925db9dd6288ff44eb95f46fed70adf0fe3c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43608 from Simplypheyie96/register-simplypheyie](https://github.com/is-a-dev/register/commit/5bfecd235f3f8e0747b8a9801de9a6bfbe025309) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43601 from MohamadAfizi/main](https://github.com/is-a-dev/register/commit/f9d3d099db1b36ed4dc64e9f71a6709055d9f631) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43597 from 0xKogami/main](https://github.com/is-a-dev/register/commit/49333d07d966a460355be1d4626fcc396fae290b) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43596 from coderhema/main](https://github.com/is-a-dev/register/commit/447a998d0d4d535b8862245ca46bf6488b61d0fa) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43594 from MoonRooter/patch-2](https://github.com/is-a-dev/register/commit/e4d1f6317ac838443d6f100a3689e1abca8a9b29) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43591 from bl4ckc4tF1r3/main](https://github.com/is-a-dev/register/commit/7ea8625254c9ef1c3bc972ddc012c89b163c264f) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
