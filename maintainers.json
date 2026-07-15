@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-07-15T04:42:31.535411+00:00",
-    "next_update": "2026-07-15T05:00:00+00:00"
+    "last_updated": "2026-07-15T07:07:20.745678+00:00",
+    "next_update": "2026-07-15T08:00:00+00:00"
   },
   "maintainers": [
     {
@@ -71,16 +71,16 @@
     {
       "username": "iostpa",
       "stats": {
-        "all_time": 3941,
-        "this_month": 7,
+        "all_time": 3942,
+        "this_month": 8,
         "last_month": 96
       }
     },
     {
       "username": "dragsbruh",
       "stats": {
-        "all_time": 779,
-        "this_month": 210,
+        "all_time": 799,
+        "this_month": 230,
         "last_month": 187
       }
     },
