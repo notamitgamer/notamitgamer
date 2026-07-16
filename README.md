@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [updgraded warning block](https://github.com/notamitgamer/bsc/commit/aff845d62e3dd813d13756f0d31aededb8444686) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #43614 from iostpa/main](https://github.com/is-a-dev/register/commit/1868076b53e2d60e038a7c8d355979c4ddf85ffb) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43613 from iostpa/main](https://github.com/is-a-dev/register/commit/aab8925db9dd6288ff44eb95f46fed70adf0fe3c) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43608 from Simplypheyie96/register-simplypheyie](https://github.com/is-a-dev/register/commit/5bfecd235f3f8e0747b8a9801de9a6bfbe025309) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43601 from MohamadAfizi/main](https://github.com/is-a-dev/register/commit/f9d3d099db1b36ed4dc64e9f71a6709055d9f631) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43597 from 0xKogami/main](https://github.com/is-a-dev/register/commit/49333d07d966a460355be1d4626fcc396fae290b) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
