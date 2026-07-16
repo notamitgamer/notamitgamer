@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [updgraded warning block](https://github.com/notamitgamer/bsc/commit/aff845d62e3dd813d13756f0d31aededb8444686) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #43614 from iostpa/main](https://github.com/is-a-dev/register/commit/1868076b53e2d60e038a7c8d355979c4ddf85ffb) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43613 from iostpa/main](https://github.com/is-a-dev/register/commit/aab8925db9dd6288ff44eb95f46fed70adf0fe3c) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43608 from Simplypheyie96/register-simplypheyie](https://github.com/is-a-dev/register/commit/5bfecd235f3f8e0747b8a9801de9a6bfbe025309) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43601 from MohamadAfizi/main](https://github.com/is-a-dev/register/commit/f9d3d099db1b36ed4dc64e9f71a6709055d9f631) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43862 from GilangSan/main](https://github.com/is-a-dev/register/commit/5012b7cf2a27393cfa3c331261fa0b6dc4620e2c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43855 from Ahmedsultan09/Ahmedsultan09-patch-1](https://github.com/is-a-dev/register/commit/8b06bb3e2083aef6b40da74f36ef0acaf16151a3) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge branch 'main' into Ahmedsultan09-patch-1](https://github.com/is-a-dev/register/commit/bfd56287c1ca7b071728aed639e08df572ad5797) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43853 from jebastinherlen/add-herlen-domain](https://github.com/is-a-dev/register/commit/5b17491819b8233c9157c0a50c3164b928a37c47) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43849 from Adeyemiadigun/patch-1](https://github.com/is-a-dev/register/commit/2939c7bf250a7ea4b8fb098a5c6e15cf38b1fa8e) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
