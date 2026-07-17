@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #43862 from GilangSan/main](https://github.com/is-a-dev/register/commit/5012b7cf2a27393cfa3c331261fa0b6dc4620e2c) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43855 from Ahmedsultan09/Ahmedsultan09-patch-1](https://github.com/is-a-dev/register/commit/8b06bb3e2083aef6b40da74f36ef0acaf16151a3) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge branch 'main' into Ahmedsultan09-patch-1](https://github.com/is-a-dev/register/commit/bfd56287c1ca7b071728aed639e08df572ad5797) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43853 from jebastinherlen/add-herlen-domain](https://github.com/is-a-dev/register/commit/5b17491819b8233c9157c0a50c3164b928a37c47) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43849 from Adeyemiadigun/patch-1](https://github.com/is-a-dev/register/commit/2939c7bf250a7ea4b8fb098a5c6e15cf38b1fa8e) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43884 from kavindu-kodikara/main](https://github.com/is-a-dev/register/commit/2b4dceeb0467d6147d7d836bc7a59424a44dbbb0) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43883 from codecrypt112/codecrypt112-patch-1](https://github.com/is-a-dev/register/commit/e1d40c319d870796a3f13eab39ab715b120e62fb) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43882 from benrahla-islam/main](https://github.com/is-a-dev/register/commit/f36f0fdcdc1cf81320a16e709c108ec9467af4ec) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43881 from AmanMehta0201/patch-1](https://github.com/is-a-dev/register/commit/173ba4b08a2e669e74659b150baa7e11bd45fde9) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43878 from kyaw-hein222/kyaw-hein222-patch-1](https://github.com/is-a-dev/register/commit/26dfdb44533fd1f08b7f74f55d2591f43f6352a8) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
