@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #43902 from Bhaskar-10/main](https://github.com/is-a-dev/register/commit/a33bed3d3fff0b049ee4663ad73440f1ab3d477a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43901 from IotaSpencer/main](https://github.com/is-a-dev/register/commit/a4e52d6b3af4cf731e87b93ac1bfe99df0f0865f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #43893 from zro404/main](https://github.com/is-a-dev/register/commit/dd8bc20040a72af5e73a740b7a8bef09b826e82f) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [chore: add new label 'reason: ai generated pr' (#76)](https://github.com/iostpa/reviewbot/commit/1fc3b52f2bd1155e9a6a024f2afef0f4308f0e72) in [iostpa/reviewbot](https://github.com/iostpa/reviewbot)
 - [Merge pull request #43884 from kavindu-kodikara/main](https://github.com/is-a-dev/register/commit/2b4dceeb0467d6147d7d836bc7a59424a44dbbb0) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43883 from codecrypt112/codecrypt112-patch-1](https://github.com/is-a-dev/register/commit/e1d40c319d870796a3f13eab39ab715b120e62fb) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43882 from benrahla-islam/main](https://github.com/is-a-dev/register/commit/f36f0fdcdc1cf81320a16e709c108ec9467af4ec) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43881 from AmanMehta0201/patch-1](https://github.com/is-a-dev/register/commit/173ba4b08a2e669e74659b150baa7e11bd45fde9) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
