@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Again changing to 5 sec (#82)](https://github.com/iostpa/reviewbot/commit/984944d70082a119610c3e08826878aebca84b02) in [iostpa/reviewbot](https://github.com/iostpa/reviewbot)
 - [fix(labeled): fixed the fallback bug for 'status: denied' (#81)](https://github.com/iostpa/reviewbot/commit/dab85ff87f6e0119133a19332d8b9c227b36b67e) in [iostpa/reviewbot](https://github.com/iostpa/reviewbot)
 - [Merge pull request #43938 from ai-haarish/main](https://github.com/is-a-dev/register/commit/21259588e5f4312c2da4d20dd62b18472b6ba828) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43932 from jokoarynt/main](https://github.com/is-a-dev/register/commit/f2d8fe5ca16438f97ce96a394ee99d9a346d4c5b) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #43921 from Porphyri0n/add-erdo-domain](https://github.com/is-a-dev/register/commit/0f89b601c0c019f4222e7d20746cc0773469b5bd) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43918 from Qodestackr/wilson-gichuhi-fix](https://github.com/is-a-dev/register/commit/bbd3155226358f4363ce96cca31ce76592a57689) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
