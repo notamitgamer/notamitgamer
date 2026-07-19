@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Again changing to 5 sec (#82)](https://github.com/iostpa/reviewbot/commit/984944d70082a119610c3e08826878aebca84b02) in [iostpa/reviewbot](https://github.com/iostpa/reviewbot)
-- [fix(labeled): fixed the fallback bug for 'status: denied' (#81)](https://github.com/iostpa/reviewbot/commit/dab85ff87f6e0119133a19332d8b9c227b36b67e) in [iostpa/reviewbot](https://github.com/iostpa/reviewbot)
-- [Merge pull request #43938 from ai-haarish/main](https://github.com/is-a-dev/register/commit/21259588e5f4312c2da4d20dd62b18472b6ba828) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43932 from jokoarynt/main](https://github.com/is-a-dev/register/commit/f2d8fe5ca16438f97ce96a394ee99d9a346d4c5b) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #43921 from Porphyri0n/add-erdo-domain](https://github.com/is-a-dev/register/commit/0f89b601c0c019f4222e7d20746cc0773469b5bd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44134 from AraZharr/main](https://github.com/is-a-dev/register/commit/5e0751dece803ba176ef3af33c86cae99f459174) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44132 from developer51709/main](https://github.com/is-a-dev/register/commit/8c1930b0e071f7678a43f0379128a36b8afd753f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44148 from notamitgamer/main](https://github.com/is-a-dev/register/commit/c8ea312d86ccf6fa72558859346755d2647db745) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Delete domains/_vercel.imran.json](https://github.com/is-a-dev/register/commit/a697f82b70c2b84c403022cf181859dac7006b68) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Delete domains/imran.json](https://github.com/is-a-dev/register/commit/a0028aaa7bfca8043abdb22338d1bfb788ea079e) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
