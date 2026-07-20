@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #44150 from ryachavan/main](https://github.com/is-a-dev/register/commit/a10da8c065afdec75c065b070aee53df7163d342) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44149 from thanhnguyennguyen/nguyen](https://github.com/is-a-dev/register/commit/811b315038b5c7ad59a811ac9e06b8df1a6096b2) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44146 from Vinaykatikireddy/patch-1](https://github.com/is-a-dev/register/commit/e086fc1ce03bed93b32c378059ad4767b744d0cc) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44140 from 23104122-lgtm/main](https://github.com/is-a-dev/register/commit/944dc198df36f5bafd49d5ac0440b5d5dbe5ca79) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44136 from codecrypt112/fix-vikashv-records](https://github.com/is-a-dev/register/commit/833174c2c411eeedf437559abbf78da58d8a04b6) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Update index.html](https://github.com/notamitgamer/uploads/commit/750156eb45ddf34224b5c745c7823836599ddd1c) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Add Vercel domain configuration for verification](https://github.com/is-a-dev/register/commit/ab5a0012781d141c714dfc8c345424a858123063) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Add uploads.amit.json for domain configuration](https://github.com/is-a-dev/register/commit/54722d45e18d9c26b1b140574786ec8b4e560bd0) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Update index.py](https://github.com/notamitgamer/uploads/commit/76206b5299ca7f6449d56fcae9a1d27f40dd0777) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Update vercel.json](https://github.com/notamitgamer/uploads/commit/c9f07e963ed8521af147cca58fd151a8f0ff2a7d) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
 <!-- END_RECENT_COMMITS -->
 
 ---
