@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-07-20T12:09:40.674208+00:00",
-    "next_update": "2026-07-20T13:00:00+00:00"
+    "last_updated": "2026-07-20T19:26:27.281083+00:00",
+    "next_update": "2026-07-20T20:00:00+00:00"
   },
   "maintainers": [
     {
@@ -63,8 +63,8 @@
     {
       "username": "notamitgamer",
       "stats": {
-        "all_time": 758,
-        "this_month": 198,
+        "all_time": 760,
+        "this_month": 200,
         "last_month": 294
       }
     },
