@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Update index.html](https://github.com/notamitgamer/uploads/commit/750156eb45ddf34224b5c745c7823836599ddd1c) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
-- [Add Vercel domain configuration for verification](https://github.com/is-a-dev/register/commit/ab5a0012781d141c714dfc8c345424a858123063) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Add uploads.amit.json for domain configuration](https://github.com/is-a-dev/register/commit/54722d45e18d9c26b1b140574786ec8b4e560bd0) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Update index.py](https://github.com/notamitgamer/uploads/commit/76206b5299ca7f6449d56fcae9a1d27f40dd0777) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
-- [Update vercel.json](https://github.com/notamitgamer/uploads/commit/c9f07e963ed8521af147cca58fd151a8f0ff2a7d) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Update vercel.json](https://github.com/notamitgamer/uploads/commit/125176a486b7d5aa7ae17dc1597010ea9bd7d325) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Update vercel.json](https://github.com/notamitgamer/uploads/commit/5467b538bc4829d2b43dc2b1f86ca2b2ba5ca0c5) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Update index.html](https://github.com/notamitgamer/uploads/commit/b771a7b41a0ea4fa545057435077899d088ad32b) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Add new rewrite rule for Hugging Face dataset uploads](https://github.com/notamitgamer/uploads/commit/753a3b7c0c71750bb510adce772e5f9695f7dccb) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Update vercel.json](https://github.com/notamitgamer/uploads/commit/08d9ed9b042cd8283906d2fdd0fb7d243359cc8e) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
 <!-- END_RECENT_COMMITS -->
 
 ---
