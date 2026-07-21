@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Update build.sh](https://github.com/notamitgamer/git-mirror/commit/e322452adc8a3f2ecb967f0ab3595c1fe80ccaab) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Refactor folder tree injection in build script](https://github.com/notamitgamer/git-mirror/commit/127437ea0bc97aeea2e4de90b2bafb27df7c4344) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Update build.sh](https://github.com/notamitgamer/git-mirror/commit/94c6a3c9ae954d398aca5c499005da26f41f6547) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Update style.css](https://github.com/notamitgamer/git-mirror/commit/ba2c9cebe216acdb18268f2006f58c411ac28020) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Add custom styles for folder tree headers](https://github.com/notamitgamer/git-mirror/commit/a6ded062e504ff6024fd3116f477e46724dcbea5) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Update build.sh](https://github.com/notamitgamer/git-mirror/commit/e6a506436ad00fedc9bd30beacefd12ac5735e16) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Update build.sh](https://github.com/notamitgamer/git-mirror/commit/369516484fe09bff400399ff00cbbd6ad7e34233) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Update build.sh](https://github.com/notamitgamer/git-mirror/commit/80a1f7a99074f325a010f8ff90a0d2ce5629dd9e) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Delete CNAME](https://github.com/notamitgamer/git-mirror/commit/78eb1d1bc74d37b58b1d90ae52c5f5bf3d0208f7) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Refactor color codes in style.css for consistency](https://github.com/notamitgamer/git-mirror/commit/5666a6f26ff767883483b2a1c8c10d01884b9c6d) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
 <!-- END_RECENT_COMMITS -->
 
 ---
