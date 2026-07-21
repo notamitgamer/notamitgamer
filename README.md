@@ -71,14 +71,6 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 
 ---
 
-### Certifications
-
-| Certificate | Issuer | Date | ID |
-|---|---|---|---|
-| [Build a free website with WordPress](https://www.coursera.org/account/accomplishments/records/HT6XTKV390MC) | Coursera Project Network | Apr 2025 | `HT6XTKV390MC` |
-
----
-
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
