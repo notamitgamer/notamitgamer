@@ -74,11 +74,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Update build.sh](https://github.com/notamitgamer/git-mirror/commit/e6a506436ad00fedc9bd30beacefd12ac5735e16) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Update build.sh](https://github.com/notamitgamer/git-mirror/commit/369516484fe09bff400399ff00cbbd6ad7e34233) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Update build.sh](https://github.com/notamitgamer/git-mirror/commit/80a1f7a99074f325a010f8ff90a0d2ce5629dd9e) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Delete CNAME](https://github.com/notamitgamer/git-mirror/commit/78eb1d1bc74d37b58b1d90ae52c5f5bf3d0208f7) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Refactor color codes in style.css for consistency](https://github.com/notamitgamer/git-mirror/commit/5666a6f26ff767883483b2a1c8c10d01884b9c6d) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Remove Certifications section from README](https://github.com/notamitgamer/notamitgamer/commit/82338ff9aa27a98f8cac91b24cbc4846f6326fbd) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Revise README with new website and project links](https://github.com/notamitgamer/notamitgamer/commit/09c139873f883ef2561755e75568a59bd9b359b2) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Update GitHub Sponsors username in FUNDING.yml](https://github.com/notamitgamer/git-mirror/commit/1037f624009600c1641a35cbb1387295e0b7d91a) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Delete .github/FUNDING.yml](https://github.com/notamitgamer/git-mirror/commit/60c66ca0bdc76a9d63ab11eb7c6662647ddb841b) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Update README.md](https://github.com/notamitgamer/git-mirror/commit/9ddd4615fe73861debf1269a12db32ed527c66d4) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
 <!-- END_RECENT_COMMITS -->
 
 ---
