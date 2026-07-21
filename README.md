@@ -36,7 +36,7 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 - Currently working on — **Sem 2 Prep** (a.k.a. panic)
 - Freelance — **Unavailable** *(see: Sem 2 Prep)*
 - Status — probably debugging something that worked five minutes ago
-- [More about me ↗](https://amit.is-a.dev/about) &nbsp;·&nbsp; [Google Knowledge Graph ↗](https://www.google.com/search?kgmid=/g/11yzcqs5ff)
+- [My webiste ↗](https://amit.is-a.dev) · [More about me ↗](https://amit.is-a.dev/about) · [Google Knowledge Graph ↗](https://www.google.com/search?kgmid=/g/11yzcqs5ff)
 
 ---
 
@@ -51,33 +51,23 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 
 ### Projects
 
-**Web Apps**
 - [Veyrix IDE ↗](https://veyrix.amit.is-a.dev) · [Docs ↗](https://veyrix.amit.is-a.dev/docs) — Lightweight, browser-based code editor. Built after one too many "*I forgot to bring the assignment*" moments — write the code, download it in any extension, print, done.
+
 - [Compiler ↗](https://compiler.amit.is-a.dev) — Online C/C++/Python compiler, kept alive by hope and a Render free tier.
 
-**CLI & Automation**
 - [Githrun ↗](https://amit.is-a.dev/githrun) · [PyPI ↗](https://pypi.org/project/githrun) — Run GitHub scripts without cloning, for people (me) too impatient to `git clone`.
+
 - [WhatsApp Logger ↗](https://amit.is-a.dev/logger) · [GitHub ↗](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-) — Self-hosted archiver. Not spying, just... very thorough remembering.
+
 - [Mojic ↗](https://amit.is-a.dev/mojicDocs) · [GitHub ↗](https://github.com/notamitgamer/mojic) — Turns C code into emojis. Yes, on purpose. No, I don't know why either.
 
-**Libraries**
 - [ADPKG ↗](https://pypi.org/project/adpkg/) — Compound interest, matrices, and stats, so I stop doing them by hand like a caveman.
 
-**Other**
 - [BSC Repository ↗](https://code.amit.is-a.dev) · [GitHub ↗](https://github.com/notamitgamer/bsc) — Every B.Sc. practical I've ever suffered through, preserved for posterity.
+
 - [Project ADA ↗](https://ada.amit.is-a.dev) · [Docs ↗](https://ada.amit.is-a.dev/docs) — Gemini-powered AI ecosystem, because apparently I needed a fourth project this month.
+
 - [ESAL-1.0 ↗](https://esal.amit.is-a.dev) — My own license, mostly to say "*please don't copy this*" in legal-sounding language.
-
-<details>
-<summary>Interactive Calculator (Legacy)</summary>
-<br>
-
-Responsive number system converter — Binary, Decimal, Octal, Hex.
-&nbsp;<a href="https://amit.is-a.dev/codenc">First Edition ↗</a>
-&nbsp;·
-&nbsp;<a href="https://amit.is-a.dev/nct-legacy">Legacy Edition ↗</a>
-
-</details>
 
 ---
 
