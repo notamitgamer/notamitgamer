@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Update vercel.json](https://github.com/notamitgamer/uploads/commit/125176a486b7d5aa7ae17dc1597010ea9bd7d325) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
-- [Update vercel.json](https://github.com/notamitgamer/uploads/commit/5467b538bc4829d2b43dc2b1f86ca2b2ba5ca0c5) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
-- [Update index.html](https://github.com/notamitgamer/uploads/commit/b771a7b41a0ea4fa545057435077899d088ad32b) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
-- [Add new rewrite rule for Hugging Face dataset uploads](https://github.com/notamitgamer/uploads/commit/753a3b7c0c71750bb510adce772e5f9695f7dccb) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
-- [Update vercel.json](https://github.com/notamitgamer/uploads/commit/08d9ed9b042cd8283906d2fdd0fb7d243359cc8e) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Add maximum file size note to upload section](https://github.com/notamitgamer/uploads/commit/d8959c2a6e61a3dac1de8b1e77e16c20e209c694) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Enhance upload section with documentation link](https://github.com/notamitgamer/uploads/commit/67bd1eba0d8db754ef58f8ec890236c971b64324) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Update docs.html](https://github.com/notamitgamer/uploads/commit/29bb93f2986a59f05dd15b206a0436e4ee692acb) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Remove custom dropdown for link expiry options](https://github.com/notamitgamer/uploads/commit/568b6feb5b4cd538844c8b8b865bc0607f960185) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
+- [Refactor upload logic to remove expiry handling](https://github.com/notamitgamer/uploads/commit/50b0789ab73ad286a70d56fb048812fda6520b4b) in [notamitgamer/uploads](https://github.com/notamitgamer/uploads)
 <!-- END_RECENT_COMMITS -->
 
 ---
