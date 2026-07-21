@@ -92,11 +92,11 @@ Responsive number system converter — Binary, Decimal, Octal, Hex.
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Set BASE_PATH to '/git-mirror' in build.sh](https://github.com/notamitgamer/git-mirror/commit/6dce983d13799d41bae9615686d1f9db2bfb1894) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Rename style.css to assets/style.css](https://github.com/notamitgamer/git-mirror/commit/d2a1b5659a2635cd370999e0ba74d7226a0675fa) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Delete node_modules directory](https://github.com/notamitgamer/mojic/commit/6a4a535bbd6ab656509dcb2d90e53efdbd481ed6) in [notamitgamer/mojic](https://github.com/notamitgamer/mojic)
-- [Refactor asset handling and update links in HTML](https://github.com/notamitgamer/git-mirror/commit/401629e0e0cbe4c311daba7a83af80ecfa4a68ce) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [adding some styles](https://github.com/notamitgamer/git-mirror/commit/ea9cb4d7bb1a2207b0db7a9b92ec7a8906ab0bc6) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Update build.sh](https://github.com/notamitgamer/git-mirror/commit/e322452adc8a3f2ecb967f0ab3595c1fe80ccaab) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Refactor folder tree injection in build script](https://github.com/notamitgamer/git-mirror/commit/127437ea0bc97aeea2e4de90b2bafb27df7c4344) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Update build.sh](https://github.com/notamitgamer/git-mirror/commit/94c6a3c9ae954d398aca5c499005da26f41f6547) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Update style.css](https://github.com/notamitgamer/git-mirror/commit/ba2c9cebe216acdb18268f2006f58c411ac28020) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Add custom styles for folder tree headers](https://github.com/notamitgamer/git-mirror/commit/a6ded062e504ff6024fd3116f477e46724dcbea5) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
 <!-- END_RECENT_COMMITS -->
 
 ---
