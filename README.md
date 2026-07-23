@@ -74,11 +74,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Fix HTML escaping in activity record output](https://github.com/notamitgamer/git-mirror/commit/b2c569fc02982c79431d233d646876bd3fb9d7ea) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Update build.sh](https://github.com/notamitgamer/git-mirror/commit/0e431665e77d9646f444d82edc5e689e0957afbd) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Update style.css](https://github.com/notamitgamer/git-mirror/commit/f1cc02c66b3051d53a6b9f4b5fb73a05b10e3722) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Update SVG icons and navigation links in build.sh](https://github.com/notamitgamer/git-mirror/commit/36186d1b7edafc35257b5439abf3ad337113e8ee) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Adjust line-height and vertical-align in CSS](https://github.com/notamitgamer/git-mirror/commit/7e8b5700ff84322771c3c99050b9c6f5ce06596f) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Merge pull request #44613 from IvAzuara/main](https://github.com/is-a-dev/register/commit/c5185566cc1b652e753ce31f5b67cb4071514e3f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44612 from saurabhstudent990-a11y/main](https://github.com/is-a-dev/register/commit/877a9d4025e800b59ef750b12b9fa7d4eca44d46) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44606 from TodTheMatsu/main](https://github.com/is-a-dev/register/commit/78ff24e1ea7ff4fcdf3be14ee08d73ff1777ac51) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44602 from FrancoDurand/main](https://github.com/is-a-dev/register/commit/9289df747065979de29b14cdc17d16d4cff16d45) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44597 from Pranjal-SB/redirect-to-psbhatnagar](https://github.com/is-a-dev/register/commit/3e0d31b70a228664fae7bad361e00b7acd322e61) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
