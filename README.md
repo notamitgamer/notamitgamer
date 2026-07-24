@@ -74,11 +74,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Change cron schedule for maintainer activity update](https://github.com/notamitgamer/notamitgamer/commit/c4186f8231291dc20b8e1bf78d9508da134f0702) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Merge pull request #44613 from IvAzuara/main](https://github.com/is-a-dev/register/commit/c5185566cc1b652e753ce31f5b67cb4071514e3f) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44612 from saurabhstudent990-a11y/main](https://github.com/is-a-dev/register/commit/877a9d4025e800b59ef750b12b9fa7d4eca44d46) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44606 from TodTheMatsu/main](https://github.com/is-a-dev/register/commit/78ff24e1ea7ff4fcdf3be14ee08d73ff1777ac51) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44602 from FrancoDurand/main](https://github.com/is-a-dev/register/commit/9289df747065979de29b14cdc17d16d4cff16d45) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44717 from aswd750/main](https://github.com/is-a-dev/register/commit/b1ef0f293e87c56aa5a96bfa54a838258ee39794) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44712 from Harsh3456D/patch-3](https://github.com/is-a-dev/register/commit/eec5931b37194b0b43c507524fed55061ee9b141) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44711 from Harsh3456D/patch-2](https://github.com/is-a-dev/register/commit/1f2ef8b618106de3ad053cfe3042df7376ef3165) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44709 from MusawwerRasheed/MusawwerRasheed-patch-1](https://github.com/is-a-dev/register/commit/4a1db703b6a51b329edc96c7b90efeb74fb65d0f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44704 from Abdulkodri/main](https://github.com/is-a-dev/register/commit/def94d183288f498022f4e5ad656764a416e5206) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
