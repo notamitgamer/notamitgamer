@@ -74,11 +74,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Change cron schedule for maintainer activity update](https://github.com/notamitgamer/notamitgamer/commit/c4186f8231291dc20b8e1bf78d9508da134f0702) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Merge pull request #44613 from IvAzuara/main](https://github.com/is-a-dev/register/commit/c5185566cc1b652e753ce31f5b67cb4071514e3f) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #44612 from saurabhstudent990-a11y/main](https://github.com/is-a-dev/register/commit/877a9d4025e800b59ef750b12b9fa7d4eca44d46) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #44606 from TodTheMatsu/main](https://github.com/is-a-dev/register/commit/78ff24e1ea7ff4fcdf3be14ee08d73ff1777ac51) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #44602 from FrancoDurand/main](https://github.com/is-a-dev/register/commit/9289df747065979de29b14cdc17d16d4cff16d45) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44597 from Pranjal-SB/redirect-to-psbhatnagar](https://github.com/is-a-dev/register/commit/3e0d31b70a228664fae7bad361e00b7acd322e61) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
