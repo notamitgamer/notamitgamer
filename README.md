@@ -74,11 +74,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #44732 from ankitnegi-dev/main](https://github.com/is-a-dev/register/commit/37210e4833ea397ae46b9fb8bd495ba6ff1f30fd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44728 from ramyasri-05/main](https://github.com/is-a-dev/register/commit/45c0885b633573cdc2ea4b5c21d10fe528d3d568) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44724 from 6z7y/main](https://github.com/is-a-dev/register/commit/b3caf95d3fd09831512f4661332e53646449a17f) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #44717 from aswd750/main](https://github.com/is-a-dev/register/commit/b1ef0f293e87c56aa5a96bfa54a838258ee39794) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #44712 from Harsh3456D/patch-3](https://github.com/is-a-dev/register/commit/eec5931b37194b0b43c507524fed55061ee9b141) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44711 from Harsh3456D/patch-2](https://github.com/is-a-dev/register/commit/1f2ef8b618106de3ad053cfe3042df7376ef3165) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44709 from MusawwerRasheed/MusawwerRasheed-patch-1](https://github.com/is-a-dev/register/commit/4a1db703b6a51b329edc96c7b90efeb74fb65d0f) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44704 from Abdulkodri/main](https://github.com/is-a-dev/register/commit/def94d183288f498022f4e5ad656764a416e5206) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
