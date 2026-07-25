@@ -74,11 +74,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #44732 from ankitnegi-dev/main](https://github.com/is-a-dev/register/commit/37210e4833ea397ae46b9fb8bd495ba6ff1f30fd) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44728 from ramyasri-05/main](https://github.com/is-a-dev/register/commit/45c0885b633573cdc2ea4b5c21d10fe528d3d568) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44724 from 6z7y/main](https://github.com/is-a-dev/register/commit/b3caf95d3fd09831512f4661332e53646449a17f) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44717 from aswd750/main](https://github.com/is-a-dev/register/commit/b1ef0f293e87c56aa5a96bfa54a838258ee39794) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44712 from Harsh3456D/patch-3](https://github.com/is-a-dev/register/commit/eec5931b37194b0b43c507524fed55061ee9b141) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44739 from SahooShuvranshu/main](https://github.com/is-a-dev/register/commit/dd4b059509d0720d5ae7ac7fe876b38bf56e80c4) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44738 from swarnava-dutta/patch-1](https://github.com/is-a-dev/register/commit/d63481f3a843622b25c0a2cd4b704d7ddeed877e) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44737 from rajaryn/main](https://github.com/is-a-dev/register/commit/a874f806ecb3b646e364e5313b46def970b33cde) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44734 from ErasedSoul/anirbandas-subdomain](https://github.com/is-a-dev/register/commit/9a4996e1dc235b8c2178227472decb18f691fb0b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44733 from VividRue/main](https://github.com/is-a-dev/register/commit/55e28cd13cb017657d9584f6542985d59327de1c) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
