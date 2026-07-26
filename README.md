@@ -74,11 +74,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #44739 from SahooShuvranshu/main](https://github.com/is-a-dev/register/commit/dd4b059509d0720d5ae7ac7fe876b38bf56e80c4) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44738 from swarnava-dutta/patch-1](https://github.com/is-a-dev/register/commit/d63481f3a843622b25c0a2cd4b704d7ddeed877e) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44737 from rajaryn/main](https://github.com/is-a-dev/register/commit/a874f806ecb3b646e364e5313b46def970b33cde) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44734 from ErasedSoul/anirbandas-subdomain](https://github.com/is-a-dev/register/commit/9a4996e1dc235b8c2178227472decb18f691fb0b) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44733 from VividRue/main](https://github.com/is-a-dev/register/commit/55e28cd13cb017657d9584f6542985d59327de1c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #12 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-6b7f7a8c69 [skip ci]](https://github.com/notamitgamer/bsc/commit/ffc86e0498769847474d6304d07d079954da0707) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Add LFS tracking for .odt files](https://github.com/notamitgamer/bsc/commit/9b2ac5d1a28a71b3b86be5033382fc9810a9c50a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [added assignments](https://github.com/notamitgamer/bsc/commit/0c161fef35923a8ba2185d361afe2fb40769cd75) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #11 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-04db377a11](https://github.com/notamitgamer/bsc/commit/376c88b4fae82b1887a3b6b2700bc427d8c1ad20) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #44898 from jeusbausa/jeusbausa](https://github.com/is-a-dev/register/commit/1482ce23aa7aacc6dcf4cf3f676953018c4ce5d1) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
