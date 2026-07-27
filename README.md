@@ -75,11 +75,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Fix author email formatting in pgrm_013.cpp](https://github.com/notamitgamer/bsc/commit/c09678c6d58be8339de7ce21ef91719ba397548c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [trying with micro](https://github.com/notamitgamer/bsc/commit/14777566c094bbd2f709829b0ea3636801a540ac) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Delete .github/workflows/job2.yml](https://github.com/notamitgamer/notamitgamer/commit/cb58a4735f12837f372e65d12a4b6ab86ac8756f) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Add GitHub to Codeberg mirror workflow](https://github.com/notamitgamer/notamitgamer/commit/cffb0133198e880acb88f19149439baa182e3537) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Update README.md](https://github.com/notamitgamer/notamitgamer/commit/6174b46e9b1eb3e141ad4d6170f64866084e316f) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Merge pull request #45004 from Dhairya0707/main](https://github.com/is-a-dev/register/commit/7118f7136722e349746d2d3e8fe329cf0735c594) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45003 from Saad07Khan/main](https://github.com/is-a-dev/register/commit/2244f134e7e2af5796f96a8aaac316970ea74dcf) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45002 from Selector0073/main](https://github.com/is-a-dev/register/commit/cb9788f7ab0df6c6eca7993943c07db320aed24c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44999 from AlAminNahid/patch-8](https://github.com/is-a-dev/register/commit/eac89e0632009226be56e4fd9092878d2b323ccb) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #44997 from howard-haowen/main](https://github.com/is-a-dev/register/commit/4f0a26c9853a0515826b24b028376ee340d29cad) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
