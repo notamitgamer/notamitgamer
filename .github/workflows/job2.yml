@@ -1,0 +1,46 @@
+import requests
+import time
+
+# Configuration
+GITHUB_USER = "notamitgamer"
+CODEBERG_USER = "notamitgamer"
+CODEBERG_TOKEN = "64c97dc6aa959a190dffb37932c7bf6ea0956a51"  
+
+# 1. Fetch your public repositories from GitHub
+print(f"Fetching public repositories for {GITHUB_USER}...")
+response = requests.get(f"https://api.github.com/users/{GITHUB_USER}/repos?per_page=100")
+repos = [repo['name'] for repo in response.json() if not repo['fork']]
+
+print(f"Found {len(repos)} original repositories. Starting mirror setup...")
+
+# 2. Tell Codeberg to migrate and mirror each one
+for repo in repos:
+    print(f"Setting up mirror for {repo}...")
+    
+    payload = {
+        "clone_addr": f"https://github.com/{GITHUB_USER}/{repo}.git",
+        "repo_name": repo,
+        "repo_owner": CODEBERG_USER,
+        "service": "github",
+        "mirror": True,        
+        "issues": False,        
+        "labels": False,
+        "releases": True
+    }
+    
+    headers = {
+        "Authorization": f"token {CODEBERG_TOKEN}",
+        "Content-Type": "application/json"
+    }
+    
+    res = requests.post("https://codeberg.org/api/v1/repos/migrate", json=payload, headers=headers)
+    
+    if res.status_code in [201, 200]:
+        print(f"Success: {repo} is now mirrored!")
+    else:
+        print(f"Failed to mirror {repo}: {res.text}")
+        
+    # Sleep briefly to respect Codeberg's API rate limits
+    time.sleep(3) 
+
+print("Done! Codeberg will handle the daily updates from now on.")
