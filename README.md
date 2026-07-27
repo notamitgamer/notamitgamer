@@ -26,6 +26,7 @@
 
 </div>
 
+#### visit [git.amit.is-a.dev](https://git.amit.is-a.dev) instead of surfing through github, because it's better and faster.
 ---
 
 ### About
