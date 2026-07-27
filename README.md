@@ -74,11 +74,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [updated docs, and moved to [Micro](https://micro-editor.github.io/) from VSCode](https://github.com/notamitgamer/bsc/commit/cb226e59895525ff75a0799ac75a6909e43e6b80) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #12 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-6b7f7a8c69 [skip ci]](https://github.com/notamitgamer/bsc/commit/ffc86e0498769847474d6304d07d079954da0707) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Add LFS tracking for .odt files](https://github.com/notamitgamer/bsc/commit/9b2ac5d1a28a71b3b86be5033382fc9810a9c50a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [added assignments](https://github.com/notamitgamer/bsc/commit/0c161fef35923a8ba2185d361afe2fb40769cd75) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #11 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-04db377a11](https://github.com/notamitgamer/bsc/commit/376c88b4fae82b1887a3b6b2700bc427d8c1ad20) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #44898 from jeusbausa/jeusbausa](https://github.com/is-a-dev/register/commit/1482ce23aa7aacc6dcf4cf3f676953018c4ce5d1) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
