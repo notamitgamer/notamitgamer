@@ -75,11 +75,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #14 from notamitgamer/edit-20260727-203927](https://github.com/notamitgamer/bsc/commit/9e18cfbf247eeb94a3b2cd94d1d3d4c93400476c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [added a warning](https://github.com/notamitgamer/bsc/commit/0d272360b563942753df8939dec671d08d3ed964) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #13 from notamitgamer/feature-20260727-201544](https://github.com/notamitgamer/bsc/commit/a4faf866266ad129da574bef74093021f2eb3f98) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [added some definitions](https://github.com/notamitgamer/bsc/commit/64d68af8282ae03e95e4691e509ec9dfdbc01fdf) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #45004 from Dhairya0707/main](https://github.com/is-a-dev/register/commit/7118f7136722e349746d2d3e8fe329cf0735c594) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45003 from Saad07Khan/main](https://github.com/is-a-dev/register/commit/2244f134e7e2af5796f96a8aaac316970ea74dcf) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45002 from Selector0073/main](https://github.com/is-a-dev/register/commit/cb9788f7ab0df6c6eca7993943c07db320aed24c) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44999 from AlAminNahid/patch-8](https://github.com/is-a-dev/register/commit/eac89e0632009226be56e4fd9092878d2b323ccb) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #44997 from howard-haowen/main](https://github.com/is-a-dev/register/commit/4f0a26c9853a0515826b24b028376ee340d29cad) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
