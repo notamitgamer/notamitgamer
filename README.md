@@ -75,11 +75,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Add forgejo.amit.json configuration file](https://github.com/is-a-dev/register/commit/423f87c0903946b418596227fffe02036313873d) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #45113 from MarioFajard0/main](https://github.com/is-a-dev/register/commit/1a175c7f1476cdcce4627f3fdab2cc00cc937093) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #45112 from vinimachadosantana/main](https://github.com/is-a-dev/register/commit/143a6acae749412155e35c242ec9c27747019f69) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #45111 from niladrisamanta/main](https://github.com/is-a-dev/register/commit/3621610e0d8df97333655443ca8cc94c6f4d6290) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #17 from notamitgamer/edit-20260728-175428](https://github.com/notamitgamer/bsc/commit/faa64435af97d1d1ef84ffecfb8de04537de802c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [fix#2: metadata structure](https://github.com/notamitgamer/bsc/commit/71a815d3b1e1468d1ba32e00cf0534609e854627) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
