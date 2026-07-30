@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #45183 from Tcode-Motion/patch-1](https://github.com/is-a-dev/register/commit/0ade083aa9779746bc5a128500a1b1e480653223) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45126 from aomemail/register-aomemail](https://github.com/is-a-dev/register/commit/32b0d947266d9cd6288f762be8929e0b006c781d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Update CNAME record in forgejo.amit.json](https://github.com/is-a-dev/register/commit/018fbbaeafc279c54257b38b5494a90b1f687f62) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Add static link to README](https://github.com/notamitgamer/bsc/commit/a1d9491005444919401c7269a3e7f70170bcf179) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Add forgejo.amit.json configuration file](https://github.com/is-a-dev/register/commit/423f87c0903946b418596227fffe02036313873d) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45266 from Nimaho71/main](https://github.com/is-a-dev/register/commit/8c5afcd91c09d068d169050d175985a9060698e1) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45265 from Aryan-Techie/main](https://github.com/is-a-dev/register/commit/934abb5be24ed0406f9c47384fde68e083317e07) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45253 from abuturab-khan/main](https://github.com/is-a-dev/register/commit/707d545dd416621ebfda7f04259fcd0bdd82698e) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Update links in README.md for clarity [skip ci]](https://github.com/notamitgamer/bsc/commit/3bbca4e07a1f3d6f4b6b4f7ba4eeaf7966e86f11) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Update README with new links and emphasis](https://github.com/notamitgamer/notamitgamer/commit/da45a8d7398fd573e543ba7ee4c32898363f2895) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 <!-- END_RECENT_COMMITS -->
 
 ---
