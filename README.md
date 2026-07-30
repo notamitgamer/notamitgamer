@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Update self-hosted link in README [skip ci]](https://github.com/notamitgamer/bsc/commit/41ed4996c7af9d363e101f91309dfb83b0e9d470) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #45266 from Nimaho71/main](https://github.com/is-a-dev/register/commit/8c5afcd91c09d068d169050d175985a9060698e1) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45266 from Nimaho71/main](https://github.com/bundasandrian2002/register/commit/8c5afcd91c09d068d169050d175985a9060698e1) in [bundasandrian2002/register](https://github.com/bundasandrian2002/register)
 - [Merge pull request #45265 from Aryan-Techie/main](https://github.com/is-a-dev/register/commit/934abb5be24ed0406f9c47384fde68e083317e07) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45253 from abuturab-khan/main](https://github.com/is-a-dev/register/commit/707d545dd416621ebfda7f04259fcd0bdd82698e) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Update links in README.md for clarity [skip ci]](https://github.com/notamitgamer/bsc/commit/3bbca4e07a1f3d6f4b6b4f7ba4eeaf7966e86f11) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Update README with new links and emphasis](https://github.com/notamitgamer/notamitgamer/commit/da45a8d7398fd573e543ba7ee4c32898363f2895) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Merge pull request #45265 from Aryan-Techie/main](https://github.com/bundasandrian2002/register/commit/934abb5be24ed0406f9c47384fde68e083317e07) in [bundasandrian2002/register](https://github.com/bundasandrian2002/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
