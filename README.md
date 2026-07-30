@@ -26,7 +26,8 @@
 
 </div>
 
-#### visit [git.amit.is-a.dev](https://git.amit.is-a.dev) instead of surfing through github, because it's better and faster.
+- **visit [git.amit.is-a.dev](https://git.amit.is-a.dev) instead of surfing through github, because it's better and faster.**
+- **also visit [forgejo.amit.is-a.dev](https://forgejo.amit.is-a.dev) to visit my self-hosted git.**
 ---
 
 ### About
