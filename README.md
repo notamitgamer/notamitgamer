@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Update self-hosted link in README [skip ci]](https://github.com/notamitgamer/bsc/commit/41ed4996c7af9d363e101f91309dfb83b0e9d470) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #45266 from Nimaho71/main](https://github.com/is-a-dev/register/commit/8c5afcd91c09d068d169050d175985a9060698e1) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45266 from Nimaho71/main](https://github.com/Durgeshkose/personal-portfolio/commit/8c5afcd91c09d068d169050d175985a9060698e1) in [Durgeshkose/personal-portfolio](https://github.com/Durgeshkose/personal-portfolio)
-- [Merge pull request #45265 from Aryan-Techie/main](https://github.com/is-a-dev/register/commit/934abb5be24ed0406f9c47384fde68e083317e07) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45265 from Aryan-Techie/main](https://github.com/Durgeshkose/personal-portfolio/commit/934abb5be24ed0406f9c47384fde68e083317e07) in [Durgeshkose/personal-portfolio](https://github.com/Durgeshkose/personal-portfolio)
+- [Merge pull request #45495 from iriss-dev/main](https://github.com/is-a-dev/register/commit/b43230c82d1858cbe16818674cd04e810f958f8d) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45490 from FahadNaeem424/patch-7](https://github.com/is-a-dev/register/commit/34fa7c0dd8405d7758ca31ccd4c43987cdcec7f1) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45487 from yst4lpizdec/main](https://github.com/is-a-dev/register/commit/b00fb48a900575c7d5eea8982b703df3dd506d8a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45481 from epicDavid-private/main](https://github.com/is-a-dev/register/commit/c250bfcde12fea46f57221611219f08aca31d7d0) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45477 from Asail7/main](https://github.com/is-a-dev/register/commit/e28070525181ff37f7a30a256edffb5145c6eb7c) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
