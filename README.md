@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #19 from notamitgamer/edit-20260731-183556](https://github.com/notamitgamer/bsc/commit/3f4b31a5f9b54046c5e919285959d854baf58337) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [added ask ai again](https://github.com/notamitgamer/bsc/commit/b4632df673879f7f2cd787bc720ed5588272eb65) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #18 from notamitgamer/edit-20260731-181711](https://github.com/notamitgamer/bsc/commit/62aef7e886d897fc2446725a55e58d99b51db938) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [changed palette to catppuccin, as i was having problem with my mobile.](https://github.com/notamitgamer/bsc/commit/7b6cfb9749c97864738b7f042878cc945745d609) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #45495 from iriss-dev/main](https://github.com/is-a-dev/register/commit/b43230c82d1858cbe16818674cd04e810f958f8d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45490 from FahadNaeem424/patch-7](https://github.com/is-a-dev/register/commit/34fa7c0dd8405d7758ca31ccd4c43987cdcec7f1) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45487 from yst4lpizdec/main](https://github.com/is-a-dev/register/commit/b00fb48a900575c7d5eea8982b703df3dd506d8a) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45481 from epicDavid-private/main](https://github.com/is-a-dev/register/commit/c250bfcde12fea46f57221611219f08aca31d7d0) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45477 from Asail7/main](https://github.com/is-a-dev/register/commit/e28070525181ff37f7a30a256edffb5145c6eb7c) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
