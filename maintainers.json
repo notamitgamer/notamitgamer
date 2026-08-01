@@ -1,31 +1,31 @@
 {
   "meta": {
-    "last_updated": "2026-07-31T02:22:23.336008+00:00",
-    "next_update": "2026-07-31T03:00:00+00:00"
+    "last_updated": "2026-08-01T02:23:24.251818+00:00",
+    "next_update": "2026-08-01T03:00:00+00:00"
   },
   "maintainers": [
     {
       "username": "Yunexiz",
       "stats": {
         "all_time": 295,
-        "this_month": 13,
-        "last_month": 45
+        "this_month": 0,
+        "last_month": 13
       }
     },
     {
       "username": "wdhdev",
       "stats": {
         "all_time": 2036,
-        "this_month": 46,
-        "last_month": 2
+        "this_month": 0,
+        "last_month": 46
       }
     },
     {
       "username": "STICKnoLOGIC",
       "stats": {
         "all_time": 4248,
-        "this_month": 37,
-        "last_month": 132
+        "this_month": 0,
+        "last_month": 37
       }
     },
     {
@@ -40,16 +40,16 @@
       "username": "satr14washere",
       "stats": {
         "all_time": 271,
-        "this_month": 7,
-        "last_month": 9
+        "this_month": 0,
+        "last_month": 7
       }
     },
     {
       "username": "orangci",
       "stats": {
         "all_time": 2074,
-        "this_month": 12,
-        "last_month": 13
+        "this_month": 0,
+        "last_month": 12
       }
     },
     {
@@ -63,33 +63,33 @@
     {
       "username": "notamitgamer",
       "stats": {
-        "all_time": 822,
-        "this_month": 262,
-        "last_month": 294
+        "all_time": 842,
+        "this_month": 0,
+        "last_month": 282
       }
     },
     {
       "username": "iostpa",
       "stats": {
         "all_time": 3957,
-        "this_month": 23,
-        "last_month": 96
+        "this_month": 0,
+        "last_month": 23
       }
     },
     {
       "username": "dragsbruh",
       "stats": {
-        "all_time": 959,
-        "this_month": 390,
-        "last_month": 187
+        "all_time": 975,
+        "this_month": 0,
+        "last_month": 406
       }
     },
     {
       "username": "DEV-DIBSTER",
       "stats": {
         "all_time": 5130,
-        "this_month": 3,
-        "last_month": 85
+        "this_month": 0,
+        "last_month": 3
       }
     }
   ]
