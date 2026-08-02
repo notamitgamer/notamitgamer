@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Enhance README with v4.1.7 upgrade details](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/25f95acc10341bd3aeb9e8382525d20abd094eb7) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [v4.1.7 (#2)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/8841620949fa3d197b0c39e0220eb4b21aeb9407) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Remove printQRInTerminal option from socket config](https://github.com/notamitgamer/logger/commit/b185efc50ab8e0c7e1e174387b3d89c056849222) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
 - [Merge pull request #20 from notamitgamer/edit-20260801-214105](https://github.com/notamitgamer/bsc/commit/5369608e118f8df35e2df1ebddd64edde4933d7b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [practice](https://github.com/notamitgamer/bsc/commit/c36bab9094e53878f098168221b7cd103e4c6c42) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #19 from notamitgamer/edit-20260731-183556](https://github.com/notamitgamer/bsc/commit/3f4b31a5f9b54046c5e919285959d854baf58337) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [added ask ai again](https://github.com/notamitgamer/bsc/commit/b4632df673879f7f2cd787bc720ed5588272eb65) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #18 from notamitgamer/edit-20260731-181711](https://github.com/notamitgamer/bsc/commit/62aef7e886d897fc2446725a55e58d99b51db938) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
