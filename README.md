@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #45716 from NEKOZAM-I/main](https://github.com/is-a-dev/register/commit/432f670e4c884a50661c20032b394e1aef18fb9d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45695 from Aryan-Techie/main](https://github.com/is-a-dev/register/commit/3f0165b5676ee2bfc0e8529db5d165402b650c84) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Enhance README with v4.1.7 upgrade details](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/25f95acc10341bd3aeb9e8382525d20abd094eb7) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [v4.1.7 (#2)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/8841620949fa3d197b0c39e0220eb4b21aeb9407) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Remove printQRInTerminal option from socket config](https://github.com/notamitgamer/logger/commit/b185efc50ab8e0c7e1e174387b3d89c056849222) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
+- [Merge pull request #22 from notamitgamer/Patch-2](https://github.com/notamitgamer/bsc/commit/2a305db74433a6b922f1028c4d2f69d974aef56f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor styles for VPNavBar buttons](https://github.com/notamitgamer/bsc/commit/0cef4def288fcd45de61a3045bcdee0733258ceb) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor search and ask AI button event listeners](https://github.com/notamitgamer/bsc/commit/139ab63f63cb04c5e4ac684b82677e95e19b4746) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #21 from notamitgamer/Patch](https://github.com/notamitgamer/bsc/commit/07b1ee8588d71f9156a1ca75664dfa36f4b91cdd) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Enhance search button with prefetching functionality](https://github.com/notamitgamer/bsc/commit/25aba72abb77f559e1e6d7bb9a064514cfa4581a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
