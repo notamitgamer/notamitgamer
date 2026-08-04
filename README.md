@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #22 from notamitgamer/Patch-2](https://github.com/notamitgamer/bsc/commit/2a305db74433a6b922f1028c4d2f69d974aef56f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Refactor styles for VPNavBar buttons](https://github.com/notamitgamer/bsc/commit/0cef4def288fcd45de61a3045bcdee0733258ceb) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Refactor search and ask AI button event listeners](https://github.com/notamitgamer/bsc/commit/139ab63f63cb04c5e4ac684b82677e95e19b4746) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #21 from notamitgamer/Patch](https://github.com/notamitgamer/bsc/commit/07b1ee8588d71f9156a1ca75664dfa36f4b91cdd) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Enhance search button with prefetching functionality](https://github.com/notamitgamer/bsc/commit/25aba72abb77f559e1e6d7bb9a064514cfa4581a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge commit from fork](https://github.com/notamitgamer/mojic/commit/3d49faa0c6a86484c36a67ff3298ecfe87b48e8f) in [notamitgamer/mojic](https://github.com/notamitgamer/mojic)
+- [Refactor CipherEngine for security enhancements](https://github.com/notamitgamer/mojic/commit/602c8b7ffe0086f48208074906f3d2f1187891c9) in [notamitgamer/mojic](https://github.com/notamitgamer/mojic)
+- [Merge pull request #24 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-dcc3f92f05](https://github.com/notamitgamer/bsc/commit/69c332a321933d076d15a0f558d62c3103d7b750) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #23 from notamitgamer/edit-20260804-082420](https://github.com/notamitgamer/bsc/commit/e8a59f1746661a6b8c6b78cebfceb286275f9625) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [updated the ui](https://github.com/notamitgamer/bsc/commit/e5f1a2930e4cfea420e1f39b69531bb5b8054649) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
