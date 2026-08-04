@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #45854 from agentclover1/main](https://github.com/is-a-dev/register/commit/bb8cf0206f31bbd20d02d56d8afb18e4bdfe95b6) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45852 from simrankaushal22/main](https://github.com/is-a-dev/register/commit/fa17470220b851f18491fdf3c5c24aeb39cdc294) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45850 from ShahriarShanto/main](https://github.com/is-a-dev/register/commit/656fcee9ce90c7d0b12dfb8faace6fcb516825fb) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45843 from RonakDutta/patch-5](https://github.com/is-a-dev/register/commit/9d18797a83ccbdc936158e06e4d6208741e05b4e) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #45839 from RonakDutta/patch-4](https://github.com/is-a-dev/register/commit/48e3bbf3f89bdff748d42e8cf7c5c5f8467481b5) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46034 from St0rmosu/main](https://github.com/is-a-dev/register/commit/b53dec6697bb3a8bd6e6685c235c3ee3cab7fa0a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46033 from neisserdev/main](https://github.com/is-a-dev/register/commit/b160abdae39dd80c898fe7e2f1deae8376a0023a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46031 from Shimulraj0/add-shimul](https://github.com/is-a-dev/register/commit/6417b3c3f2389f34d7d590151ba8f12d4fa5c543) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46029 from ExcessByte/main](https://github.com/is-a-dev/register/commit/f38a537ee13a1b115f11505fd8422400d1f4911c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46028 from Yz776/main](https://github.com/is-a-dev/register/commit/8dc9ad4e4a5ffdf37d1a1527da07038e5cc7b610) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
