@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge commit from fork](https://github.com/notamitgamer/mojic/commit/3d49faa0c6a86484c36a67ff3298ecfe87b48e8f) in [notamitgamer/mojic](https://github.com/notamitgamer/mojic)
-- [Refactor CipherEngine for security enhancements](https://github.com/notamitgamer/mojic/commit/602c8b7ffe0086f48208074906f3d2f1187891c9) in [notamitgamer/mojic](https://github.com/notamitgamer/mojic)
-- [Merge pull request #24 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-dcc3f92f05](https://github.com/notamitgamer/bsc/commit/69c332a321933d076d15a0f558d62c3103d7b750) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #23 from notamitgamer/edit-20260804-082420](https://github.com/notamitgamer/bsc/commit/e8a59f1746661a6b8c6b78cebfceb286275f9625) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated the ui](https://github.com/notamitgamer/bsc/commit/e5f1a2930e4cfea420e1f39b69531bb5b8054649) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #45854 from agentclover1/main](https://github.com/is-a-dev/register/commit/bb8cf0206f31bbd20d02d56d8afb18e4bdfe95b6) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45852 from simrankaushal22/main](https://github.com/is-a-dev/register/commit/fa17470220b851f18491fdf3c5c24aeb39cdc294) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45850 from ShahriarShanto/main](https://github.com/is-a-dev/register/commit/656fcee9ce90c7d0b12dfb8faace6fcb516825fb) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45843 from RonakDutta/patch-5](https://github.com/is-a-dev/register/commit/9d18797a83ccbdc936158e06e4d6208741e05b4e) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #45839 from RonakDutta/patch-4](https://github.com/is-a-dev/register/commit/48e3bbf3f89bdff748d42e8cf7c5c5f8467481b5) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
