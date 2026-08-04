@@ -77,10 +77,10 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
 - [Merge pull request #46034 from St0rmosu/main](https://github.com/is-a-dev/register/commit/b53dec6697bb3a8bd6e6685c235c3ee3cab7fa0a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46034 from St0rmosu/main](https://github.com/SingothuRakeshVarma/register/commit/b53dec6697bb3a8bd6e6685c235c3ee3cab7fa0a) in [SingothuRakeshVarma/register](https://github.com/SingothuRakeshVarma/register)
 - [Merge pull request #46033 from neisserdev/main](https://github.com/is-a-dev/register/commit/b160abdae39dd80c898fe7e2f1deae8376a0023a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46033 from neisserdev/main](https://github.com/SingothuRakeshVarma/register/commit/b160abdae39dd80c898fe7e2f1deae8376a0023a) in [SingothuRakeshVarma/register](https://github.com/SingothuRakeshVarma/register)
 - [Merge pull request #46031 from Shimulraj0/add-shimul](https://github.com/is-a-dev/register/commit/6417b3c3f2389f34d7d590151ba8f12d4fa5c543) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46029 from ExcessByte/main](https://github.com/is-a-dev/register/commit/f38a537ee13a1b115f11505fd8422400d1f4911c) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46028 from Yz776/main](https://github.com/is-a-dev/register/commit/8dc9ad4e4a5ffdf37d1a1527da07038e5cc7b610) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
