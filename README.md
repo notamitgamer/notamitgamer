@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Update GitHub Actions workflow for Retype site](https://github.com/notamitgamer/docs/commit/17904d4e4c6bff6217b150f9a2150c9579035186) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Add GitHub Actions workflow for deployment](https://github.com/notamitgamer/docs/commit/09b8f2647ee4422aea13c299d8a10e48ea6fff3e) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Add CODEOWNERS file with designated owner](https://github.com/notamitgamer/docs/commit/311dc8400574be62172c7a177d68d416e79adb9e) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [v1.0.0](https://github.com/notamitgamer/docs/commit/97f73a701f298fc724e795c3f2fc090248cb9f1b) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 - [Merge pull request #46034 from St0rmosu/main](https://github.com/is-a-dev/register/commit/b53dec6697bb3a8bd6e6685c235c3ee3cab7fa0a) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46034 from St0rmosu/main](https://github.com/SingothuRakeshVarma/register/commit/b53dec6697bb3a8bd6e6685c235c3ee3cab7fa0a) in [SingothuRakeshVarma/register](https://github.com/SingothuRakeshVarma/register)
-- [Merge pull request #46033 from neisserdev/main](https://github.com/is-a-dev/register/commit/b160abdae39dd80c898fe7e2f1deae8376a0023a) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46033 from neisserdev/main](https://github.com/SingothuRakeshVarma/register/commit/b160abdae39dd80c898fe7e2f1deae8376a0023a) in [SingothuRakeshVarma/register](https://github.com/SingothuRakeshVarma/register)
-- [Merge pull request #46031 from Shimulraj0/add-shimul](https://github.com/is-a-dev/register/commit/6417b3c3f2389f34d7d590151ba8f12d4fa5c543) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
