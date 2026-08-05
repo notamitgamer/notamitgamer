@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Update GitHub Actions workflow for Retype site](https://github.com/notamitgamer/docs/commit/17904d4e4c6bff6217b150f9a2150c9579035186) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Add GitHub Actions workflow for deployment](https://github.com/notamitgamer/docs/commit/09b8f2647ee4422aea13c299d8a10e48ea6fff3e) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Add CODEOWNERS file with designated owner](https://github.com/notamitgamer/docs/commit/311dc8400574be62172c7a177d68d416e79adb9e) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [v1.0.0](https://github.com/notamitgamer/docs/commit/97f73a701f298fc724e795c3f2fc090248cb9f1b) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Merge pull request #46034 from St0rmosu/main](https://github.com/is-a-dev/register/commit/b53dec6697bb3a8bd6e6685c235c3ee3cab7fa0a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #12 from free-domains/c.is-a.bot](https://github.com/free-domains/is-a.bot/commit/9445a2f32481e941d40af995c16207d59c2b58e3) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #8 from epicDavid-private/main](https://github.com/free-domains/is-a.bot/commit/2831c1541aa39785436b877d7455e198914c1f51) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge branch 'free-domains:main' into main](https://github.com/free-domains/is-a.bot/commit/ba865d651a7849a70775001ccb9f56d2494f57ac) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Add TXT record to amit.json domain configuration](https://github.com/free-domains/is-a.bot/commit/b9a3ddbb012d1e59c51fda3d8b0eedb2ff160813) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Add _acme-challenge.amit.json for domain verification](https://github.com/free-domains/is-a.bot/commit/8e6c8aea301ba167f2009be812d451404da80e41) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
