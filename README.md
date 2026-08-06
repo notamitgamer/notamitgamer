@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [never updated the version number, fk (#3)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/1bca154424c8c6a36c91b895f0304beb489a678b) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Merge pull request #12 from free-domains/c.is-a.bot](https://github.com/free-domains/is-a.bot/commit/9445a2f32481e941d40af995c16207d59c2b58e3) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #8 from epicDavid-private/main](https://github.com/free-domains/is-a.bot/commit/2831c1541aa39785436b877d7455e198914c1f51) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge branch 'free-domains:main' into main](https://github.com/free-domains/is-a.bot/commit/ba865d651a7849a70775001ccb9f56d2494f57ac) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Add TXT record to amit.json domain configuration](https://github.com/free-domains/is-a.bot/commit/b9a3ddbb012d1e59c51fda3d8b0eedb2ff160813) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #46297 from retinoladapelene/main](https://github.com/is-a-dev/register/commit/efe619c1811ec2d094e3c5abbf8102e0ac1b2d33) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46296 from R0T0-DEV/main](https://github.com/is-a-dev/register/commit/2842a142114d5cde67d2f65b86737e83f17922d7) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Apply suggestion from @notamitgamer](https://github.com/is-a-dev/register/commit/daa9d831bc82bd44e48d10a22b3abc18e3e1019c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Apply suggestion from @notamitgamer](https://github.com/is-a-dev/register/commit/fb27475fee31450eb41053ed622395cd783cfe68) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46289 from abriciof/main](https://github.com/is-a-dev/register/commit/7cbeb308ea8ad13cc2133d263dbae4888263321e) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
