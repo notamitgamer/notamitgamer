@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #42 from iamsteak/main](https://github.com/free-domains/is-a.bot/commit/7bd99d9051817be3a87070c9d8265e0094525467) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #26 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-5f7cea1f02](https://github.com/notamitgamer/bsc/commit/426099e93f2405534c66614cb874520ae1ef0025) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #27 from notamitgamer/edit-20260807-161750](https://github.com/notamitgamer/bsc/commit/17b35784653ae8c114562952eb2f03807e68fa12) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [fixed the type, it broked the side nav](https://github.com/notamitgamer/bsc/commit/890e572888e9aed98d54b6097c88472ce6b50174) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #25 from notamitgamer/edit-20260807-161336](https://github.com/notamitgamer/bsc/commit/69dd12f94bf19135f32833ef1bdbbacf32f402a4) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [more algo](https://github.com/notamitgamer/bsc/commit/b715f1dd75e5ed251e9e71c5f71ab8d63fedf23f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #46297 from retinoladapelene/main](https://github.com/is-a-dev/register/commit/efe619c1811ec2d094e3c5abbf8102e0ac1b2d33) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
