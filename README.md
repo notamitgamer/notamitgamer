@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #29 from notamitgamer/edit-20260807-205726](https://github.com/notamitgamer/bsc/commit/9badca50c6ed07c129b6a7f1cf99675a6c6ee445) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [some practice](https://github.com/notamitgamer/bsc/commit/edc576d1b01d86c6c98f2973b2577fc3a03350aa) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #28 from notamitgamer/edit-20260807-200434](https://github.com/notamitgamer/bsc/commit/c28e24d9439afd64180b49891827e69bf3d18f7d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [changed the font](https://github.com/notamitgamer/bsc/commit/98bd6628f1ccbab06fe39b1d81c3577d21543729) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #42 from iamsteak/main](https://github.com/free-domains/is-a.bot/commit/7bd99d9051817be3a87070c9d8265e0094525467) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #26 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-5f7cea1f02](https://github.com/notamitgamer/bsc/commit/426099e93f2405534c66614cb874520ae1ef0025) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #27 from notamitgamer/edit-20260807-161750](https://github.com/notamitgamer/bsc/commit/17b35784653ae8c114562952eb2f03807e68fa12) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [fixed the type, it broked the side nav](https://github.com/notamitgamer/bsc/commit/890e572888e9aed98d54b6097c88472ce6b50174) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #25 from notamitgamer/edit-20260807-161336](https://github.com/notamitgamer/bsc/commit/69dd12f94bf19135f32833ef1bdbbacf32f402a4) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
