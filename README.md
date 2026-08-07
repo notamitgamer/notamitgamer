@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #27 from notamitgamer/edit-20260807-161750](https://github.com/notamitgamer/bsc/commit/17b35784653ae8c114562952eb2f03807e68fa12) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [fixed the type, it broked the side nav](https://github.com/notamitgamer/bsc/commit/890e572888e9aed98d54b6097c88472ce6b50174) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #25 from notamitgamer/edit-20260807-161336](https://github.com/notamitgamer/bsc/commit/69dd12f94bf19135f32833ef1bdbbacf32f402a4) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [more algo](https://github.com/notamitgamer/bsc/commit/b715f1dd75e5ed251e9e71c5f71ab8d63fedf23f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #46297 from retinoladapelene/main](https://github.com/is-a-dev/register/commit/efe619c1811ec2d094e3c5abbf8102e0ac1b2d33) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46296 from R0T0-DEV/main](https://github.com/is-a-dev/register/commit/2842a142114d5cde67d2f65b86737e83f17922d7) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Apply suggestion from @notamitgamer](https://github.com/is-a-dev/register/commit/daa9d831bc82bd44e48d10a22b3abc18e3e1019c) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Apply suggestion from @notamitgamer](https://github.com/is-a-dev/register/commit/fb27475fee31450eb41053ed622395cd783cfe68) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46289 from abriciof/main](https://github.com/is-a-dev/register/commit/7cbeb308ea8ad13cc2133d263dbae4888263321e) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
