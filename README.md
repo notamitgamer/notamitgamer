@@ -10,7 +10,7 @@
 ```
 
 **CS Undergrad · Full Stack Developer (Maybe)**<br>
-**PR Reviewer at <a href="https://github.com/is-a-dev">is-a.dev</a> organization** — *professional button-clicker*
+**Reviewer at <a href="https://github.com/is-a-dev">is-a.dev</a> and <a href="https://github.com/free-domains">free-domains</a> organization** — *professional button-clicker*
 <br><br>***Status: 404 - Girlfriend Not Found***
 
 [![Website](https://img.shields.io/badge/amit.is--a.dev-000?style=flat-square&logo=google-chrome&logoColor=white)](https://amit.is-a.dev)
