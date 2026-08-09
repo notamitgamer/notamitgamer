@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Update README.md](https://github.com/notamitgamer/notamitgamer/commit/0e9d7c6120b6f34a8e9fe94295c3712f2c14f85c) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Merge pull request #31 from notamitgamer/edit-20260809-160106](https://github.com/notamitgamer/bsc/commit/87286296175a7014cf0f766f99365c2f15115894) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [changed the ui to github inspired](https://github.com/notamitgamer/bsc/commit/d7fd370961b4f70f420ae9b104cfb074ba7fa805) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #30 from notamitgamer/edit-20260809-151242](https://github.com/notamitgamer/bsc/commit/02559160199bd559deed92db0f22a05ccf798fbe) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [audit](https://github.com/notamitgamer/bsc/commit/55765385dcaec9ed38b8c94122cada66c4cc67d8) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Revise README for clarity and additional information](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/a11950de631ab31f4f6a18f6052126412fcbd889) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Update README to remove sync warning](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/2a905acb0d3ff56c33f99f912301c7cd17c6b3a0) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Merge pull request #29 from notamitgamer/edit-20260807-205726](https://github.com/notamitgamer/bsc/commit/9badca50c6ed07c129b6a7f1cf99675a6c6ee445) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
