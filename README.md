@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #32 from notamitgamer/edit-20260810-142659](https://github.com/notamitgamer/bsc/commit/04798b7c511d8d6a0f4cc1e45456ddeb84a6b2ac) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [adding ai support](https://github.com/notamitgamer/bsc/commit/5fa532ba91d0b4841a0e84e8a13b9f681d42166f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Update README.md](https://github.com/notamitgamer/notamitgamer/commit/0e9d7c6120b6f34a8e9fe94295c3712f2c14f85c) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Merge pull request #31 from notamitgamer/edit-20260809-160106](https://github.com/notamitgamer/bsc/commit/87286296175a7014cf0f766f99365c2f15115894) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [changed the ui to github inspired](https://github.com/notamitgamer/bsc/commit/d7fd370961b4f70f420ae9b104cfb074ba7fa805) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #33 from notamitgamer/edit-20260810-155635](https://github.com/notamitgamer/bsc/commit/6686d3036be33f9bf40cd8f8d6400b007d091f6a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [updated the logo](https://github.com/notamitgamer/bsc/commit/3dde7d98b23f006ac98b28c2a794ffa3a6d070f5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #46560 from retinoladapelene/main](https://github.com/is-a-dev/register/commit/b99bc21e8835982314a3ddb40f6229eadf2bd452) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46559 from sanzizlohar/patch-1](https://github.com/is-a-dev/register/commit/8a99374f80817a122d239fd31ef842ae1d9f3420) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46558 from affaf12/main](https://github.com/is-a-dev/register/commit/f5174d11eec8f799fcc91b1c577ca013942ea6bd) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
