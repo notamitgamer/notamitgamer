@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #46589 from YassinMk/patch-1](https://github.com/is-a-dev/register/commit/c92ef51f12ebcc017ff8a45a2b3d7a4ca8a79206) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46588 from Stukdee/main](https://github.com/is-a-dev/register/commit/e6d2dd5431a274b8ac7dc321c1ffb3499125b39a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46571 from shadowkuroX/main](https://github.com/is-a-dev/register/commit/95ab7badc63a479ea12c0a7f58faf5bd5dd89328) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #33 from notamitgamer/edit-20260810-155635](https://github.com/notamitgamer/bsc/commit/6686d3036be33f9bf40cd8f8d6400b007d091f6a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [updated the logo](https://github.com/notamitgamer/bsc/commit/3dde7d98b23f006ac98b28c2a794ffa3a6d070f5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #46560 from retinoladapelene/main](https://github.com/is-a-dev/register/commit/b99bc21e8835982314a3ddb40f6229eadf2bd452) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46559 from sanzizlohar/patch-1](https://github.com/is-a-dev/register/commit/8a99374f80817a122d239fd31ef842ae1d9f3420) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46558 from affaf12/main](https://github.com/is-a-dev/register/commit/f5174d11eec8f799fcc91b1c577ca013942ea6bd) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
