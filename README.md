@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #32 from notamitgamer/edit-20260810-142659](https://github.com/notamitgamer/bsc/commit/04798b7c511d8d6a0f4cc1e45456ddeb84a6b2ac) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [adding ai support](https://github.com/notamitgamer/bsc/commit/5fa532ba91d0b4841a0e84e8a13b9f681d42166f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Update README.md](https://github.com/notamitgamer/notamitgamer/commit/0e9d7c6120b6f34a8e9fe94295c3712f2c14f85c) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Merge pull request #31 from notamitgamer/edit-20260809-160106](https://github.com/notamitgamer/bsc/commit/87286296175a7014cf0f766f99365c2f15115894) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [changed the ui to github inspired](https://github.com/notamitgamer/bsc/commit/d7fd370961b4f70f420ae9b104cfb074ba7fa805) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #30 from notamitgamer/edit-20260809-151242](https://github.com/notamitgamer/bsc/commit/02559160199bd559deed92db0f22a05ccf798fbe) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [audit](https://github.com/notamitgamer/bsc/commit/55765385dcaec9ed38b8c94122cada66c4cc67d8) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
