@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Fix punctuation in index.md for consistency](https://github.com/notamitgamer/bsc/commit/ff4a2af089c7ef3552ba28dabc9e4fdcafadca60) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #46589 from YassinMk/patch-1](https://github.com/is-a-dev/register/commit/c92ef51f12ebcc017ff8a45a2b3d7a4ca8a79206) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46588 from Stukdee/main](https://github.com/is-a-dev/register/commit/e6d2dd5431a274b8ac7dc321c1ffb3499125b39a) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46571 from shadowkuroX/main](https://github.com/is-a-dev/register/commit/95ab7badc63a479ea12c0a7f58faf5bd5dd89328) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #33 from notamitgamer/edit-20260810-155635](https://github.com/notamitgamer/bsc/commit/6686d3036be33f9bf40cd8f8d6400b007d091f6a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #46618 from Pant0x/main](https://github.com/is-a-dev/register/commit/d75201c2e2fc37ecdc033aede29332f734e4c341) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46614 from edumonteiro-dev/main](https://github.com/is-a-dev/register/commit/0587a8dd6da3c716bcb97858f8b9d6aa1405036f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46613 from Mahdi-Abdollahi/patch-1](https://github.com/is-a-dev/register/commit/0a4075624ad06352120c211dbdae809a8791f2f5) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46610 from I7ASO/patch-1](https://github.com/is-a-dev/register/commit/811d14c157168e354f583ed87bf6664a155f36be) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46609 from AliTajmirRiahi/main](https://github.com/is-a-dev/register/commit/f0548c98bbafc0cd1a8bf1adb1ba6b59b2328bb0) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
