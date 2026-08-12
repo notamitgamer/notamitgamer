@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #46619 from duggu-dev13/patch-7](https://github.com/is-a-dev/register/commit/c21a72afc9e46d58291ef1c98c08d0a12c2bd5d9) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46566 from NortexDigital/main](https://github.com/is-a-dev/register/commit/bba9b6b710e7af83b5dc752fa17455ded0277222) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #36 from notamitgamer2/fix/raw-button-visibility](https://github.com/notamitgamer/bsc/commit/1277c4dc7b8dd7023ab7570f537a9cab671e898e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #46618 from Pant0x/main](https://github.com/is-a-dev/register/commit/d75201c2e2fc37ecdc033aede29332f734e4c341) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #46614 from edumonteiro-dev/main](https://github.com/is-a-dev/register/commit/0587a8dd6da3c716bcb97858f8b9d6aa1405036f) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46613 from Mahdi-Abdollahi/patch-1](https://github.com/is-a-dev/register/commit/0a4075624ad06352120c211dbdae809a8791f2f5) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46610 from I7ASO/patch-1](https://github.com/is-a-dev/register/commit/811d14c157168e354f583ed87bf6664a155f36be) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46609 from AliTajmirRiahi/main](https://github.com/is-a-dev/register/commit/f0548c98bbafc0cd1a8bf1adb1ba6b59b2328bb0) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
