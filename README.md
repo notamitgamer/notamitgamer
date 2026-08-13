@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Update credits to remove external service mentions](https://github.com/notamitgamer/bsc/commit/393bd3e2bb81bdce8596b8592c3fcc1dd9337804) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #46630 from Kailash-711/main](https://github.com/is-a-dev/register/commit/7d4a85cf5e29ab9c1d0d13b099de2406a4938804) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46754 from Tabaniii/main](https://github.com/is-a-dev/register/commit/b665c8ec4347a3c118e6e1896f411bd61a879d3a) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46717 from sysilion/add-bizu](https://github.com/is-a-dev/register/commit/aa68314c24b549715ee1562fbd71afbfe6397a82) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46715 from Parth2619/main](https://github.com/is-a-dev/register/commit/7222006c8af870de110c92ee13cbb3723c8a7ff2) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46706 from Sabari-sabu/main](https://github.com/is-a-dev/register/commit/8901fbecbd89c2c768e42a854c74758a5c1bce69) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46734 from muhammadsaadnaeem424/patch-3](https://github.com/is-a-dev/register/commit/0e6cbd220212e9ada319bce4725aa0609686326b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge branch 'main' into patch-3](https://github.com/is-a-dev/register/commit/b7bae5aacd47a0fd415120a930799955c308d6ea) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46733 from muhammadsaadnaeem424/patch-2](https://github.com/is-a-dev/register/commit/7d2b7f51dd9b416d428b9c84c2b13512b7207f98) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge branch 'main' into patch-2](https://github.com/is-a-dev/register/commit/f5fc8e7509a97eebbdd3f1eab21f52981431bf9b) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
