@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #38 from notamitgamer2/add-dependabot-config](https://github.com/notamitgamer/bsc/commit/10d3a0c437bec5d993a6216e4f54f907a7841917) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #37 from notamitgamer/edit-20260813-201532](https://github.com/notamitgamer/bsc/commit/3e3a06dd99d4050370aceea2f0e784cdbc9b46c2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [added 2nd assignment](https://github.com/notamitgamer/bsc/commit/f56edf13215a6f5f0c06241245022800a6e78f27) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Fix formatting in _vercel.parvej.json](https://github.com/is-a-dev/register/commit/8bef094feee633fcc86f3226072a6ae803fcd59f) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #46750 from Mahmoud-B-Miqdad/main](https://github.com/is-a-dev/register/commit/1a7df6a50288a94db8d8445ef4a60cbf8e1855d9) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46747 from Kh4iri/main](https://github.com/is-a-dev/register/commit/72f56dfaafb852f11b093b4aed8665638d87b14e) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
