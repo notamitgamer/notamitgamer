@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #46907 from AlvinGeorge-AG/main](https://github.com/is-a-dev/register/commit/a9b24ef1ec97d2e015200c246c77b2836c1363ff) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46903 from Sricharan106/parsisricharan](https://github.com/is-a-dev/register/commit/1983c22d5738b4010a08e8b16cf0a3d643974a55) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46898 from nitaysc/add-novastudio-subdomain](https://github.com/is-a-dev/register/commit/b0d8d751b6b4dd6ffec3ff1a0bb8186f7f942be7) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46865 from Phant0m0567/patch-2](https://github.com/is-a-dev/register/commit/21c6fe7776d8adeb01e9a531de6baafc88c1e004) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46856 from JStarWave84/main](https://github.com/is-a-dev/register/commit/71cb5a2f147b8c2761e2f3deb18a22a29f6bfaf4) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46875 from mandeep-03-git/main](https://github.com/is-a-dev/register/commit/bc28c39fb0c8bac6ce5a7cda743f8f7431fb255c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46873 from satwik88/patch-2](https://github.com/is-a-dev/register/commit/25b179b0d87e8046fd0aac827fc658af2fdd7b11) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46872 from saron-mani/main](https://github.com/is-a-dev/register/commit/5a634fc9b6aa8dcec4606994e76a4be056650819) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47224 from lstTTY/patch-3](https://github.com/is-a-dev/register/commit/a9576a44bd933d35c8c0ecaac9a5b16b4642c883) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46871 from rakhaharis08/main](https://github.com/is-a-dev/register/commit/4a997b12986f31486aea44254bf6ffe12d12c3fb) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
