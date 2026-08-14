@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #38 from notamitgamer2/add-dependabot-config](https://github.com/notamitgamer/bsc/commit/10d3a0c437bec5d993a6216e4f54f907a7841917) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #37 from notamitgamer/edit-20260813-201532](https://github.com/notamitgamer/bsc/commit/3e3a06dd99d4050370aceea2f0e784cdbc9b46c2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [added 2nd assignment](https://github.com/notamitgamer/bsc/commit/f56edf13215a6f5f0c06241245022800a6e78f27) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Fix formatting in _vercel.parvej.json](https://github.com/is-a-dev/register/commit/8bef094feee633fcc86f3226072a6ae803fcd59f) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46750 from Mahmoud-B-Miqdad/main](https://github.com/is-a-dev/register/commit/1a7df6a50288a94db8d8445ef4a60cbf8e1855d9) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46907 from AlvinGeorge-AG/main](https://github.com/is-a-dev/register/commit/a9b24ef1ec97d2e015200c246c77b2836c1363ff) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46903 from Sricharan106/parsisricharan](https://github.com/is-a-dev/register/commit/1983c22d5738b4010a08e8b16cf0a3d643974a55) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46898 from nitaysc/add-novastudio-subdomain](https://github.com/is-a-dev/register/commit/b0d8d751b6b4dd6ffec3ff1a0bb8186f7f942be7) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46865 from Phant0m0567/patch-2](https://github.com/is-a-dev/register/commit/21c6fe7776d8adeb01e9a531de6baafc88c1e004) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #46856 from JStarWave84/main](https://github.com/is-a-dev/register/commit/71cb5a2f147b8c2761e2f3deb18a22a29f6bfaf4) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
