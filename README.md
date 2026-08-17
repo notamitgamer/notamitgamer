@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #47580 from arsalqazi3/add-arslanasadqazi](https://github.com/is-a-dev/register/commit/574a0f1d16bd6cece4ac2fd3c6a83c9a4ca4e6a8) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47576 from RitwikGupta-0501/RitwikGupta-0501-patch-1](https://github.com/is-a-dev/register/commit/d90f2e121487c6ef14427adf25f90ed09e5fdcf1) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #50 from notamitgamer2/fix/external-link-modal-actions](https://github.com/notamitgamer/bsc/commit/ca8257e6821106c65d9611fef9e7afa2338b6979) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #47 from notamitgamer2/fix/external-link-warning-modal](https://github.com/notamitgamer/bsc/commit/8ad1dac89f6320f5c57f8cf4ed8e75dd4327281f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #46875 from mandeep-03-git/main](https://github.com/is-a-dev/register/commit/bc28c39fb0c8bac6ce5a7cda743f8f7431fb255c) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46873 from satwik88/patch-2](https://github.com/is-a-dev/register/commit/25b179b0d87e8046fd0aac827fc658af2fdd7b11) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #46872 from saron-mani/main](https://github.com/is-a-dev/register/commit/5a634fc9b6aa8dcec4606994e76a4be056650819) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
