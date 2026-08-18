@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-08-17T00:58:04.464109+00:00",
-    "next_update": "2026-08-17T01:00:00+00:00"
+    "last_updated": "2026-08-18T00:56:31.342948+00:00",
+    "next_update": "2026-08-18T01:00:00+00:00"
   },
   "maintainers": [
     {
@@ -39,8 +39,8 @@
     {
       "username": "satr14washere",
       "stats": {
-        "all_time": 275,
-        "this_month": 4,
+        "all_time": 284,
+        "this_month": 13,
         "last_month": 7
       }
     },
@@ -63,8 +63,8 @@
     {
       "username": "notamitgamer",
       "stats": {
-        "all_time": 1030,
-        "this_month": 188,
+        "all_time": 1032,
+        "this_month": 190,
         "last_month": 282
       }
     },
@@ -79,16 +79,16 @@
     {
       "username": "dragsbruh",
       "stats": {
-        "all_time": 1196,
-        "this_month": 221,
+        "all_time": 1211,
+        "this_month": 236,
         "last_month": 406
       }
     },
     {
       "username": "DEV-DIBSTER",
       "stats": {
-        "all_time": 5223,
-        "this_month": 93,
+        "all_time": 5225,
+        "this_month": 95,
         "last_month": 3
       }
     }
