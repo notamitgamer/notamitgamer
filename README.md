@@ -78,9 +78,9 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 <!-- START_RECENT_COMMITS -->
 - [Merge pull request #47580 from arsalqazi3/add-arslanasadqazi](https://github.com/is-a-dev/register/commit/574a0f1d16bd6cece4ac2fd3c6a83c9a4ca4e6a8) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #47580 from arsalqazi3/add-arslanasadqazi](https://github.com/Darowimu/adev/commit/574a0f1d16bd6cece4ac2fd3c6a83c9a4ca4e6a8) in [Darowimu/adev](https://github.com/Darowimu/adev)
+- [Merge pull request #47580 from arsalqazi3/add-arslanasadqazi](https://github.com/seinai-z/seinaiz/commit/574a0f1d16bd6cece4ac2fd3c6a83c9a4ca4e6a8) in [seinai-z/seinaiz](https://github.com/seinai-z/seinaiz)
 - [Merge pull request #47576 from RitwikGupta-0501/RitwikGupta-0501-patch-1](https://github.com/is-a-dev/register/commit/d90f2e121487c6ef14427adf25f90ed09e5fdcf1) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #47576 from RitwikGupta-0501/RitwikGupta-0501-patch-1](https://github.com/Darowimu/adev/commit/d90f2e121487c6ef14427adf25f90ed09e5fdcf1) in [Darowimu/adev](https://github.com/Darowimu/adev)
-- [Merge pull request #50 from notamitgamer2/fix/external-link-modal-actions](https://github.com/notamitgamer/bsc/commit/ca8257e6821106c65d9611fef9e7afa2338b6979) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
