@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #51 from notamitgamer/edit-20260818-194418](https://github.com/notamitgamer/bsc/commit/562df53e7b32dabbb584fa8b9f4c9dd29e28df0b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [added tip about ofline offline bundle](https://github.com/notamitgamer/bsc/commit/79ac76c01e226f0842002688e164f95fd985ba9d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Change backup method to Git bundle and update release](https://github.com/notamitgamer/bsc/commit/bf38d0cf3d198d7d6768b5ce53563d12d356b700) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Add backup job to GitHub Actions workflow](https://github.com/notamitgamer/bsc/commit/667c9a3a1bb82b1aaa017c5665db0996cee8bda0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Update GitHub Actions bot configuration](https://github.com/notamitgamer/bsc/commit/082756dd81bdfd59a2ef95e76bc6e436de74254a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #47580 from arsalqazi3/add-arslanasadqazi](https://github.com/is-a-dev/register/commit/574a0f1d16bd6cece4ac2fd3c6a83c9a4ca4e6a8) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #47580 from arsalqazi3/add-arslanasadqazi](https://github.com/Darowimu/adev/commit/574a0f1d16bd6cece4ac2fd3c6a83c9a4ca4e6a8) in [Darowimu/adev](https://github.com/Darowimu/adev)
-- [Merge pull request #47580 from arsalqazi3/add-arslanasadqazi](https://github.com/seinai-z/seinaiz/commit/574a0f1d16bd6cece4ac2fd3c6a83c9a4ca4e6a8) in [seinai-z/seinaiz](https://github.com/seinai-z/seinaiz)
-- [Merge pull request #47576 from RitwikGupta-0501/RitwikGupta-0501-patch-1](https://github.com/is-a-dev/register/commit/d90f2e121487c6ef14427adf25f90ed09e5fdcf1) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
