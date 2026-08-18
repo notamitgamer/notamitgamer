@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Update GitHub Actions bot configuration](https://github.com/notamitgamer/bsc/commit/082756dd81bdfd59a2ef95e76bc6e436de74254a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #47580 from arsalqazi3/add-arslanasadqazi](https://github.com/is-a-dev/register/commit/574a0f1d16bd6cece4ac2fd3c6a83c9a4ca4e6a8) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #47580 from arsalqazi3/add-arslanasadqazi](https://github.com/Darowimu/adev/commit/574a0f1d16bd6cece4ac2fd3c6a83c9a4ca4e6a8) in [Darowimu/adev](https://github.com/Darowimu/adev)
 - [Merge pull request #47580 from arsalqazi3/add-arslanasadqazi](https://github.com/seinai-z/seinaiz/commit/574a0f1d16bd6cece4ac2fd3c6a83c9a4ca4e6a8) in [seinai-z/seinaiz](https://github.com/seinai-z/seinaiz)
 - [Merge pull request #47576 from RitwikGupta-0501/RitwikGupta-0501-patch-1](https://github.com/is-a-dev/register/commit/d90f2e121487c6ef14427adf25f90ed09e5fdcf1) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #47576 from RitwikGupta-0501/RitwikGupta-0501-patch-1](https://github.com/Darowimu/adev/commit/d90f2e121487c6ef14427adf25f90ed09e5fdcf1) in [Darowimu/adev](https://github.com/Darowimu/adev)
 <!-- END_RECENT_COMMITS -->
 
 ---
