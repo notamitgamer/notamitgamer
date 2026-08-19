@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-08-18T00:56:31.342948+00:00",
-    "next_update": "2026-08-18T01:00:00+00:00"
+    "last_updated": "2026-08-19T00:56:58.021463+00:00",
+    "next_update": "2026-08-19T01:00:00+00:00"
   },
   "maintainers": [
     {
@@ -15,8 +15,8 @@
     {
       "username": "wdhdev",
       "stats": {
-        "all_time": 2107,
-        "this_month": 71,
+        "all_time": 2114,
+        "this_month": 78,
         "last_month": 46
       }
     },
@@ -79,8 +79,8 @@
     {
       "username": "dragsbruh",
       "stats": {
-        "all_time": 1211,
-        "this_month": 236,
+        "all_time": 1212,
+        "this_month": 237,
         "last_month": 406
       }
     },
