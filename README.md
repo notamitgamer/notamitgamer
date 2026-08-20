@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #58 from notamitgamer/test/ruleset-verification-2](https://github.com/notamitgamer/bsc/commit/ff31a44d35470c5836debe9e91cc823d6dde2ed2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #56 from notamitgamer/ci/pr-generator-check](https://github.com/notamitgamer/bsc/commit/63553512449284bb5515351399359bd62cf5f5b5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #55 from notamitgamer/feat/update-banner-text](https://github.com/notamitgamer/bsc/commit/946ed545091faf15a0fc3048e407a33ba8c22c79) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #54 from notamitgamer/feat/detailed-changelog](https://github.com/notamitgamer/bsc/commit/e31382fabbeb9b957963f4e89f07f9ec41693607) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #53 from notamitgamer/test/github-app-bot](https://github.com/notamitgamer/bsc/commit/57aaa5542a36a1d7f60bd73e7c3a915a7075c57a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #51 from notamitgamer/edit-20260818-194418](https://github.com/notamitgamer/bsc/commit/562df53e7b32dabbb584fa8b9f4c9dd29e28df0b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [added tip about ofline offline bundle](https://github.com/notamitgamer/bsc/commit/79ac76c01e226f0842002688e164f95fd985ba9d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Change backup method to Git bundle and update release](https://github.com/notamitgamer/bsc/commit/bf38d0cf3d198d7d6768b5ce53563d12d356b700) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Add backup job to GitHub Actions workflow](https://github.com/notamitgamer/bsc/commit/667c9a3a1bb82b1aaa017c5665db0996cee8bda0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
