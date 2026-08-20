@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #58 from notamitgamer/test/ruleset-verification-2](https://github.com/notamitgamer/bsc/commit/ff31a44d35470c5836debe9e91cc823d6dde2ed2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #56 from notamitgamer/ci/pr-generator-check](https://github.com/notamitgamer/bsc/commit/63553512449284bb5515351399359bd62cf5f5b5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #55 from notamitgamer/feat/update-banner-text](https://github.com/notamitgamer/bsc/commit/946ed545091faf15a0fc3048e407a33ba8c22c79) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #54 from notamitgamer/feat/detailed-changelog](https://github.com/notamitgamer/bsc/commit/e31382fabbeb9b957963f4e89f07f9ec41693607) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #53 from notamitgamer/test/github-app-bot](https://github.com/notamitgamer/bsc/commit/57aaa5542a36a1d7f60bd73e7c3a915a7075c57a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #47783 from finnwasabi/add-tungln](https://github.com/is-a-dev/register/commit/c0a188730829cdd8df3c1b5fef5035b454eb74cb) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47772 from Anusree-R/fix-anusree-cname](https://github.com/is-a-dev/register/commit/b2c760c11281de993378818d3b6df81bcbf54cd4) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47761 from Mandimby2003/main](https://github.com/is-a-dev/register/commit/8c8a8a982c10d6f589f029fb90b3d5a90c2be386) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47766 from AlfinAkash/m-s](https://github.com/is-a-dev/register/commit/17f8704100fc1403ba635dfecafa6cd37b90c13f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47757 from rich0021/main](https://github.com/is-a-dev/register/commit/f5eced897016dfcf3cff380bf7b281ad8bcfb1ab) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
