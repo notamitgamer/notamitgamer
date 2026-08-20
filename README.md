@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #47783 from finnwasabi/add-tungln](https://github.com/is-a-dev/register/commit/c0a188730829cdd8df3c1b5fef5035b454eb74cb) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #47772 from Anusree-R/fix-anusree-cname](https://github.com/is-a-dev/register/commit/b2c760c11281de993378818d3b6df81bcbf54cd4) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #47761 from Mandimby2003/main](https://github.com/is-a-dev/register/commit/8c8a8a982c10d6f589f029fb90b3d5a90c2be386) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #47766 from AlfinAkash/m-s](https://github.com/is-a-dev/register/commit/17f8704100fc1403ba635dfecafa6cd37b90c13f) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #47757 from rich0021/main](https://github.com/is-a-dev/register/commit/f5eced897016dfcf3cff380bf7b281ad8bcfb1ab) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47866 from jshmslf/main](https://github.com/is-a-dev/register/commit/9073b72209286adbe2cc6679e705d3103e0fe9d1) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47853 from naman1610/main](https://github.com/is-a-dev/register/commit/df3d0d287fdda993da49b6c28e6c4cfa2679c3f6) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47848 from berthosefin/main](https://github.com/is-a-dev/register/commit/755c7828b0f5f829f1d93dd67cf7b762626ef4cc) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47843 from c-ludenberg/main](https://github.com/is-a-dev/register/commit/1dfac1c1e01b7de6e3d98ff1f344d01e929cfdfa) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47841 from theeekshana/main](https://github.com/is-a-dev/register/commit/7f407cb209c4e39c785193df3eaa02750154ef57) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
