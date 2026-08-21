@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #148 from BKsell/main](https://github.com/free-domains/is-a.bot/commit/032954a98a3ec3908da20790575c6dbc529fd927) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #146 from JamesMoore1998/main](https://github.com/free-domains/is-a.bot/commit/89b3f456576ecb45e329596be9ac80f506e5d7b6) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #145 from Deepankar-Siddharth/main](https://github.com/free-domains/is-a.bot/commit/31a2ebaee7a5eb819fdd19f91bb14333550a8674) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #143 from Mandimby2003/main](https://github.com/free-domains/is-a.bot/commit/3bd31162ad805a41e6ad24966ae3a44048aed044) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #142 from kmcbest/main](https://github.com/free-domains/is-a.bot/commit/733ddbe5233189cde6696279191a40e5a2423ca7) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #156 from Michel2618/main](https://github.com/free-domains/is-a.bot/commit/3dc1afde4aeb1dcff0338a5189db7ae327c92a3f) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #155 from jokoarynt/main](https://github.com/free-domains/is-a.bot/commit/86470cd6d72e6e4e75b647987d8702c42954e0d1) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #154 from 74593abc-sudo/update-cname-netlify](https://github.com/free-domains/is-a.bot/commit/117e065e625db84ea28db373b7130cd040510db1) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #151 from JamesMoore1998/main](https://github.com/free-domains/is-a.bot/commit/a1e464ffea61099fb7967a8c7c0498475c50f30c) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #150 from badcapybara/main](https://github.com/free-domains/is-a.bot/commit/60c4de72f36c1ee642cee9940eea0c7966dbb11a) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
