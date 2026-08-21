@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #47866 from jshmslf/main](https://github.com/is-a-dev/register/commit/9073b72209286adbe2cc6679e705d3103e0fe9d1) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #47853 from naman1610/main](https://github.com/is-a-dev/register/commit/df3d0d287fdda993da49b6c28e6c4cfa2679c3f6) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #47848 from berthosefin/main](https://github.com/is-a-dev/register/commit/755c7828b0f5f829f1d93dd67cf7b762626ef4cc) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #47843 from c-ludenberg/main](https://github.com/is-a-dev/register/commit/1dfac1c1e01b7de6e3d98ff1f344d01e929cfdfa) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #47841 from theeekshana/main](https://github.com/is-a-dev/register/commit/7f407cb209c4e39c785193df3eaa02750154ef57) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #134 from jokoarynt/main](https://github.com/free-domains/is-a.bot/commit/66a9b3d7de2cae7985bfb0fe0ba22a6c426b26c7) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #133 from badcapybara/main](https://github.com/free-domains/is-a.bot/commit/abe8319b7f832ae5bf57c7a6296ce9574635279a) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #132 from govindtank/add-govindtank-domain](https://github.com/free-domains/is-a.bot/commit/af34030fc55217aa065870cb5f85b0dc4b2564fb) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #126 from yuurahz/main](https://github.com/free-domains/is-a.bot/commit/0f88fec848257020daf90f9cb9933eb5164294ab) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #124 from 6nf0n3/main](https://github.com/free-domains/is-a.bot/commit/855d6ba6db743eaf7c02817f5782a8c95595bc16) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
