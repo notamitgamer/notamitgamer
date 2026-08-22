@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #156 from Michel2618/main](https://github.com/free-domains/is-a.bot/commit/3dc1afde4aeb1dcff0338a5189db7ae327c92a3f) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #155 from jokoarynt/main](https://github.com/free-domains/is-a.bot/commit/86470cd6d72e6e4e75b647987d8702c42954e0d1) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #154 from 74593abc-sudo/update-cname-netlify](https://github.com/free-domains/is-a.bot/commit/117e065e625db84ea28db373b7130cd040510db1) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #151 from JamesMoore1998/main](https://github.com/free-domains/is-a.bot/commit/a1e464ffea61099fb7967a8c7c0498475c50f30c) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #150 from badcapybara/main](https://github.com/free-domains/is-a.bot/commit/60c4de72f36c1ee642cee9940eea0c7966dbb11a) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #48011 from rafaelputrasitinjak23/patch-8](https://github.com/is-a-dev/register/commit/4924d732b9c9bcfd58768a55277bc3890c9e7841) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #48005 from jeevanhs06/main](https://github.com/is-a-dev/register/commit/c1f2a7ead5a09665d1d22de5fdf341a577f1403b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #48002 from developeradhi/main](https://github.com/is-a-dev/register/commit/b76fff82dc6f6b43a37efcad7bfaa2f5afdaad73) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #48000 from 18statues-byte/main](https://github.com/is-a-dev/register/commit/a9783fdc0980ed8f333160265f6ff9511e82a67f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #47999 from excitedlord/main](https://github.com/is-a-dev/register/commit/294957a61e354922a16dbe784224b892fea56400) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
