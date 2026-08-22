@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #48034 from Levii17/patch-3](https://github.com/is-a-dev/register/commit/bd0d4ce18cdb35b7d25360ac1d3693a542a663b0) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #48011 from rafaelputrasitinjak23/patch-8](https://github.com/is-a-dev/register/commit/4924d732b9c9bcfd58768a55277bc3890c9e7841) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #48005 from jeevanhs06/main](https://github.com/is-a-dev/register/commit/c1f2a7ead5a09665d1d22de5fdf341a577f1403b) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #48002 from developeradhi/main](https://github.com/is-a-dev/register/commit/b76fff82dc6f6b43a37efcad7bfaa2f5afdaad73) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #48000 from 18statues-byte/main](https://github.com/is-a-dev/register/commit/a9783fdc0980ed8f333160265f6ff9511e82a67f) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #47999 from excitedlord/main](https://github.com/is-a-dev/register/commit/294957a61e354922a16dbe784224b892fea56400) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
