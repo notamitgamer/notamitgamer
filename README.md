@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #48034 from Levii17/patch-3](https://github.com/is-a-dev/register/commit/bd0d4ce18cdb35b7d25360ac1d3693a542a663b0) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #48011 from rafaelputrasitinjak23/patch-8](https://github.com/is-a-dev/register/commit/4924d732b9c9bcfd58768a55277bc3890c9e7841) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #48005 from jeevanhs06/main](https://github.com/is-a-dev/register/commit/c1f2a7ead5a09665d1d22de5fdf341a577f1403b) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #48002 from developeradhi/main](https://github.com/is-a-dev/register/commit/b76fff82dc6f6b43a37efcad7bfaa2f5afdaad73) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #48000 from 18statues-byte/main](https://github.com/is-a-dev/register/commit/a9783fdc0980ed8f333160265f6ff9511e82a67f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #48359 from theeekshana/patch-7](https://github.com/is-a-dev/register/commit/0f0a278ad477781ee3715202a6506d8ecf4428af) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge branch 'main' into patch-7](https://github.com/is-a-dev/register/commit/9e13b61d54574301ad08f56813555e67ba1800e6) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #48266 from Snehiltiwari07/main](https://github.com/is-a-dev/register/commit/18b10d56e54b62bd5b5d1a7c21cd74881f6e89b1) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #48265 from CtrlAltSpace/main](https://github.com/is-a-dev/register/commit/b7599011dd1d5c67a69895a1949109c5cfbed268) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #48210 from Deepankar-Siddharth/main](https://github.com/is-a-dev/register/commit/864f5860dada6e3b41011c435169d8c2e0466e83) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
