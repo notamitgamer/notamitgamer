@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #48359 from theeekshana/patch-7](https://github.com/is-a-dev/register/commit/0f0a278ad477781ee3715202a6506d8ecf4428af) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge branch 'main' into patch-7](https://github.com/is-a-dev/register/commit/9e13b61d54574301ad08f56813555e67ba1800e6) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #48266 from Snehiltiwari07/main](https://github.com/is-a-dev/register/commit/18b10d56e54b62bd5b5d1a7c21cd74881f6e89b1) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #48265 from CtrlAltSpace/main](https://github.com/is-a-dev/register/commit/b7599011dd1d5c67a69895a1949109c5cfbed268) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #48210 from Deepankar-Siddharth/main](https://github.com/is-a-dev/register/commit/864f5860dada6e3b41011c435169d8c2e0466e83) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Update README with installation guide and version note](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/51fbcf993a61848ed616857e47e8b63e8b6e2ab8) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Merge pull request #156 from Michel2618/main](https://github.com/free-domains/is-a.bot/commit/3dc1afde4aeb1dcff0338a5189db7ae327c92a3f) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #155 from jokoarynt/main](https://github.com/free-domains/is-a.bot/commit/86470cd6d72e6e4e75b647987d8702c42954e0d1) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #154 from 74593abc-sudo/update-cname-netlify](https://github.com/free-domains/is-a.bot/commit/117e065e625db84ea28db373b7130cd040510db1) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #151 from JamesMoore1998/main](https://github.com/free-domains/is-a.bot/commit/a1e464ffea61099fb7967a8c7c0498475c50f30c) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
