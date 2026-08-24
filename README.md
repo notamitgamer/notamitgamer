@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #81 from notamitgamer/notamitgamer-patch-1](https://github.com/notamitgamer/bsc/commit/90e3d2fc46981570c5e3ffc9f8efe712b68b8697) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Update README with offline bundle and environment setup](https://github.com/notamitgamer/bsc/commit/e88501e28690e70aa193718fadfaf34a1641bfec) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #79 from notamitgamer/notamitgamer-patch-1](https://github.com/notamitgamer/bsc/commit/a20f0ba86a8e3a6864d6a76c3fde217c5891e6a5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Update derive_tags to use file extension for language tag](https://github.com/notamitgamer/bsc/commit/dfa38b766336b5b21a8f58d9f3fe74e1e762464d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Refactor GitHub Actions workflow for better clarity](https://github.com/notamitgamer/bsc/commit/035d41e50c27f7aaddef8e5562a54550716e11ce) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #88 from notamitgamer2/remove-bundle-backup](https://github.com/notamitgamer/bsc/commit/28cea3a368686b9c0fd536aebd96f3ca3b5f6abf) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #87 from notamitgamer/notamitgamer-patch-1](https://github.com/notamitgamer/bsc/commit/f8481131c3c010414012154aa68a99e3f7dc3537) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge branch 'main' into notamitgamer-patch-1](https://github.com/notamitgamer/bsc/commit/0790d9cc18ef4a7fe4111fc9d3370bf190b20fb8) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Update SECURITY.md with contact information](https://github.com/notamitgamer/bsc/commit/f0f95618fe97a08151292c832b975a2e8ea30c41) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #86 from notamitgamer/notamitgamer-patch-1](https://github.com/notamitgamer/bsc/commit/d803bda825b2156af0de028b00f7828b3e4e2c3a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
