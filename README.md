@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #74 from notamitgamer/Patch](https://github.com/notamitgamer/bsc/commit/3fa1fe8c7de2785236fb51cbd5b62bb5f89fb34a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Enhance styling for tag pages in tags.md](https://github.com/notamitgamer/bsc/commit/7f72fd234d969b5d1f50ffba0e290a07ac521ebb) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #73 from notamitgamer/fix/tags-page-flex-wrap-layout](https://github.com/notamitgamer/bsc/commit/0db8bcbc0c3ad7c50db2a336afd4e6f38993d759) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #71 from notamitgamer/fix/tags-page-color-and-filter](https://github.com/notamitgamer/bsc/commit/1f1ac931ee50dd65ed6fb39c06a52efb95dc7da6) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #70 from notamitgamer/chore/remove-related-pages](https://github.com/notamitgamer/bsc/commit/12c54a0a527a50280c2007a9d54354b7a60c521c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #69 from notamitgamer/feat/related-pages-and-sidebar-tags](https://github.com/notamitgamer/bsc/commit/214e353c0db735f0100a1e4682848555162ec61b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #68 from notamitgamer/fix/tags-footer-placement](https://github.com/notamitgamer/bsc/commit/ef3fa82757199347d5c40467f6b380e0658d07d9) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #63 from notamitgamer/refactor/modularize-md-generator](https://github.com/notamitgamer/bsc/commit/a60862afc5d03328354c19afb196d8676f2ea6c2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #67 from notamitgamer/patch](https://github.com/notamitgamer/bsc/commit/a941f11f3a95805b5c39011d1a3c62d955a0d3db) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
