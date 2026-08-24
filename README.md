@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #170 from kuxhaan7/is-a.bot](https://github.com/free-domains/is-a.bot/commit/52fba2ebc8e8d8c98bb41ca28111e6b96d934e22) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #169 from azinamotoe/main](https://github.com/free-domains/is-a.bot/commit/9e42ac13e13e738114d61cf0cd42cebd972d77a8) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge branch 'main' into main](https://github.com/free-domains/is-a.bot/commit/ac7b5003e63bc1d6e22ab027dd51764d6aa91527) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #167 from DaveNeedCode/main](https://github.com/free-domains/is-a.bot/commit/e920d9cb66d18baebd7f35233550acf67e6cf398) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #48791 from RushikeshShind/add-vercel-verify-rushikesh-shinde](https://github.com/is-a-dev/register/commit/1db0d5661a71255c43fc032b8dbf1c8b9826dec4) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #66 from notamitgamer/edit-20260824-105359](https://github.com/notamitgamer/bsc/commit/c8ca6a5ac46dd4d0fe72a04c3b97a006062a2743) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [updated the label](https://github.com/notamitgamer/bsc/commit/024b20d2e31ecb7e750a27a7cf44ae81dc4f3532) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #65 from notamitgamer/edit-20260824-104539](https://github.com/notamitgamer/bsc/commit/a0213cada980647fb4c5008433090763ecb8a9cb) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [updated the label](https://github.com/notamitgamer/bsc/commit/99af911ef54e6f268c266dc29e74f97232c640c1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #64 from notamitgamer/edit-20260824-104112](https://github.com/notamitgamer/bsc/commit/d1648fde06bd3a62dd10ca7d0f2ffba489e0ba0f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
