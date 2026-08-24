@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #66 from notamitgamer/edit-20260824-105359](https://github.com/notamitgamer/bsc/commit/c8ca6a5ac46dd4d0fe72a04c3b97a006062a2743) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated the label](https://github.com/notamitgamer/bsc/commit/024b20d2e31ecb7e750a27a7cf44ae81dc4f3532) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #65 from notamitgamer/edit-20260824-104539](https://github.com/notamitgamer/bsc/commit/a0213cada980647fb4c5008433090763ecb8a9cb) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated the label](https://github.com/notamitgamer/bsc/commit/99af911ef54e6f268c266dc29e74f97232c640c1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #64 from notamitgamer/edit-20260824-104112](https://github.com/notamitgamer/bsc/commit/d1648fde06bd3a62dd10ca7d0f2ffba489e0ba0f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #63 from notamitgamer/refactor/modularize-md-generator](https://github.com/notamitgamer/bsc/commit/a60862afc5d03328354c19afb196d8676f2ea6c2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #67 from notamitgamer/patch](https://github.com/notamitgamer/bsc/commit/a941f11f3a95805b5c39011d1a3c62d955a0d3db) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor Labels.vue by cleaning up comments and styles](https://github.com/notamitgamer/bsc/commit/9f051e977596173f1b7bc225c91d5c3a8016da04) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Modify SVG title for tags with inline styles](https://github.com/notamitgamer/bsc/commit/7760f9919e1c6cdcb41c0060ce0819f814ad98aa) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Remove transition effects from tag styles](https://github.com/notamitgamer/bsc/commit/222862c082a8e8c183db3e0232900f6d9cf00d3b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
