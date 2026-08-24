@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #61 from notamitgamer/chore/use-client-id-for-app-token](https://github.com/notamitgamer/bsc/commit/e3a687cacd83eac69f41c0fe62951a4a8029df9a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #59 from notamitgamer/dependabot/npm_and_yarn/vitepress-sidebar-1.39.0](https://github.com/notamitgamer/bsc/commit/76a398425efaed7c32e646e00bb7e0583a2de1ea) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #48359 from theeekshana/patch-7](https://github.com/is-a-dev/register/commit/0f0a278ad477781ee3715202a6506d8ecf4428af) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge branch 'main' into patch-7](https://github.com/is-a-dev/register/commit/9e13b61d54574301ad08f56813555e67ba1800e6) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #48266 from Snehiltiwari07/main](https://github.com/is-a-dev/register/commit/18b10d56e54b62bd5b5d1a7c21cd74881f6e89b1) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #170 from kuxhaan7/is-a.bot](https://github.com/free-domains/is-a.bot/commit/52fba2ebc8e8d8c98bb41ca28111e6b96d934e22) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #169 from azinamotoe/main](https://github.com/free-domains/is-a.bot/commit/9e42ac13e13e738114d61cf0cd42cebd972d77a8) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge branch 'main' into main](https://github.com/free-domains/is-a.bot/commit/ac7b5003e63bc1d6e22ab027dd51764d6aa91527) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #167 from DaveNeedCode/main](https://github.com/free-domains/is-a.bot/commit/e920d9cb66d18baebd7f35233550acf67e6cf398) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #48791 from RushikeshShind/add-vercel-verify-rushikesh-shinde](https://github.com/is-a-dev/register/commit/1db0d5661a71255c43fc032b8dbf1c8b9826dec4) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
