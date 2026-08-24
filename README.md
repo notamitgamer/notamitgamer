@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #78 from notamitgamer/notamitgamer-patch-1](https://github.com/notamitgamer/bsc/commit/5227459c5c1cca6e5cb2aceadd2653a99c62b7da) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Rename backup job to release in workflow](https://github.com/notamitgamer/bsc/commit/427f0e3f3f9e64fe7805e2ee731bd6ea078c9820) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #77 from notamitgamer/notamitgamer-patch-1](https://github.com/notamitgamer/bsc/commit/8d7e0e89137bd829ef7835275491cb7d64d97a87) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Update GitHub Actions workflow with caching and fetch depth](https://github.com/notamitgamer/bsc/commit/a3d990a9aab9cf933b1d5eea3d38263c2158005e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #76 from notamitgamer/notamitgamer-patch-1](https://github.com/notamitgamer/bsc/commit/c03316a198c750b075870c9187b4247ee8997c10) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #81 from notamitgamer/notamitgamer-patch-1](https://github.com/notamitgamer/bsc/commit/90e3d2fc46981570c5e3ffc9f8efe712b68b8697) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Update README with offline bundle and environment setup](https://github.com/notamitgamer/bsc/commit/e88501e28690e70aa193718fadfaf34a1641bfec) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #79 from notamitgamer/notamitgamer-patch-1](https://github.com/notamitgamer/bsc/commit/a20f0ba86a8e3a6864d6a76c3fde217c5891e6a5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Update derive_tags to use file extension for language tag](https://github.com/notamitgamer/bsc/commit/dfa38b766336b5b21a8f58d9f3fe74e1e762464d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor GitHub Actions workflow for better clarity](https://github.com/notamitgamer/bsc/commit/035d41e50c27f7aaddef8e5562a54550716e11ce) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
