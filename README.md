@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Implement in-memory caching and improve Firestore handling](https://github.com/notamitgamer/logger/commit/8ef0ee5d6e2ff60dcdfa97150bd1818b57ca37b6) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
+- [Refactor CORS preflight handling and API responses](https://github.com/notamitgamer/logger/commit/13b946c4bc991d7fde23548a65548c3dd65dcb77) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
+- [Rename subIds to ids in grouped data structure](https://github.com/notamitgamer/logger/commit/09e760bb8c9c32744fb140da13a7e81f9dd92d2d) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
 - [Update header to include version number v4.2.1](https://github.com/notamitgamer/logger/commit/c1a0d60dad132f54a0853d34a5163028cdaaa78d) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
 - [Update browser version in WASocket configuration](https://github.com/notamitgamer/logger/commit/250b3081cf76bf4103c0f704c4ad92b490f41ccd) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
-- [Implement CORS, logging, and SSE enhancements](https://github.com/notamitgamer/logger/commit/0c7f5253e48bc6bd37c1982ac7cd397c4e740d6d) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
-- [Delete CODE_OF_CONDUCT.md](https://github.com/notamitgamer/logger/commit/9feee673a4f9cf4c0646133419d016d7d3c777f5) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
-- [Delete CONTRIBUTING.md](https://github.com/notamitgamer/logger/commit/56d5c7780cdeb65423b6ae22ef1047f96ca71713) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
 <!-- END_RECENT_COMMITS -->
 
 ---
