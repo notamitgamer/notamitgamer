@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-08-24T00:59:00.251831+00:00",
-    "next_update": "2026-08-24T01:00:00+00:00"
+    "last_updated": "2026-08-25T00:59:07.469266+00:00",
+    "next_update": "2026-08-25T01:00:00+00:00"
   },
   "maintainers": [
     {
@@ -15,8 +15,8 @@
     {
       "username": "wdhdev",
       "stats": {
-        "all_time": 2173,
-        "this_month": 137,
+        "all_time": 2174,
+        "this_month": 138,
         "last_month": 46
       }
     },
@@ -63,8 +63,8 @@
     {
       "username": "notamitgamer",
       "stats": {
-        "all_time": 1086,
-        "this_month": 244,
+        "all_time": 1093,
+        "this_month": 251,
         "last_month": 282
       }
     },
