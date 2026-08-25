@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Improve logs tip formatting in deploy-backend.md](https://github.com/notamitgamer/docs/commit/446ab1b4766f1c7828d886917048de41dcb61b8a) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Update deploy-backend.md](https://github.com/notamitgamer/docs/commit/d405b7f06dba73b665444bef945db30e9e15b5cc) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [v4.2.1](https://github.com/notamitgamer/docs/commit/0cda8aad90d74abab9f219c0dbb6a77cfc131678) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [v4.2.1](https://github.com/notamitgamer/docs/commit/8ee03ae8fd874d5b3cbe560184cff0e62dd9fff8) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [v4.2.1](https://github.com/notamitgamer/docs/commit/209d32f42b65dba0b0c5b1067c939057ba7983fc) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Merge pull request #48980 from mahmudx7/main](https://github.com/is-a-dev/register/commit/40e161c3935ee0a78e58dc9db4ecc7f3d5bc7759) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #48913 from nox-exe-py/main](https://github.com/is-a-dev/register/commit/baff6b4b011fd25f603d07f290d0862e08714bd4) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #89 from notamitgamer/dependabot/github_actions/actions/cache-6](https://github.com/notamitgamer/bsc/commit/ba4e20d3ebb199b59742d0cd5cbaba122c33e65c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [v4.2.1 Security Update, much faster than previous versions. (#4)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/cae88b96df2039aeb09f7a42137f167c3d55c8a9) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Fix formatting issues in FAQs markdown](https://github.com/notamitgamer/docs/commit/23e78cefe41a36d9b3cfe85a6a1f78621cab3674) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 <!-- END_RECENT_COMMITS -->
 
 ---
