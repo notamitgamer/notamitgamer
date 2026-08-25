@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #49005 from mandrindraa/main](https://github.com/is-a-dev/register/commit/785c82ac73ec0e4d90fc86565155350e6c55b5f6) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #49002 from xMryth/main](https://github.com/is-a-dev/register/commit/487770e8c60e5a7cf29080920b96a9a13d370dd8) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #48980 from mahmudx7/main](https://github.com/is-a-dev/register/commit/40e161c3935ee0a78e58dc9db4ecc7f3d5bc7759) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #48913 from nox-exe-py/main](https://github.com/is-a-dev/register/commit/baff6b4b011fd25f603d07f290d0862e08714bd4) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #89 from notamitgamer/dependabot/github_actions/actions/cache-6](https://github.com/notamitgamer/bsc/commit/ba4e20d3ebb199b59742d0cd5cbaba122c33e65c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [v4.2.1 Security Update, much faster than previous versions. (#4)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/cae88b96df2039aeb09f7a42137f167c3d55c8a9) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Fix formatting issues in FAQs markdown](https://github.com/notamitgamer/docs/commit/23e78cefe41a36d9b3cfe85a6a1f78621cab3674) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 <!-- END_RECENT_COMMITS -->
 
 ---
