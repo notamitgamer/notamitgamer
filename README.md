@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [did sommething (#5)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/e1eb31e8b1249a0d6c98b90297d9479c2f5bcbad) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 - [Merge pull request #2 from notamitgamer/use-real-logo](https://github.com/notamitgamer/logger/commit/5ee74af1e78649c8b72605877ced9ea75f4e50da) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
 - [Merge pull request #1 from notamitgamer/modularize](https://github.com/notamitgamer/logger/commit/361f4a6abe513c8b8dbecad9158b2e7f39904a10) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
 - [copy](https://github.com/notamitgamer/bsc/commit/5c034f065870ddb524f5f808805623afa8fe15e1) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #49005 from mandrindraa/main](https://github.com/is-a-dev/register/commit/785c82ac73ec0e4d90fc86565155350e6c55b5f6) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #49002 from xMryth/main](https://github.com/is-a-dev/register/commit/487770e8c60e5a7cf29080920b96a9a13d370dd8) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
