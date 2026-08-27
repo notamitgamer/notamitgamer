@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #207 from kuxhaan7/main](https://github.com/free-domains/is-a.bot/commit/3c1eef7242770bd3f420011e7e9ea13ae78330e0) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #205 from Denisyoya/main](https://github.com/free-domains/is-a.bot/commit/6ee842706af0ceb250b69bded72bc31a0a4f68d4) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #49290 from ManthanSomani/register-manthansomani](https://github.com/is-a-dev/register/commit/bc023bca87e0c93d2513d722033464907febc638) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #90 from notamitgamer/remove-author-headers](https://github.com/notamitgamer/bsc/commit/2a083009703b6cfa42bee6719787f814b3d73b23) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Delete remove_headers.py](https://github.com/notamitgamer/bsc/commit/e2c1885dfe692c3e97b8da71d9a4e4f412884763) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [did sommething (#5)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/e1eb31e8b1249a0d6c98b90297d9479c2f5bcbad) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Merge pull request #2 from notamitgamer/use-real-logo](https://github.com/notamitgamer/logger/commit/5ee74af1e78649c8b72605877ced9ea75f4e50da) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
-- [Merge pull request #1 from notamitgamer/modularize](https://github.com/notamitgamer/logger/commit/361f4a6abe513c8b8dbecad9158b2e7f39904a10) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
 <!-- END_RECENT_COMMITS -->
 
 ---
