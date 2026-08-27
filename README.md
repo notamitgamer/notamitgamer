@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #207 from kuxhaan7/main](https://github.com/free-domains/is-a.bot/commit/3c1eef7242770bd3f420011e7e9ea13ae78330e0) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #205 from Denisyoya/main](https://github.com/free-domains/is-a.bot/commit/6ee842706af0ceb250b69bded72bc31a0a4f68d4) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #49290 from ManthanSomani/register-manthansomani](https://github.com/is-a-dev/register/commit/bc023bca87e0c93d2513d722033464907febc638) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #90 from notamitgamer/remove-author-headers](https://github.com/notamitgamer/bsc/commit/2a083009703b6cfa42bee6719787f814b3d73b23) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Delete remove_headers.py](https://github.com/notamitgamer/bsc/commit/e2c1885dfe692c3e97b8da71d9a4e4f412884763) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #97 from notamitgamer/fix/revert-vitepress-cache-path](https://github.com/notamitgamer/bsc/commit/821bdb4eb495dc88048d0de52fde8f838f789c94) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #96 from notamitgamer/chore/trigger-deploy-cache-test](https://github.com/notamitgamer/bsc/commit/7763d2f5e20a743b0158d01cb347b5c8bf6c8505) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge branch 'main' into chore/trigger-deploy-cache-test](https://github.com/notamitgamer/bsc/commit/8beecbdb8a77ee677f020ddb5ceb0b58b08cdee2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #95 from notamitgamer/fix/vitepress-cache-path](https://github.com/notamitgamer/bsc/commit/fc9540253ff0c65ec5a6baf81c16acc40c0e395b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #94 from notamitgamer/fix/eduincs-sem2-missing-statements](https://github.com/notamitgamer/bsc/commit/16e5a37d9399cd98c082a9f7187158b942f2ae93) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
