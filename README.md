@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #100 from notamitgamer/copilot/fix-build-apk-failure](https://github.com/notamitgamer/bsc/commit/729012aa12e025d04d36959cb8bf3ed7f574c0e3) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #99 from notamitgamer/fix/apk-workflows-run-generators](https://github.com/notamitgamer/bsc/commit/27c450e65a8766837eeeee85b6f93ae1cae64fc7) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #98 from notamitgamer/feat/offline-apk-build](https://github.com/notamitgamer/bsc/commit/3c26f05b279530e13cad8a590f088571bfc9fd90) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #97 from notamitgamer/fix/revert-vitepress-cache-path](https://github.com/notamitgamer/bsc/commit/821bdb4eb495dc88048d0de52fde8f838f789c94) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #96 from notamitgamer/chore/trigger-deploy-cache-test](https://github.com/notamitgamer/bsc/commit/7763d2f5e20a743b0158d01cb347b5c8bf6c8505) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #49593 from Prawaldev/main](https://github.com/is-a-dev/register/commit/e390240f0c2138f73297dca6110a2dc1451a928e) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #49591 from asad-developer99/patch-5](https://github.com/is-a-dev/register/commit/8386598162aafa1f0ec35b58d93c8ca959fa46b3) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #49575 from Dev-anshPandey/main](https://github.com/is-a-dev/register/commit/719a7366bc5e705e01aecfc2d1fba738baf7c826) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #49563 from reogg777/main](https://github.com/is-a-dev/register/commit/c77a27905807e11b14bb17586158e1a475819bdc) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #49562 from BLANK-14K/register-iamabir](https://github.com/is-a-dev/register/commit/01fc72802f191a9f7047e511d7ae8c10b9c8282b) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
