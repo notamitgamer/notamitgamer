@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #112 from notamitgamer/feature/snapshot-progress-ui](https://github.com/notamitgamer/bsc/commit/a96e61aaac2402b13a137ae15cb2c7b04695aefe) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #110 from notamitgamer/feature/offline-snapshots](https://github.com/notamitgamer/bsc/commit/2b66fa9cb8628880119caefc82fcc6dc1d1139a0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #1 from notamitgamer/docs/whatsapp-logger-4.2.x-upgrade-notes](https://github.com/notamitgamer/docs/commit/6c88e6785e799c858468b7cdff1d4f46fbe3043c) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 - [Update security information and upgrade notes](https://github.com/notamitgamer/docs/commit/ba23484417c0fd48483150e6effefdc17bc7fb3e) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 - [Merge pull request #4 from notamitgamer/feature/full-resync-endpoint](https://github.com/notamitgamer/logger/commit/579be0da58257d93510acd93848fcae9f0555761) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
-- [Bump version from 4.2.2 to 4.2.3](https://github.com/notamitgamer/logger/commit/561ef721ddb4bcda192b8362dadad65ae9b1cac9) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
-- [Merge pull request #3 from notamitgamer/fix/global-message-sync](https://github.com/notamitgamer/logger/commit/7c07ebbbadecadfe27a1940876116fa336323921) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
 <!-- END_RECENT_COMMITS -->
 
 ---
