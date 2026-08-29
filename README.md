@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Update service worker cache names to version 4.2.3](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/2cc6330bbe05505d2c8f3bd5fdb82f0d235ebfaa) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [bumped to v4.2.3 (#7)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/7e491abe191751bca5c28a4a4d59fb9282a93443) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Refactor snapshot manager to include file handling](https://github.com/notamitgamer/bsc/commit/cf6fd5bcd3e14772a19346162e2aa62049b9e6b0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #112 from notamitgamer/feature/snapshot-progress-ui](https://github.com/notamitgamer/bsc/commit/a96e61aaac2402b13a137ae15cb2c7b04695aefe) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #110 from notamitgamer/feature/offline-snapshots](https://github.com/notamitgamer/bsc/commit/2b66fa9cb8628880119caefc82fcc6dc1d1139a0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #1 from notamitgamer/docs/whatsapp-logger-4.2.x-upgrade-notes](https://github.com/notamitgamer/docs/commit/6c88e6785e799c858468b7cdff1d4f46fbe3043c) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Update security information and upgrade notes](https://github.com/notamitgamer/docs/commit/ba23484417c0fd48483150e6effefdc17bc7fb3e) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Merge pull request #4 from notamitgamer/feature/full-resync-endpoint](https://github.com/notamitgamer/logger/commit/579be0da58257d93510acd93848fcae9f0555761) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
 <!-- END_RECENT_COMMITS -->
 
 ---
