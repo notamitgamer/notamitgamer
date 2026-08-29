@@ -76,11 +76,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #49593 from Prawaldev/main](https://github.com/is-a-dev/register/commit/e390240f0c2138f73297dca6110a2dc1451a928e) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #49591 from asad-developer99/patch-5](https://github.com/is-a-dev/register/commit/8386598162aafa1f0ec35b58d93c8ca959fa46b3) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #49575 from Dev-anshPandey/main](https://github.com/is-a-dev/register/commit/719a7366bc5e705e01aecfc2d1fba738baf7c826) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #49563 from reogg777/main](https://github.com/is-a-dev/register/commit/c77a27905807e11b14bb17586158e1a475819bdc) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #49562 from BLANK-14K/register-iamabir](https://github.com/is-a-dev/register/commit/01fc72802f191a9f7047e511d7ae8c10b9c8282b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #1 from notamitgamer/docs/whatsapp-logger-4.2.x-upgrade-notes](https://github.com/notamitgamer/docs/commit/6c88e6785e799c858468b7cdff1d4f46fbe3043c) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Update security information and upgrade notes](https://github.com/notamitgamer/docs/commit/ba23484417c0fd48483150e6effefdc17bc7fb3e) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Merge pull request #4 from notamitgamer/feature/full-resync-endpoint](https://github.com/notamitgamer/logger/commit/579be0da58257d93510acd93848fcae9f0555761) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
+- [Bump version from 4.2.2 to 4.2.3](https://github.com/notamitgamer/logger/commit/561ef721ddb4bcda192b8362dadad65ae9b1cac9) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
+- [Merge pull request #3 from notamitgamer/fix/global-message-sync](https://github.com/notamitgamer/logger/commit/7c07ebbbadecadfe27a1940876116fa336323921) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
 <!-- END_RECENT_COMMITS -->
 
 ---
