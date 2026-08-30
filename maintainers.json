@@ -1,7 +1,7 @@
 {
   "meta": {
-    "last_updated": "2026-08-29T05:19:50.579183+00:00",
-    "next_update": "2026-08-29T06:00:00+00:00"
+    "last_updated": "2026-08-30T03:13:51.592000+00:00",
+    "next_update": "2026-08-30T04:00:00+00:00"
   },
   "maintainers": [
     {
@@ -71,24 +71,24 @@
     {
       "username": "iostpa",
       "stats": {
-        "all_time": 3976,
-        "this_month": 19,
+        "all_time": 3977,
+        "this_month": 20,
         "last_month": 23
       }
     },
     {
       "username": "dragsbruh",
       "stats": {
-        "all_time": 1236,
-        "this_month": 261,
+        "all_time": 1259,
+        "this_month": 284,
         "last_month": 406
       }
     },
     {
       "username": "DEV-DIBSTER",
       "stats": {
-        "all_time": 5230,
-        "this_month": 100,
+        "all_time": 5232,
+        "this_month": 102,
         "last_month": 3
       }
     }
