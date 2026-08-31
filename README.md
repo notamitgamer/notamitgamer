@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [added the back](https://github.com/notamitgamer/something-asked/commit/f35ca305f501a653c53f0dd50de46c0e3f18eecf) in [notamitgamer/something-asked](https://github.com/notamitgamer/something-asked)
-- [Merge pull request #2 from notamitgamer/patch](https://github.com/notamitgamer/something-asked/commit/ecffaec981d0e51b8a3934628ba10e547f32d059) in [notamitgamer/something-asked](https://github.com/notamitgamer/something-asked)
-- [Update README.md](https://github.com/notamitgamer/something-asked/commit/bc8d03d08b4e7ab53b5c459b61dd88cbc532599d) in [notamitgamer/something-asked](https://github.com/notamitgamer/something-asked)
-- [Update README with quick start instructions](https://github.com/notamitgamer/something-asked/commit/a7c1d350558e60efd69bae7eff146dab5f89bf4d) in [notamitgamer/something-asked](https://github.com/notamitgamer/something-asked)
-- [Merge pull request #1 from notamitgamer/dependabot/pip/flask-3.1.3](https://github.com/notamitgamer/something-asked/commit/8b3319b8e79ca56835fc7e184afcec9f6ec317c1) in [notamitgamer/something-asked](https://github.com/notamitgamer/something-asked)
+- [Clean up project links in README](https://github.com/notamitgamer/notamitgamer/commit/9b68e4bd68c45dd1d9f917a29435b60c04b95a97) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [fixed some bug (#8)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/9bd9f27899d38fcb2e841ec0be5e6eee2e5e1553) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Merge pull request #114 from notamitgamer/revert/pr-110-through-latest](https://github.com/notamitgamer/bsc/commit/4e9f9c8e8998cd9472bb27f84fcdae37c12883cc) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Update service worker cache names to version 4.2.3](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/2cc6330bbe05505d2c8f3bd5fdb82f0d235ebfaa) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [bumped to v4.2.3 (#7)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/7e491abe191751bca5c28a4a4d59fb9282a93443) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 <!-- END_RECENT_COMMITS -->
 
 ---
