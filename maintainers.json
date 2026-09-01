@@ -1,23 +1,23 @@
 {
   "meta": {
-    "last_updated": "2026-08-31T03:08:33.591129+00:00",
-    "next_update": "2026-08-31T04:00:00+00:00"
+    "last_updated": "2026-09-01T03:13:46.329451+00:00",
+    "next_update": "2026-09-01T04:00:00+00:00"
   },
   "maintainers": [
     {
       "username": "Yunexiz",
       "stats": {
         "all_time": 320,
-        "this_month": 25,
-        "last_month": 13
+        "this_month": 0,
+        "last_month": 25
       }
     },
     {
       "username": "wdhdev",
       "stats": {
-        "all_time": 2175,
-        "this_month": 139,
-        "last_month": 46
+        "all_time": 2177,
+        "this_month": 0,
+        "last_month": 141
       }
     },
     {
@@ -25,7 +25,7 @@
       "stats": {
         "all_time": 4248,
         "this_month": 0,
-        "last_month": 37
+        "last_month": 0
       }
     },
     {
@@ -40,16 +40,16 @@
       "username": "satr14washere",
       "stats": {
         "all_time": 287,
-        "this_month": 16,
-        "last_month": 7
+        "this_month": 0,
+        "last_month": 16
       }
     },
     {
       "username": "orangci",
       "stats": {
-        "all_time": 2089,
-        "this_month": 15,
-        "last_month": 12
+        "all_time": 2091,
+        "this_month": 0,
+        "last_month": 17
       }
     },
     {
@@ -64,32 +64,32 @@
       "username": "notamitgamer",
       "stats": {
         "all_time": 1102,
-        "this_month": 260,
-        "last_month": 282
+        "this_month": 0,
+        "last_month": 260
       }
     },
     {
       "username": "iostpa",
       "stats": {
         "all_time": 3977,
-        "this_month": 20,
-        "last_month": 23
+        "this_month": 0,
+        "last_month": 20
       }
     },
     {
       "username": "dragsbruh",
       "stats": {
-        "all_time": 1272,
-        "this_month": 297,
-        "last_month": 406
+        "all_time": 1273,
+        "this_month": 0,
+        "last_month": 298
       }
     },
     {
       "username": "DEV-DIBSTER",
       "stats": {
         "all_time": 5232,
-        "this_month": 102,
-        "last_month": 3
+        "this_month": 0,
+        "last_month": 102
       }
     }
   ]
