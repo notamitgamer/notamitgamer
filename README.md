@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Create a.cpp](https://github.com/notamitgamer/notamitgamer/commit/505b2b1abd65f0339c53bb502f91f315381b3ad4) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Clean up project links in README](https://github.com/notamitgamer/notamitgamer/commit/9b68e4bd68c45dd1d9f917a29435b60c04b95a97) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [fixed some bug (#8)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/9bd9f27899d38fcb2e841ec0be5e6eee2e5e1553) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Merge pull request #114 from notamitgamer/revert/pr-110-through-latest](https://github.com/notamitgamer/bsc/commit/4e9f9c8e8998cd9472bb27f84fcdae37c12883cc) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Update service worker cache names to version 4.2.3](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/2cc6330bbe05505d2c8f3bd5fdb82f0d235ebfaa) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Merge pull request #116 from notamitgamer/edit-20260901-201636](https://github.com/notamitgamer/bsc/commit/248b2f48d39224ef3d63933284e9e14c931415ca) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [template code](https://github.com/notamitgamer/bsc/commit/b56d91d217b22a7203deebefba9fa98b6b33730a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #115 from notamitgamer/edit-20260901-201133](https://github.com/notamitgamer/bsc/commit/b30384b98d7058086ffa0cce893aa81225ec1902) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [added new algorithms](https://github.com/notamitgamer/bsc/commit/1f08ce8518c1d122e97b504282ce770aa2ee1b66) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #50257 from kindmita/main](https://github.com/is-a-dev/register/commit/d2c80fdeb8326a6919fa7fa3ba739006aa0225dc) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
