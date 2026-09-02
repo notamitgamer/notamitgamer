@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #50351 from ninoredoble/main](https://github.com/is-a-dev/register/commit/5b4f0cded93b532edf28a9e8318d9ff4c006459d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #50346 from MrAbdulSamadDEV/main](https://github.com/is-a-dev/register/commit/eca6315f3a9ece3049c8372af78118dcef438563) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #50344 from aryashmullick/main](https://github.com/is-a-dev/register/commit/24fcecf1b056f9406b3a4f1a824b12acab8a314d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #50343 from pengbo2026/main](https://github.com/is-a-dev/register/commit/03ef2b8183ad947b9b0be5d01490f9ed53e8df0d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #50339 from Magfarul/magfarul.is-a.dev](https://github.com/is-a-dev/register/commit/e247e170c7883e711d260e0faeeb828f46f89762) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #259 from ai-q2a/main](https://github.com/free-domains/is-a.bot/commit/a92ea623598423ec0e0f387928f13dd63661845a) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #258 from rajuan34/main](https://github.com/free-domains/is-a.bot/commit/2984d9304f08f51e57f3cd5dae0189c4fbd63790) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Apply suggestion from @notamitgamer](https://github.com/free-domains/is-a.bot/commit/5167f4dcfe7c1f30428e1a775ecad8f700fcc9f7) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #257 from julianoodom12-creator/register-domhost-1788318813](https://github.com/free-domains/is-a.bot/commit/eb7286c8e1912a0b8b9020613574da8e277d74c6) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #250 from Kitui/register-correlact-public](https://github.com/free-domains/is-a.bot/commit/adbfca9ce4008933d8e8f17fa6bd72c914c16fa2) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
