@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #116 from notamitgamer/edit-20260901-201636](https://github.com/notamitgamer/bsc/commit/248b2f48d39224ef3d63933284e9e14c931415ca) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [template code](https://github.com/notamitgamer/bsc/commit/b56d91d217b22a7203deebefba9fa98b6b33730a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #115 from notamitgamer/edit-20260901-201133](https://github.com/notamitgamer/bsc/commit/b30384b98d7058086ffa0cce893aa81225ec1902) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [added new algorithms](https://github.com/notamitgamer/bsc/commit/1f08ce8518c1d122e97b504282ce770aa2ee1b66) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #50257 from kindmita/main](https://github.com/is-a-dev/register/commit/d2c80fdeb8326a6919fa7fa3ba739006aa0225dc) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #50351 from ninoredoble/main](https://github.com/is-a-dev/register/commit/5b4f0cded93b532edf28a9e8318d9ff4c006459d) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #50346 from MrAbdulSamadDEV/main](https://github.com/is-a-dev/register/commit/eca6315f3a9ece3049c8372af78118dcef438563) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #50344 from aryashmullick/main](https://github.com/is-a-dev/register/commit/24fcecf1b056f9406b3a4f1a824b12acab8a314d) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #50343 from pengbo2026/main](https://github.com/is-a-dev/register/commit/03ef2b8183ad947b9b0be5d01490f9ed53e8df0d) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #50339 from Magfarul/magfarul.is-a.dev](https://github.com/is-a-dev/register/commit/e247e170c7883e711d260e0faeeb828f46f89762) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
