@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Refactor content type handling in main.py](https://github.com/notamitgamer/cdn/commit/9dbb78b4a9b21d733e876304b3f1a7ca0ca4073e) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Implement /ping endpoint for service health check](https://github.com/notamitgamer/cdn/commit/0b349c4aea03175d4c716fe39143a4cedb232386) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #120 from notamitgamer/patch](https://github.com/notamitgamer/bsc/commit/f3f7b371dac3f5a0c8a4a8430ebdf0a4f7bd8fce) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Refactor GitHub Actions workflow for LFS tracking](https://github.com/notamitgamer/bsc/commit/eab625fee00c5b3b02be71ba16f2ed10a7eff506) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #119 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-8839a8980a [skip ci]](https://github.com/notamitgamer/bsc/commit/26f47e23733227f4221d10dcfc90374b4cb534c2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Remove size label span from item meta](https://github.com/notamitgamer/cdn/commit/cd177267820be381098cf18c8c71917c10a86010) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #8 from notamitgamer/fix/mobile-layout](https://github.com/notamitgamer/cdn/commit/c03b2e4d04a69ed4b595845312b6c03d59a0fae4) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #7 from notamitgamer/patch](https://github.com/notamitgamer/cdn/commit/a54bbe96ac476ed4e2dfcce65076a1a658598dcb) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Integrate Turbo and update styles in index.html](https://github.com/notamitgamer/cdn/commit/3599d6154d9e93a558e7abe38b786cb9b1fc3253) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Implement custom 404 error handler](https://github.com/notamitgamer/cdn/commit/70070b25b4df190ae06f9bc1467ac7b0d46a0d39) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 <!-- END_RECENT_COMMITS -->
 
 ---
