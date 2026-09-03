@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #50419 from GhazwaPasha/add-pivak-domain](https://github.com/is-a-dev/register/commit/a00023f68ebdb544f1a273815bad8a78c0f466ad) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #10 from notamitgamer/revert-5-feat/self-hosted-mailbox](https://github.com/notamitgamer/notamitgamer/commit/e3de27d8ffcc5cd0d6c7375b2749caef874e0c5a) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Revert "feat: self-hosted PWA mailbox (Firestore + SSE) to replace Resend-only relay"](https://github.com/notamitgamer/notamitgamer/commit/3eeea028cdf9cc9cbe3125bcbd6ae31e6afa9a8b) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Merge pull request #9 from notamitgamer/revert-6-feat/self-hosted-mailbox](https://github.com/notamitgamer/notamitgamer/commit/aca0080e875e823d8091dd94759c7247979a3913) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Revert "fix: restore react/react-dom deps (fixes Render MODULE_NOT_FOUND)"](https://github.com/notamitgamer/notamitgamer/commit/5074b16de8e4e57327efae910cf095f8fac404aa) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Merge pull request #8 from notamitgamer/revert-7-fix/fetch-full-email-body](https://github.com/notamitgamer/notamitgamer/commit/640263665452d094e37756162ed9f145db59b73f) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 <!-- END_RECENT_COMMITS -->
 
 ---
