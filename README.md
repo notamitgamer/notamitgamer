@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #50419 from GhazwaPasha/add-pivak-domain](https://github.com/is-a-dev/register/commit/a00023f68ebdb544f1a273815bad8a78c0f466ad) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #10 from notamitgamer/revert-5-feat/self-hosted-mailbox](https://github.com/notamitgamer/notamitgamer/commit/e3de27d8ffcc5cd0d6c7375b2749caef874e0c5a) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Revert "feat: self-hosted PWA mailbox (Firestore + SSE) to replace Resend-only relay"](https://github.com/notamitgamer/notamitgamer/commit/3eeea028cdf9cc9cbe3125bcbd6ae31e6afa9a8b) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Merge pull request #9 from notamitgamer/revert-6-feat/self-hosted-mailbox](https://github.com/notamitgamer/notamitgamer/commit/aca0080e875e823d8091dd94759c7247979a3913) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Revert "fix: restore react/react-dom deps (fixes Render MODULE_NOT_FOUND)"](https://github.com/notamitgamer/notamitgamer/commit/5074b16de8e4e57327efae910cf095f8fac404aa) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Refactor content type handling in main.py](https://github.com/notamitgamer/cdn/commit/9dbb78b4a9b21d733e876304b3f1a7ca0ca4073e) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Implement /ping endpoint for service health check](https://github.com/notamitgamer/cdn/commit/0b349c4aea03175d4c716fe39143a4cedb232386) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #120 from notamitgamer/patch](https://github.com/notamitgamer/bsc/commit/f3f7b371dac3f5a0c8a4a8430ebdf0a4f7bd8fce) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor GitHub Actions workflow for LFS tracking](https://github.com/notamitgamer/bsc/commit/eab625fee00c5b3b02be71ba16f2ed10a7eff506) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #119 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-8839a8980a [skip ci]](https://github.com/notamitgamer/bsc/commit/26f47e23733227f4221d10dcfc90374b4cb534c2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
