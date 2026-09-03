@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #259 from ai-q2a/main](https://github.com/free-domains/is-a.bot/commit/a92ea623598423ec0e0f387928f13dd63661845a) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #258 from rajuan34/main](https://github.com/free-domains/is-a.bot/commit/2984d9304f08f51e57f3cd5dae0189c4fbd63790) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Apply suggestion from @notamitgamer](https://github.com/free-domains/is-a.bot/commit/5167f4dcfe7c1f30428e1a775ecad8f700fcc9f7) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #257 from julianoodom12-creator/register-domhost-1788318813](https://github.com/free-domains/is-a.bot/commit/eb7286c8e1912a0b8b9020613574da8e277d74c6) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #250 from Kitui/register-correlact-public](https://github.com/free-domains/is-a.bot/commit/adbfca9ce4008933d8e8f17fa6bd72c914c16fa2) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #10 from notamitgamer/revert-5-feat/self-hosted-mailbox](https://github.com/notamitgamer/notamitgamer/commit/e3de27d8ffcc5cd0d6c7375b2749caef874e0c5a) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Revert "feat: self-hosted PWA mailbox (Firestore + SSE) to replace Resend-only relay"](https://github.com/notamitgamer/notamitgamer/commit/3eeea028cdf9cc9cbe3125bcbd6ae31e6afa9a8b) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Merge pull request #9 from notamitgamer/revert-6-feat/self-hosted-mailbox](https://github.com/notamitgamer/notamitgamer/commit/aca0080e875e823d8091dd94759c7247979a3913) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Revert "fix: restore react/react-dom deps (fixes Render MODULE_NOT_FOUND)"](https://github.com/notamitgamer/notamitgamer/commit/5074b16de8e4e57327efae910cf095f8fac404aa) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Merge pull request #8 from notamitgamer/revert-7-fix/fetch-full-email-body](https://github.com/notamitgamer/notamitgamer/commit/640263665452d094e37756162ed9f145db59b73f) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 <!-- END_RECENT_COMMITS -->
 
 ---
