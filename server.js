@@ -19,6 +19,38 @@ const forwardingAddress = process.env.FORWARDING_BOT_ADDRESS;
 
 const mailsCollection = () => db.collection('mails');
 
+// --- In-memory cache ---
+// Once warm, list/detail reads are served straight from this process's
+// memory instead of hitting Firestore on every device/tab that opens the
+// mailbox. Firestore is only touched on a genuine cache miss (cold start,
+// after a Render restart) or a real write (new mail / delete).
+let mailListCache = null; // array of list-row objects, newest first
+const mailDetailCache = new Map(); // id -> full mail object
+
+function toListRow(id, d) {
+  return {
+    id,
+    from: d.from,
+    to: d.to,
+    subject: d.subject,
+    read: d.read,
+    receivedAt: d.receivedAt ? d.receivedAt.toMillis() : null,
+  };
+}
+
+function toDetail(id, d) {
+  return {
+    id,
+    from: d.from,
+    to: d.to,
+    subject: d.subject,
+    html: d.html,
+    text: d.text,
+    read: d.read,
+    receivedAt: d.receivedAt ? d.receivedAt.toMillis() : null,
+  };
+}
+
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.post('/api/incoming', express.text({ type: 'application/json' }), async (req, res) => {
@@ -70,6 +102,14 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
 
     const docRef = await mailsCollection().add(mailDoc);
 
+    // Warm the caches with this new mail immediately — no Firestore
+    // round-trip needed for the next read from any device.
+    const cachedDoc = { ...mailDoc, receivedAt: { toMillis: () => Date.now() } };
+    if (mailListCache) {
+      mailListCache.unshift(toListRow(docRef.id, cachedDoc));
+    }
+    mailDetailCache.set(docRef.id, toDetail(docRef.id, cachedDoc));
+
     // Push live update to any open mailbox tab
     sse.broadcast('new_mail', {
       id: docRef.id,
@@ -112,19 +152,13 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
 
 app.get('/api/mails', async (req, res) => {
   try {
+    if (mailListCache) {
+      return res.json({ mails: mailListCache, cached: true });
+    }
+
     const snapshot = await mailsCollection().orderBy('receivedAt', 'desc').limit(100).get();
-    const mails = snapshot.docs.map(doc => {
-      const d = doc.data();
-      return {
-        id: doc.id,
-        from: d.from,
-        to: d.to,
-        subject: d.subject,
-        read: d.read,
-        receivedAt: d.receivedAt ? d.receivedAt.toMillis() : null,
-      };
-    });
-    res.json({ mails });
+    mailListCache = snapshot.docs.map(doc => toListRow(doc.id, doc.data()));
+    res.json({ mails: mailListCache, cached: false });
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: 'Failed to fetch mails' });
@@ -133,22 +167,30 @@ app.get('/api/mails', async (req, res) => {
 
 app.get('/api/mails/:id', async (req, res) => {
   try {
-    const doc = await mailsCollection().doc(req.params.id).get();
-    if (!doc.exists) return res.status(404).json({ error: 'Not found' });
+    const { id } = req.params;
 
-    doc.ref.update({ read: true }).catch(() => {});
+    let mail = mailDetailCache.get(id);
+    let fromCache = true;
 
-    const d = doc.data();
-    res.json({
-      id: doc.id,
-      from: d.from,
-      to: d.to,
-      subject: d.subject,
-      html: d.html,
-      text: d.text,
-      read: true,
-      receivedAt: d.receivedAt ? d.receivedAt.toMillis() : null,
-    });
+    if (!mail) {
+      fromCache = false;
+      const doc = await mailsCollection().doc(id).get();
+      if (!doc.exists) return res.status(404).json({ error: 'Not found' });
+      mail = toDetail(doc.id, doc.data());
+      mailDetailCache.set(id, mail);
+    }
+
+    if (!mail.read) {
+      mail = { ...mail, read: true };
+      mailDetailCache.set(id, mail);
+      if (mailListCache) {
+        const row = mailListCache.find(m => m.id === id);
+        if (row) row.read = true;
+      }
+      mailsCollection().doc(id).update({ read: true }).catch(() => {});
+    }
+
+    res.json({ ...mail, cached: fromCache });
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: 'Failed to fetch mail' });
@@ -157,7 +199,14 @@ app.get('/api/mails/:id', async (req, res) => {
 
 app.delete('/api/mails/:id', async (req, res) => {
   try {
-    await mailsCollection().doc(req.params.id).delete();
+    const { id } = req.params;
+    await mailsCollection().doc(id).delete();
+
+    mailDetailCache.delete(id);
+    if (mailListCache) {
+      mailListCache = mailListCache.filter(m => m.id !== id);
+    }
+
     res.json({ success: true });
   } catch (error) {
     console.error(error);
