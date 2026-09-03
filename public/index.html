@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Mailbox</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/icon.svg">
+<meta name="theme-color" content="#0B57D0">
+<style>
+  :root { color-scheme: light dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: Roboto, Arial, sans-serif;
+    background: #F8F9FA; color: #1F1F1F;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: #131314; color: #E3E3E3; }
+    .row { border-color: #333 !important; }
+    .row:hover { background: #1E1F20 !important; }
+    header { background: #1E1F20 !important; border-color: #333 !important; }
+  }
+  header {
+    position: sticky; top: 0; z-index: 5;
+    display: flex; align-items: center; gap: 12px;
+    padding: 16px 20px; background: #fff; border-bottom: 1px solid #e3e3e3;
+  }
+  header h1 { font-size: 18px; margin: 0; font-weight: 500; }
+  .badge {
+    background: #0B57D0; color: #fff; border-radius: 100px;
+    font-size: 12px; padding: 2px 10px; margin-left: auto;
+  }
+  #list { max-width: 720px; margin: 0 auto; }
+  .row {
+    display: flex; flex-direction: column; gap: 4px;
+    padding: 14px 20px; border-bottom: 1px solid #eee; cursor: pointer;
+  }
+  .row:hover { background: #f0f4f9; }
+  .row .top { display: flex; justify-content: space-between; gap: 8px; font-size: 14px; }
+  .row .from { font-weight: 500; }
+  .row .subject { font-size: 14px; color: #555; }
+  .row.unread .subject, .row.unread .from { font-weight: 700; }
+  .empty { text-align: center; padding: 60px 20px; color: #888; }
+  #reader {
+    display: none; max-width: 720px; margin: 0 auto; padding: 20px;
+  }
+  #reader.open { display: block; }
+  #list.hidden { display: none; }
+  .back { background: none; border: none; color: #0B57D0; font-size: 14px; cursor: pointer; padding: 8px 0; }
+  #readerMeta { margin-bottom: 12px; }
+  #readerMeta .subj { font-size: 20px; font-weight: 500; margin: 8px 0; }
+  #readerMeta .from { font-size: 14px; color: #666; }
+  iframe { width: 100%; min-height: 60vh; border: none; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📬 Mailbox</h1>
+  <span class="badge" id="count" style="display:none;"></span>
+</header>
+
+<div id="list"><div class="empty">Loading…</div></div>
+
+<div id="reader">
+  <button class="back" onclick="closeReader()">&larr; Back to inbox</button>
+  <div id="readerMeta"></div>
+  <iframe id="readerFrame" sandbox=""></iframe>
+</div>
+
+<script>
+let mails = [];
+
+async function loadMails() {
+  const res = await fetch('/api/mails');
+  const data = await res.json();
+  mails = data.mails || [];
+  render();
+}
+
+function render() {
+  const list = document.getElementById('list');
+  const count = document.getElementById('count');
+  const unread = mails.filter(m => !m.read).length;
+  count.style.display = unread ? 'inline-block' : 'none';
+  count.textContent = unread + ' new';
+
+  if (!mails.length) {
+    list.innerHTML = '<div class="empty">No mail yet. It will show up here the moment it arrives.</div>';
+    return;
+  }
+
+  list.innerHTML = mails.map(m => `
+    <div class="row ${m.read ? '' : 'unread'}" onclick="openMail('${m.id}')">
+      <div class="top">
+        <span class="from">${escapeHtml(m.from || 'Unknown sender')}</span>
+        <span class="time">${m.receivedAt ? new Date(m.receivedAt).toLocaleString() : ''}</span>
+      </div>
+      <div class="subject">${escapeHtml(m.subject || '(no subject)')}</div>
+    </div>
+  `).join('');
+}
+
+async function openMail(id) {
+  const res = await fetch('/api/mails/' + id);
+  const mail = await res.json();
+
+  document.getElementById('readerMeta').innerHTML = `
+    <div class="from"><strong>From:</strong> ${escapeHtml(mail.from || '')}</div>
+    <div class="from"><strong>To:</strong> ${escapeHtml(mail.to || '')}</div>
+    <div class="subj">${escapeHtml(mail.subject || '(no subject)')}</div>
+  `;
+
+  const frame = document.getElementById('readerFrame');
+  frame.srcdoc = mail.html || `<pre style="white-space:pre-wrap;font-family:Roboto,Arial,sans-serif;">${escapeHtml(mail.text || '(empty message)')}</pre>`;
+
+  document.getElementById('list').classList.add('hidden');
+  document.getElementById('reader').classList.add('open');
+
+  const idx = mails.findIndex(m => m.id === id);
+  if (idx > -1) mails[idx].read = true;
+}
+
+function closeReader() {
+  document.getElementById('list').classList.remove('hidden');
+  document.getElementById('reader').classList.remove('open');
+  render();
+}
+
+function escapeHtml(str) {
+  return String(str).replace(/[&<>"']/g, s => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
+}
+
+function connectStream() {
+  const es = new EventSource('/api/stream');
+  es.addEventListener('new_mail', (e) => {
+    const mail = JSON.parse(e.data);
+    mails.unshift({ ...mail, read: false });
+    render();
+  });
+  es.onerror = () => {
+    es.close();
+    setTimeout(connectStream, 5000);
+  };
+}
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js').catch(() => {});
+}
+
+loadMails();
+connectStream();
+</script>
+</body>
+</html>
