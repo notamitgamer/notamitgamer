@@ -88,13 +88,28 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
       return res.status(200).json({ success: true, message: 'Alias ignored' });
     }
 
+    // The webhook payload only carries metadata (from/to/subject/email_id) —
+    // it does NOT include the actual html/text body. Fetch the full email
+    // via Resend's Retrieve Received Email endpoint using that ID.
+    let fullHtml = null;
+    let fullText = null;
+    if (emailData.email_id) {
+      const { data: fullEmail, error: getError } = await resend.emails.receiving.get(emailData.email_id);
+      if (getError) {
+        console.error('Failed to fetch full email body:', getError.message);
+      } else {
+        fullHtml = fullEmail?.html || null;
+        fullText = fullEmail?.text || null;
+      }
+    }
+
     // --- 1. Store the full email as a real mailbox entry ---
     const mailDoc = {
       from: originalSender,
       to: originalRecipient,
       subject,
-      html: emailData.html || null,
-      text: emailData.text || null,
+      html: fullHtml,
+      text: fullText,
       resendEmailId: emailData.email_id || null,
       read: false,
       receivedAt: admin.firestore.FieldValue.serverTimestamp(),
