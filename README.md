@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #122 from notamitgamer/fix/resilient-hf-sync](https://github.com/notamitgamer/bsc/commit/b0172586c4c3e216adeea12d09ae468ae55ca904) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #121 from notamitgamer/feat/raw-link-to-cdn](https://github.com/notamitgamer/bsc/commit/d4c492688be10cb819b8b87c122aef475a622286) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #13 from notamitgamer/feat/repo-stats-footer](https://github.com/notamitgamer/cdn/commit/a2b9713e0e5cf5db1cc3870305043665fc673b42) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #12 from notamitgamer/fix/empty-root-listing](https://github.com/notamitgamer/cdn/commit/b84f4862006540065db9a701587ccdeb0768617b) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #11 from notamitgamer/feat/ux-polish](https://github.com/notamitgamer/cdn/commit/99b8f57201b8d9a7596f745c3e645b6b56f5f4fe) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Update index.html](https://github.com/notamitgamer/cdn/commit/78ace63610c2210c83731d062028a82f635e7a36) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Add empty state message for directory view](https://github.com/notamitgamer/cdn/commit/29a14bdb79f358dbfa75d21ac6600cfc52503ad9) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #14 from notamitgamer/patch](https://github.com/notamitgamer/cdn/commit/13acc29f020451350fb51e464ee6be3cf1c384b8) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Add LRU cache implementation in storage.py](https://github.com/notamitgamer/cdn/commit/b1ba8bebe42c36b767ff067ec54c7d863017d9b7) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Add upload spinner and improve upload status display](https://github.com/notamitgamer/cdn/commit/1a1f5e440319e438ba15aaaa9d10f188a48cda3c) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 <!-- END_RECENT_COMMITS -->
 
 ---
