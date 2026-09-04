@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #122 from notamitgamer/fix/resilient-hf-sync](https://github.com/notamitgamer/bsc/commit/b0172586c4c3e216adeea12d09ae468ae55ca904) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #121 from notamitgamer/feat/raw-link-to-cdn](https://github.com/notamitgamer/bsc/commit/d4c492688be10cb819b8b87c122aef475a622286) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #13 from notamitgamer/feat/repo-stats-footer](https://github.com/notamitgamer/cdn/commit/a2b9713e0e5cf5db1cc3870305043665fc673b42) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Merge pull request #12 from notamitgamer/fix/empty-root-listing](https://github.com/notamitgamer/cdn/commit/b84f4862006540065db9a701587ccdeb0768617b) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Merge pull request #11 from notamitgamer/feat/ux-polish](https://github.com/notamitgamer/cdn/commit/99b8f57201b8d9a7596f745c3e645b6b56f5f4fe) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #10 from notamitgamer/feat/open-uploads](https://github.com/notamitgamer/cdn/commit/a68ba0edecfcb3b7dfec7b28b59b6d16f89b5c26) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #9 from notamitgamer/feat/favicon-logo-pwa-manifest](https://github.com/notamitgamer/cdn/commit/68314d3ba6a0e677161b98d99fc414970f3bec9f) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Remove size label span from item meta](https://github.com/notamitgamer/cdn/commit/cd177267820be381098cf18c8c71917c10a86010) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 <!-- END_RECENT_COMMITS -->
 
 ---
