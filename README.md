@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #12 from notamitgamer/fix/empty-root-listing](https://github.com/notamitgamer/cdn/commit/b84f4862006540065db9a701587ccdeb0768617b) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #11 from notamitgamer/feat/ux-polish](https://github.com/notamitgamer/cdn/commit/99b8f57201b8d9a7596f745c3e645b6b56f5f4fe) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #10 from notamitgamer/feat/open-uploads](https://github.com/notamitgamer/cdn/commit/a68ba0edecfcb3b7dfec7b28b59b6d16f89b5c26) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #9 from notamitgamer/feat/favicon-logo-pwa-manifest](https://github.com/notamitgamer/cdn/commit/68314d3ba6a0e677161b98d99fc414970f3bec9f) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Remove size label span from item meta](https://github.com/notamitgamer/cdn/commit/cd177267820be381098cf18c8c71917c10a86010) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #8 from notamitgamer/fix/mobile-layout](https://github.com/notamitgamer/cdn/commit/c03b2e4d04a69ed4b595845312b6c03d59a0fae4) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #7 from notamitgamer/patch](https://github.com/notamitgamer/cdn/commit/a54bbe96ac476ed4e2dfcce65076a1a658598dcb) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Integrate Turbo and update styles in index.html](https://github.com/notamitgamer/cdn/commit/3599d6154d9e93a558e7abe38b786cb9b1fc3253) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Implement custom 404 error handler](https://github.com/notamitgamer/cdn/commit/70070b25b4df190ae06f9bc1467ac7b0d46a0d39) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 <!-- END_RECENT_COMMITS -->
 
 ---
