@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #16 from notamitgamer/url-upload-ui-fix](https://github.com/notamitgamer/cdn/commit/9be003406792703362b4ef4359c61fc3068e5f1c) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Update index.html](https://github.com/notamitgamer/cdn/commit/78ace63610c2210c83731d062028a82f635e7a36) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Add empty state message for directory view](https://github.com/notamitgamer/cdn/commit/29a14bdb79f358dbfa75d21ac6600cfc52503ad9) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Merge pull request #14 from notamitgamer/patch](https://github.com/notamitgamer/cdn/commit/13acc29f020451350fb51e464ee6be3cf1c384b8) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Add LRU cache implementation in storage.py](https://github.com/notamitgamer/cdn/commit/b1ba8bebe42c36b767ff067ec54c7d863017d9b7) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Add upload spinner and improve upload status display](https://github.com/notamitgamer/cdn/commit/1a1f5e440319e438ba15aaaa9d10f188a48cda3c) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 <!-- END_RECENT_COMMITS -->
 
 ---
