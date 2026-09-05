@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [cleaning](https://github.com/notamitgamer/cdn/commit/47962e0f1922a156877528149e908168ed1c1373) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [updated somethings](https://github.com/notamitgamer/cdn/commit/20c9f39988649d6f3a66cd445c05dfe3977860a8) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #16 from notamitgamer/url-upload-ui-fix](https://github.com/notamitgamer/cdn/commit/9be003406792703362b4ef4359c61fc3068e5f1c) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Update index.html](https://github.com/notamitgamer/cdn/commit/78ace63610c2210c83731d062028a82f635e7a36) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Add empty state message for directory view](https://github.com/notamitgamer/cdn/commit/29a14bdb79f358dbfa75d21ac6600cfc52503ad9) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Add file icons for various file types in index.html](https://github.com/notamitgamer/cdn/commit/7f48b02d18909f47c69a6c6e5f87417aef48b3d5) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Refactor file-badge class and logo extensions](https://github.com/notamitgamer/cdn/commit/db40775645a8170bced9efc461e6945139532c58) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Enhance file display with icons for different types](https://github.com/notamitgamer/cdn/commit/5674cbaf7cadf9da9c79107dfa7cbf6e483a1f36) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Enhance index.html with file type badges](https://github.com/notamitgamer/cdn/commit/1cda805c70170edfda3db8cc89eddc5d8318056e) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Refactor styles for layout consistency in index.html](https://github.com/notamitgamer/cdn/commit/b21f33100dc67cca4bb57b263b110240fea9ec30) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 <!-- END_RECENT_COMMITS -->
 
 ---
