@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #18 from notamitgamer/fix/truncation-measures-wrong-element](https://github.com/notamitgamer/cdn/commit/ef3afa526dd6d0c0c08560fd29c6601838533621) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #17 from notamitgamer/feat/middle-truncate-generic-icons](https://github.com/notamitgamer/cdn/commit/a2bda2f949008be4e272649e9e3ab505c52b86ad) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Add file icons for various file types in index.html](https://github.com/notamitgamer/cdn/commit/7f48b02d18909f47c69a6c6e5f87417aef48b3d5) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Refactor file-badge class and logo extensions](https://github.com/notamitgamer/cdn/commit/db40775645a8170bced9efc461e6945139532c58) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Enhance file display with icons for different types](https://github.com/notamitgamer/cdn/commit/5674cbaf7cadf9da9c79107dfa7cbf6e483a1f36) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #20 from notamitgamer/feat/dedicated-search-page](https://github.com/notamitgamer/cdn/commit/566ac381719546ee41dff6efa334beafe4ea156b) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Replace header search bar with a dedicated /search page](https://github.com/notamitgamer/cdn/commit/5cd64b5ec7892ca6c77ef59729333bd93e879337) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #19 from notamitgamer/feat/async-io-and-global-search](https://github.com/notamitgamer/cdn/commit/988aec729aba97c3e7642746d06d598cb808673f) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Fix blocking HF calls in async routes; add global file search](https://github.com/notamitgamer/cdn/commit/634257004f54fb319e8b7b18df09e10a938cd9b0) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #282 from vladbrox/main](https://github.com/free-domains/is-a.bot/commit/31307842b0f261875e07c086540db3efb231f71f) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
