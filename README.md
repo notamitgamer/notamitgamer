@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #20 from notamitgamer/feat/dedicated-search-page](https://github.com/notamitgamer/cdn/commit/566ac381719546ee41dff6efa334beafe4ea156b) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Replace header search bar with a dedicated /search page](https://github.com/notamitgamer/cdn/commit/5cd64b5ec7892ca6c77ef59729333bd93e879337) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #19 from notamitgamer/feat/async-io-and-global-search](https://github.com/notamitgamer/cdn/commit/988aec729aba97c3e7642746d06d598cb808673f) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Fix blocking HF calls in async routes; add global file search](https://github.com/notamitgamer/cdn/commit/634257004f54fb319e8b7b18df09e10a938cd9b0) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #282 from vladbrox/main](https://github.com/free-domains/is-a.bot/commit/31307842b0f261875e07c086540db3efb231f71f) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #22 from notamitgamer/fix/search-result-alignment](https://github.com/notamitgamer/cdn/commit/580cb4dca6c64196fb78fbbf91141bee8a58b6ad) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Fix search results rendering centered instead of stretched](https://github.com/notamitgamer/cdn/commit/c14b12e15073e4e9e1f8e1c8e8276af00b5820e4) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #21 from notamitgamer/fix/search-page-truncate-download-mobile](https://github.com/notamitgamer/cdn/commit/6abfb87c390b7ea13d4173fc97d17b4d02b3c974) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Fix /search: truncation, missing download button, mobile placeholders](https://github.com/notamitgamer/cdn/commit/0603ac29b769302e707f60dca2917cb5c503e401) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #51197 from hkrobotics/main](https://github.com/is-a-dev/register/commit/70a1046cceb2d23a02bc554a9df467af25e814cd) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
