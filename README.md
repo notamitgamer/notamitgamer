@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #22 from notamitgamer/fix/search-result-alignment](https://github.com/notamitgamer/cdn/commit/580cb4dca6c64196fb78fbbf91141bee8a58b6ad) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Fix search results rendering centered instead of stretched](https://github.com/notamitgamer/cdn/commit/c14b12e15073e4e9e1f8e1c8e8276af00b5820e4) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #21 from notamitgamer/fix/search-page-truncate-download-mobile](https://github.com/notamitgamer/cdn/commit/6abfb87c390b7ea13d4173fc97d17b4d02b3c974) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Fix /search: truncation, missing download button, mobile placeholders](https://github.com/notamitgamer/cdn/commit/0603ac29b769302e707f60dca2917cb5c503e401) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #51197 from hkrobotics/main](https://github.com/is-a-dev/register/commit/70a1046cceb2d23a02bc554a9df467af25e814cd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #28 from notamitgamer/edit-20260907-220057](https://github.com/notamitgamer/cdn/commit/337d61b1bb7d13274d639300fcbaa6e6f0c6715d) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [fixed the notice](https://github.com/notamitgamer/cdn/commit/16b14e5e8b36af2dec2c8f7e07bf2c725f0af8a9) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #27 from notamitgamer/edit-20260907-215455](https://github.com/notamitgamer/cdn/commit/f985f2f0ad2b0d974a3900d01ed5114eee3a1d3e) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [checking](https://github.com/notamitgamer/cdn/commit/3a5544bea7b8f7d5468ed2811fa053421bccdd67) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [checking the script](https://github.com/notamitgamer/cdn/commit/b81dbaa32dc4781e22851f65927d93cdd93877a6) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 <!-- END_RECENT_COMMITS -->
 
 ---
