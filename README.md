@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #38 from notamitgamer/feat/upload-folder-picker](https://github.com/notamitgamer/cdn/commit/813e4072bad787c796dd51379e5be995ffffeade) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #37 from notamitgamer/feat/file-preview-mosaic-bg](https://github.com/notamitgamer/cdn/commit/b4b04e6b64e46c64e73538a6ff5e6deaaf53a975) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #36 from notamitgamer/feat/collapse-breadcrumb](https://github.com/notamitgamer/cdn/commit/99b346b6b254004d694f449482e4da65e2890f7f) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Merge pull request #35 from notamitgamer/feat/nicer-file-page-no-preview](https://github.com/notamitgamer/cdn/commit/1afd0979a12d4109adba04ebaea82964f58c1252) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Merge pull request #34 from notamitgamer/feat/nicer-file-page](https://github.com/notamitgamer/cdn/commit/08d857b172206ff1dd259e3c003d0d3bfab53521) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #33 from notamitgamer/fix-batch-size-mobile](https://github.com/notamitgamer/cdn/commit/2747fdf857e11f757e6068bf42343ef7ddb0dad8) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #32 from notamitgamer/batch-page-improvements](https://github.com/notamitgamer/cdn/commit/13ed5ddc9db14a7006b6b937f1cb56bec11344e6) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #31 from notamitgamer/fix-batch-redirect](https://github.com/notamitgamer/cdn/commit/91a6af61db1c4d642ac09efafe0b6cac625c91b5) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #30 from notamitgamer/add-batch-uploads](https://github.com/notamitgamer/cdn/commit/6eaa418da3d4d01dce99cd308e8fe93c537a709e) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 <!-- END_RECENT_COMMITS -->
 
 ---
