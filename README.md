@@ -68,11 +68,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #34 from notamitgamer/feat/nicer-file-page](https://github.com/notamitgamer/cdn/commit/08d857b172206ff1dd259e3c003d0d3bfab53521) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Merge pull request #33 from notamitgamer/fix-batch-size-mobile](https://github.com/notamitgamer/cdn/commit/2747fdf857e11f757e6068bf42343ef7ddb0dad8) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Merge pull request #32 from notamitgamer/batch-page-improvements](https://github.com/notamitgamer/cdn/commit/13ed5ddc9db14a7006b6b937f1cb56bec11344e6) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Merge pull request #31 from notamitgamer/fix-batch-redirect](https://github.com/notamitgamer/cdn/commit/91a6af61db1c4d642ac09efafe0b6cac625c91b5) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 - [Merge pull request #30 from notamitgamer/add-batch-uploads](https://github.com/notamitgamer/cdn/commit/6eaa418da3d4d01dce99cd308e8fe93c537a709e) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #29 from notamitgamer/add-batch-uploads](https://github.com/notamitgamer/cdn/commit/fbf07881c65ffa952515e408e13ad1620beb447d) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
 <!-- END_RECENT_COMMITS -->
 
 ---
