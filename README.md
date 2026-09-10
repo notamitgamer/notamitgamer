@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Add raw.cdn.amit.json configuration file](https://github.com/is-a-dev/register/commit/5aa5a75d4b857ebcc6abcf303a6d1fba30ef9e1e) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Add cdn.amit.json configuration file](https://github.com/is-a-dev/register/commit/a5b5f5ba3f9538702793596121c3d2a621f2a2bd) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #1 from notamitgamer/patch](https://github.com/notamitgamer/cdnV2/commit/467789f535adb455982e897f1afa500d0379492f) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Refactor styles and layout in index.html](https://github.com/notamitgamer/cdnV2/commit/243cb45dc0dc88c20ba7e9cf5874223e517e034c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [cdn v2](https://github.com/notamitgamer/cdnV2/commit/bc942c487bbf2eae192f14a752e7cf0c996e9241) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Remove hover styles for file icons in index.html](https://github.com/notamitgamer/cdnV2/commit/1242f0644f3bffcd4f5900453bbf8254c2a2b71f) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [bit cleanup](https://github.com/notamitgamer/cdnV2/commit/78e59e8c3d01eccf11571456b2e2d6b1e09a5613) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Update index.html](https://github.com/notamitgamer/cdnV2/commit/008bee907cd32de0e74bafcd86b672a0eab64e02) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Refactor input styles and add unified container](https://github.com/notamitgamer/cdnV2/commit/4f4afd0a4b987022e7b50832556d85e1a1284a90) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Enhance input fields with clear button functionality](https://github.com/notamitgamer/cdnV2/commit/2483f0ce56cf186e57f1ac960454940011d62a6b) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
