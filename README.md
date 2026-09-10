@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #39 from notamitgamer/fix/new-ui-theme](https://github.com/notamitgamer/cdn/commit/70b2bc810c543b679d31ca0452ece75705f6a4ce) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #38 from notamitgamer/feat/upload-folder-picker](https://github.com/notamitgamer/cdn/commit/813e4072bad787c796dd51379e5be995ffffeade) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #37 from notamitgamer/feat/file-preview-mosaic-bg](https://github.com/notamitgamer/cdn/commit/b4b04e6b64e46c64e73538a6ff5e6deaaf53a975) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #36 from notamitgamer/feat/collapse-breadcrumb](https://github.com/notamitgamer/cdn/commit/99b346b6b254004d694f449482e4da65e2890f7f) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
-- [Merge pull request #35 from notamitgamer/feat/nicer-file-page-no-preview](https://github.com/notamitgamer/cdn/commit/1afd0979a12d4109adba04ebaea82964f58c1252) in [notamitgamer/cdn](https://github.com/notamitgamer/cdn)
+- [Initial commit](https://github.com/notamitgamer/cdnV2/commit/84785d5a6d4bccf7e616e8220b93cb3500e63b2a) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Nothing at all](https://github.com/notamitgamer/notamitgamer/commit/62b28340735fabdc4048b30f6647192f0ca57a2e) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Delete domains/raw.cdn.amit.json](https://github.com/is-a-dev/register/commit/7d98ff6e5dff4d983f86f404be2a0761587b8dfc) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Delete domains/cdn.amit.json](https://github.com/is-a-dev/register/commit/9b982ba6ca410fa411c7330315db2ef0d1e4463c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #51197 from hkrobotics/main](https://github.com/is-a-dev/register/commit/70a1046cceb2d23a02bc554a9df467af25e814cd) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
