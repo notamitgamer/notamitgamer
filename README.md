@@ -61,8 +61,6 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 
 - [BSC Repository ↗](https://code.amit.is-a.dev) · [GitHub ↗](https://github.com/notamitgamer/bsc) — Every B.Sc. practical I've ever suffered through, preserved for posterity.
 
-- [ESAL-1.0 ↗](https://esal.amit.is-a.dev) — My own license, mostly to say "*please don't copy this*" in legal-sounding language.
-
 ---
 
 ### Recent Commits
