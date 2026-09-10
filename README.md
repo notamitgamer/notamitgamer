@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Initial commit](https://github.com/notamitgamer/cdnV2/commit/84785d5a6d4bccf7e616e8220b93cb3500e63b2a) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Nothing at all](https://github.com/notamitgamer/notamitgamer/commit/62b28340735fabdc4048b30f6647192f0ca57a2e) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Delete domains/raw.cdn.amit.json](https://github.com/is-a-dev/register/commit/7d98ff6e5dff4d983f86f404be2a0761587b8dfc) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Delete domains/cdn.amit.json](https://github.com/is-a-dev/register/commit/9b982ba6ca410fa411c7330315db2ef0d1e4463c) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #51197 from hkrobotics/main](https://github.com/is-a-dev/register/commit/70a1046cceb2d23a02bc554a9df467af25e814cd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Add raw.cdn.amit.json configuration file](https://github.com/is-a-dev/register/commit/5aa5a75d4b857ebcc6abcf303a6d1fba30ef9e1e) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Add cdn.amit.json configuration file](https://github.com/is-a-dev/register/commit/a5b5f5ba3f9538702793596121c3d2a621f2a2bd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #1 from notamitgamer/patch](https://github.com/notamitgamer/cdnV2/commit/467789f535adb455982e897f1afa500d0379492f) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Refactor styles and layout in index.html](https://github.com/notamitgamer/cdnV2/commit/243cb45dc0dc88c20ba7e9cf5874223e517e034c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [cdn v2](https://github.com/notamitgamer/cdnV2/commit/bc942c487bbf2eae192f14a752e7cf0c996e9241) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
