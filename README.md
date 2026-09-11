@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #3 from notamitgamer/feature/android-webview-app](https://github.com/notamitgamer/cdnV2/commit/cb7c90eff6c009663ed2a0ae2884275b02e70064) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Remove hover styles for file icons in index.html](https://github.com/notamitgamer/cdnV2/commit/1242f0644f3bffcd4f5900453bbf8254c2a2b71f) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [bit cleanup](https://github.com/notamitgamer/cdnV2/commit/78e59e8c3d01eccf11571456b2e2d6b1e09a5613) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Update index.html](https://github.com/notamitgamer/cdnV2/commit/008bee907cd32de0e74bafcd86b672a0eab64e02) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Refactor input styles and add unified container](https://github.com/notamitgamer/cdnV2/commit/4f4afd0a4b987022e7b50832556d85e1a1284a90) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Enhance input fields with clear button functionality](https://github.com/notamitgamer/cdnV2/commit/2483f0ce56cf186e57f1ac960454940011d62a6b) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
