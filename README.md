@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #8 from notamitgamer/fix/edit-detection-wrong-event](https://github.com/notamitgamer/logger/commit/57e51c54fa225ba8161f75cc3d9559a9d149a27b) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
-- [Merge pull request #316 from yousefelbanna2024-ship-it/main](https://github.com/free-domains/is-a.bot/commit/ee2aab4813dc52ecf13b8b439611042a5a7418d8) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #313 from pareshmishra23/add-gusresearchlab-clean](https://github.com/free-domains/is-a.bot/commit/234807d63762f446f9b06deead184ba64392558d) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #303 from darking053official/main](https://github.com/free-domains/is-a.bot/commit/352602d9397fe031ecfc8e9ba5ec6fc34332a682) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #51868 from AkshitMohan/main](https://github.com/is-a-dev/register/commit/aa8c9c345a9057ce3abd47363fd11c66ebbfc727) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #126 from notamitgamer/chore/cleanup-legacy-cruft](https://github.com/notamitgamer/bsc/commit/52d9282da27b7d4b20163921818f92d739d02c3c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Delete utils/index.md](https://github.com/notamitgamer/bsc/commit/761bedddfd0d935da1b9ade90e5162fc23f767ad) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Delete utils/deploy_pipeline.py](https://github.com/notamitgamer/bsc/commit/9eac7cf29e465e42b3eb719d30040c1729dbba70) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #125 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-452e010a87](https://github.com/notamitgamer/bsc/commit/54014288c99cdc759571ba99f1150d7f74b397d5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #124 from notamitgamer/dependabot/npm_and_yarn/vitepress-sidebar-1.40.0](https://github.com/notamitgamer/bsc/commit/0b25c9f06554c5f64affebe3312f9f8d65f80a85) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
