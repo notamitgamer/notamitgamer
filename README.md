@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #3 from notamitgamer/feature/android-webview-app](https://github.com/notamitgamer/cdnV2/commit/cb7c90eff6c009663ed2a0ae2884275b02e70064) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Remove hover styles for file icons in index.html](https://github.com/notamitgamer/cdnV2/commit/1242f0644f3bffcd4f5900453bbf8254c2a2b71f) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [bit cleanup](https://github.com/notamitgamer/cdnV2/commit/78e59e8c3d01eccf11571456b2e2d6b1e09a5613) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Update index.html](https://github.com/notamitgamer/cdnV2/commit/008bee907cd32de0e74bafcd86b672a0eab64e02) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Refactor input styles and add unified container](https://github.com/notamitgamer/cdnV2/commit/4f4afd0a4b987022e7b50832556d85e1a1284a90) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #8 from notamitgamer/fix/edit-detection-wrong-event](https://github.com/notamitgamer/logger/commit/57e51c54fa225ba8161f75cc3d9559a9d149a27b) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
+- [Merge pull request #316 from yousefelbanna2024-ship-it/main](https://github.com/free-domains/is-a.bot/commit/ee2aab4813dc52ecf13b8b439611042a5a7418d8) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #313 from pareshmishra23/add-gusresearchlab-clean](https://github.com/free-domains/is-a.bot/commit/234807d63762f446f9b06deead184ba64392558d) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #303 from darking053official/main](https://github.com/free-domains/is-a.bot/commit/352602d9397fe031ecfc8e9ba5ec6fc34332a682) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #51868 from AkshitMohan/main](https://github.com/is-a-dev/register/commit/aa8c9c345a9057ce3abd47363fd11c66ebbfc727) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
