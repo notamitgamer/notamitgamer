@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Update GitHub Actions checkout action version](https://github.com/notamitgamer/cdnV2/commit/e33b000808279306e3153efccf792fc1c244eae7) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Update GitHub Actions checkout action version](https://github.com/notamitgamer/git-mirror/commit/cbee16403e8370fc5bcd62c9827e5a2cf7f93f71) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Update license statement in README.md](https://github.com/notamitgamer/git-mirror/commit/5472ca9e3c882529f68d4493856b898be96595af) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
 - [Add footer to gh_sync_docs.html](https://github.com/notamitgamer/cdnV2/commit/c1774f18ef845e843a1f78dbdd471acfed3bd239) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Refactor CSS styles for improved readability](https://github.com/notamitgamer/cdnV2/commit/15eadd04712fffca96731a3fd3797d582346abe1) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Change h1 font to 'Zilla Slab' and adjust weight](https://github.com/notamitgamer/cdnV2/commit/5e5e98aeaac1c785286b16a567bd515ac2c4b98d) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Add GitHub Actions workflow for CDN synchronization](https://github.com/notamitgamer/git-mirror/commit/33103a00690545436183a8b97cbbe6de5653cf47) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Merge pull request #5 from notamitgamer/feat/gh-actions-sync](https://github.com/notamitgamer/cdnV2/commit/7e94d6aaa08cc40cf95c445f720970d8458a40d8) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
