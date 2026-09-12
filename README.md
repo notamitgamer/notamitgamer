@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #126 from notamitgamer/chore/cleanup-legacy-cruft](https://github.com/notamitgamer/bsc/commit/52d9282da27b7d4b20163921818f92d739d02c3c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Delete utils/index.md](https://github.com/notamitgamer/bsc/commit/761bedddfd0d935da1b9ade90e5162fc23f767ad) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Delete utils/deploy_pipeline.py](https://github.com/notamitgamer/bsc/commit/9eac7cf29e465e42b3eb719d30040c1729dbba70) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #125 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-452e010a87](https://github.com/notamitgamer/bsc/commit/54014288c99cdc759571ba99f1150d7f74b397d5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #124 from notamitgamer/dependabot/npm_and_yarn/vitepress-sidebar-1.40.0](https://github.com/notamitgamer/bsc/commit/0b25c9f06554c5f64affebe3312f9f8d65f80a85) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Add footer to gh_sync_docs.html](https://github.com/notamitgamer/cdnV2/commit/c1774f18ef845e843a1f78dbdd471acfed3bd239) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Refactor CSS styles for improved readability](https://github.com/notamitgamer/cdnV2/commit/15eadd04712fffca96731a3fd3797d582346abe1) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Change h1 font to 'Zilla Slab' and adjust weight](https://github.com/notamitgamer/cdnV2/commit/5e5e98aeaac1c785286b16a567bd515ac2c4b98d) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Add GitHub Actions workflow for CDN synchronization](https://github.com/notamitgamer/git-mirror/commit/33103a00690545436183a8b97cbbe6de5653cf47) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Merge pull request #5 from notamitgamer/feat/gh-actions-sync](https://github.com/notamitgamer/cdnV2/commit/7e94d6aaa08cc40cf95c445f720970d8458a40d8) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
