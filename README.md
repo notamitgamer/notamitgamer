@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #9 from notamitgamer/revert/edit-history-feature](https://github.com/notamitgamer/logger/commit/a3f0aa12f88ffec052f2331ab37adaac9314fdad) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
 - [Update GitHub Actions checkout action version](https://github.com/notamitgamer/cdnV2/commit/e33b000808279306e3153efccf792fc1c244eae7) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Update GitHub Actions checkout action version](https://github.com/notamitgamer/git-mirror/commit/cbee16403e8370fc5bcd62c9827e5a2cf7f93f71) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
 - [Update license statement in README.md](https://github.com/notamitgamer/git-mirror/commit/5472ca9e3c882529f68d4493856b898be96595af) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
 - [Add footer to gh_sync_docs.html](https://github.com/notamitgamer/cdnV2/commit/c1774f18ef845e843a1f78dbdd471acfed3bd239) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Refactor CSS styles for improved readability](https://github.com/notamitgamer/cdnV2/commit/15eadd04712fffca96731a3fd3797d582346abe1) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
