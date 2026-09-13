@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [fixed](https://github.com/notamitgamer/cdnV2/commit/a88c8c28f54e34e96ada395d590fb5f7f590d23c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Use consistent history icon on sync docs](https://github.com/notamitgamer/cdnV2/commit/2910205bd71efd95f344877deee829c222df2d6f) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Add history button to navigation bar](https://github.com/notamitgamer/cdnV2/commit/4b0b328638513d625fc09aaed01ea2157967759d) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Refactor history section layout and functionality](https://github.com/notamitgamer/cdnV2/commit/71b3aa7b253403c02b91552fdc1377c0e2aa8eca) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Enhance history container layout and error handling](https://github.com/notamitgamer/cdnV2/commit/c6f96d905b07d12c785411da977a4496ae5eb7fa) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #6 from notamitgamer/patch](https://github.com/notamitgamer/cdnV2/commit/b91ba27853cf9900945f7bfdef3cc96698a51850) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Add history page support in index.html](https://github.com/notamitgamer/cdnV2/commit/98344ef5340b5c294cba100afe3283c14542c5e1) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Refactor imports and improve handle_upload formatting](https://github.com/notamitgamer/cdnV2/commit/4cfcfa7914cdd5032d711d9893b7881a9833e340) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
