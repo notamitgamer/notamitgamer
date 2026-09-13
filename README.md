@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #327 from S4IL21/main](https://github.com/free-domains/is-a.bot/commit/94d68d42b08342cb73874f2a7652c817ba66934a) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Apply suggestion from @notamitgamer](https://github.com/free-domains/is-a.bot/commit/844cc450e2b736d07690f0190a2883cc5b5b13ce) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #52125 from SaulG-cmyk/main](https://github.com/is-a-dev/register/commit/30a0ac6fbecdb6467ca63a3384a8e0298a85225c) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Format JSON structure in saulg.json](https://github.com/is-a-dev/register/commit/22dc2d73aaa6c544af2130e9c8a2f09704ac9b8a) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #52126 from walidelkersh/elkersh-registration](https://github.com/is-a-dev/register/commit/c8e47706e5b1bde6f3c4855f6e840cc5fc26fca4) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Refactor history section layout and functionality](https://github.com/notamitgamer/cdnV2/commit/71b3aa7b253403c02b91552fdc1377c0e2aa8eca) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Enhance history container layout and error handling](https://github.com/notamitgamer/cdnV2/commit/c6f96d905b07d12c785411da977a4496ae5eb7fa) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #6 from notamitgamer/patch](https://github.com/notamitgamer/cdnV2/commit/b91ba27853cf9900945f7bfdef3cc96698a51850) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Add history page support in index.html](https://github.com/notamitgamer/cdnV2/commit/98344ef5340b5c294cba100afe3283c14542c5e1) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Refactor imports and improve handle_upload formatting](https://github.com/notamitgamer/cdnV2/commit/4cfcfa7914cdd5032d711d9893b7881a9833e340) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
