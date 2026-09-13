@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #9 from notamitgamer/revert/edit-history-feature](https://github.com/notamitgamer/logger/commit/a3f0aa12f88ffec052f2331ab37adaac9314fdad) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
-- [Update GitHub Actions checkout action version](https://github.com/notamitgamer/cdnV2/commit/e33b000808279306e3153efccf792fc1c244eae7) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Update GitHub Actions checkout action version](https://github.com/notamitgamer/git-mirror/commit/cbee16403e8370fc5bcd62c9827e5a2cf7f93f71) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Update license statement in README.md](https://github.com/notamitgamer/git-mirror/commit/5472ca9e3c882529f68d4493856b898be96595af) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Add footer to gh_sync_docs.html](https://github.com/notamitgamer/cdnV2/commit/c1774f18ef845e843a1f78dbdd471acfed3bd239) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #327 from S4IL21/main](https://github.com/free-domains/is-a.bot/commit/94d68d42b08342cb73874f2a7652c817ba66934a) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Apply suggestion from @notamitgamer](https://github.com/free-domains/is-a.bot/commit/844cc450e2b736d07690f0190a2883cc5b5b13ce) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #52125 from SaulG-cmyk/main](https://github.com/is-a-dev/register/commit/30a0ac6fbecdb6467ca63a3384a8e0298a85225c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Format JSON structure in saulg.json](https://github.com/is-a-dev/register/commit/22dc2d73aaa6c544af2130e9c8a2f09704ac9b8a) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #52126 from walidelkersh/elkersh-registration](https://github.com/is-a-dev/register/commit/c8e47706e5b1bde6f3c4855f6e840cc5fc26fca4) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
