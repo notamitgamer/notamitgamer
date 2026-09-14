@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [fix: move breadcrumb CSS into _navbar.html for self-containment](https://github.com/notamitgamer/cdnV2/commit/9ad6c717eb1e586358f2bce829cdb0470fe274ef) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [fix: add breadcrumbs for documentation and gh-sync pages](https://github.com/notamitgamer/cdnV2/commit/92eb710a38c1520b2a5005221886c399d737713b) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [fixed](https://github.com/notamitgamer/cdnV2/commit/a88c8c28f54e34e96ada395d590fb5f7f590d23c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Use consistent history icon on sync docs](https://github.com/notamitgamer/cdnV2/commit/2910205bd71efd95f344877deee829c222df2d6f) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Add history button to navigation bar](https://github.com/notamitgamer/cdnV2/commit/4b0b328638513d625fc09aaed01ea2157967759d) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Refactor history section layout and functionality](https://github.com/notamitgamer/cdnV2/commit/71b3aa7b253403c02b91552fdc1377c0e2aa8eca) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Enhance history container layout and error handling](https://github.com/notamitgamer/cdnV2/commit/c6f96d905b07d12c785411da977a4496ae5eb7fa) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
