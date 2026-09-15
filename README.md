@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #7 from notamitgamer/feature/themed-icon-monochrome](https://github.com/notamitgamer/cdnV2/commit/500856ce0449c13603f4cfaf38981acd1868534e) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #129 from notamitgamer/feature/themed-icon-monochrome](https://github.com/notamitgamer/bsc/commit/775247d1965a2311dcd1260780be524544faa4ce) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #128 from notamitgamer/fix/pwa-splash-screen](https://github.com/notamitgamer/bsc/commit/36dd7a532e05e16da623e53100b2cecbdb30ed95) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #127 from notamitgamer/feature/refresh-logo](https://github.com/notamitgamer/bsc/commit/c06d45017badb2f757412b285076f0e9c9eefffd) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #341 from backspac3bar/add-volibot](https://github.com/free-domains/is-a.bot/commit/21c50ab632f36f68c64270cda7443de053a8329f) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #342 from ccreatesaserver-afk/main](https://github.com/free-domains/is-a.bot/commit/e6304f96dced7b55b2abb4dedd69c10d8102314b) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #340 from Desdale26/main](https://github.com/free-domains/is-a.bot/commit/2f1c409e8c5428970ed803fa3adb6dc0b0260963) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #339 from UnknownDxv/main](https://github.com/free-domains/is-a.bot/commit/1dd76e2126c1710338c0a858a425812c172d3679) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #52469 from hoangtuphowall/main](https://github.com/is-a-dev/register/commit/147d26b56c000d854511007d124ccc74830a55ad) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
