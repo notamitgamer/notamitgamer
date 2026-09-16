@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Remove APK build files, add URL shortener page](https://github.com/notamitgamer/cdnV2/commit/d7171bce30354a8b1029b7ce132a9f5742e25b9e) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #12 from notamitgamer/fix/apk-workflow-duplicate-steps](https://github.com/notamitgamer/cdnV2/commit/bf818f1ec0c4ed84e8032d34d38c3359c3ba9ae9) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #11 from notamitgamer/fix/apk-workflow-duplicate-steps](https://github.com/notamitgamer/cdnV2/commit/d46e3ceed6499d0050f7c47d1d297b472f71cc2e) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Refactor Android SDK setup and upgrade Java action](https://github.com/notamitgamer/cdnV2/commit/6864d6b29e481aca815305dc8ba13827e9010199) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Update build-apk.yml](https://github.com/notamitgamer/cdnV2/commit/ef977d9f3c8fec540128d8ad54de39411d5f989c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Refactor Dockerfile for Cobalt and FastAPI setup](https://github.com/notamitgamer/cdnV2/commit/21824f4f0bc04aaf44b03f4d10ed3febc39a4791) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Enable corepack and prepare pnpm version 12.4.2](https://github.com/notamitgamer/cdnV2/commit/41b33e076f228b2db1bed1c5b4d4477f6a9d84ba) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Refactor start.sh to improve service startup process](https://github.com/notamitgamer/cdnV2/commit/22d472687c9aa7b8c17e6e2a7b24b757c008f049) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Refactor start.sh for improved service management](https://github.com/notamitgamer/cdnV2/commit/dd8909e5c66c19ad3a170336f00bd3ee11b70573) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Add youtubeHLS option to configuration](https://github.com/notamitgamer/cdnV2/commit/8073a9e991b90d2186b2e3fca8c2bbe8b1d8881a) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
