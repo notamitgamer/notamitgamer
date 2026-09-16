@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #12 from notamitgamer/fix/apk-workflow-duplicate-steps](https://github.com/notamitgamer/cdnV2/commit/bf818f1ec0c4ed84e8032d34d38c3359c3ba9ae9) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #11 from notamitgamer/fix/apk-workflow-duplicate-steps](https://github.com/notamitgamer/cdnV2/commit/d46e3ceed6499d0050f7c47d1d297b472f71cc2e) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Refactor Android SDK setup and upgrade Java action](https://github.com/notamitgamer/cdnV2/commit/6864d6b29e481aca815305dc8ba13827e9010199) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Update build-apk.yml](https://github.com/notamitgamer/cdnV2/commit/ef977d9f3c8fec540128d8ad54de39411d5f989c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Merge pull request #10 from notamitgamer/copilot/fix-build-apk-failure](https://github.com/notamitgamer/cdnV2/commit/11e6e8a90f063287f9d8593ed6b14c4bcc0eba2c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #9 from notamitgamer/fix/apk-build-sdk-setup](https://github.com/notamitgamer/cdnV2/commit/5756f5fe56a4646ff1d06ccf8a3a8c67d990b1b7) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #7 from notamitgamer/feature/themed-icon-monochrome](https://github.com/notamitgamer/cdnV2/commit/500856ce0449c13603f4cfaf38981acd1868534e) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
