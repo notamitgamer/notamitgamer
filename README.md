@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #22 from notamitgamer/remove-broken-cobalt-ytmusic](https://github.com/notamitgamer/cdnV2/commit/dc913441637fe302bdb2932c506b3b93cd339acd) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Update start.sh for Cobalt installation checks](https://github.com/notamitgamer/cdnV2/commit/e0d4085636eca17b389b865506703c126b5e925e) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Update Dockerfile](https://github.com/notamitgamer/cdnV2/commit/c5564d5bee4401c1005ad485a0d9f10597b910e0) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Refactor Dockerfile for Cobalt and FastAPI setup](https://github.com/notamitgamer/cdnV2/commit/21824f4f0bc04aaf44b03f4d10ed3febc39a4791) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Enable corepack and prepare pnpm version 12.4.2](https://github.com/notamitgamer/cdnV2/commit/41b33e076f228b2db1bed1c5b4d4477f6a9d84ba) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Add '_shortened' to hidden prefixes](https://github.com/notamitgamer/cdnV2/commit/6c85c78992e4aa083cbc205e9d4ac5cd349b37a4) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Wrap 404 header in center tag for alignment](https://github.com/notamitgamer/cdnV2/commit/a5fce16f2b9d347c3f5afad050ab302bc56bc29b) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #24 from notamitgamer/revert-23-restore-cobalt-fixed](https://github.com/notamitgamer/cdnV2/commit/eccdbfa4441d26d71d4745c8c1af8997e2a0ec09) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Revert "Restore YouTube/Cobalt mp3 download (fixed startup check)"](https://github.com/notamitgamer/cdnV2/commit/8e6ab1c9229e52cf8fb2f25e182513c2b8fb4edf) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #23 from notamitgamer/restore-cobalt-fixed](https://github.com/notamitgamer/cdnV2/commit/7a55b9af09b95b79e86397b37bce997e3fed673a) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
