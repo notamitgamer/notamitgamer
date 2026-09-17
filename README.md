@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #22 from notamitgamer/remove-broken-cobalt-ytmusic](https://github.com/notamitgamer/cdnV2/commit/dc913441637fe302bdb2932c506b3b93cd339acd) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Update start.sh for Cobalt installation checks](https://github.com/notamitgamer/cdnV2/commit/e0d4085636eca17b389b865506703c126b5e925e) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Update Dockerfile](https://github.com/notamitgamer/cdnV2/commit/c5564d5bee4401c1005ad485a0d9f10597b910e0) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Refactor Dockerfile for Cobalt and FastAPI setup](https://github.com/notamitgamer/cdnV2/commit/21824f4f0bc04aaf44b03f4d10ed3febc39a4791) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Enable corepack and prepare pnpm version 12.4.2](https://github.com/notamitgamer/cdnV2/commit/41b33e076f228b2db1bed1c5b4d4477f6a9d84ba) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Refactor start.sh to improve service startup process](https://github.com/notamitgamer/cdnV2/commit/22d472687c9aa7b8c17e6e2a7b24b757c008f049) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
