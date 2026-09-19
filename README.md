@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Add files via upload](https://github.com/notamitgamer/notamitgamer/commit/17c79393f765e59a8ff9c364778ef2845d7288c5) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Add '_shortened' to hidden prefixes](https://github.com/notamitgamer/cdnV2/commit/6c85c78992e4aa083cbc205e9d4ac5cd349b37a4) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Wrap 404 header in center tag for alignment](https://github.com/notamitgamer/cdnV2/commit/a5fce16f2b9d347c3f5afad050ab302bc56bc29b) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #24 from notamitgamer/revert-23-restore-cobalt-fixed](https://github.com/notamitgamer/cdnV2/commit/eccdbfa4441d26d71d4745c8c1af8997e2a0ec09) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Revert "Restore YouTube/Cobalt mp3 download (fixed startup check)"](https://github.com/notamitgamer/cdnV2/commit/8e6ab1c9229e52cf8fb2f25e182513c2b8fb4edf) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #373 from dannie203/register-aki](https://github.com/free-domains/is-a.bot/commit/e1b6a8aa7e07b11fac013d2d2d20b68b1310ec38) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #382 from zurai02/patch-2](https://github.com/free-domains/is-a.bot/commit/423df2f2cf15105cfeb3bf2696dce1b745774156) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #380 from ccreatesaserver-afk/main](https://github.com/free-domains/is-a.bot/commit/3cbd4eddada016852916b2029017d860481c15c4) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #379 from sasindu999/patch-1](https://github.com/free-domains/is-a.bot/commit/aa5e6cc515beab7678edf0a463cbdbfb34e53ebc) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #370 from abesanets/update-me-domain](https://github.com/free-domains/is-a.bot/commit/58cd1735c5953620636a61ed92d24bd09451e2c4) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
