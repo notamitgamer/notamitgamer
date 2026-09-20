@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #373 from dannie203/register-aki](https://github.com/free-domains/is-a.bot/commit/e1b6a8aa7e07b11fac013d2d2d20b68b1310ec38) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #382 from zurai02/patch-2](https://github.com/free-domains/is-a.bot/commit/423df2f2cf15105cfeb3bf2696dce1b745774156) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #380 from ccreatesaserver-afk/main](https://github.com/free-domains/is-a.bot/commit/3cbd4eddada016852916b2029017d860481c15c4) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #379 from sasindu999/patch-1](https://github.com/free-domains/is-a.bot/commit/aa5e6cc515beab7678edf0a463cbdbfb34e53ebc) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #370 from abesanets/update-me-domain](https://github.com/free-domains/is-a.bot/commit/58cd1735c5953620636a61ed92d24bd09451e2c4) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [fixed](https://github.com/notamitgamer/bsc/commit/9730d0b740571bc9ddbb7c579f5a929b60bdb288) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [removed class](https://github.com/notamitgamer/bsc/commit/5bcc9df583ef34ab53d9868737bf98e1937a182e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [fix](https://github.com/notamitgamer/bsc/commit/63caee7a43a4f22775de2c37fa3d76996cd7fabd) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #130 from notamitgamer/edit-20260920-143035](https://github.com/notamitgamer/bsc/commit/4e6b7776108582a569256a20e0b3fbc498902d1c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [fixed](https://github.com/notamitgamer/bsc/commit/4bc971adcf56b66b9af97b857b10334e7e29e4c6) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
