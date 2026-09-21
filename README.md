@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #53248 from arturjoaodaros-dev/main](https://github.com/is-a-dev/register/commit/1035adb65fd60c8d47f87af27e402782f4139f42) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #53245 from soumyadeepsarkar-2004/add-soumyadeepsarkar](https://github.com/is-a-dev/register/commit/683cad19715dd9145c57cd8a3080ba1f03d2f1e6) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #53244 from yacineboudebouz/main](https://github.com/is-a-dev/register/commit/21e5313809692c483f5e544c71269e6bf6cfd381) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [take down it-interview.is-a.dev](https://github.com/is-a-dev/register/commit/10443e97d38b04387a9433bc70339af34b317301) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [fixed](https://github.com/notamitgamer/bsc/commit/9730d0b740571bc9ddbb7c579f5a929b60bdb288) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [removed class](https://github.com/notamitgamer/bsc/commit/5bcc9df583ef34ab53d9868737bf98e1937a182e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [fix](https://github.com/notamitgamer/bsc/commit/63caee7a43a4f22775de2c37fa3d76996cd7fabd) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #130 from notamitgamer/edit-20260920-143035](https://github.com/notamitgamer/bsc/commit/4e6b7776108582a569256a20e0b3fbc498902d1c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [fixed](https://github.com/notamitgamer/bsc/commit/4bc971adcf56b66b9af97b857b10334e7e29e4c6) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
