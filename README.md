@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #53248 from arturjoaodaros-dev/main](https://github.com/is-a-dev/register/commit/1035adb65fd60c8d47f87af27e402782f4139f42) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #53245 from soumyadeepsarkar-2004/add-soumyadeepsarkar](https://github.com/is-a-dev/register/commit/683cad19715dd9145c57cd8a3080ba1f03d2f1e6) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #53244 from yacineboudebouz/main](https://github.com/is-a-dev/register/commit/21e5313809692c483f5e544c71269e6bf6cfd381) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [take down it-interview.is-a.dev](https://github.com/is-a-dev/register/commit/10443e97d38b04387a9433bc70339af34b317301) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [fixed](https://github.com/notamitgamer/bsc/commit/9730d0b740571bc9ddbb7c579f5a929b60bdb288) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Rename index-1.html to index.html](https://github.com/notamitgamer/notamitgamer.github.io/commit/92333a54393a6ef2cfac5c207fc8fad49994d526) in [notamitgamer/notamitgamer.github.io](https://github.com/notamitgamer/notamitgamer.github.io)
+- [Add files via upload](https://github.com/notamitgamer/notamitgamer.github.io/commit/d10c605b6ed4b4c9f7b61c4119a34e138a62c08d) in [notamitgamer/notamitgamer.github.io](https://github.com/notamitgamer/notamitgamer.github.io)
+- [Delete index.html](https://github.com/notamitgamer/notamitgamer.github.io/commit/5464c62fab1e256ad358ab52e23791e481449e88) in [notamitgamer/notamitgamer.github.io](https://github.com/notamitgamer/notamitgamer.github.io)
+- [Implement confirmation dialog for portfolio access](https://github.com/notamitgamer/notamitgamer.github.io/commit/733a59f8958cb28f5c6290adbc44e07a14f7182a) in [notamitgamer/notamitgamer.github.io](https://github.com/notamitgamer/notamitgamer.github.io)
+- [Update personal information and portfolio links](https://github.com/notamitgamer/notamitgamer.github.io/commit/0ad45a7698611ac9af520a05754e2676ef74607d) in [notamitgamer/notamitgamer.github.io](https://github.com/notamitgamer/notamitgamer.github.io)
 <!-- END_RECENT_COMMITS -->
 
 ---
