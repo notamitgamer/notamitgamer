@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [fixed bugs](https://github.com/notamitgamer/my_obsidian/commit/ec40b9d83ccd3f67f52295855d69ebe30a098a48) in [notamitgamer/my_obsidian](https://github.com/notamitgamer/my_obsidian)
 - [Merge pull request #131 from notamitgamer/edit-20260923-212723](https://github.com/notamitgamer/bsc/commit/cc41d490781437ffe5e47ea061935a518ac46569) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [added the problem statements](https://github.com/notamitgamer/bsc/commit/8d1906683e88d8d0d92b3e3893b92edf401d9590) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [fixed sem2 home page](https://github.com/notamitgamer/bsc/commit/027b1bd1f1fbf45c7c021d43d4a3e1d95ff0f5d4) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [added all assignments. and sec programs](https://github.com/notamitgamer/bsc/commit/17223821ffa2fe216e2c901e0b3c5446266f2256) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated](https://github.com/notamitgamer/my_obsidian/commit/02a4b5cf9cc097fc38cf7a7ff0f6b880a113b9b7) in [notamitgamer/my_obsidian](https://github.com/notamitgamer/my_obsidian)
 <!-- END_RECENT_COMMITS -->
 
 ---
