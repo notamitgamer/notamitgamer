@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #133 from notamitgamer/fix/footer-mobile-cubes-and-edit-link](https://github.com/notamitgamer/bsc/commit/549fe90bf98c203917c187378f7231d4a4b2b430) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #132 from notamitgamer/feature/github-docs-inspired-footer](https://github.com/notamitgamer/bsc/commit/f5bc6a0602019f96244580ed5e14408196df2eca) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #53701 from BabuNfr666/main](https://github.com/is-a-dev/register/commit/b18aff83a71ace68e5200e5f4257027ebc7cd278) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #53700 from bharani47/main](https://github.com/is-a-dev/register/commit/35856058d0c3b95ba234a5ca361d77d057f7adbf) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #53691 from catchmeifucankidi/main](https://github.com/is-a-dev/register/commit/71d141c8eb64c1a14fc6bcaae63da5fe44581342) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Refactor DocFooterExtra.vue for improved UI and feedback](https://github.com/notamitgamer/bsc/commit/5eb704215068256c94c91e34f222a2fa2ce52686) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Enhance DocFooterExtra with cityscape and feedback updates](https://github.com/notamitgamer/bsc/commit/62fad1ecfe0a76103d1722c34faf49874fcc25ac) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor DocFooterExtra.vue for improved layout](https://github.com/notamitgamer/bsc/commit/bbfc766dbe29f779f02d813639805e162fd108e0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Update DocFooterExtra.vue](https://github.com/notamitgamer/bsc/commit/b2e39fc8f6b0b39bac19b9120c8d25e174395e1b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Update DocFooterExtra.vue](https://github.com/notamitgamer/bsc/commit/89f4e5bf0c1ec1d405a8ed5660f1f252e00dc3c3) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
