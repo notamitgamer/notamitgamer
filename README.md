@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [fixed bugs](https://github.com/notamitgamer/my_obsidian/commit/ec40b9d83ccd3f67f52295855d69ebe30a098a48) in [notamitgamer/my_obsidian](https://github.com/notamitgamer/my_obsidian)
-- [Merge pull request #131 from notamitgamer/edit-20260923-212723](https://github.com/notamitgamer/bsc/commit/cc41d490781437ffe5e47ea061935a518ac46569) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [added the problem statements](https://github.com/notamitgamer/bsc/commit/8d1906683e88d8d0d92b3e3893b92edf401d9590) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [fixed sem2 home page](https://github.com/notamitgamer/bsc/commit/027b1bd1f1fbf45c7c021d43d4a3e1d95ff0f5d4) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [added all assignments. and sec programs](https://github.com/notamitgamer/bsc/commit/17223821ffa2fe216e2c901e0b3c5446266f2256) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #133 from notamitgamer/fix/footer-mobile-cubes-and-edit-link](https://github.com/notamitgamer/bsc/commit/549fe90bf98c203917c187378f7231d4a4b2b430) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #132 from notamitgamer/feature/github-docs-inspired-footer](https://github.com/notamitgamer/bsc/commit/f5bc6a0602019f96244580ed5e14408196df2eca) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #53701 from BabuNfr666/main](https://github.com/is-a-dev/register/commit/b18aff83a71ace68e5200e5f4257027ebc7cd278) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #53700 from bharani47/main](https://github.com/is-a-dev/register/commit/35856058d0c3b95ba234a5ca361d77d057f7adbf) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #53691 from catchmeifucankidi/main](https://github.com/is-a-dev/register/commit/71d141c8eb64c1a14fc6bcaae63da5fe44581342) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
