@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Refactor DocFooterExtra.vue for improved UI and feedback](https://github.com/notamitgamer/bsc/commit/5eb704215068256c94c91e34f222a2fa2ce52686) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Enhance DocFooterExtra with cityscape and feedback updates](https://github.com/notamitgamer/bsc/commit/62fad1ecfe0a76103d1722c34faf49874fcc25ac) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Refactor DocFooterExtra.vue for improved layout](https://github.com/notamitgamer/bsc/commit/bbfc766dbe29f779f02d813639805e162fd108e0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Update DocFooterExtra.vue](https://github.com/notamitgamer/bsc/commit/b2e39fc8f6b0b39bac19b9120c8d25e174395e1b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Update DocFooterExtra.vue](https://github.com/notamitgamer/bsc/commit/89f4e5bf0c1ec1d405a8ed5660f1f252e00dc3c3) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Enhance DocFooterExtra with responsive image attributes](https://github.com/notamitgamer/bsc/commit/75b0dc6ec90edd4f945334ffa6329aad3959ad21) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor footer divider styles and comments](https://github.com/notamitgamer/bsc/commit/2cd45c51765d3d8d9294ca75b2604b1a276057e2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Update fmt.Println to print 'Goodbye World'](https://github.com/notamitgamer/bsc/commit/4b5b23b2d74500f1dd0763f3a75451b052bf250b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor DocFooterExtra.vue for improved structure [skip ci]](https://github.com/notamitgamer/bsc/commit/36c88c91b609106d0963f3cf2770c459fd74f530) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Replace SVG skyline with static image in footer](https://github.com/notamitgamer/bsc/commit/0670f805f8970a64413c7c46e94bc130fce0ecd5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
