@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #139 from notamitgamer/edit](https://github.com/notamitgamer/bsc/commit/7246e1d6878f0efb03128b8c966a89ce5a85f28f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Enhance DocFooterExtra with animations and layout updates](https://github.com/notamitgamer/bsc/commit/2917772edd838f9832f17ebd93a7bc15d8853f0c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #138 from notamitgamer/fix/footer-real-bottom-of-homepage](https://github.com/notamitgamer/bsc/commit/83f2d8f153e4b5ac096619738d1844522acfe5b0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #137 from notamitgamer/fix/homepage-footer-and-smart-edit-link](https://github.com/notamitgamer/bsc/commit/91499ebc2177b9d2a14b697bfdde146878530270) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Enhance DocFooterExtra with responsive image attributes](https://github.com/notamitgamer/bsc/commit/75b0dc6ec90edd4f945334ffa6329aad3959ad21) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor DocFooterExtra.vue for structure and style](https://github.com/notamitgamer/bsc/commit/82bb92c3975fb6eee58f81ec9180b5412d9d7add) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [updated svg](https://github.com/notamitgamer/bsc/commit/375d69d8043801e21cf0372e7da4b4b3a1ded121) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor DocFooterExtra.vue for layout and style improvements](https://github.com/notamitgamer/bsc/commit/c899ce69d1e493bce72bde63ac0c9d409acfd048) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Remove footer from VitePress configuration](https://github.com/notamitgamer/bsc/commit/c9eca74544375fe8f88907c52c518c9a6cf2674f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Enhance DocFooterExtra with responsive styles and is-home class](https://github.com/notamitgamer/bsc/commit/9762b1ae889bd9d0892351626aa5d2f779f6ed2a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
