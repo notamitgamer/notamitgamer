@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #139 from notamitgamer/edit](https://github.com/notamitgamer/bsc/commit/7246e1d6878f0efb03128b8c966a89ce5a85f28f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Enhance DocFooterExtra with animations and layout updates](https://github.com/notamitgamer/bsc/commit/2917772edd838f9832f17ebd93a7bc15d8853f0c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #138 from notamitgamer/fix/footer-real-bottom-of-homepage](https://github.com/notamitgamer/bsc/commit/83f2d8f153e4b5ac096619738d1844522acfe5b0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #137 from notamitgamer/fix/homepage-footer-and-smart-edit-link](https://github.com/notamitgamer/bsc/commit/91499ebc2177b9d2a14b697bfdde146878530270) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Enhance DocFooterExtra with responsive image attributes](https://github.com/notamitgamer/bsc/commit/75b0dc6ec90edd4f945334ffa6329aad3959ad21) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Refactor footer divider styles and comments](https://github.com/notamitgamer/bsc/commit/2cd45c51765d3d8d9294ca75b2604b1a276057e2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Update fmt.Println to print 'Goodbye World'](https://github.com/notamitgamer/bsc/commit/4b5b23b2d74500f1dd0763f3a75451b052bf250b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Refactor DocFooterExtra.vue for improved structure [skip ci]](https://github.com/notamitgamer/bsc/commit/36c88c91b609106d0963f3cf2770c459fd74f530) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Replace SVG skyline with static image in footer](https://github.com/notamitgamer/bsc/commit/0670f805f8970a64413c7c46e94bc130fce0ecd5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
