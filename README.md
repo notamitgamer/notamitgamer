@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Refactor DocFooterExtra.vue for structure and style](https://github.com/notamitgamer/bsc/commit/82bb92c3975fb6eee58f81ec9180b5412d9d7add) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [updated svg](https://github.com/notamitgamer/bsc/commit/375d69d8043801e21cf0372e7da4b4b3a1ded121) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Refactor DocFooterExtra.vue for layout and style improvements](https://github.com/notamitgamer/bsc/commit/c899ce69d1e493bce72bde63ac0c9d409acfd048) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Remove footer from VitePress configuration](https://github.com/notamitgamer/bsc/commit/c9eca74544375fe8f88907c52c518c9a6cf2674f) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Enhance DocFooterExtra with responsive styles and is-home class](https://github.com/notamitgamer/bsc/commit/9762b1ae889bd9d0892351626aa5d2f779f6ed2a) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #140 from notamitgamer/edit-20260928-200201](https://github.com/notamitgamer/bsc/commit/a892535d1c5de22f927d5320ac53056205fee235) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [completed the asignment](https://github.com/notamitgamer/bsc/commit/e2d86da213d7d151db21d82146485e3a1f57acdf) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #403 from varma1221/main](https://github.com/free-domains/is-a.bot/commit/cbf9c00d0784bbe0d6e3b452114cbc564f15e68d) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #416 from karamalsopeh-netizen/main](https://github.com/free-domains/is-a.bot/commit/d9d24c19fec4fd3ae70616c339f61f1313a71e07) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #411 from eventore4567/main](https://github.com/free-domains/is-a.bot/commit/9d66fe72eaa16da969e280b739a8998121797e13) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
