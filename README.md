@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #26 from notamitgamer/ui/corporate-simple-frontend](https://github.com/notamitgamer/cdnV2/commit/4bcfcc2fa99ea0ef92e30b9a2b4a54259522a41d) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Delete domains/uploads.amit.json](https://github.com/is-a-dev/register/commit/9feb8b070e24327fce583c4d1996130960fa7fbd) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Delete domains/raw.usercontent.amit.json](https://github.com/is-a-dev/register/commit/88026bcd161a36c1c95c3f2727859e93c17d4356) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Delete domains/usercontent.amit.json](https://github.com/is-a-dev/register/commit/c3ece849a0a1865b6732518519e5dcc98f7c4198) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Delete domains/assets.amit.json](https://github.com/is-a-dev/register/commit/6924dc93a04cc8a36710b22c0b2c2b326c4637fd) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Delete domains/test.amit.json](https://github.com/is-a-dev/register/commit/891089eedd56ac2dccdc05fd0e701466b619f915) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
