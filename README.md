@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #140 from notamitgamer/edit-20260928-200201](https://github.com/notamitgamer/bsc/commit/a892535d1c5de22f927d5320ac53056205fee235) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [completed the asignment](https://github.com/notamitgamer/bsc/commit/e2d86da213d7d151db21d82146485e3a1f57acdf) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #403 from varma1221/main](https://github.com/free-domains/is-a.bot/commit/cbf9c00d0784bbe0d6e3b452114cbc564f15e68d) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #416 from karamalsopeh-netizen/main](https://github.com/free-domains/is-a.bot/commit/d9d24c19fec4fd3ae70616c339f61f1313a71e07) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #411 from eventore4567/main](https://github.com/free-domains/is-a.bot/commit/9d66fe72eaa16da969e280b739a8998121797e13) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Delete domains/uploads.amit.json](https://github.com/is-a-dev/register/commit/9feb8b070e24327fce583c4d1996130960fa7fbd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Delete domains/raw.usercontent.amit.json](https://github.com/is-a-dev/register/commit/88026bcd161a36c1c95c3f2727859e93c17d4356) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Delete domains/usercontent.amit.json](https://github.com/is-a-dev/register/commit/c3ece849a0a1865b6732518519e5dcc98f7c4198) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Delete domains/assets.amit.json](https://github.com/is-a-dev/register/commit/6924dc93a04cc8a36710b22c0b2c2b326c4637fd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Delete domains/test.amit.json](https://github.com/is-a-dev/register/commit/891089eedd56ac2dccdc05fd0e701466b619f915) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
