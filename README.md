@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #141 from notamitgamer/design/new-logo](https://github.com/notamitgamer/bsc/commit/1872533f1e9dc122d6eff76fd685e69ed1961f04) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #27 from notamitgamer/design/new-logo](https://github.com/notamitgamer/cdnV2/commit/9afeb3f01d277d39ec93ff167f99150eaedb5e1b) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #26 from notamitgamer/ui/corporate-simple-frontend](https://github.com/notamitgamer/cdnV2/commit/4bcfcc2fa99ea0ef92e30b9a2b4a54259522a41d) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Delete domains/uploads.amit.json](https://github.com/is-a-dev/register/commit/9feb8b070e24327fce583c4d1996130960fa7fbd) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Delete domains/raw.usercontent.amit.json](https://github.com/is-a-dev/register/commit/88026bcd161a36c1c95c3f2727859e93c17d4356) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #6 from notamitgamer/mintlify-migration](https://github.com/notamitgamer/docs/commit/6ff0682e29905eb460cab7e807d753654bab1c56) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Merge pull request #5 from notamitgamer/mintlify-migration](https://github.com/notamitgamer/docs/commit/89d05aced5698dbd19c6b8a332597c253706c38e) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Merge pull request #4 from notamitgamer/mintlify-migration](https://github.com/notamitgamer/docs/commit/b0eb08f1851f059e1442cf69569f5de6da297d3b) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Merge pull request #3 from notamitgamer/mintlify-migration](https://github.com/notamitgamer/docs/commit/780c29b658dcef71f132db70e7c9758729ef977d) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Merge pull request #2 from notamitgamer/mintlify-migration](https://github.com/notamitgamer/docs/commit/1ff4947b12f95a01c1f53e0fa97de4a9a4f530b6) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 <!-- END_RECENT_COMMITS -->
 
 ---
