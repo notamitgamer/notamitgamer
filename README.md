@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [added copyright](https://github.com/notamitgamer/docs/commit/8b841e886e5a60206f839543cd8b98414b86d534) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 - [Merge pull request #7 from notamitgamer/mintlify-migration](https://github.com/notamitgamer/docs/commit/34bec80c3890cbe8ee6e23f421add4bd0d63a5a2) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 - [Merge pull request #6 from notamitgamer/mintlify-migration](https://github.com/notamitgamer/docs/commit/6ff0682e29905eb460cab7e807d753654bab1c56) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 - [Merge pull request #5 from notamitgamer/mintlify-migration](https://github.com/notamitgamer/docs/commit/89d05aced5698dbd19c6b8a332597c253706c38e) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 - [Merge pull request #4 from notamitgamer/mintlify-migration](https://github.com/notamitgamer/docs/commit/b0eb08f1851f059e1442cf69569f5de6da297d3b) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Merge pull request #3 from notamitgamer/mintlify-migration](https://github.com/notamitgamer/docs/commit/780c29b658dcef71f132db70e7c9758729ef977d) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 <!-- END_RECENT_COMMITS -->
 
 ---
