@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #28 from notamitgamer/Fix](https://github.com/notamitgamer/cdnV2/commit/c8ce8fc0851ed441edbcabb8a4674bd44e869142) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Integrate upload guard functionality into main.py](https://github.com/notamitgamer/cdnV2/commit/95cc907ed6255cbf1981d301a946869ccc3962b7) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Implement upload safety checks in upload_guard.py](https://github.com/notamitgamer/cdnV2/commit/c80b1a977651b7eaef243acf6a48974ec596e4ef) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [added copyright](https://github.com/notamitgamer/docs/commit/8b841e886e5a60206f839543cd8b98414b86d534) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Merge pull request #7 from notamitgamer/mintlify-migration](https://github.com/notamitgamer/docs/commit/34bec80c3890cbe8ee6e23f421add4bd0d63a5a2) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Fix TRUST_CF_CONNECTING_IP default value and add IP debug endpoint](https://github.com/notamitgamer/cdnV2/commit/68c61e717bdb6ae057a8bf1078dd68b7b8c2089e) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Implement remote logging with encryption for uploads](https://github.com/notamitgamer/cdnV2/commit/fc9998758fce550a552748a4f6f83ea52a875936) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Update hidden prefixes to include '_logs'](https://github.com/notamitgamer/cdnV2/commit/1b7d770ef28d5df5f7b6cee299b4a174a456fc9d) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Implement admin UI for upload log management](https://github.com/notamitgamer/cdnV2/commit/33b36d631c6b7af13939fc4c768f2d7c247401fa) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Enhance upload guard with VPN and logging features](https://github.com/notamitgamer/cdnV2/commit/274c04e7c089d869bd3566e3b21aeb9cf4ed1a4c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
