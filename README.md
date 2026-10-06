@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Fix TRUST_CF_CONNECTING_IP default value and add IP debug endpoint](https://github.com/notamitgamer/cdnV2/commit/68c61e717bdb6ae057a8bf1078dd68b7b8c2089e) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Implement remote logging with encryption for uploads](https://github.com/notamitgamer/cdnV2/commit/fc9998758fce550a552748a4f6f83ea52a875936) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Update hidden prefixes to include '_logs'](https://github.com/notamitgamer/cdnV2/commit/1b7d770ef28d5df5f7b6cee299b4a174a456fc9d) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Implement admin UI for upload log management](https://github.com/notamitgamer/cdnV2/commit/33b36d631c6b7af13939fc4c768f2d7c247401fa) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Enhance upload guard with VPN and logging features](https://github.com/notamitgamer/cdnV2/commit/274c04e7c089d869bd3566e3b21aeb9cf4ed1a4c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #29 from notamitgamer/migration](https://github.com/notamitgamer/cdnV2/commit/f5afc3459d8f26fe2a23df9421fb1229f25af35a) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Update upload guard to use bucket URL and auth headers](https://github.com/notamitgamer/cdnV2/commit/62321f14a3aade5cb5fbb73a417b753296b9a918) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Refactor URL shortening to use new storage methods](https://github.com/notamitgamer/cdnV2/commit/030954f698e256154339e2c4629261103cc06aa5) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Refactor Hugging Face URL handling and auth headers](https://github.com/notamitgamer/cdnV2/commit/7fa82dbd011a4379673c2795b4052239cd5945fd) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Refactor storage to use Hugging Face Storage Bucket](https://github.com/notamitgamer/cdnV2/commit/20281f9863e01bbf87659e5aa2025e85cc305ab9) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
