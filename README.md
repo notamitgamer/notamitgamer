@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #31 from YOCRRZ224/patch-1](https://github.com/notamitgamer/cdnV2/commit/e93ad33e1df77d90d69ecbad41d345d8148b4bc1) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #29 from notamitgamer/migration](https://github.com/notamitgamer/cdnV2/commit/f5afc3459d8f26fe2a23df9421fb1229f25af35a) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Update upload guard to use bucket URL and auth headers](https://github.com/notamitgamer/cdnV2/commit/62321f14a3aade5cb5fbb73a417b753296b9a918) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Refactor URL shortening to use new storage methods](https://github.com/notamitgamer/cdnV2/commit/030954f698e256154339e2c4629261103cc06aa5) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Refactor Hugging Face URL handling and auth headers](https://github.com/notamitgamer/cdnV2/commit/7fa82dbd011a4379673c2795b4052239cd5945fd) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #144 from notamitgamer/Fix](https://github.com/notamitgamer/bsc/commit/50bb017a9fb5e5846ad3d49da68d79d74706e0e0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor insert procedure for double linked list](https://github.com/notamitgamer/bsc/commit/ca3920b5e9d530808a187558bdebdd19f69967d2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Fix algorithm syntax and improve clarity](https://github.com/notamitgamer/bsc/commit/e6070ccf580804362ec7447955d3b1a23ad1a76b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Fix pop procedure syntax and return value](https://github.com/notamitgamer/bsc/commit/b88ffd59d45616d17a48a575e8ea7da039e523fb) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Refactor push procedure for stack with error handling](https://github.com/notamitgamer/bsc/commit/227071161485e3985d181a134e1300ed64f25b2e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
