@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #33 from notamitgamer/rate-limit-200mb](https://github.com/notamitgamer/cdnV2/commit/e1e7c17a8e9887ac86bba414f2194fd34e4bca76) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #32 from notamitgamer/docs-update-sync](https://github.com/notamitgamer/cdnV2/commit/36b3d0ff05af28e3238803be7310506298247986) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Merge pull request #144 from notamitgamer/Fix](https://github.com/notamitgamer/bsc/commit/50bb017a9fb5e5846ad3d49da68d79d74706e0e0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Refactor insert procedure for double linked list](https://github.com/notamitgamer/bsc/commit/ca3920b5e9d530808a187558bdebdd19f69967d2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Fix algorithm syntax and improve clarity](https://github.com/notamitgamer/bsc/commit/e6070ccf580804362ec7447955d3b1a23ad1a76b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Fix pop procedure syntax and return value](https://github.com/notamitgamer/bsc/commit/b88ffd59d45616d17a48a575e8ea7da039e523fb) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Refactor push procedure for stack with error handling](https://github.com/notamitgamer/bsc/commit/227071161485e3985d181a134e1300ed64f25b2e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
