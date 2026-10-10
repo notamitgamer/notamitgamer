@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Update logo size in README](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/efa994c8b6b1786cb80a6c3fb9ab43f3383e5908) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Revise README for better clarity and formatting](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/a50a485f9bcfe540f3cade1a0c8566b771e597a6) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Merge pull request #33 from notamitgamer/rate-limit-200mb](https://github.com/notamitgamer/cdnV2/commit/e1e7c17a8e9887ac86bba414f2194fd34e4bca76) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #32 from notamitgamer/docs-update-sync](https://github.com/notamitgamer/cdnV2/commit/36b3d0ff05af28e3238803be7310506298247986) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #144 from notamitgamer/Fix](https://github.com/notamitgamer/bsc/commit/50bb017a9fb5e5846ad3d49da68d79d74706e0e0) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #55417 from reyespinosa1996/main](https://github.com/is-a-dev/register/commit/8b7d194061dc8da4eb6022255cfc83b3c0b672fc) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #55414 from jyothi-basu/main](https://github.com/is-a-dev/register/commit/9c9ed947aefb43222f6b76697ecd7c1fc8298919) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #55409 from alfathredoo/main](https://github.com/is-a-dev/register/commit/66f86b0d00f40c3e8375098db8904577214f472b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #55385 from mahunaromaric/patch-4](https://github.com/is-a-dev/register/commit/37a79c4c7e8f3dba54108348ade4530369f30388) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Delete test.html](https://github.com/notamitgamer/cdnV2/commit/26ba6ecb5502b0c3459147f692c85aa8de94c174) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
