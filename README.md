@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #55417 from reyespinosa1996/main](https://github.com/is-a-dev/register/commit/8b7d194061dc8da4eb6022255cfc83b3c0b672fc) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #55414 from jyothi-basu/main](https://github.com/is-a-dev/register/commit/9c9ed947aefb43222f6b76697ecd7c1fc8298919) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #55409 from alfathredoo/main](https://github.com/is-a-dev/register/commit/66f86b0d00f40c3e8375098db8904577214f472b) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #55385 from mahunaromaric/patch-4](https://github.com/is-a-dev/register/commit/37a79c4c7e8f3dba54108348ade4530369f30388) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Delete test.html](https://github.com/notamitgamer/cdnV2/commit/26ba6ecb5502b0c3459147f692c85aa8de94c174) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #40 from notamitgamer/dependabot/pip/huggingface-hub-gte-2.1.1](https://github.com/notamitgamer/cdnV2/commit/f7a75b7f26583b457f2d518f662d5aec66daea5d) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #39 from notamitgamer/dependabot/github_actions/actions/checkout-7](https://github.com/notamitgamer/cdnV2/commit/90ad8470a35bd5ad03d0745afba13f338e2c9970) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #38 from notamitgamer/dependabot/docker/python-3.14-slim-bookworm](https://github.com/notamitgamer/cdnV2/commit/102fc4d7072a5fad0156ec61181a385ee24d443e) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #37 from notamitgamer/dependabot/github_actions/actions/setup-python-7](https://github.com/notamitgamer/cdnV2/commit/f228efdf93625a133dab093dfb7fa53fe012a4c4) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #36 from notamitgamer/open-source-readiness](https://github.com/notamitgamer/cdnV2/commit/4e18fe388a6e17692c87f857ac6cefe312ca94a7) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
