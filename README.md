@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #478 from Darkedgeblood/main](https://github.com/free-domains/is-a.bot/commit/ba7b4e52f530c3cf6bff49201e44fe30e62ad7ad) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #474 from aldiaditiya115/add-neum](https://github.com/free-domains/is-a.bot/commit/1bab9f9ae7023d1c28fbc914f976f6fffb39bdd1) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #464 from mysticalpengu/main](https://github.com/free-domains/is-a.bot/commit/7a513b5a8e6024c99c6fbf685c18dfeb2dc0d270) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #454 from yousj666/add-yousj-domain](https://github.com/free-domains/is-a.bot/commit/ab45b9404ee219a3b4e2b218e9219b86a1eb7e1b) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #452 from 251126-com/main](https://github.com/free-domains/is-a.bot/commit/69354d753e6bdbd8e3bbec27f12ce2f92a02be70) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Add styles for repo header, search, and buttons](https://github.com/notamitgamer/git-mirror/commit/6e7749cf4110b10a141096132bb5bd0a300a95d0) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Enhance build script and HTML output for repositories](https://github.com/notamitgamer/git-mirror/commit/f3ea79187061fd7ff13b5800603cebc1da8ac279) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Modify GitHub Actions workflow for scheduling and checks](https://github.com/notamitgamer/git-mirror/commit/15fe0dc0bfef109ce12fe228085f59ce2f664d08) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Merge pull request #43 from notamitgamer/ui-overhaul](https://github.com/notamitgamer/cdnV2/commit/a955b63c439353efaf5df52dc2a8ac435b0bcae6) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Implement HTTP clone support for GitHub repos](https://github.com/notamitgamer/git-mirror/commit/f599e0410416dc9278a8f7e79ff22e6bbda43d3e) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
 <!-- END_RECENT_COMMITS -->
 
 ---
