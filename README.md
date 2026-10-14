@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Add styles for repo header, search, and buttons](https://github.com/notamitgamer/git-mirror/commit/6e7749cf4110b10a141096132bb5bd0a300a95d0) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Enhance build script and HTML output for repositories](https://github.com/notamitgamer/git-mirror/commit/f3ea79187061fd7ff13b5800603cebc1da8ac279) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Modify GitHub Actions workflow for scheduling and checks](https://github.com/notamitgamer/git-mirror/commit/15fe0dc0bfef109ce12fe228085f59ce2f664d08) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Merge pull request #43 from notamitgamer/ui-overhaul](https://github.com/notamitgamer/cdnV2/commit/a955b63c439353efaf5df52dc2a8ac435b0bcae6) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Implement HTTP clone support for GitHub repos](https://github.com/notamitgamer/git-mirror/commit/f599e0410416dc9278a8f7e79ff22e6bbda43d3e) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Merge pull request #3 from notamitgamer/fix/cache-bust-assets](https://github.com/notamitgamer/git-mirror/commit/b4f18f25d77d9f7e228e91df97c44ffde8b84fb5) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Merge pull request #2 from notamitgamer/ui/redesign-prefetch-clone](https://github.com/notamitgamer/git-mirror/commit/8411a3dd3f8c8ca406109769cdfb57b7d6c1afea) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Merge pull request #523 from haiere/main](https://github.com/free-domains/is-a.bot/commit/69716b035db80b51bf515efb8954eeaac4fdd260) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #521 from Jalkhov/add-jalkhov-pages-challenge](https://github.com/free-domains/is-a.bot/commit/391170d85c795765e32febaf5302d2a19a23f3f3) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #56510 from edrischhawniwala/main](https://github.com/is-a-dev/register/commit/c046584ed38385009df79921695be49d0e2e73b0) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
