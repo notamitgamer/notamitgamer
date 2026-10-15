@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #7 from notamitgamer/chore/remove-mirror-clone-theme](https://github.com/notamitgamer/git-mirror/commit/f009325ddee24e19110cbcd078f461eb85e5f84b) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Merge pull request #6 from notamitgamer/feat/github-clone-remove-activity](https://github.com/notamitgamer/git-mirror/commit/284532bcdc91b09bbbf0c9ab1aa6086ca57c864e) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Merge pull request #5 from notamitgamer/fix/mobile-header-search-scope](https://github.com/notamitgamer/git-mirror/commit/de1c5fd41030a8a734ae0d804d34d47512765b65) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Merge pull request #4 from notamitgamer/feat/http-clone](https://github.com/notamitgamer/git-mirror/commit/deabf3606ed39fc53973afcfde56c38aa58b2dc9) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
 - [Merge pull request #3 from notamitgamer/fix/cache-bust-assets](https://github.com/notamitgamer/git-mirror/commit/b4f18f25d77d9f7e228e91df97c44ffde8b84fb5) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Merge pull request #2 from notamitgamer/ui/redesign-prefetch-clone](https://github.com/notamitgamer/git-mirror/commit/8411a3dd3f8c8ca406109769cdfb57b7d6c1afea) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Merge pull request #523 from haiere/main](https://github.com/free-domains/is-a.bot/commit/69716b035db80b51bf515efb8954eeaac4fdd260) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #521 from Jalkhov/add-jalkhov-pages-challenge](https://github.com/free-domains/is-a.bot/commit/391170d85c795765e32febaf5302d2a19a23f3f3) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #56510 from edrischhawniwala/main](https://github.com/is-a-dev/register/commit/c046584ed38385009df79921695be49d0e2e73b0) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
