@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #7 from notamitgamer/chore/remove-mirror-clone-theme](https://github.com/notamitgamer/git-mirror/commit/f009325ddee24e19110cbcd078f461eb85e5f84b) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Merge pull request #6 from notamitgamer/feat/github-clone-remove-activity](https://github.com/notamitgamer/git-mirror/commit/284532bcdc91b09bbbf0c9ab1aa6086ca57c864e) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Merge pull request #5 from notamitgamer/fix/mobile-header-search-scope](https://github.com/notamitgamer/git-mirror/commit/de1c5fd41030a8a734ae0d804d34d47512765b65) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Merge pull request #4 from notamitgamer/feat/http-clone](https://github.com/notamitgamer/git-mirror/commit/deabf3606ed39fc53973afcfde56c38aa58b2dc9) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Merge pull request #3 from notamitgamer/fix/cache-bust-assets](https://github.com/notamitgamer/git-mirror/commit/b4f18f25d77d9f7e228e91df97c44ffde8b84fb5) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+- [Merge pull request #531 from Fikri-Rouzan/main](https://github.com/free-domains/is-a.bot/commit/34719cffa7fcc21d284cba3339d2c16b3836b4cd) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #529 from Darkedgeblood/github-pages-challenge-ifaz-clean](https://github.com/free-domains/is-a.bot/commit/94dda2214c6bdd10b60e65bf02bdf17890f58451) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #528 from aldiaditiya115/add-dkim](https://github.com/free-domains/is-a.bot/commit/7614732185fac6cd398f4c0c742b1a09619f2605) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #526 from djoudad292/main](https://github.com/free-domains/is-a.bot/commit/f82a0a25b8d0fe7c7665e1dc2167b616abf94b7d) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #525 from onmentek/add-dot-is-a-bot](https://github.com/free-domains/is-a.bot/commit/b671bd69e8137b452ab7a2b59b4811df40114ab7) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
