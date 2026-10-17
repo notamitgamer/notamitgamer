@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #9 from notamitgamer/docs/remove-em-dashes](https://github.com/notamitgamer/docs/commit/e7daa0eab52c313f32f4a24690d9e560e1d270b0) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Merge pull request #8 from notamitgamer/docs/frontend-split-layout](https://github.com/notamitgamer/docs/commit/8f2ceb70314d59e1a572f2035f2c56625e6efe67) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 - [Merge pull request #531 from Fikri-Rouzan/main](https://github.com/free-domains/is-a.bot/commit/34719cffa7fcc21d284cba3339d2c16b3836b4cd) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 - [Merge pull request #529 from Darkedgeblood/github-pages-challenge-ifaz-clean](https://github.com/free-domains/is-a.bot/commit/94dda2214c6bdd10b60e65bf02bdf17890f58451) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 - [Merge pull request #528 from aldiaditiya115/add-dkim](https://github.com/free-domains/is-a.bot/commit/7614732185fac6cd398f4c0c742b1a09619f2605) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #526 from djoudad292/main](https://github.com/free-domains/is-a.bot/commit/f82a0a25b8d0fe7c7665e1dc2167b616abf94b7d) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #525 from onmentek/add-dot-is-a-bot](https://github.com/free-domains/is-a.bot/commit/b671bd69e8137b452ab7a2b59b4811df40114ab7) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
