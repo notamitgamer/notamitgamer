@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Add caddy.amit.json configuration file](https://github.com/is-a-dev/register/commit/f604f69afccd1eebf0ac52225a28bfeba7e3b5e7) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Update disclaimer with responsible usage note](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/7eb783aae28fd52a00f925647a88cfded425249c) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 - [Merge pull request #10 from notamitgamer/docs/changelog-asset-paths-fix](https://github.com/notamitgamer/docs/commit/35a6512fabd36b5a8b3466baa8ce98d038522072) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 - [Workflow: leave symlinks out of the CDN payload (server rejects them)](https://github.com/notamitgamer/dotfiles/commit/04361ea20ddf6178543bfdf0f4ef4374a55f4626) in [notamitgamer/dotfiles](https://github.com/notamitgamer/dotfiles)
 - [Initial dotfiles: Fedora to Arch restore kit](https://github.com/notamitgamer/dotfiles/commit/028325428d97ac13a45145a9359ef1b333130d35) in [notamitgamer/dotfiles](https://github.com/notamitgamer/dotfiles)
-- [Merge pull request #9 from notamitgamer/docs/remove-em-dashes](https://github.com/notamitgamer/docs/commit/e7daa0eab52c313f32f4a24690d9e560e1d270b0) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 <!-- END_RECENT_COMMITS -->
 
 ---
