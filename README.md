@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #48 from notamitgamer/fix/anubis-cloudflare-weight](https://github.com/notamitgamer/cdnV2/commit/9e41e7835052cc4181356154ff73bb17849e7c57) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #47 from notamitgamer/fix/anubis-real-ip](https://github.com/notamitgamer/cdnV2/commit/6f957f26de76ba7114427ee3ded6417a3833adf4) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #46 from notamitgamer/fix/anubis-key-whitespace](https://github.com/notamitgamer/cdnV2/commit/4ba93dae40f704497e29c2d7edb80ebc68c21c7a) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #45 from notamitgamer/feat/anubis](https://github.com/notamitgamer/cdnV2/commit/0553e52a92d94cb8ec52b15f7b1e29f8949a7495) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Add caddy.amit.json configuration file](https://github.com/is-a-dev/register/commit/f604f69afccd1eebf0ac52225a28bfeba7e3b5e7) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Update disclaimer with responsible usage note](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/7eb783aae28fd52a00f925647a88cfded425249c) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Merge pull request #10 from notamitgamer/docs/changelog-asset-paths-fix](https://github.com/notamitgamer/docs/commit/35a6512fabd36b5a8b3466baa8ce98d038522072) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Workflow: leave symlinks out of the CDN payload (server rejects them)](https://github.com/notamitgamer/dotfiles/commit/04361ea20ddf6178543bfdf0f4ef4374a55f4626) in [notamitgamer/dotfiles](https://github.com/notamitgamer/dotfiles)
-- [Initial dotfiles: Fedora to Arch restore kit](https://github.com/notamitgamer/dotfiles/commit/028325428d97ac13a45145a9359ef1b333130d35) in [notamitgamer/dotfiles](https://github.com/notamitgamer/dotfiles)
 <!-- END_RECENT_COMMITS -->
 
 ---
