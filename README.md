@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #57087 from MaskDuck/main](https://github.com/is-a-dev/register/commit/90a4ff372f8dbd3f52ced18b3201dab6714cb76c) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57087 from MaskDuck/main](https://github.com/dearlipu/register/commit/90a4ff372f8dbd3f52ced18b3201dab6714cb76c) in [dearlipu/register](https://github.com/dearlipu/register)
-- [Merge pull request #57012 from msrofficial/main](https://github.com/is-a-dev/register/commit/55d2e6772d8c86e302e728e1258ee0f45d522e4d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57012 from msrofficial/main](https://github.com/dearlipu/register/commit/55d2e6772d8c86e302e728e1258ee0f45d522e4d) in [dearlipu/register](https://github.com/dearlipu/register)
-- [Merge pull request #48 from notamitgamer/fix/anubis-cloudflare-weight](https://github.com/notamitgamer/cdnV2/commit/9e41e7835052cc4181356154ff73bb17849e7c57) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #565 from djiu034/main](https://github.com/free-domains/is-a.bot/commit/0ca81baded79b8aa04db8112d20d8a15822ed3c2) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #566 from g4zwrr/main](https://github.com/free-domains/is-a.bot/commit/f6461cfa147f02f728fc512cc8252191e242ac9f) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #567 from Benjirooooo/main](https://github.com/free-domains/is-a.bot/commit/3380c6f051284c75547efb4606b0d3851119fc8e) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #57254 from zurai02/main](https://github.com/is-a-dev/register/commit/309a92f46882dad208236557041aec8bf2c6beea) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57120 from shiza691337/main](https://github.com/is-a-dev/register/commit/7f8c26fd6bf3e3c2520ae7db38ab43720ea2129e) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
