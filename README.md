@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #565 from djiu034/main](https://github.com/free-domains/is-a.bot/commit/0ca81baded79b8aa04db8112d20d8a15822ed3c2) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #566 from g4zwrr/main](https://github.com/free-domains/is-a.bot/commit/f6461cfa147f02f728fc512cc8252191e242ac9f) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #567 from Benjirooooo/main](https://github.com/free-domains/is-a.bot/commit/3380c6f051284c75547efb4606b0d3851119fc8e) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #57254 from zurai02/main](https://github.com/is-a-dev/register/commit/309a92f46882dad208236557041aec8bf2c6beea) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57120 from shiza691337/main](https://github.com/is-a-dev/register/commit/7f8c26fd6bf3e3c2520ae7db38ab43720ea2129e) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #13 from notamitgamer/docs/borderless-cards](https://github.com/notamitgamer/docs/commit/265eebfa747d5a7515977b6bdd0c5318b5211ec4) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Merge pull request #12 from notamitgamer/docs/compact-project-cards](https://github.com/notamitgamer/docs/commit/164844a4b99f770c5f52e388d402890794683db9) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Merge pull request #11 from notamitgamer/docs/compact-project-cards](https://github.com/notamitgamer/docs/commit/3f5a909bc5ada12e9dc69a1c9d5b3f58d204038d) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Merge pull request #145 from notamitgamer/add-algo-063](https://github.com/notamitgamer/bsc/commit/681009bce6ba524f6afc89eb95973beadd492d40) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Add algo_089: hash insert separate chaining](https://github.com/notamitgamer/bsc/commit/b4defd9f0bf94c47afcae0dac402db4a3f81997d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
