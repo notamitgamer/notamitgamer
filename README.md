@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #13 from notamitgamer/docs/borderless-cards](https://github.com/notamitgamer/docs/commit/265eebfa747d5a7515977b6bdd0c5318b5211ec4) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Merge pull request #12 from notamitgamer/docs/compact-project-cards](https://github.com/notamitgamer/docs/commit/164844a4b99f770c5f52e388d402890794683db9) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Merge pull request #11 from notamitgamer/docs/compact-project-cards](https://github.com/notamitgamer/docs/commit/3f5a909bc5ada12e9dc69a1c9d5b3f58d204038d) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Merge pull request #145 from notamitgamer/add-algo-063](https://github.com/notamitgamer/bsc/commit/681009bce6ba524f6afc89eb95973beadd492d40) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Add algo_089: hash insert separate chaining](https://github.com/notamitgamer/bsc/commit/b4defd9f0bf94c47afcae0dac402db4a3f81997d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #57512 from djoudad292/fix/spf-lookup-limit](https://github.com/is-a-dev/register/commit/e9bb34883ce4413a012e2c44bbe9b9274f545d52) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57505 from aray6000/patch-12](https://github.com/is-a-dev/register/commit/374ccbfc53d812fc7b61de11294f9f16dc533fd7) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Remove email fields from JSON examples across multiple guides (#129)](https://github.com/is-a-dev/docs/commit/5a42f1f0dfec9ef5a3c9f9d0b0b5c6bec7b62b92) in [is-a-dev/docs](https://github.com/is-a-dev/docs)
+- [Remove email fields from JSON examples across multiple guides (#128)](https://github.com/is-a-dev/docs/commit/4ae6a86660e765469645c37bcb4b26e54ecc83db) in [is-a-dev/docs](https://github.com/is-a-dev/docs)
+- [Merge pull request #57459 from promaruf/main](https://github.com/is-a-dev/register/commit/b526cf438b8ba8a1dc8802a1055e76f986d22454) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
