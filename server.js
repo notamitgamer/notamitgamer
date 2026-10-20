@@ -1,12 +1,45 @@
 const express = require('express');
 const { Resend } = require('resend');
 const { Webhook } = require('svix');
+const { simpleParser } = require('mailparser');
 
 const app = express();
 const port = process.env.PORT || 3000;
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 const webhookSecret = process.env.RESEND_WEBHOOK_SECRET;
+
+const escapeHtml = (value) =>
+  String(value ?? '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+
+// Pull a display name out of `"Jane Doe" <jane@example.com>`; fall back to the address.
+// The result is stripped of characters that could break a From header.
+const displayNameOf = (from) => {
+  const match = String(from || '').match(/^\s*(?:"([^"]*)"|([^<]+?))\s*<([^>]+)>\s*$/);
+  const name = match ? (match[1] || match[2] || match[3]) : String(from || 'Unknown sender');
+  return name.replace(/[<>"\\\r\n]/g, '').trim() || 'Unknown sender';
+};
+
+// Resend's email.received webhook only carries metadata (no body, headers or
+// attachments). Fetch the message itself via the Received Emails API.
+const fetchFullEmail = async (emailId) => {
+  const { data: received, error } = await resend.emails.receiving.get(emailId);
+  if (error) throw new Error(`Could not retrieve received email: ${error.message}`);
+
+  const downloadUrl = received?.raw?.download_url;
+  if (!downloadUrl) throw new Error('Received email has no raw download URL');
+
+  const rawResponse = await fetch(downloadUrl);
+  if (!rawResponse.ok) throw new Error(`Raw email download failed (${rawResponse.status})`);
+
+  const raw = Buffer.from(await rawResponse.arrayBuffer());
+  return simpleParser(raw, { skipImageLinks: true });
+};
 
 app.post('/api/incoming', express.text({ type: 'application/json' }), async (req, res) => {
   try {
@@ -46,8 +79,9 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
     const personalGmail = process.env.PERSONAL_GMAIL; 
     const forwardingAddress = process.env.FORWARDING_BOT_ADDRESS; 
 
-    // Premium Adaptive Google-style HTML Template
-    const notificationHtml = `
+    // Premium Adaptive Google-style HTML Template.
+    // Only used as a fallback now, if the full message cannot be fetched.
+    const buildNotificationHtml = () => `
 <!DOCTYPE html>
 <html lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
@@ -130,12 +164,12 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
               
               <div style="margin-bottom: 24px;">
                 <span class="text-accent" style="display: block; font-family: Roboto, Arial, sans-serif; font-size: 11px; font-weight: 500; color: #0B57D0; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 6px;">Sender Email ID</span>
-                <span class="text-primary" style="display: block; font-family: Roboto, Arial, sans-serif; font-size: 16px; font-weight: 400; color: #1F1F1F; word-break: break-all; line-height: 1.4;">${originalSender}</span>
+                <span class="text-primary" style="display: block; font-family: Roboto, Arial, sans-serif; font-size: 16px; font-weight: 400; color: #1F1F1F; word-break: break-all; line-height: 1.4;">${escapeHtml(originalSender)}</span>
               </div>
 
               <div style="margin-bottom: 24px;">
                 <span class="text-accent" style="display: block; font-family: Roboto, Arial, sans-serif; font-size: 11px; font-weight: 500; color: #0B57D0; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 6px;">Subject</span>
-                <span class="text-primary" style="display: block; font-family: 'Google Sans', Roboto, Arial, sans-serif; font-size: 18px; font-weight: 500; color: #1F1F1F; line-height: 1.4;">${subject}</span>
+                <span class="text-primary" style="display: block; font-family: 'Google Sans', Roboto, Arial, sans-serif; font-size: 18px; font-weight: 500; color: #1F1F1F; line-height: 1.4;">${escapeHtml(subject)}</span>
               </div>
 
               <div style="margin-bottom: 32px;">
@@ -145,7 +179,7 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
                   <tr>
                     <td class="bg-tint" style="background-color: #F0F4F9; border-radius: 8px; padding: 12px 16px;">
                       <span class="text-secondary" style="display: block; font-family: 'Roboto Mono', monospace; font-size: 14px; font-weight: 500; color: #444746; word-break: break-all;">
-                        ${emailData.email_id || 'N/A'}
+                        ${escapeHtml(emailData.email_id || 'N/A')}
                       </span>
                     </td>
                   </tr>
@@ -225,13 +259,49 @@ app.post('/api/incoming', express.text({ type: 'application/json' }), async (req
 </html>
     `;
 
-    const payload = {
-      from: `Notifier Bot <${forwardingAddress}>`,
-      to: [personalGmail],
-      reply_to: originalSender, 
-      subject: subject,
-      html: notificationHtml
-    };
+    // Try to forward the real message. If anything about fetching or parsing it
+    // fails, fall back to the old "open the dashboard" notification so mail is
+    // never silently dropped.
+    let payload;
+    try {
+      const parsed = await fetchFullEmail(emailData.email_id);
+
+      const replyTarget = parsed.replyTo?.text || originalSender;
+      const senderName = displayNameOf(originalSender);
+
+      const banner = `<div style="font-family: Arial, sans-serif; font-size: 12px; color: #5f6368; border-bottom: 1px solid #dadce0; padding-bottom: 8px; margin-bottom: 16px;">`
+        + `Sent to <b>${escapeHtml(originalRecipient)}</b> by <b>${escapeHtml(originalSender)}</b></div>`;
+
+      const bodyHtml = parsed.html
+        ? parsed.html
+        : `<pre style="font-family: Arial, sans-serif; white-space: pre-wrap;">${escapeHtml(parsed.text || '(empty message)')}</pre>`;
+
+      const attachments = (parsed.attachments || []).map((attachment) => ({
+        filename: attachment.filename || 'attachment',
+        content: attachment.content.toString('base64'),
+        contentType: attachment.contentType,
+        contentId: attachment.contentId?.replace(/^<|>$/g, '') || undefined,
+      }));
+
+      payload = {
+        from: `"${senderName} via ${originalRecipient}" <${forwardingAddress}>`,
+        to: [personalGmail],
+        reply_to: replyTarget,
+        subject: subject,
+        html: banner + bodyHtml,
+        text: `Sent to ${originalRecipient} by ${originalSender}\n\n${parsed.text || ''}`,
+        attachments: attachments.length > 0 ? attachments : undefined,
+      };
+    } catch (fetchError) {
+      console.error('Falling back to notification card:', fetchError.message);
+      payload = {
+        from: `Notifier Bot <${forwardingAddress}>`,
+        to: [personalGmail],
+        reply_to: originalSender,
+        subject: subject,
+        html: buildNotificationHtml()
+      };
+    }
 
     const { data, error } = await resend.emails.send(payload);
 
