@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #57512 from djoudad292/fix/spf-lookup-limit](https://github.com/is-a-dev/register/commit/e9bb34883ce4413a012e2c44bbe9b9274f545d52) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57505 from aray6000/patch-12](https://github.com/is-a-dev/register/commit/374ccbfc53d812fc7b61de11294f9f16dc533fd7) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Remove email fields from JSON examples across multiple guides (#129)](https://github.com/is-a-dev/docs/commit/5a42f1f0dfec9ef5a3c9f9d0b0b5c6bec7b62b92) in [is-a-dev/docs](https://github.com/is-a-dev/docs)
-- [Remove email fields from JSON examples across multiple guides (#128)](https://github.com/is-a-dev/docs/commit/4ae6a86660e765469645c37bcb4b26e54ecc83db) in [is-a-dev/docs](https://github.com/is-a-dev/docs)
-- [Merge pull request #57459 from promaruf/main](https://github.com/is-a-dev/register/commit/b526cf438b8ba8a1dc8802a1055e76f986d22454) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #12 from notamitgamer/cleanup](https://github.com/notamitgamer/notamitgamer/commit/b3155890a57663482adf396b2ac124fb3c58044a) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Delete a.cpp](https://github.com/notamitgamer/notamitgamer/commit/6a3be346b59b7299b8444476aeb66aeb2e383f7b) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Delete discord](https://github.com/notamitgamer/notamitgamer/commit/59a5c5f9c487cb7fdf4e42ef767e49634e0c8146) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Delete package.json](https://github.com/notamitgamer/notamitgamer/commit/7bd12cb71f1f47dd01731c8ed6466fd969fd7eac) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Delete server.js](https://github.com/notamitgamer/notamitgamer/commit/f5853180e1a6fc74f5b74ad28a929b2884a86de8) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 <!-- END_RECENT_COMMITS -->
 
 ---
