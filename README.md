@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #4 from notamitgamer/fix-modals](https://github.com/notamitgamer/mail-server/commit/d876b87c67f08dd0b0d1b80948bea92147a99063) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #3 from notamitgamer/local-updates](https://github.com/notamitgamer/mail-server/commit/5b785d260a272cf4103e2d52fec8140b693e4f92) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 - [Add mail.amit.json for mail server configuration](https://github.com/is-a-dev/register/commit/cfff189c9ea395350e6be444e1ab96f289f3515b) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #148 from notamitgamer/feat/catppuccin-logo](https://github.com/notamitgamer/bsc/commit/19c09c939ef4eda6b710140f88c4f1a7d25902d2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #12 from notamitgamer/cleanup](https://github.com/notamitgamer/notamitgamer/commit/b3155890a57663482adf396b2ac124fb3c58044a) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Delete a.cpp](https://github.com/notamitgamer/notamitgamer/commit/6a3be346b59b7299b8444476aeb66aeb2e383f7b) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Delete discord](https://github.com/notamitgamer/notamitgamer/commit/59a5c5f9c487cb7fdf4e42ef767e49634e0c8146) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Improve readability of mailbox instructions](https://github.com/notamitgamer/mail-server/commit/7c657991c366c9883742403ed57601af7e5ce121) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #2 from notamitgamer/fix-pallet](https://github.com/notamitgamer/mail-server/commit/c790d6476c4dc7ec5228a1e294dffad3f172305a) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 <!-- END_RECENT_COMMITS -->
 
 ---
