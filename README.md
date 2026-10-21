@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #57687 from zxc1004827-spec/main](https://github.com/is-a-dev/register/commit/1a8c5973f42db1367304bdfc181356d5ed4262e4) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57686 from alfindigital/alfin-cname](https://github.com/is-a-dev/register/commit/46b5bd94ee843cf763413a5c6fa893a54c9f41e1) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57681 from sahilkamble22387-ux/verify-sahilkamble](https://github.com/is-a-dev/register/commit/8c70f67de964bae777b23d3801c503a8e962c03c) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57680 from F0RREALTHO/main](https://github.com/is-a-dev/register/commit/f346d947b3236edfa2d79a0fae5139985f8c7e72) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #57678 from tugg86722-create/register-naif](https://github.com/is-a-dev/register/commit/b7dac3024c13b0f410f03e9fea6a380f13ed334d) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57677 from manideepchowdarykilaru-spec/main](https://github.com/is-a-dev/register/commit/59bd3498f481705a83e0aabdaab97d610b01fda4) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57673 from iSHAANphaye/patch-1](https://github.com/is-a-dev/register/commit/a47af478121cb2b119ae82fa1b17e543df7f6fe1) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57671 from sahilsx/main](https://github.com/is-a-dev/register/commit/946d469b6c21b2030c7c7db2e6d6635180031e5e) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57669 from vikki-k-s/main](https://github.com/is-a-dev/register/commit/d462cc54414ee6f72eca46674e5eed242632ee2b) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
