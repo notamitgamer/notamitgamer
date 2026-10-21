@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #4 from notamitgamer/fix-modals](https://github.com/notamitgamer/mail-server/commit/d876b87c67f08dd0b0d1b80948bea92147a99063) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Merge pull request #3 from notamitgamer/local-updates](https://github.com/notamitgamer/mail-server/commit/5b785d260a272cf4103e2d52fec8140b693e4f92) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Add mail.amit.json for mail server configuration](https://github.com/is-a-dev/register/commit/cfff189c9ea395350e6be444e1ab96f289f3515b) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Improve readability of mailbox instructions](https://github.com/notamitgamer/mail-server/commit/7c657991c366c9883742403ed57601af7e5ce121) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Merge pull request #2 from notamitgamer/fix-pallet](https://github.com/notamitgamer/mail-server/commit/c790d6476c4dc7ec5228a1e294dffad3f172305a) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #57678 from tugg86722-create/register-naif](https://github.com/is-a-dev/register/commit/b7dac3024c13b0f410f03e9fea6a380f13ed334d) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57677 from manideepchowdarykilaru-spec/main](https://github.com/is-a-dev/register/commit/59bd3498f481705a83e0aabdaab97d610b01fda4) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57673 from iSHAANphaye/patch-1](https://github.com/is-a-dev/register/commit/a47af478121cb2b119ae82fa1b17e543df7f6fe1) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57671 from sahilsx/main](https://github.com/is-a-dev/register/commit/946d469b6c21b2030c7c7db2e6d6635180031e5e) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57669 from vikki-k-s/main](https://github.com/is-a-dev/register/commit/d462cc54414ee6f72eca46674e5eed242632ee2b) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
