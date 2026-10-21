@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Add mail.amit.json for mail server configuration](https://github.com/is-a-dev/register/commit/cfff189c9ea395350e6be444e1ab96f289f3515b) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #148 from notamitgamer/feat/catppuccin-logo](https://github.com/notamitgamer/bsc/commit/19c09c939ef4eda6b710140f88c4f1a7d25902d2) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #12 from notamitgamer/cleanup](https://github.com/notamitgamer/notamitgamer/commit/b3155890a57663482adf396b2ac124fb3c58044a) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Delete a.cpp](https://github.com/notamitgamer/notamitgamer/commit/6a3be346b59b7299b8444476aeb66aeb2e383f7b) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Delete discord](https://github.com/notamitgamer/notamitgamer/commit/59a5c5f9c487cb7fdf4e42ef767e49634e0c8146) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Delete package.json](https://github.com/notamitgamer/notamitgamer/commit/7bd12cb71f1f47dd01731c8ed6466fd969fd7eac) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 <!-- END_RECENT_COMMITS -->
 
 ---
