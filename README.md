@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #57882 from dragsbruh/remove-domains](https://github.com/is-a-dev/register/commit/305497b349e6fa579df9ffd9b8c443ed046c18c7) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #10 from notamitgamer/instant-notification-open](https://github.com/notamitgamer/mail-server/commit/d89f2ea4db5fe8e8a377f99bba52bffc97583fad) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 - [Merge pull request #57807 from alidostkhaskheli49-commits/patch-1](https://github.com/is-a-dev/register/commit/e732ad68320c31748df5f153a3f364267d75324f) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #57805 from qianqianbaobei1/qianqianbaobei1-patch-1](https://github.com/is-a-dev/register/commit/474aa175c607484090133e770772835ea7d04692) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #57804 from GoJo3xe/patch-1](https://github.com/is-a-dev/register/commit/9a52c6a1ccd4b59a8c71e313cd09193de631fbd6) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57802 from tugg86722-create/update-naif-cname](https://github.com/is-a-dev/register/commit/53daecf317eabab93c3ab65c07d4fb8cd70897d0) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57799 from Litre-WU/main](https://github.com/is-a-dev/register/commit/d885a53ff87c577e6f5cde0e001ac289bfbc0fd6) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
