@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #57882 from dragsbruh/remove-domains](https://github.com/is-a-dev/register/commit/305497b349e6fa579df9ffd9b8c443ed046c18c7) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #10 from notamitgamer/instant-notification-open](https://github.com/notamitgamer/mail-server/commit/d89f2ea4db5fe8e8a377f99bba52bffc97583fad) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Merge pull request #57807 from alidostkhaskheli49-commits/patch-1](https://github.com/is-a-dev/register/commit/e732ad68320c31748df5f153a3f364267d75324f) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57805 from qianqianbaobei1/qianqianbaobei1-patch-1](https://github.com/is-a-dev/register/commit/474aa175c607484090133e770772835ea7d04692) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57804 from GoJo3xe/patch-1](https://github.com/is-a-dev/register/commit/9a52c6a1ccd4b59a8c71e313cd09193de631fbd6) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57831 from Fauxx/register-fauxx-subdomain](https://github.com/is-a-dev/register/commit/44e1191fa080a6473e80aea3c86116409370cef8) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57830 from wolpilatte/main](https://github.com/is-a-dev/register/commit/20df0aae84b5606f076d3243785ebd54c9af985b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57827 from Litre-WU/zhuang-vercel](https://github.com/is-a-dev/register/commit/e4afedb4b94a2b295b069b17e77fbd3d17fd3369) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57823 from notbapao/main](https://github.com/is-a-dev/register/commit/433d273681cb18b62dbc8dc9956e6780f12e62e6) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #57822 from namandhakad712/main](https://github.com/is-a-dev/register/commit/9103549e70339940d1f7977d90f9828dff0cfc4b) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
