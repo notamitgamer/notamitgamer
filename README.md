@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #16 from notamitgamer/revert-14-dependabot/npm_and_yarn/multi-a01711886d](https://github.com/notamitgamer/mail-server/commit/cde8825e1f39339e0df6cd4567ab574f01b7a2d5) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Revert "Bump uuid and firebase-admin"](https://github.com/notamitgamer/mail-server/commit/22812cdc9e2d75617c3367232060c795496825b7) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Merge pull request #14 from notamitgamer/dependabot/npm_and_yarn/multi-a01711886d](https://github.com/notamitgamer/mail-server/commit/cfa5e510a8d87f824ab7e6fac78f84f828efe3bd) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Sign-in: drop the notice box, plain minimal text](https://github.com/notamitgamer/mail-server/commit/a7e81ca032da236080848807ea6430dbd88fffff) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Sign-in screen: official Google button, logo, notice card; recolour icons to the new palette](https://github.com/notamitgamer/mail-server/commit/a32e9af9d6487b1f8f9e723117a3a79c287bf272) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #21 from notamitgamer/bin-drafts-templates](https://github.com/notamitgamer/mail-server/commit/3bcd9c677d8392f1d13eda2ce8621d1875658b05) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Bin, drafts, templates, cc/bcc and recipient pills (UI + restore keeps mail on this device)](https://github.com/notamitgamer/mail-server/commit/501c271f066fb68d670faf4f3683360df931af3e) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Server: bin (restore, 30-day purge), drafts, templates, cc/bcc on send](https://github.com/notamitgamer/mail-server/commit/200924171731cd7153ab64fcf5b0b578891d6bb1) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Update license section in README.md](https://github.com/notamitgamer/mail-server/commit/01011446d8e402fd6bfa133de0024f1b159337ca) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #20 from notamitgamer/build-info-fix](https://github.com/notamitgamer/mail-server/commit/0f22990acd5b567e27802f735b3bf411a0a0d2f7) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 <!-- END_RECENT_COMMITS -->
 
 ---
