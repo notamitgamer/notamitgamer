@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Delegate amit.is-a.dev to Cloudflare via NS](https://github.com/is-a-dev/register/commit/ffcc58dda945c5d7bfb18b161845a3dc75aa6197) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #13 from notamitgamer/readme-logo-screenshots](https://github.com/notamitgamer/mail-server/commit/d7d08f0a2bd851c745671b89204d0ea5b7ed9cab) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Merge pull request #12 from notamitgamer/fix-header-alignment](https://github.com/notamitgamer/mail-server/commit/ab2a80f95a35595dafbad0aba359da9aff75f824) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Merge pull request #57852 from alidostkhaskheli49-commits/patch-1](https://github.com/is-a-dev/register/commit/17aa55c6f239b2a57f9ecb1d140259c075f8c928) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57840 from simplyseek/main](https://github.com/is-a-dev/register/commit/69651f9de701e106eed5cfb3872b565b97b6f225) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #16 from notamitgamer/revert-14-dependabot/npm_and_yarn/multi-a01711886d](https://github.com/notamitgamer/mail-server/commit/cde8825e1f39339e0df6cd4567ab574f01b7a2d5) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Revert "Bump uuid and firebase-admin"](https://github.com/notamitgamer/mail-server/commit/22812cdc9e2d75617c3367232060c795496825b7) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #14 from notamitgamer/dependabot/npm_and_yarn/multi-a01711886d](https://github.com/notamitgamer/mail-server/commit/cfa5e510a8d87f824ab7e6fac78f84f828efe3bd) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Sign-in: drop the notice box, plain minimal text](https://github.com/notamitgamer/mail-server/commit/a7e81ca032da236080848807ea6430dbd88fffff) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Sign-in screen: official Google button, logo, notice card; recolour icons to the new palette](https://github.com/notamitgamer/mail-server/commit/a32e9af9d6487b1f8f9e723117a3a79c287bf272) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 <!-- END_RECENT_COMMITS -->
 
 ---
