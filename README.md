@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Update README to remove Forgejo link](https://github.com/notamitgamer/notamitgamer/commit/5439c4069db8cffca739f7a5c6da4b939a150088) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 - [Merge pull request #25 from notamitgamer/edit-20261024-204510](https://github.com/notamitgamer/mail-server/commit/ea5af29a1fb276b18dc37bccbd3434b4b6c504a4) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 - [fix3](https://github.com/notamitgamer/mail-server/commit/e06ea6f8e5b86eeb5ed646a4596aad2e45b088d8) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 - [Merge pull request #24 from notamitgamer/edit-20261024-203922](https://github.com/notamitgamer/mail-server/commit/b4001937eff4a80d109fd39e4c58f3dd651c8e1a) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 - [fix: expand mobile compose message body textarea](https://github.com/notamitgamer/mail-server/commit/2dcf2f0448212079f8aa0a68d176b12f9ce83571) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Merge pull request #23 from notamitgamer/edit-20261024-200419](https://github.com/notamitgamer/mail-server/commit/4333ea8b1ebb28ae1a2c10d21f6d221dfe283fcb) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 <!-- END_RECENT_COMMITS -->
 
 ---
