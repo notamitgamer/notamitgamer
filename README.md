@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Delegate amit.is-a.dev to Cloudflare via NS](https://github.com/is-a-dev/register/commit/ffcc58dda945c5d7bfb18b161845a3dc75aa6197) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #13 from notamitgamer/readme-logo-screenshots](https://github.com/notamitgamer/mail-server/commit/d7d08f0a2bd851c745671b89204d0ea5b7ed9cab) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 - [Merge pull request #12 from notamitgamer/fix-header-alignment](https://github.com/notamitgamer/mail-server/commit/ab2a80f95a35595dafbad0aba359da9aff75f824) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 - [Merge pull request #57852 from alidostkhaskheli49-commits/patch-1](https://github.com/is-a-dev/register/commit/17aa55c6f239b2a57f9ecb1d140259c075f8c928) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #57840 from simplyseek/main](https://github.com/is-a-dev/register/commit/69651f9de701e106eed5cfb3872b565b97b6f225) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #57838 from aexinide/main](https://github.com/is-a-dev/register/commit/12f679c3a92418e6a2ad04cf287b8074e113dbdb) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
