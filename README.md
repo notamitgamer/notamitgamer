@@ -66,11 +66,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #21 from notamitgamer/bin-drafts-templates](https://github.com/notamitgamer/mail-server/commit/3bcd9c677d8392f1d13eda2ce8621d1875658b05) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Bin, drafts, templates, cc/bcc and recipient pills (UI + restore keeps mail on this device)](https://github.com/notamitgamer/mail-server/commit/501c271f066fb68d670faf4f3683360df931af3e) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Server: bin (restore, 30-day purge), drafts, templates, cc/bcc on send](https://github.com/notamitgamer/mail-server/commit/200924171731cd7153ab64fcf5b0b578891d6bb1) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Update license section in README.md](https://github.com/notamitgamer/mail-server/commit/01011446d8e402fd6bfa133de0024f1b159337ca) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Merge pull request #20 from notamitgamer/build-info-fix](https://github.com/notamitgamer/mail-server/commit/0f22990acd5b567e27802f735b3bf411a0a0d2f7) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #25 from notamitgamer/edit-20261024-204510](https://github.com/notamitgamer/mail-server/commit/ea5af29a1fb276b18dc37bccbd3434b4b6c504a4) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [fix3](https://github.com/notamitgamer/mail-server/commit/e06ea6f8e5b86eeb5ed646a4596aad2e45b088d8) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #24 from notamitgamer/edit-20261024-203922](https://github.com/notamitgamer/mail-server/commit/b4001937eff4a80d109fd39e4c58f3dd651c8e1a) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [fix: expand mobile compose message body textarea](https://github.com/notamitgamer/mail-server/commit/2dcf2f0448212079f8aa0a68d176b12f9ce83571) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #23 from notamitgamer/edit-20261024-200419](https://github.com/notamitgamer/mail-server/commit/4333ea8b1ebb28ae1a2c10d21f6d221dfe283fcb) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 <!-- END_RECENT_COMMITS -->
 
 ---
