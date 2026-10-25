@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Update README to remove Forgejo link](https://github.com/notamitgamer/notamitgamer/commit/5439c4069db8cffca739f7a5c6da4b939a150088) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Merge pull request #25 from notamitgamer/edit-20261024-204510](https://github.com/notamitgamer/mail-server/commit/ea5af29a1fb276b18dc37bccbd3434b4b6c504a4) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [fix3](https://github.com/notamitgamer/mail-server/commit/e06ea6f8e5b86eeb5ed646a4596aad2e45b088d8) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Merge pull request #24 from notamitgamer/edit-20261024-203922](https://github.com/notamitgamer/mail-server/commit/b4001937eff4a80d109fd39e4c58f3dd651c8e1a) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [fix: expand mobile compose message body textarea](https://github.com/notamitgamer/mail-server/commit/2dcf2f0448212079f8aa0a68d176b12f9ce83571) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #15 from notamitgamer/fix](https://github.com/notamitgamer/docs/commit/033ef3db3109b64680c27cdf8c69261fa8abced0) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Add files via upload](https://github.com/notamitgamer/docs/commit/cfe5fff10eb5ba1d409ff3f4ea7a03c235cf2067) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Add files via upload](https://github.com/notamitgamer/docs/commit/e2fde7d93959d94d3be92a82edf3af09fcce6620) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Implement Catppuccin Mocha color palette in CSS](https://github.com/notamitgamer/docs/commit/bb043ab333db9d3a8c4f06a01f26ee963da274b5) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Update color scheme and appearance settings in docs.json](https://github.com/notamitgamer/docs/commit/3a41a4dba485b5aeed06dc0d8f88a052a4bebb45) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 <!-- END_RECENT_COMMITS -->
 
 ---
