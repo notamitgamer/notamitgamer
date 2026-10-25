@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #15 from notamitgamer/fix](https://github.com/notamitgamer/docs/commit/033ef3db3109b64680c27cdf8c69261fa8abced0) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Add files via upload](https://github.com/notamitgamer/docs/commit/cfe5fff10eb5ba1d409ff3f4ea7a03c235cf2067) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Add files via upload](https://github.com/notamitgamer/docs/commit/e2fde7d93959d94d3be92a82edf3af09fcce6620) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Implement Catppuccin Mocha color palette in CSS](https://github.com/notamitgamer/docs/commit/bb043ab333db9d3a8c4f06a01f26ee963da274b5) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Update color scheme and appearance settings in docs.json](https://github.com/notamitgamer/docs/commit/3a41a4dba485b5aeed06dc0d8f88a052a4bebb45) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Refactor onResume and onPause method signatures](https://github.com/notamitgamer/mail-server/commit/0ec7f7081920975b4d6c51ac41a449f49828da93) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Update android.yml to include Firebase Messaging](https://github.com/notamitgamer/mail-server/commit/f8eae70c8d1cb8edd8603c0390583eff1275721c) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #32 from notamitgamer/android-polish-2](https://github.com/notamitgamer/mail-server/commit/70cecfec102cfb02b12cdb49f5443a4c46df091c) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Implement demo pop-up dialog](https://github.com/notamitgamer/mail-server/commit/276e65f6cbab5c862f8972bff6a0c1468f0b8a89) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Update service worker cache version to v23](https://github.com/notamitgamer/mail-server/commit/136fc7288b40cff2c949eb76a028909b9e75ba48) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 <!-- END_RECENT_COMMITS -->
 
 ---
