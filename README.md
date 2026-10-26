@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #38 from notamitgamer/android-upgrades](https://github.com/notamitgamer/mail-server/commit/78636e3bc38c1961a350c689cdafa0aa18f9f595) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #36 from notamitgamer/fix-apk-back](https://github.com/notamitgamer/mail-server/commit/487ab29624abef5a7e49f0e3f62407d56980b0b2) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #35 from notamitgamer/bump-sw-cache](https://github.com/notamitgamer/mail-server/commit/ef72a4c65621cb0bfb2fd4112df81dad09095daa) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
+- [Merge pull request #34 from notamitgamer/fix-back-button](https://github.com/notamitgamer/mail-server/commit/96752cbd642ebae5d37c5c8737550e50350b8bf8) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 - [Merge pull request #33 from notamitgamer/Fa](https://github.com/notamitgamer/mail-server/commit/e85ac4879143fc04ffeb90b76aaaf68bd1fcdaa2) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Implement global back navigation handler for Android](https://github.com/notamitgamer/mail-server/commit/17c31799cd3567687c07120c9c90edd5e0751a72) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Refactor MainActivity for improved readability and structure](https://github.com/notamitgamer/mail-server/commit/88f4164aa58ab2485455562167f345f762152235) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Svg icon](https://github.com/notamitgamer/mail-server/commit/248cdaf8e557e4ec6c686cb4679be9c6738ce9b9) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
-- [Enhance mailbox UI with custom styles and updates](https://github.com/notamitgamer/mail-server/commit/bd8102c4a2dea22934927456a92225bbd60d15b8) in [notamitgamer/mail-server](https://github.com/notamitgamer/mail-server)
 <!-- END_RECENT_COMMITS -->
 
 ---
