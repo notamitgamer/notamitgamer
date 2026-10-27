@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #42 from notamitgamer/fix-auth-proxy-domain](https://github.com/notamitgamer/mailbox/commit/fa90c0835e4584311311c310b969f05a63370a75) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #17 from notamitgamer/rename-mailbox](https://github.com/notamitgamer/docs/commit/f3f8f6dfa0b37bfaca79833499a6d7b12f8569e3) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Merge pull request #41 from notamitgamer/rename-mailbox](https://github.com/notamitgamer/mailbox/commit/bf8ab6cabf44eb5150fa30717086019318f47440) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #40 from notamitgamer/claude/attachments-polish](https://github.com/notamitgamer/mailbox/commit/146d2113f3c5657f85b7a8f09f3324d230558712) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
 - [Merge pull request #202 from martymonero/add-chempirical](https://github.com/wdhdev/free-for-life/commit/45c32c24189ea8afe9caf8da4e1bfe7348affa57) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
-- [Merge pull request #201 from Sambel/main](https://github.com/wdhdev/free-for-life/commit/b58e1db5bd5852ff5b4c19f59ff5fd35c4c51fb1) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
-- [Merge pull request #189 from hanshs474/add-kavel](https://github.com/wdhdev/free-for-life/commit/b0421698cc04a7acba0776f9a0a3f341d80ad969) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
-- [Merge pull request #184 from coworkingview/add-coworkingview](https://github.com/wdhdev/free-for-life/commit/cfb18bf895ae8a241370c384ac89195510250dab) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
-- [Merge pull request #58319 from Krishnaprajapat693/main](https://github.com/is-a-dev/register/commit/83be24c9eb924cb803409f7b1401e84f5209a22d) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
