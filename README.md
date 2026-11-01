@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #42 from notamitgamer/fix-auth-proxy-domain](https://github.com/notamitgamer/mailbox/commit/fa90c0835e4584311311c310b969f05a63370a75) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #17 from notamitgamer/rename-mailbox](https://github.com/notamitgamer/docs/commit/f3f8f6dfa0b37bfaca79833499a6d7b12f8569e3) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Merge pull request #41 from notamitgamer/rename-mailbox](https://github.com/notamitgamer/mailbox/commit/bf8ab6cabf44eb5150fa30717086019318f47440) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #40 from notamitgamer/claude/attachments-polish](https://github.com/notamitgamer/mailbox/commit/146d2113f3c5657f85b7a8f09f3324d230558712) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #202 from martymonero/add-chempirical](https://github.com/wdhdev/free-for-life/commit/45c32c24189ea8afe9caf8da4e1bfe7348affa57) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
+- [Merge pull request #704 from Yashrajsingh2001/register-yashraj](https://github.com/free-domains/is-a.bot/commit/3bf804b58f56955b8a94094b9044871e28b9844e) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #703 from vanseny/register-vanseny-20261030](https://github.com/free-domains/is-a.bot/commit/be00ddee1976631882f27ffaddcb923b65a4c47f) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #701 from lukuochiang/main](https://github.com/free-domains/is-a.bot/commit/ef47554a9e95795264a26ad19f3766c0b46d41e0) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #698 from usermalik20-del/feature/kanta-is-a-bot](https://github.com/free-domains/is-a.bot/commit/a73913000b1e8ca5a6664b59b16c7d24e98913b9) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #632 from theadityasinghal/main](https://github.com/free-domains/is-a.bot/commit/4436b03234b719af08a5485af5d2064d18860f4c) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
