@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #710 from gymkhanaiitk/main](https://github.com/free-domains/is-a.bot/commit/5bd16f41d6c818bcc0343b4b79c30a0f5e6ae16d) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #704 from Yashrajsingh2001/register-yashraj](https://github.com/free-domains/is-a.bot/commit/3bf804b58f56955b8a94094b9044871e28b9844e) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #703 from vanseny/register-vanseny-20261030](https://github.com/free-domains/is-a.bot/commit/be00ddee1976631882f27ffaddcb923b65a4c47f) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #701 from lukuochiang/main](https://github.com/free-domains/is-a.bot/commit/ef47554a9e95795264a26ad19f3766c0b46d41e0) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #698 from usermalik20-del/feature/kanta-is-a-bot](https://github.com/free-domains/is-a.bot/commit/a73913000b1e8ca5a6664b59b16c7d24e98913b9) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #46 from notamitgamer/theme/graphite-teal](https://github.com/notamitgamer/mailbox/commit/9b331d8fc3911152d17cca4f0fd93e702e147494) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #59610 from iprince10/iprince10-patch-2](https://github.com/is-a-dev/register/commit/32aadd13344df533e392969465b23b464825aebb) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #59608 from W0NB0N/main](https://github.com/is-a-dev/register/commit/c5c6c5c63a335c727cb6f21a77737464767562dd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #59605 from coder368/patch-1](https://github.com/is-a-dev/register/commit/713a413c48ae21c31bdcfd6ed24facd1d84dbbcf) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #156 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-eb8caf78ac](https://github.com/notamitgamer/bsc/commit/4e7f7fd3aab00723c6327d0635436f555b967bf8) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
