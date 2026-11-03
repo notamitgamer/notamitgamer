@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #46 from notamitgamer/theme/graphite-teal](https://github.com/notamitgamer/mailbox/commit/9b331d8fc3911152d17cca4f0fd93e702e147494) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #59610 from iprince10/iprince10-patch-2](https://github.com/is-a-dev/register/commit/32aadd13344df533e392969465b23b464825aebb) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #59608 from W0NB0N/main](https://github.com/is-a-dev/register/commit/c5c6c5c63a335c727cb6f21a77737464767562dd) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #59605 from coder368/patch-1](https://github.com/is-a-dev/register/commit/713a413c48ae21c31bdcfd6ed24facd1d84dbbcf) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #156 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-eb8caf78ac](https://github.com/notamitgamer/bsc/commit/4e7f7fd3aab00723c6327d0635436f555b967bf8) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #54 from notamitgamer/fix/github-email-image-fit](https://github.com/notamitgamer/mailbox/commit/861c5ea2659cb87e8b1a6187bb609804d057dd78) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #53 from notamitgamer/ui/gmail-look](https://github.com/notamitgamer/mailbox/commit/dbdc75d45a4377a4a86676d17a4ba0a80f2d7dc5) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #51 from notamitgamer/fix/github-email-image-fit](https://github.com/notamitgamer/mailbox/commit/90f3f336a56bcb1c6fde89f7626ac4b6818d6f82) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #48 from notamitgamer/android/teal-splash](https://github.com/notamitgamer/mailbox/commit/5e939c91ca60a8615f71019fec17781053b63b6e) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #47 from notamitgamer/logo/teal-icon](https://github.com/notamitgamer/mailbox/commit/c58ed174ae9035ba8699a5062462bf41c35a2f77) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
 <!-- END_RECENT_COMMITS -->
 
 ---
