@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #61 from notamitgamer/fix/selection-icons-signature-below](https://github.com/notamitgamer/mailbox/commit/4831b1ef991d44210205a23f07c8f53047e43d74) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #60 from notamitgamer/feat/signature-backspace](https://github.com/notamitgamer/mailbox/commit/c946c6e1083ef129b3012a179a7601a7515f44ca) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #59 from notamitgamer/fix/template-auto-and-search-placeholder](https://github.com/notamitgamer/mailbox/commit/9e5b77428bc36ef7520f6aaf51b8d53819b85560) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #58 from notamitgamer/feat/inline-signature](https://github.com/notamitgamer/mailbox/commit/d8e157d2b47643d5c1e017cad9970991b8ee325c) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #57 from notamitgamer/fix/template-auto-and-search-placeholder](https://github.com/notamitgamer/mailbox/commit/d3d7f5b41ed0a975908ad2aad967598a5c2e94f0) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #245 from xlinesoft/patch-1](https://github.com/wdhdev/free-for-life/commit/d12a7edcb08bceb718d02ec3af2642e613c523ce) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
+- [Merge pull request #244 from czuli/patch-1](https://github.com/wdhdev/free-for-life/commit/29966f56419a7d3db280b2e30559b0a1f79159dd) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
+- [Merge pull request #247 from AlonHarpaz/patch-1](https://github.com/wdhdev/free-for-life/commit/59cd71c22689c3a4cf0413c7fc9635d736711f08) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
+- [Merge pull request #240 from hanebox/add-nisuform](https://github.com/wdhdev/free-for-life/commit/339d06267093574e6e67de9d177951a785418d6c) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
+- [Merge pull request #223 from yumaheymans/add-yap](https://github.com/wdhdev/free-for-life/commit/ce36bdef784222e4d782c06d56b9ed5e8995c62e) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
 <!-- END_RECENT_COMMITS -->
 
 ---
