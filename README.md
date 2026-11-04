@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #59771 from spark142857142857/main](https://github.com/is-a-dev/register/commit/821c99d96e130acb794f8342e28fcc852ff2e8df) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #59769 from JayR-44/main](https://github.com/is-a-dev/register/commit/7b83990a0755ba3a8853897a5a5b2ec0196a3956) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #59768 from YOCRRZ224/main](https://github.com/is-a-dev/register/commit/69ff5267c2062a297a319723f48b99553b33e88b) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #59766 from Tsumugi920/Tsumugi920-patch-1-1](https://github.com/is-a-dev/register/commit/b8c095abd5caf57bbdd5b2f8b5ecab5451c7b727) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #59765 from Amad3eu/register-amadeu-domain](https://github.com/is-a-dev/register/commit/10c70d98fb55df38c838b6d753f48d3c1cb741f7) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #61 from notamitgamer/fix/selection-icons-signature-below](https://github.com/notamitgamer/mailbox/commit/4831b1ef991d44210205a23f07c8f53047e43d74) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #60 from notamitgamer/feat/signature-backspace](https://github.com/notamitgamer/mailbox/commit/c946c6e1083ef129b3012a179a7601a7515f44ca) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #59 from notamitgamer/fix/template-auto-and-search-placeholder](https://github.com/notamitgamer/mailbox/commit/9e5b77428bc36ef7520f6aaf51b8d53819b85560) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #58 from notamitgamer/feat/inline-signature](https://github.com/notamitgamer/mailbox/commit/d8e157d2b47643d5c1e017cad9970991b8ee325c) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #57 from notamitgamer/fix/template-auto-and-search-placeholder](https://github.com/notamitgamer/mailbox/commit/d3d7f5b41ed0a975908ad2aad967598a5c2e94f0) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
 <!-- END_RECENT_COMMITS -->
 
 ---
