@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #54 from notamitgamer/fix/github-email-image-fit](https://github.com/notamitgamer/mailbox/commit/861c5ea2659cb87e8b1a6187bb609804d057dd78) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #53 from notamitgamer/ui/gmail-look](https://github.com/notamitgamer/mailbox/commit/dbdc75d45a4377a4a86676d17a4ba0a80f2d7dc5) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #51 from notamitgamer/fix/github-email-image-fit](https://github.com/notamitgamer/mailbox/commit/90f3f336a56bcb1c6fde89f7626ac4b6818d6f82) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #48 from notamitgamer/android/teal-splash](https://github.com/notamitgamer/mailbox/commit/5e939c91ca60a8615f71019fec17781053b63b6e) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #47 from notamitgamer/logo/teal-icon](https://github.com/notamitgamer/mailbox/commit/c58ed174ae9035ba8699a5062462bf41c35a2f77) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #59771 from spark142857142857/main](https://github.com/is-a-dev/register/commit/821c99d96e130acb794f8342e28fcc852ff2e8df) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #59769 from JayR-44/main](https://github.com/is-a-dev/register/commit/7b83990a0755ba3a8853897a5a5b2ec0196a3956) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #59768 from YOCRRZ224/main](https://github.com/is-a-dev/register/commit/69ff5267c2062a297a319723f48b99553b33e88b) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #59766 from Tsumugi920/Tsumugi920-patch-1-1](https://github.com/is-a-dev/register/commit/b8c095abd5caf57bbdd5b2f8b5ecab5451c7b727) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #59765 from Amad3eu/register-amadeu-domain](https://github.com/is-a-dev/register/commit/10c70d98fb55df38c838b6d753f48d3c1cb741f7) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
