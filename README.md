@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #157 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-90aaf8b428](https://github.com/notamitgamer/bsc/commit/6af8ac2ad63c097e81859b8a5b026f5c673df84b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #158 from notamitgamer/edit-20261105-201607](https://github.com/notamitgamer/bsc/commit/f32f524f2762315daa9a400055526104325e425b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [fixed readme](https://github.com/notamitgamer/bsc/commit/f7a293fad554baaa8300b0f34b5566b548995670) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [added some lab code](https://github.com/notamitgamer/bsc/commit/35532263cd3b60556312395c12869202f64d9f3c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #245 from xlinesoft/patch-1](https://github.com/wdhdev/free-for-life/commit/d12a7edcb08bceb718d02ec3af2642e613c523ce) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
-- [Merge pull request #244 from czuli/patch-1](https://github.com/wdhdev/free-for-life/commit/29966f56419a7d3db280b2e30559b0a1f79159dd) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
-- [Merge pull request #247 from AlonHarpaz/patch-1](https://github.com/wdhdev/free-for-life/commit/59cd71c22689c3a4cf0413c7fc9635d736711f08) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
-- [Merge pull request #240 from hanebox/add-nisuform](https://github.com/wdhdev/free-for-life/commit/339d06267093574e6e67de9d177951a785418d6c) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
-- [Merge pull request #223 from yumaheymans/add-yap](https://github.com/wdhdev/free-for-life/commit/ce36bdef784222e4d782c06d56b9ed5e8995c62e) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
 <!-- END_RECENT_COMMITS -->
 
 ---
