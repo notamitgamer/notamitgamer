@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #157 from notamitgamer/dependabot/npm_and_yarn/npm_and_yarn-90aaf8b428](https://github.com/notamitgamer/bsc/commit/6af8ac2ad63c097e81859b8a5b026f5c673df84b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #158 from notamitgamer/edit-20261105-201607](https://github.com/notamitgamer/bsc/commit/f32f524f2762315daa9a400055526104325e425b) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [fixed readme](https://github.com/notamitgamer/bsc/commit/f7a293fad554baaa8300b0f34b5566b548995670) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [added some lab code](https://github.com/notamitgamer/bsc/commit/35532263cd3b60556312395c12869202f64d9f3c) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #245 from xlinesoft/patch-1](https://github.com/wdhdev/free-for-life/commit/d12a7edcb08bceb718d02ec3af2642e613c523ce) in [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life)
+- [Update indexName for search configuration](https://github.com/notamitgamer/bsc/commit/5b4f7549d9be7de2f5c34148695f7247ef133c06) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #159 from notamitgamer/edit-20261106-204422](https://github.com/notamitgamer/bsc/commit/c7c4962a5f7c1a1f4f253995799353176f5dbab3) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [fixed algolia search](https://github.com/notamitgamer/bsc/commit/7fc63513fe3700046688bedc8f8354d6c1384492) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #60075 from LinYangBIT/register-chasel](https://github.com/is-a-dev/register/commit/a9994fdc29efb122496f533571272cd92ead49fd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #60065 from Phantom8420/main](https://github.com/is-a-dev/register/commit/ffdcb8e09793f94102f1dbd9d9549207336f3e75) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
