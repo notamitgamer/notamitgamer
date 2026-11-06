@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Update index.html](https://github.com/notamitgamer/Search-deck/commit/ec8597f114aa284addaaf6faf7dcae3b3d5bf4a3) in [notamitgamer/Search-deck](https://github.com/notamitgamer/Search-deck)
+- [Update index.html](https://github.com/notamitgamer/Search-deck/commit/21b229bf1d9a51093c582b93be0ed59c782aa0e3) in [notamitgamer/Search-deck](https://github.com/notamitgamer/Search-deck)
+- [Update print statement from 'Hello' to 'Goodbye'](https://github.com/notamitgamer/Search-deck/commit/7c93234e588ea2c808b9e7a4d13583f09d108a29) in [notamitgamer/Search-deck](https://github.com/notamitgamer/Search-deck)
 - [Update indexName for search configuration](https://github.com/notamitgamer/bsc/commit/5b4f7549d9be7de2f5c34148695f7247ef133c06) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #159 from notamitgamer/edit-20261106-204422](https://github.com/notamitgamer/bsc/commit/c7c4962a5f7c1a1f4f253995799353176f5dbab3) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [fixed algolia search](https://github.com/notamitgamer/bsc/commit/7fc63513fe3700046688bedc8f8354d6c1384492) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #60075 from LinYangBIT/register-chasel](https://github.com/is-a-dev/register/commit/a9994fdc29efb122496f533571272cd92ead49fd) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60065 from Phantom8420/main](https://github.com/is-a-dev/register/commit/ffdcb8e09793f94102f1dbd9d9549207336f3e75) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
