@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #1 from notamitgamer/home-redesign-sw-update](https://github.com/notamitgamer/Search-deck/commit/18d3ef930acc87c72eba30045c5308991edbdbaa) in [notamitgamer/Search-deck](https://github.com/notamitgamer/Search-deck)
-- [Update index.html](https://github.com/notamitgamer/Search-deck/commit/ec8597f114aa284addaaf6faf7dcae3b3d5bf4a3) in [notamitgamer/Search-deck](https://github.com/notamitgamer/Search-deck)
-- [Update index.html](https://github.com/notamitgamer/Search-deck/commit/21b229bf1d9a51093c582b93be0ed59c782aa0e3) in [notamitgamer/Search-deck](https://github.com/notamitgamer/Search-deck)
-- [Update print statement from 'Hello' to 'Goodbye'](https://github.com/notamitgamer/Search-deck/commit/7c93234e588ea2c808b9e7a4d13583f09d108a29) in [notamitgamer/Search-deck](https://github.com/notamitgamer/Search-deck)
-- [Update indexName for search configuration](https://github.com/notamitgamer/bsc/commit/5b4f7549d9be7de2f5c34148695f7247ef133c06) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #53 from notamitgamer/ui/filestash-look](https://github.com/notamitgamer/cdnV2/commit/0ec4db9aaea7798cfdf212fbf62dc6be100085b3) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Add Privacy Policy link to tools array](https://github.com/notamitgamer/cdnV2/commit/fa3b5067b658fb07f0864f262a19dad1ccd6aa6b) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Create privacy.html with privacy policy content](https://github.com/notamitgamer/cdnV2/commit/1c8f73f236b80188ba71fa7c1cd5a47b9b2fbae9) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Delete app/templates/privacy.html](https://github.com/notamitgamer/cdnV2/commit/5e496adf9b17004b4e2951514bd8907576d84f99) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Create privacy.html with privacy policy content](https://github.com/notamitgamer/cdnV2/commit/58c764cb71d78e3baaa1efe1aeb711d4b1060456) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
