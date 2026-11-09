@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #57 from notamitgamer/ui/logo-font](https://github.com/notamitgamer/cdnV2/commit/182cc4e661a6afb915ae6d0708ec0f21ad9220c5) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #56 from notamitgamer/ui/clickable-rows](https://github.com/notamitgamer/cdnV2/commit/54b2dfd24b7aa80def168ec78a90b13eab03e64f) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #60384 from 712Aniket/main](https://github.com/is-a-dev/register/commit/b585f4f307ae019e58a3376b5a1aaa41e246d944) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60379 from nitish2101/main](https://github.com/is-a-dev/register/commit/c78e1074560198a27c4f88fe7200282683b7a5bf) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60378 from Rami-ayounii/main](https://github.com/is-a-dev/register/commit/3de62890e74e368756d618a2c190cb9784e84ab8) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #60066 from Phantom8420/phantom-842](https://github.com/is-a-dev/register/commit/1e1e23de4d96be1678c04aa6e692a928c0a80de3) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #60606 from facich/main](https://github.com/is-a-dev/register/commit/3cde19feeb866ad4d67b6f557ace94dd0cda8f46) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #63 from notamitgamer/feat/embed-bigger-title](https://github.com/notamitgamer/cdnV2/commit/76cb9da385e16d1ac31cd007df61ad55562e2cb5) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #62 from notamitgamer/feat/discord-embed-icons](https://github.com/notamitgamer/cdnV2/commit/8346f92a7c26e897c0fd6f6921a31aa183294c5f) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #60 from notamitgamer/feat/discord-link-preview](https://github.com/notamitgamer/cdnV2/commit/83367313402f9de7e141b6d694b7db19f3939258) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
