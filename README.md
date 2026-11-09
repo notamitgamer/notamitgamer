@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #57 from notamitgamer/ui/logo-font](https://github.com/notamitgamer/cdnV2/commit/182cc4e661a6afb915ae6d0708ec0f21ad9220c5) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #56 from notamitgamer/ui/clickable-rows](https://github.com/notamitgamer/cdnV2/commit/54b2dfd24b7aa80def168ec78a90b13eab03e64f) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Merge pull request #60384 from 712Aniket/main](https://github.com/is-a-dev/register/commit/b585f4f307ae019e58a3376b5a1aaa41e246d944) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #60379 from nitish2101/main](https://github.com/is-a-dev/register/commit/c78e1074560198a27c4f88fe7200282683b7a5bf) in [is-a-dev/register](https://github.com/is-a-dev/register)
 - [Merge pull request #60378 from Rami-ayounii/main](https://github.com/is-a-dev/register/commit/3de62890e74e368756d618a2c190cb9784e84ab8) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60377 from sujansenthil01-bee/main](https://github.com/is-a-dev/register/commit/92de07494fb2e51d927169c82a3334beac4738c9) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60374 from 15597771770-cpu/patch-1](https://github.com/is-a-dev/register/commit/145bf59a53fd4cca8b6f066a4aec39f6e683e48c) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
