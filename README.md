@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #59665 from sonhany/sonhany-patch-1](https://github.com/is-a-dev/register/commit/2135c2c20ad9b8cf0b7f7e0b73749fc09c0786a4) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #65 from notamitgamer/feat/github-attachment-folder](https://github.com/notamitgamer/cdnV2/commit/5442916ce88cbf3d64f422c414bbc5fbd01aac34) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #64 from notamitgamer/ui/sidebar-footer](https://github.com/notamitgamer/cdnV2/commit/66338adcd284baad4c7e522e3c02ef55c7a786d3) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #60066 from Phantom8420/phantom-842](https://github.com/is-a-dev/register/commit/1e1e23de4d96be1678c04aa6e692a928c0a80de3) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60606 from facich/main](https://github.com/is-a-dev/register/commit/3cde19feeb866ad4d67b6f557ace94dd0cda8f46) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #60610 from Orecone44/patch-1](https://github.com/is-a-dev/register/commit/c7ccf539267b89db3d97965f8977214e69f67141) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #60595 from crazycodeop/main](https://github.com/is-a-dev/register/commit/b84ade8edb85796f017f74874bb30cf5d095be24) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #60548 from Pinont/main](https://github.com/is-a-dev/register/commit/a4e89b4b72319aef674e8bfd21f4de9923b6c304) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge branch 'main' into main](https://github.com/is-a-dev/register/commit/eb74d0a3aa7b9307bb1f53548e28cbdffd47582f) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Add Rosé Pine color overrides to wp-web.user.less](https://github.com/notamitgamer/notamitgamer/commit/fdcc3d6181ea8259ac9540baaeb09b33ad182551) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
 <!-- END_RECENT_COMMITS -->
 
 ---
