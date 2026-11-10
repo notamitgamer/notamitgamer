@@ -1,0 +1,294 @@
+/* ==UserStyle==
+@name WhatsApp Web Rosé Pine
+@namespace github.com/stellaaash/everforest-userstyles/styles/whatsapp-web
+@homepageURL https://github.com/stellaaash/everforest-userstyles/tree/main/styles/whatsapp-web
+@version 2026.10.18
+@updateURL https://github.com/stellaaash/everforest-userstyles/raw/main/styles/whatsapp-web/everforest.user.less
+@supportURL https://github.com/stellaaash/everforest-userstyles/issues?q=is%3Aopen+is%3Aissue+label%3Awhatsapp-web
+@description Soft, dark Rosé Pine theme for WhatsApp Web
+@author stellaaash (Rosé Pine edit of the Everforest port of Catppuccin's userstyle)
+@license MIT
+
+@preprocessor less
+@var select lightFlavor "Light Flavor" ["light:Rosé Pine Dark*"]
+@var select darkFlavor "Dark Flavor" ["dark:Rosé Pine Dark*"]
+@var select accentColor "Accent" ["rosewater:Rosewater", "flamingo:Flamingo", "pink:Pink", "mauve:Iris*", "red:Red", "maroon:Maroon", "peach:Orange", "yellow:Yellow", "green:Pine", "teal:Aqua", "sky:Sky", "sapphire:Sapphire", "blue:Blue", "lavender:Lavender", "subtext0:Grey"]
+
+@var checkbox lighterMessages "Elevated incoming messages" 0
+==/UserStyle== */
+
+@import "https://raw.githubusercontent.com/stellaaash/everforest-userstyles/main/lib/lib.less";
+
+@-moz-document domain("web.whatsapp.com") {
+  /* Note: Some variables appear to be applied on :root,
+  but without using :has there doesn't seem to be a good
+  way to target the root whenever a certain theme is applied.
+  */
+
+  :root:has(> :not(.dark)),
+  :root .color-refresh,
+  .color-refresh,
+  /* Layer under mount */
+  .app-wrapper-web.app-wrapper-web,
+  .app-wrapper-web.app-wrapper-web:root {
+    #rosepine-theme(@lightFlavor);
+  }
+
+  :root:has(> .dark),
+  .dark.color-refresh,
+  .color-refresh.dark,
+  /* Layer under mount */
+  .dark .app-wrapper-web.app-wrapper-web,
+  .dark .app-wrapper-web.app-wrapper-web:root {
+    #rosepine-theme(@darkFlavor);
+  }
+
+  /* Rosé Pine (dark) palette, mapped onto the Catppuccin-style names the
+  rest of this file uses. */
+  #rosepine() {
+    @rosewater: #ebbcba;
+    @flamingo: #ebbcba;
+    @pink: #eb6f92;
+    @mauve: #c4a7e7;
+    @red: #eb6f92;
+    @maroon: #b4637a;
+    @peach: #ea9a97;
+    @yellow: #f6c177;
+    @green: #31748f;
+    @teal: #9ccfd8;
+    @sky: #9ccfd8;
+    @sapphire: #31748f;
+    @blue: #31748f;
+    @lavender: #c4a7e7;
+    @text: #e0def4;
+    @subtext1: #908caa;
+    @subtext0: #908caa;
+    @overlay2: #908caa;
+    @overlay1: #6e6a86;
+    @overlay0: #6e6a86;
+    @surface2: #524f67;
+    @surface1: #403d52;
+    @surface0: #26233a;
+    @base: #26233a;
+    @mantle: #1f1d2e;
+    @crust: #191724;
+  }
+
+  #initialLoad() {
+    #RGB(splashscreen-startup-background, #rosepine()[@crust]) !important;
+    #RGB(splashscreen-startup-icon, #rosepine()[@surface0]) !important;
+
+    #RGB(splashscreen-primary-title, #rosepine()[@text]) !important;
+
+    #RGB(splashscreen-progress-primary, #rosepine()[@@accentColor]) !important;
+    #RGB(splashscreen-progress-background, #rosepine()[@surface1]) !important;
+
+    #RGB(splashscreen-secondary-lighter, #rosepine()[@overlay2]) !important;
+
+    #RGB(startup-icon, #rosepine()[@surface1]) !important;
+    #RGB(startup-background, #rosepine()[@crust]) !important;
+
+    #RGB(progress-background, #rosepine()[@overlay0]) !important;
+  }
+
+  // Inital loading screen (Avoid FOUC)
+  [style^="--splashscreen-startup-background: #F7F5F3;"] {
+    #initialLoad();
+  }
+
+  [style^="--splashscreen-startup-background: #0A1014;"] {
+    #initialLoad();
+  }
+
+  #rosepine-theme(@flavor) {
+    #lib.palette();
+    #lib.defaults();
+    #rosepine(); // override the Everforest palette
+    @accent: @@accentColor;
+
+    @accentContent: @crust;
+
+    @emphasize: 10%;
+    @deemphasize: 30%;
+    @bubble-surface-deemp: 20%;
+
+    @scrim: 30%;
+    @pressed: 20%;
+
+    #WDS(accent, @accent);
+    #WDS(accent-deemphasized, fade(@accent, @deemphasize));
+    #WDS(accent-emphasized, lighten(@accent, @emphasize));
+
+    #WDS(secondary-negative, @red);
+    #WDS(secondary-negative-deemphasized, fade(@red, @deemphasize));
+    #WDS(secondary-negative-emphasized, @red);
+
+    #WDS(secondary-positive, @green);
+    #WDS(secondary-positive-deemphasized, fade(@green, @deemphasize));
+
+    #WDS(secondary-warning, @yellow);
+    #WDS(secondary-warning-deemphasized, fade(@yellow, @deemphasize));
+
+    #WDS(content-default, @text);
+    #WDS(content-deemphasized, @overlay2);
+    #WDS(content-disabled, fade(@text, 50%));
+
+    #WDS(content-on-accent, @accentContent);
+    #WDS(content-action-default, @accent);
+    #WDS(content-action-emphasized, lighten(@accent, @emphasize));
+    #WDS(content-external-link, @blue);
+    #WDS(content-inverse, @crust);
+    #WDS(content-read, @blue);
+
+    #WDS(background-wash-inset, @crust);
+    #WDS(background-wash-plain, @crust);
+    #WDS(background-elevated-wash-plain, @crust);
+    #WDS(background-elevated-wash-inset, @crust);
+    #WDS(background-dimmer, fade(#000, @scrim));
+    #WDS(modal-backdrop-solid, @crust);
+
+    #WDS(surface-default, @mantle);
+    --background-default: var(--WDS-surface-default);
+    --search-container-background: var(--WDS-surface-default);
+    #WDS(surface-emphasized, @base);
+    #WDS(surface-elevated-default, @base);
+    #WDS(surface-elevated-emphasized, mix(@text, @base, @emphasize));
+    #WDS(surface-highlight, fade(@text, @pressed));
+    #WDS(surface-inverse, @text);
+    #WDS(surface-pressed, fade(@text, @pressed));
+
+    #WDS(lines-divider, fade(@text, 10%));
+    #WDS(lines-outline-default, @overlay0);
+    #WDS(lines-outline-deemphasized, fade(@text, @deemphasize));
+
+    #WDS(persistent-activity-indicator, fade(@green, 90%));
+    #WDS(persistent-always-black, #000);
+    #WDS(persistent-always-white, #fff);
+    #WDS(persistent-always-branded, @accent);
+
+    #WDS(
+      systems-bubble-surface-incoming,
+      if(@lighterMessages = 1, @surface1, @base),
+    );
+
+    #WDS(
+      systems-bubble-surface-outgoing,
+      mix(@accent, @base, @bubble-surface-deemp),
+    );
+    #WDS(systems-bubble-content-deemphasized, fade(@text, 50%));
+
+    #WDS(systems-bubble-surface-overlay, @mantle);
+    #WDS(systems-bubble-surface-system, @mantle);
+
+    #WDS(
+      systems-bubble-surface-e2e,
+      mix(@yellow, @mantle, @bubble-surface-deemp),
+    );
+    #WDS(systems-bubble-content-e2e, @yellow);
+
+    #WDS(
+      systems-bubble-surface-business,
+      mix(@teal, @mantle, @bubble-surface-deemp),
+    );
+
+    #WDS(systems-chat-surface-composer, @base);
+    #WDS(systems-chat-background-wallpaper, @crust);
+    #WDS(systems-chat-foreground-wallpaper, @mantle);
+    #WDS(systems-chat-surface-tray, @base);
+    #WDS(systems-status-seen, fade(@text, 50%));
+
+    #WDS(components-platform-gesture-bar, fade(@crust, 50%));
+    #WDS(components-platform-status-bar, fade(@crust, 80%));
+    #WDS(components-surface-nav-bar, @base);
+
+    #WDS(app-wash, @surface0);
+
+    #WDS(white, @crust);
+    #RGB(white, @crust);
+
+    #RGB(attachment-type-stickers-color, @green);
+    #RGB(attachment-type-polls-color, @yellow);
+    #RGB(attachment-type-contacts-color, @sky);
+    #RGB(attachment-type-camera-color, @pink);
+    #RGB(attachment-type-photos-color, @blue);
+    #RGB(attachment-type-documents-color, @mauve);
+    #RGB(attachment-type-audio-color, @peach);
+    /* \/ Note: Seems to be overwritten by a generated
+    CSS variable, so has no effect :( */
+    #RGB(attachment-type-event-color, @pink);
+
+    #RGB(toast-background, @surface1);
+    #RGB(toast-text, @text);
+
+    #RGB(picker-background, @surface1);
+
+    #RGB(butterbar-blue-nux-background, @sky);
+    #RGB(butterbar-blue-nux-icon-background, darken(@sky, 30%));
+    #RGB(blue-light, @blue);
+
+    #RGB(gray-500, @overlay2);
+
+    #RGB(focus-animation, mix(@accent, @base, 40%));
+    #RGB(focus-animation-deeper, mix(@accent, @base, 30%));
+
+    #RGB(startup-icon, @surface1);
+    #RGB(startup-background, @crust);
+
+    #RGB(progress-background, @surface0);
+
+    /* "About AI messages" icon */
+    .st0 {
+      fill: @accent !important;
+      stroke: @surface0;
+    }
+
+    /* TODO: Meta AI/other bot colours */
+
+    input[type="time"]::-webkit-datetime-edit-hour-field:focus,
+    input[type="time"]::-webkit-datetime-edit-minute-field:focus,
+    input[type="time"]::-webkit-datetime-edit-second-field:focus,
+    input[type="time"]::-webkit-datetime-edit-ampm-field:focus,
+    input[type="date"]::-webkit-datetime-edit-year-field:focus,
+    input[type="date"]::-webkit-datetime-edit-month-field:focus,
+    input[type="date"]::-webkit-datetime-edit-day-field:focus {
+      background-color: @accent;
+      color: @accentContent;
+    }
+
+    [data-icon="wa-wordmark-refreshed"] path {
+      fill: if(
+        @flavor = light,
+        var(--WDS-persistent-always-branded),
+        currentcolor
+      );
+    }
+
+    /* Toasts */
+    #wa-popovers-bucket
+      + span
+      > div
+      button:nth-of-type(1):not(:has(> [data-icon="x-alt"])) {
+      color: var(--WDS-accent-emphasized);
+    }
+
+    /* Date picker */
+    #RGB(date-picker-text-color, @text);
+    .react-calendar__tile:disabled {
+      color: @subtext0;
+    }
+    .react-calendar__month-view__days__day--neighboringMonth {
+      color: @overlay2;
+    }
+  }
+}
+
+#WDS(@id, @color) {
+  --WDS-@{id}: @color;
+  --WDS-@{id}-RGB: #lib.rgbify(@color)[];
+  --WDS-@{id}-rgb: #lib.rgbify(@color)[];
+}
+
+#RGB(@id, @color) {
+  --@{id}: @color;
+  --@{id}-rgb: #lib.rgbify(@color)[];
+}
