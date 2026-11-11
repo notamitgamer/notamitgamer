@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #60610 from Orecone44/patch-1](https://github.com/is-a-dev/register/commit/c7ccf539267b89db3d97965f8977214e69f67141) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60595 from crazycodeop/main](https://github.com/is-a-dev/register/commit/b84ade8edb85796f017f74874bb30cf5d095be24) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60548 from Pinont/main](https://github.com/is-a-dev/register/commit/a4e89b4b72319aef674e8bfd21f4de9923b6c304) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge branch 'main' into main](https://github.com/is-a-dev/register/commit/eb74d0a3aa7b9307bb1f53548e28cbdffd47582f) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Add Rosé Pine color overrides to wp-web.user.less](https://github.com/notamitgamer/notamitgamer/commit/fdcc3d6181ea8259ac9540baaeb09b33ad182551) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
+- [Bump VS Code extension to 0.0.5](https://github.com/notamitgamer/githrun/commit/cb05348f39d8ff930a665af6b76bcc3f9260d259) in [notamitgamer/githrun](https://github.com/notamitgamer/githrun)
+- [Add GitHub Actions workflow for VS Code extension release](https://github.com/notamitgamer/githrun/commit/289d818197f8bbad6c58a788674bc03f4d106efd) in [notamitgamer/githrun](https://github.com/notamitgamer/githrun)
+- [Merge pull request #3 from notamitgamer/1-githrun-install-does-not-allow---auto-install](https://github.com/notamitgamer/githrun/commit/0707304deb17da33a2fca7cc46b6b56b9d82a29b) in [notamitgamer/githrun](https://github.com/notamitgamer/githrun)
+- [Add Python versions 3.12 to 3.15 in workflow](https://github.com/notamitgamer/githrun/commit/8272dc7d7b13fdcc07d6396ffb6993a5e386f92b) in [notamitgamer/githrun](https://github.com/notamitgamer/githrun)
+- [Modify Python package workflow to install in editable mode](https://github.com/notamitgamer/githrun/commit/359ae66012cd9a50ac87d98361486a0dd2d15a1c) in [notamitgamer/githrun](https://github.com/notamitgamer/githrun)
 <!-- END_RECENT_COMMITS -->
 
 ---
