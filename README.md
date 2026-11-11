@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Bump VS Code extension to 0.0.5](https://github.com/notamitgamer/githrun/commit/cb05348f39d8ff930a665af6b76bcc3f9260d259) in [notamitgamer/githrun](https://github.com/notamitgamer/githrun)
-- [Add GitHub Actions workflow for VS Code extension release](https://github.com/notamitgamer/githrun/commit/289d818197f8bbad6c58a788674bc03f4d106efd) in [notamitgamer/githrun](https://github.com/notamitgamer/githrun)
-- [Merge pull request #3 from notamitgamer/1-githrun-install-does-not-allow---auto-install](https://github.com/notamitgamer/githrun/commit/0707304deb17da33a2fca7cc46b6b56b9d82a29b) in [notamitgamer/githrun](https://github.com/notamitgamer/githrun)
-- [Add Python versions 3.12 to 3.15 in workflow](https://github.com/notamitgamer/githrun/commit/8272dc7d7b13fdcc07d6396ffb6993a5e386f92b) in [notamitgamer/githrun](https://github.com/notamitgamer/githrun)
-- [Modify Python package workflow to install in editable mode](https://github.com/notamitgamer/githrun/commit/359ae66012cd9a50ac87d98361486a0dd2d15a1c) in [notamitgamer/githrun](https://github.com/notamitgamer/githrun)
+- [Merge pull request #60794 from Tectonic-s/main](https://github.com/is-a-dev/register/commit/ea111d2afbcbd58c6e4b3aaceb8a0ecdb63ab0cd) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #60793 from KKPRODUCTIONS-FILM/main](https://github.com/is-a-dev/register/commit/7424babfcc660240d13d03b1ad46af220c5542db) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #60790 from Bezalelbenny/main](https://github.com/is-a-dev/register/commit/ee8e9f506c17254786bf3e08c6ef236463963244) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #60787 from pawel200435/main](https://github.com/is-a-dev/register/commit/5191af4fe1885835203b694fa165e6ebac459f41) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #60783 from Addy-coder786/main](https://github.com/is-a-dev/register/commit/2de01d8350e9caabb8c676088fbe06e2e28f05e5) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!-- END_RECENT_COMMITS -->
 
 ---
