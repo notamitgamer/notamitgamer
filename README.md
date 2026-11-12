@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #60794 from Tectonic-s/main](https://github.com/is-a-dev/register/commit/ea111d2afbcbd58c6e4b3aaceb8a0ecdb63ab0cd) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60793 from KKPRODUCTIONS-FILM/main](https://github.com/is-a-dev/register/commit/7424babfcc660240d13d03b1ad46af220c5542db) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60790 from Bezalelbenny/main](https://github.com/is-a-dev/register/commit/ee8e9f506c17254786bf3e08c6ef236463963244) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60787 from pawel200435/main](https://github.com/is-a-dev/register/commit/5191af4fe1885835203b694fa165e6ebac459f41) in [is-a-dev/register](https://github.com/is-a-dev/register)
-- [Merge pull request #60783 from Addy-coder786/main](https://github.com/is-a-dev/register/commit/2de01d8350e9caabb8c676088fbe06e2e28f05e5) in [is-a-dev/register](https://github.com/is-a-dev/register)
+- [Merge pull request #74 from notamitgamer/remove-android-ignores](https://github.com/notamitgamer/cdnV2/commit/8d4d5231b44e3db80c20d773225010e65103025c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #73 from notamitgamer/remove-android](https://github.com/notamitgamer/cdnV2/commit/2fe33e2939d4c3c8cdc3dfaec5ac63d61660e08b) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #72 from notamitgamer/android/phase3](https://github.com/notamitgamer/cdnV2/commit/37247aafc4a3a5a8ddd1b4479111c2c1d600219c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #767 from dev-dyly/main](https://github.com/free-domains/is-a.bot/commit/d637ae9c394769788d220bdb04b930e601ff5e68) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #71 from notamitgamer/android/phase2](https://github.com/notamitgamer/cdnV2/commit/fd933f099afa2af925b4f6920f7f9636d1515bb0) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 <!-- END_RECENT_COMMITS -->
 
 ---
