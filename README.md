@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #74 from notamitgamer/remove-android-ignores](https://github.com/notamitgamer/cdnV2/commit/8d4d5231b44e3db80c20d773225010e65103025c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #73 from notamitgamer/remove-android](https://github.com/notamitgamer/cdnV2/commit/2fe33e2939d4c3c8cdc3dfaec5ac63d61660e08b) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #72 from notamitgamer/android/phase3](https://github.com/notamitgamer/cdnV2/commit/37247aafc4a3a5a8ddd1b4479111c2c1d600219c) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
-- [Merge pull request #767 from dev-dyly/main](https://github.com/free-domains/is-a.bot/commit/d637ae9c394769788d220bdb04b930e601ff5e68) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
-- [Merge pull request #71 from notamitgamer/android/phase2](https://github.com/notamitgamer/cdnV2/commit/fd933f099afa2af925b4f6920f7f9636d1515bb0) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
+- [Merge pull request #63 from notamitgamer/feat/native-m3-app](https://github.com/notamitgamer/mailbox/commit/f535aba92165f1a0489e96c174082de1bbb49976) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [forgot to add the icons (#12)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/b2fb2ec837361b8b0491427d20deb40690925985) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Update version label from v4.3.0 to v4.3.1 (#11)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/5f0cd030d24489b24ae72887772bb4b93032b944) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Update theme colors and add theme synchronization support (#10)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/711711b2d0a50e61d2e4f0f6638cf204b329c2ce) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Modify deployment instructions for frontend setup](https://github.com/notamitgamer/docs/commit/37a185a03745b258b4ac276bbbbc3de87da46861) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 <!-- END_RECENT_COMMITS -->
 
 ---
