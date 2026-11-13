@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #68 from notamitgamer/ui/native-polish-1](https://github.com/notamitgamer/mailbox/commit/fa6f182fd3dd2b2a1c32544c1a8cdf491472fe38) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #67 from notamitgamer/fix/native-settheme-jvm-clash](https://github.com/notamitgamer/mailbox/commit/24499cac081fe490c2eaf05da37245b6819d4260) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
+- [Merge pull request #66 from notamitgamer/fix/android-native-sdk-tools](https://github.com/notamitgamer/mailbox/commit/31761519863e5fff7ca7bcec0b4deb920b8618ef) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
 - [Merge pull request #63 from notamitgamer/feat/native-m3-app](https://github.com/notamitgamer/mailbox/commit/f535aba92165f1a0489e96c174082de1bbb49976) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
 - [forgot to add the icons (#12)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/b2fb2ec837361b8b0491427d20deb40690925985) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Update version label from v4.3.0 to v4.3.1 (#11)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/5f0cd030d24489b24ae72887772bb4b93032b944) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Update theme colors and add theme synchronization support (#10)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/711711b2d0a50e61d2e4f0f6638cf204b329c2ce) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Modify deployment instructions for frontend setup](https://github.com/notamitgamer/docs/commit/37a185a03745b258b4ac276bbbbc3de87da46861) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
 <!-- END_RECENT_COMMITS -->
 
 ---
