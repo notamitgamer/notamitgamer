@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #3 from notamitgamer/main](https://github.com/dominic84p/vide-de/commit/77cd07e64b32bfc7ea4f83cc5f2a29b2823ff042) in [dominic84p/vide-de](https://github.com/dominic84p/vide-de)
+- [Fix workflow: use Node.js 22 for Astro compatibility](https://github.com/dominic84p/vide-de/commit/b71209167f570c3f77d6fd10fc13b94902ec3cd5) in [dominic84p/vide-de](https://github.com/dominic84p/vide-de)
+- [Add GitHub Actions workflow for docs auto-deploy](https://github.com/dominic84p/vide-de/commit/a6f895051d22e9c54a42afa5679e868a0c027e07) in [dominic84p/vide-de](https://github.com/dominic84p/vide-de)
+- [Add Astro Starlight documentation site](https://github.com/dominic84p/vide-de/commit/87b9135217f7a1837c5722512703a9afa9828553) in [dominic84p/vide-de](https://github.com/dominic84p/vide-de)
 - [Merge pull request #68 from notamitgamer/ui/native-polish-1](https://github.com/notamitgamer/mailbox/commit/fa6f182fd3dd2b2a1c32544c1a8cdf491472fe38) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #67 from notamitgamer/fix/native-settheme-jvm-clash](https://github.com/notamitgamer/mailbox/commit/24499cac081fe490c2eaf05da37245b6819d4260) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #66 from notamitgamer/fix/android-native-sdk-tools](https://github.com/notamitgamer/mailbox/commit/31761519863e5fff7ca7bcec0b4deb920b8618ef) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #63 from notamitgamer/feat/native-m3-app](https://github.com/notamitgamer/mailbox/commit/f535aba92165f1a0489e96c174082de1bbb49976) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [forgot to add the icons (#12)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/b2fb2ec837361b8b0491427d20deb40690925985) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 <!-- END_RECENT_COMMITS -->
 
 ---
