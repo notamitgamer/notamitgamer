@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #8 from notamitgamer/docs/screenshots-and-demo-video](https://github.com/dominic84p/vide-de/commit/d8e8ae19b92eb16bc6f5c1ee52e6101141f19714) in [dominic84p/vide-de](https://github.com/dominic84p/vide-de)
 - [Merge pull request #70 from notamitgamer/fix/native-reader-email-css-clash](https://github.com/notamitgamer/mailbox/commit/0376f615a46f8cc56ce718c5fbd2d5fca1fad5c3) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
 - [Merge pull request #69 from notamitgamer/fix/native-reader-dark-body-fixed-actions-smaller-icon](https://github.com/notamitgamer/mailbox/commit/55b6cda17275346dc08bbe471fb871d339905dee) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
 - [Merge pull request #3 from notamitgamer/main](https://github.com/dominic84p/vide-de/commit/77cd07e64b32bfc7ea4f83cc5f2a29b2823ff042) in [dominic84p/vide-de](https://github.com/dominic84p/vide-de)
 - [Fix workflow: use Node.js 22 for Astro compatibility](https://github.com/dominic84p/vide-de/commit/b71209167f570c3f77d6fd10fc13b94902ec3cd5) in [dominic84p/vide-de](https://github.com/dominic84p/vide-de)
-- [Add GitHub Actions workflow for docs auto-deploy](https://github.com/dominic84p/vide-de/commit/a6f895051d22e9c54a42afa5679e868a0c027e07) in [dominic84p/vide-de](https://github.com/dominic84p/vide-de)
 <!-- END_RECENT_COMMITS -->
 
 ---
