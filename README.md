@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
+- [Merge pull request #160 from notamitgamer/edit-20261119-192222](https://github.com/notamitgamer/bsc/commit/00ad030ff0324f8204706c49ce2385a65b08a5e5) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [added new one](https://github.com/notamitgamer/bsc/commit/a6fa1d76fcc262a21e82fae8c8345454a5ebcd60) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 - [Merge pull request #75 from notamitgamer/improvements/cleanup-and-fixes](https://github.com/notamitgamer/cdnV2/commit/37fd6c5ec225c0d1a79b2169caa91f2da226f128) in [notamitgamer/cdnV2](https://github.com/notamitgamer/cdnV2)
 - [Simplify contributor description](https://github.com/dominic84p/vide-de/commit/d37dd0614e622eb8bc2926ec79bd6eb65f8e1d0a) in [dominic84p/vide-de](https://github.com/dominic84p/vide-de)
 - [Merge pull request #8 from notamitgamer/docs/screenshots-and-demo-video](https://github.com/dominic84p/vide-de/commit/d8e8ae19b92eb16bc6f5c1ee52e6101141f19714) in [dominic84p/vide-de](https://github.com/dominic84p/vide-de)
-- [Merge pull request #70 from notamitgamer/fix/native-reader-email-css-clash](https://github.com/notamitgamer/mailbox/commit/0376f615a46f8cc56ce718c5fbd2d5fca1fad5c3) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
-- [Merge pull request #69 from notamitgamer/fix/native-reader-dark-body-fixed-actions-smaller-icon](https://github.com/notamitgamer/mailbox/commit/55b6cda17275346dc08bbe471fb871d339905dee) in [notamitgamer/mailbox](https://github.com/notamitgamer/mailbox)
 <!-- END_RECENT_COMMITS -->
 
 ---
