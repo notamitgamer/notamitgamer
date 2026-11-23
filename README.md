@@ -26,7 +26,7 @@
 
 </div>
 
-- **visit [git.amit.is-a.dev](https://git.amit.is-a.dev) instead of surfing through github, because it's better and faster.**
+- **My cdn: [cdn.amit.is-a.dev](https://cdn.amit.is-a.dev)**
 ---
 
 ### About
