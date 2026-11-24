@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #10 from notamitgamer/feat/auth-snapshot-relog](https://github.com/notamitgamer/logger/commit/47fc7b287352fc2321dcb8d2ce247b7eceaabc61) in [notamitgamer/logger](https://github.com/notamitgamer/logger)
-- [Update README to reflect new CDN link](https://github.com/notamitgamer/notamitgamer/commit/5ef6baccda0f335ba5d936e4fc847ee19153e197) in [notamitgamer/notamitgamer](https://github.com/notamitgamer/notamitgamer)
-- [Merge pull request #162 from notamitgamer/edit-20261122-203817](https://github.com/notamitgamer/bsc/commit/333f19dda13fd6bccd2580c8d3fd5431fabb5c6e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [did nothing](https://github.com/notamitgamer/bsc/commit/319d758d07c765ca82c38fec37b60064626d8b48) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #161 from notamitgamer/edit-20261121-151046](https://github.com/notamitgamer/bsc/commit/4fbe1058061681edcc2cd90a711a9d07f2235c98) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [done](https://github.com/notamitgamer/bsc/commit/e2c4ebe4c5f057e16465e838e6c9e9741899375d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #164 from notamitgamer/edit-20261124-113139](https://github.com/notamitgamer/bsc/commit/9c48be5ed9197e61787cc945c9258a81f8679f4e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [fix](https://github.com/notamitgamer/bsc/commit/d68054f5a47602ffd1745f48cc3ff0d086e20295) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [fix](https://github.com/notamitgamer/bsc/commit/571f9373ab7a1dbd83eaed318c5b6816692c5671) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [Merge pull request #163 from notamitgamer/edit-20261124-113139](https://github.com/notamitgamer/bsc/commit/1c9a958f208691e2b46179d67db7712a9c559381) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
 <!-- END_RECENT_COMMITS -->
 
 ---
