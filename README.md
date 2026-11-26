@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Update upgrade notes for version v4.5.6](https://github.com/notamitgamer/docs/commit/1c447ed48664cc4558a153efb3c34115997ae6b9) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [logger v4.5.6](https://github.com/notamitgamer/docs/commit/4978307e5e4da073a903d755149045f46bace8b3) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [done](https://github.com/notamitgamer/bsc/commit/e2c4ebe4c5f057e16465e838e6c9e9741899375d) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [Merge pull request #164 from notamitgamer/edit-20261124-113139](https://github.com/notamitgamer/bsc/commit/9c48be5ed9197e61787cc945c9258a81f8679f4e) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
-- [fix](https://github.com/notamitgamer/bsc/commit/d68054f5a47602ffd1745f48cc3ff0d086e20295) in [notamitgamer/bsc](https://github.com/notamitgamer/bsc)
+- [forgot to bump the version. (#15)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/74e222eade935b7c66d39843364d2b71aa5ac050) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Update changelog for version 4.5.7 hotfix](https://github.com/notamitgamer/docs/commit/8784afabf54cf41d5b7a3f0d2df6556ea1c3d3ce) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Update upgrade notes for version 4.5.6](https://github.com/notamitgamer/docs/commit/944321591cce445df3e1809796770dce786702b3) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Refactor flushNow function and update WhatsApp hotfix details (#14)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/9d175b50e50d49b6eac363cfcb2385390d53ea72) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Update release title to use TAG variable](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/be002fcd7ee20bb233649c1558e87f3f7fd7d8a5) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 <!-- END_RECENT_COMMITS -->
 
 ---
