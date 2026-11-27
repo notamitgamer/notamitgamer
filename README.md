@@ -65,11 +65,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [forgot to bump the version. (#15)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/74e222eade935b7c66d39843364d2b71aa5ac050) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Update changelog for version 4.5.7 hotfix](https://github.com/notamitgamer/docs/commit/8784afabf54cf41d5b7a3f0d2df6556ea1c3d3ce) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Update upgrade notes for version 4.5.6](https://github.com/notamitgamer/docs/commit/944321591cce445df3e1809796770dce786702b3) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Refactor flushNow function and update WhatsApp hotfix details (#14)](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/9d175b50e50d49b6eac363cfcb2385390d53ea72) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Update release title to use TAG variable](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/be002fcd7ee20bb233649c1558e87f3f7fd7d8a5) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Revise safety, risk, and feature details in documentation](https://github.com/notamitgamer/docs/commit/30419c52edd391e19f0ca555f2a656cfbd57c218) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
+- [Add safety section to README](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/90ee4b54f0c174c2cc8b567e5b5dd7c28db4df87) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Update versionCode in build.gradle.kts](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/25b8dc076189836926234f5c840be599e24785d0) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Update versionCode and versionName for release candidate](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/d06adefb0bf213aba9d391383936d78255bd43ed) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Change applicationId to io.github.notamitgamer.walogger](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/c47df323dfe1f3a652d2eff723eb1bf9639d9089) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
 <!-- END_RECENT_COMMITS -->
 
 ---
