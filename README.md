@@ -67,11 +67,11 @@ B.Sc. Hons Computer Science student at **Acharya Prafulla Chandra College, Kolka
 ### Recent Commits
 *(Or: what I was procrastinating on instead of Sem 2 Prep)*
 <!-- START_RECENT_COMMITS -->
-- [Merge pull request #10 from notamitgamer/feat/static-rewrite](https://github.com/notamitgamer/git-mirror/commit/daf87c70c688f0625f88109b36c80fed99bf1e01) in [notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
-- [Revise safety, risk, and feature details in documentation](https://github.com/notamitgamer/docs/commit/30419c52edd391e19f0ca555f2a656cfbd57c218) in [notamitgamer/docs](https://github.com/notamitgamer/docs)
-- [Add safety section to README](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/90ee4b54f0c174c2cc8b567e5b5dd7c28db4df87) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Update versionCode in build.gradle.kts](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/25b8dc076189836926234f5c840be599e24785d0) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
-- [Update versionCode and versionName for release candidate](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-/commit/d06adefb0bf213aba9d391383936d78255bd43ed) in [notamitgamer/WhatsApp-Logger-Self-Hosted-](https://github.com/notamitgamer/WhatsApp-Logger-Self-Hosted-)
+- [Merge pull request #916 from Ekteder/patch-4](https://github.com/free-domains/is-a.bot/commit/641dc89003a02d45e2973257db12498d7888b225) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #915 from GenzSaif/add-saif-domain](https://github.com/free-domains/is-a.bot/commit/2fac4545b3a08576e93977c8f883ed0244bd6b09) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Apply batched suggestions from code review](https://github.com/free-domains/is-a.bot/commit/fe8bb204454c7d74a1127bfc6c2a24fcaf65c47a) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #914 from asaifsojib/patch-5](https://github.com/free-domains/is-a.bot/commit/ad8a4a4ebdeed58dadc4b837f9991fe48fb0edc5) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
+- [Merge pull request #912 from Ee123488/main](https://github.com/free-domains/is-a.bot/commit/3e667b12b2a2810242975fb9e00b36da436cf394) in [free-domains/is-a.bot](https://github.com/free-domains/is-a.bot)
 <!-- END_RECENT_COMMITS -->
 
 ---
