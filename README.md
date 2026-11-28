@@ -26,6 +26,8 @@
 
 </div>
 
+- **My personal Git:** [git.amit.is-a.dev](https://git.amit.is-a.dev) *(much faster than github.com btw, and the funny thing is, it still uses GitHub in the background; it's just completely static)*. And here is the source if you want to see: [@notamitgamer/git-mirror](https://github.com/notamitgamer/git-mirror)
+  
 - **My cdn: [cdn.amit.is-a.dev](https://cdn.amit.is-a.dev)**
 ---
 
